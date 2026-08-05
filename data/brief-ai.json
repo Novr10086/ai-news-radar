@@ -1,38 +1,8 @@
 {
-  "generated_at": "2026-08-05T12:48:52.793587Z",
+  "generated_at": "2026-08-05T15:09:46.785233Z",
   "category": "ai",
-  "total": 414,
+  "total": 421,
   "items": [
-    {
-      "title": "Customize Dependabot pull request branch names",
-      "title_zh": "Customize Dependabot pull request branch names",
-      "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
-      "source": "GitHub Changelog",
-      "_site": "Official AI Updates",
-      "tier": 0,
-      "ai": true,
-      "ts": "2026-08-04T12:57:18Z"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "title_zh": "The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "source": "Google AI Blog",
-      "_site": "Official AI Updates",
-      "tier": 0,
-      "ai": true,
-      "ts": "2026-08-04T13:00:00Z"
-    },
-    {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "title_zh": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face Blog",
-      "_site": "Official AI Updates",
-      "tier": 0,
-      "ai": true,
-      "ts": "2026-08-04T13:58:29Z"
-    },
     {
       "title": "Upcoming deprecation of GitHub Spark on github.com",
       "title_zh": "Upcoming deprecation of GitHub Spark on github.com",
@@ -92,106 +62,6 @@
       "tier": 0,
       "ai": true,
       "ts": "2026-08-04T19:15:23Z"
-    },
-    {
-      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-08-04T12:56:45.712000Z"
-    },
-    {
-      "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
-      "title_zh": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
-      "url": "https://blog.cloudflare.com/astro-issue-triage",
-      "source": "Cloudflare Blog",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-08-04T13:00:00Z"
-    },
-    {
-      "title": "Cloudflare 让智能体通过本地追踪调试 Workers",
-      "title_zh": "Cloudflare 让智能体通过本地追踪调试 Workers",
-      "url": "https://blog.cloudflare.com/local-tracing",
-      "source": "Cloudflare Blog",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-08-04T13:00:00Z"
-    },
-    {
-      "title": "Cloudflare 推出 Agents 平台，率先上线智能体追踪功能",
-      "title_zh": "Cloudflare 推出 Agents 平台，率先上线智能体追踪功能",
-      "url": "https://blog.cloudflare.com/agents-on-cloudflare",
-      "source": "Cloudflare Blog",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-08-04T13:00:00Z"
-    },
-    {
-      "title": "Cloudflare 推出 CI SDK：在 Cloudflare 上为百万级仓库运行 CI/CD 流水线",
-      "title_zh": "Cloudflare 推出 CI SDK：在 Cloudflare 上为百万级仓库运行 CI/CD 流水线",
-      "url": "https://blog.cloudflare.com/ci-workflows",
-      "source": "Cloudflare Blog",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-08-04T13:00:00Z"
-    },
-    {
-      "title": "Cloudflare 推出 Agent Development Lifecycle，让智能体接管更多软件开发生命周期",
-      "title_zh": "Cloudflare 推出 Agent Development Lifecycle，让智能体接管更多软件开发生命周期",
-      "url": "https://blog.cloudflare.com/agent-development-lifecycle",
-      "source": "Cloudflare Blog",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-08-04T13:00:00Z"
-    },
-    {
-      "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
-      "title_zh": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
-      "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-08-04T14:58:39Z"
-    },
-    {
-      "title": "NVIDIA 开源 cuFile API，推动 GPU 直连存储",
-      "title_zh": "NVIDIA 开源 cuFile API，推动 GPU 直连存储",
-      "url": "https://blogs.nvidia.com/blog/ai-storage-fms",
-      "source": "NVIDIA Blog（RSS）",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-08-04T15:00:47Z"
-    },
-    {
-      "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
-      "title_zh": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
-      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-      "source": "NVIDIA Blog（RSS）",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-08-04T15:00:49Z"
-    },
-    {
-      "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-      "title_zh": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-      "url": "https://x.com/AntLingAGI/status/2084656533489754475",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "_site": "AI HOT",
-      "tier": 1,
-      "ai": true,
-      "ts": "2026-08-04T15:03:43Z"
     },
     {
       "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
@@ -644,44 +514,64 @@
       "ts": "2026-08-05T10:31:42Z"
     },
     {
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "title_zh": "Is the future of data centers portable? Runware builds a pod to find out",
-      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out",
-      "source": "TechCrunch AI",
-      "_site": "Curated Media",
-      "tier": 2,
+      "title": "Cloudflare 用身份感知分析捕捉失控 AI 行为",
+      "title_zh": "Cloudflare 用身份感知分析捕捉失控 AI 行为",
+      "url": "https://blog.cloudflare.com/identity-aware-ai-gateway",
+      "source": "Cloudflare Blog",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-08-04T13:00:00Z"
+      "ts": "2026-08-05T13:00:00Z"
     },
     {
-      "title": "agree except they’ll still be heroes once the agency rupture heals and the AI goes back to being invisible, we’ll think only about the humans and what they’ve done. AI use will be assumed and unimportant https://t.co/...",
-      "title_zh": "agree except they’ll still be heroes once the agency rupture heals and the AI goes back to being invisible, we’ll think only about the humans and what they’ve done. AI use will be assumed and unimportant https://t.co/...",
-      "url": "https://x.com/danshipper/status/2084634391079469390",
-      "source": "Follow Builders · X · Dan Shipper",
-      "_site": "Follow Builders",
-      "tier": 2,
+      "title": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+      "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+      "url": "https://blog.cloudflare.com/cloudflare-os",
+      "source": "Cloudflare Blog",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-08-04T13:35:44Z"
+      "ts": "2026-08-05T13:00:00Z"
     },
     {
-      "title": "The best AI training isn't a course. It's pulling an agent into your team's group chat &amp; letting people watch it work Every company rolling out \"AI enablement programs\" should try that first https://t.co/L1jub0HgYw",
-      "title_zh": "The best AI training isn't a course. It's pulling an agent into your team's group chat &amp; letting people watch it work Every company rolling out \"AI enablement programs\" should try that first https://t.co/L1jub0HgYw",
-      "url": "https://x.com/zarazhangrui/status/2084635984164237792",
-      "source": "Follow Builders · X · Zara Zhang",
-      "_site": "Follow Builders",
-      "tier": 2,
+      "title": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式",
+      "title_zh": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式",
+      "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os",
+      "source": "Cloudflare Blog",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-08-04T13:42:03Z"
+      "ts": "2026-08-05T13:00:01Z"
     },
     {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "title_zh": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
-      "source": "TechCrunch AI",
-      "_site": "Curated Media",
-      "tier": 2,
+      "title": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+      "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+      "url": "https://blog.cloudflare.com/the-agent-access-model",
+      "source": "Cloudflare Blog",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-08-04T14:03:01Z"
+      "ts": "2026-08-05T13:00:41Z"
+    },
+    {
+      "title": "AI智能体尚无法开展开放式AI研究",
+      "title_zh": "AI智能体尚无法开展开放式AI研究",
+      "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+      "source": "AI as Normal Technology（RSS）",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-08-05T13:49:19Z"
+    },
+    {
+      "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+      "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+      "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "_site": "AI HOT",
+      "tier": 1,
+      "ai": true,
+      "ts": "2026-08-05T14:30:53Z"
     },
     {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
@@ -974,54 +864,14 @@
       "ts": "2026-08-05T06:42:16.095853Z"
     },
     {
-      "title": "The latest AI news we announced in July 2026",
-      "title_zh": "The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "source": "Google AI Blog",
-      "_site": "OPML RSS",
-      "tier": 3,
+      "title": "开源「活人感写作.skill」，只为帮你写出没有AI味的文字。",
+      "title_zh": "开源「活人感写作.skill」，只为帮你写出没有AI味的文字。",
+      "url": "https://waytoagi.feishu.cn/wiki/GJIawCNNLiPK6xk0d1dcQCjmndd?from=from_copylink",
+      "source": "社区更新 · 2026-08-05",
+      "_site": "WaytoAGI",
+      "tier": 2,
       "ai": true,
-      "ts": "2026-08-04T13:00:00Z"
-    },
-    {
-      "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-      "title_zh": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-      "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal",
-      "source": "ArsTechnica",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-04T13:38:29Z"
-    },
-    {
-      "title": "Teaching AI to speak the language of pathology",
-      "title_zh": "Teaching AI to speak the language of pathology",
-      "url": "https://news.microsoft.com/signal/articles/teaching-ai-to-speak-the-language-of-pathology",
-      "source": "Microsoft AI Blog",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-04T13:38:55Z"
-    },
-    {
-      "title": "活力中国调研行丨看！新能源车AI质检炫酷现场",
-      "title_zh": "活力中国调研行丨看！新能源车AI质检炫酷现场",
-      "url": "http://www.news.cn/20260804/04c9cef6b63d4873a66d9d62310b0d7c/c.html",
-      "source": "新华网 / 新华社新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-04T13:46:30Z"
-    },
-    {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "title_zh": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face Blog",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-04T13:58:29Z"
+      "ts": "2026-08-05T15:08:58.426702Z"
     },
     {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
@@ -1854,6 +1704,16 @@
       "ts": "2026-08-05T11:28:56Z"
     },
     {
+      "title": "AI进了家门：它能当“育儿搭子”吗？",
+      "title_zh": "AI进了家门：它能当“育儿搭子”吗？",
+      "url": "https://www.huxiu.com/article/4880928.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-08-05T12:09:05Z"
+    },
+    {
       "title": "如何用AI“仰望星空”？专家共议天文发展新路径",
       "title_zh": "如何用AI“仰望星空”？专家共议天文发展新路径",
       "url": "http://www.news.cn/20260805/ae4a939c1c2f4b8589a7548d64929dee/c.html",
@@ -1874,24 +1734,74 @@
       "ts": "2026-08-05T12:28:38Z"
     },
     {
-      "title": "一个 2021 年的 AI 课程，今天涨了 1900 star。24 节课里只有一节讲大模型，而且锚在 GPT-2 那篇论文上。 microsoft/AI-For-Beginners，12 周 24 课，现在 6.1 万 star。7 月 21 号还在提交，依赖升到了 transformers 5.5，不是弃坑项目。 课程表大致是：符号 AI 和专家系统起步，然后感知机、手搓一个自己的神经网络框架，进 CV（OpenCV、CNN、迁移…",
-      "title_zh": "一个 2021 年的 AI 课程，今天涨了 1900 star。24 节课里只有一节讲大模型，而且锚在 GPT-2 那篇论文上。 microsoft/AI-For-Beginners，12 周 24 课，现在 6.1 万 star。7 月 21 号还在提交，依赖升到了 transformers 5.5，不是弃坑项目。 课程表大致是：符号 AI 和专家系统起步，然后感知机、手搓一个自己的神经网络框架，进 CV（OpenCV、CNN、迁移…",
-      "url": "https://x.com/ai_super_niko/status/2084625597909664055",
-      "source": "@ai_super_niko",
-      "_site": "SocialData X",
-      "tier": 4,
+      "title": "越来越多哲学家被招募至AI企业，他们去做啥？",
+      "title_zh": "越来越多哲学家被招募至AI企业，他们去做啥？",
+      "url": "https://www.huxiu.com/article/4880933.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-08-04T13:00:47Z"
+      "ts": "2026-08-05T12:45:05Z"
     },
     {
-      "title": "上交大一出手，AI赛道直接大结局了！",
-      "title_zh": "上交大一出手，AI赛道直接大结局了！",
-      "url": "https://www.xiaohongshu.com/explore/6a71e86a00000000250108c8?xsec_token=YBNJade4ibyuC0UWby47UKDwDB6jrmo1auN5klhOfpjS0%3D",
-      "source": "Agent工程师King",
-      "_site": "TikHub Xiaohongshu",
-      "tier": 4,
+      "title": "热点问答丨白宫为何召集美国人工智能企业开会",
+      "title_zh": "热点问答丨白宫为何召集美国人工智能企业开会",
+      "url": "http://www.news.cn/20260805/3226084f6c144e049d4845bb7daa18e8/c.html",
+      "source": "新华网 / 新华社新闻",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-08-04T13:26:02Z"
+      "ts": "2026-08-05T13:04:51Z"
+    },
+    {
+      "title": "华尔街开始查账，AI泡沫破灭了吗？",
+      "title_zh": "华尔街开始查账，AI泡沫破灭了吗？",
+      "url": "https://www.huxiu.com/article/4880932.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-08-05T13:06:54Z"
+    },
+    {
+      "title": "公益微视频丨AI科普：遇到山洪泥石流如何防范自救？",
+      "title_zh": "公益微视频丨AI科普：遇到山洪泥石流如何防范自救？",
+      "url": "http://www.news.cn/20260805/a8ee52413cc04be3bb96a548f0c60936/c.html",
+      "source": "新华网 / 新华社新闻",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-08-05T13:58:54Z"
+    },
+    {
+      "title": "Anthropic is hiring an AI chip design team",
+      "title_zh": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-08-05T14:13:18Z"
+    },
+    {
+      "title": "当机器人能够「爬梯子」，具身智能的验收季开始了",
+      "title_zh": "当机器人能够「爬梯子」，具身智能的验收季开始了",
+      "url": "https://www.huxiu.com/article/4880959.html?f=rss",
+      "source": "虎嗅",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-08-05T14:19:36Z"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "title_zh": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals",
+      "source": "TechCrunch",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-08-05T15:05:00Z"
     },
     {
       "title": "机器人要实时听懂指令并行动，真非得让每帧视觉都穿过大语言模型吗？ TurboVLA换了条路 https://t.co/RDtjZJyeXw 它把V→L→A改成V+L→A：视觉和语言独立编码，以轻量双向交互融合，再由紧凑解码器预测连续动作块。0.2B参数在RTX 4090上达到32Hz，推理显存低于1GB。真正有启发的是，LLM不再是VLA的必经中枢。",
@@ -1952,266 +1862,6 @@
       "tier": 4,
       "ai": true,
       "ts": "2026-08-04T23:10:27Z"
-    },
-    {
-      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "source": "github.com",
-      "_site": "Buzzing",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T12:56:45.712000Z"
-    },
-    {
-      "title": "Anthropic signs a $10bn compute deal with a week-old cloud startup",
-      "title_zh": "Anthropic signs a $10bn compute deal with a week-old cloud startup",
-      "url": "https://thenextweb.com/news/anthropic-volta-10bn-compute-deal",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T13:02:53Z"
-    },
-    {
-      "title": "HappyRobot, which uses AI to automate freight operator communications, raised a $150M Series C at a $1.2B valuation, after a $44M Series B in September 2025 (Lily Mae Lazarus/Fortune)",
-      "title_zh": "HappyRobot, which uses AI to automate freight operator communications, raised a $150M Series C at a $1.2B valuation, after a $44M Series B in September 2025 (Lily Mae Lazarus/Fortune)",
-      "url": "https://www.techmeme.com/260804/p20",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T13:05:01Z"
-    },
-    {
-      "title": "Obsidian Security, which helps companies secure AI agents, raised an $85M Series D at a $1.1B valuation, after raising a $90M Series C in April 2022 (Akash Sriram/Reuters)",
-      "title_zh": "Obsidian Security, which helps companies secure AI agents, raised an $85M Series D at a $1.1B valuation, after raising a $90M Series C in April 2022 (Akash Sriram/Reuters)",
-      "url": "https://www.techmeme.com/260804/p21",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T13:15:01Z"
-    },
-    {
-      "title": "Obsidian Security hits a $1.1bn valuation as AI reshapes the threat",
-      "title_zh": "Obsidian Security hits a $1.1bn valuation as AI reshapes the threat",
-      "url": "https://thenextweb.com/news/obsidian-security-hits-a-1-1bn-valuation-as-ai-reshapes-the-threat",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T13:35:06Z"
-    },
-    {
-      "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-      "title_zh": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-      "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal",
-      "source": "Ars Technica",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T13:38:29Z"
-    },
-    {
-      "title": "What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks",
-      "title_zh": "What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks",
-      "url": "https://time.com/article/2026/08/04/what-openai-s-hugging-face-hack-tells-us-about-ai-s-risks",
-      "source": "TIME Magazine",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T13:39:18Z"
-    },
-    {
-      "title": "AI monocultures: the code review problem nobody's talking about",
-      "title_zh": "AI monocultures: the code review problem nobody's talking about",
-      "url": "https://www.techradar.com/pro/ai-monocultures-the-code-review-problem-nobodys-talking-about",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T13:50:11Z"
-    },
-    {
-      "title": "'Striking the right balance starts with recognising that every user has different expectations of their browser': Mozilla's head of Firefox tells us why the browser is becoming one of the most important layers of the AI era",
-      "title_zh": "'Striking the right balance starts with recognising that every user has different expectations of their browser': Mozilla's head of Firefox tells us why the browser is becoming one of the most important layers of the AI era",
-      "url": "https://www.techradar.com/pro/striking-the-right-balance-starts-with-recognising-that-every-user-has-different-expectations-of-their-browser-mozillas-head-of-firefox-tells-us-why-the-browser-is-becoming-one-of-the-most-important-layers-of-the-ai-era",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T13:54:14Z"
-    },
-    {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "title_zh": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
-      "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:03:01Z"
-    },
-    {
-      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "title_zh": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:07:30Z"
-    },
-    {
-      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "title_zh": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:07:30Z"
-    },
-    {
-      "title": "Ex-Nubank team raises $85m for Decade, an AI wealth adviser promising “a generation of millionaires”",
-      "title_zh": "Ex-Nubank team raises $85m for Decade, an AI wealth adviser promising “a generation of millionaires”",
-      "url": "https://thenextweb.com/news/decade-85m-seed-ai-wealth-brazil-nubank",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:10:24Z"
-    },
-    {
-      "title": "Convex, which provides an AI-optimized application backend for developers, raised a $57M Series B led by Insight Partners, taking its total funding to $110.5M (Maria Deutscher/SiliconANGLE)",
-      "title_zh": "Convex, which provides an AI-optimized application backend for developers, raised a $57M Series B led by Insight Partners, taking its total funding to $110.5M (Maria Deutscher/SiliconANGLE)",
-      "url": "https://www.techmeme.com/260804/p23",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:20:01Z"
-    },
-    {
-      "title": "A World Bank report says developing economies stand to benefit more from AI boosting their workers' output than they will lose in jobs being replaced by AI (Joseph Cotterill/Financial Times)",
-      "title_zh": "A World Bank report says developing economies stand to benefit more from AI boosting their workers' output than they will lose in jobs being replaced by AI (Joseph Cotterill/Financial Times)",
-      "url": "https://www.techmeme.com/260804/p24",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:25:01Z"
-    },
-    {
-      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "title_zh": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "url": "https://github.com/tikalk/adlc-team-skills",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:38:31Z"
-    },
-    {
-      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "title_zh": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "url": "https://github.com/tikalk/adlc-team-skills",
-      "source": "HN Algolia · AI 24h",
-      "_site": "Hacker News",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:38:31Z"
-    },
-    {
-      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "title_zh": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "url": "https://github.com/tikalk/adlc-team-skills",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:38:31Z"
-    },
-    {
-      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "title_zh": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "url": "https://github.com/tikalk/adlc-team-skills",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:38:31Z"
-    },
-    {
-      "title": "Computer Anthology: A continuously evolving benchmark family for AI agents",
-      "title_zh": "Computer Anthology: A continuously evolving benchmark family for AI agents",
-      "url": "https://vetto.ai/companies/computer-anthology-terminal-tasks.html",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:38:41Z"
-    },
-    {
-      "title": "OpenAI takes Apple lawsuit to court of public opinion, posts texts",
-      "title_zh": "OpenAI takes Apple lawsuit to court of public opinion, posts texts",
-      "url": "https://mashable.com/tech/openai-apple-lawsuit-court-public-opinion-texts",
-      "source": "Mashable",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:40:00Z"
-    },
-    {
-      "title": "Keep the HOA happy with the EcoVacs Goat 01000 robot lawn mower since its over $300 off",
-      "title_zh": "Keep the HOA happy with the EcoVacs Goat 01000 robot lawn mower since its over $300 off",
-      "url": "https://mashable.com/life/aug-4-ecovacs-goat-0110-deal",
-      "source": "Mashable",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T14:49:17Z"
-    },
-    {
-      "title": "Apparel retailers are turning to AI as supply chain regulations tighten in the US and Europe",
-      "title_zh": "Apparel retailers are turning to AI as supply chain regulations tighten in the US and Europe",
-      "url": "https://www.businessinsider.com/asos-gap-target-supply-chain-transparency-regulations-ai-2026-8",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T15:03:56Z"
-    },
-    {
-      "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
-      "title_zh": "Homebench – Benchmark local LLMs for speed, memory, and quality",
-      "url": "https://news.ycombinator.com/item?id=49166308",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T15:07:42.782000Z"
-    },
-    {
-      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "title_zh": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "url": "https://news.ycombinator.com/item?id=49169640",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T15:07:42.782000Z"
-    },
-    {
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "title_zh": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "url": "https://news.ycombinator.com/item?id=49167113",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-04T15:07:42.782000Z"
     },
     {
       "title": "走进 AI Agent",
@@ -3744,16 +3394,6 @@
       "ts": "2026-08-05T07:51:44.647000Z"
     },
     {
-      "title": "Liberra AI",
-      "title_zh": "Liberra AI",
-      "url": "https://www.producthunt.com/products/liberra-ai",
-      "source": "producthunt",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-05T07:53:44.239000Z"
-    },
-    {
       "title": "Dover MCP",
       "title_zh": "Dover MCP",
       "url": "https://www.producthunt.com/products/dover",
@@ -3767,6 +3407,16 @@
       "title": "JustInterview.ai",
       "title_zh": "JustInterview.ai",
       "url": "https://www.producthunt.com/products/justinterview-ai",
+      "source": "producthunt",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T07:53:44.239000Z"
+    },
+    {
+      "title": "Liberra AI",
+      "title_zh": "Liberra AI",
+      "url": "https://www.producthunt.com/products/liberra-ai",
       "source": "producthunt",
       "_site": "NewsNow",
       "tier": 5,
@@ -4074,6 +3724,36 @@
       "ts": "2026-08-05T11:25:43Z"
     },
     {
+      "title": "Why the Legendary Erdős Problems Are Falling to AI",
+      "title_zh": "Why the Legendary Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T11:49:34Z"
+    },
+    {
+      "title": "Why Erdős Problems Are Falling to AI",
+      "title_zh": "Why Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T11:49:34Z"
+    },
+    {
+      "title": "Why Erdős Problems Are Falling to AI",
+      "title_zh": "Why Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T11:49:34Z"
+    },
+    {
       "title": "Google says it will begin removing Google Assistant from Android and Wear OS devices on September 4, replaced by Gemini; Assistant remains on connected cars (Abner Li/9to5Google)",
       "title_zh": "Google says it will begin removing Google Assistant from Android and Wear OS devices on September 4, replaced by Gemini; Assistant remains on connected cars (Abner Li/9to5Google)",
       "url": "https://www.techmeme.com/260805/p15",
@@ -4082,6 +3762,66 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-08-05T12:10:02Z"
+    },
+    {
+      "title": "Google is in talks for a $1.5 billion-plus deal with AI coding agent startup Mechanize",
+      "title_zh": "Google is in talks for a $1.5 billion-plus deal with AI coding agent startup Mechanize",
+      "url": "https://www.businessinsider.com/google-mechanize-deal-talent-tech-ai-coding-2026-8",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:14:00Z"
+    },
+    {
+      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "title_zh": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:16:47Z"
+    },
+    {
+      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "title_zh": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:16:47Z"
+    },
+    {
+      "title": "What Leopold Aschenbrenner can learn from Warren Buffett after his $45 billion AI fund imploded",
+      "title_zh": "What Leopold Aschenbrenner can learn from Warren Buffett after his $45 billion AI fund imploded",
+      "url": "https://www.businessinsider.com/leopold-aschenbrenner-situational-awareness-warren-buffett-ai-hedge-fund-stocks-2026-8",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:22:49Z"
+    },
+    {
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "title_zh": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:28:38Z"
+    },
+    {
+      "title": "Sources: Google is in talks with AI coding agent startup Mechanize on a possible deal, potentially worth $1.5B+, to hire some of its talent and license its tech (Business Insider)",
+      "title_zh": "Sources: Google is in talks with AI coding agent startup Mechanize on a possible deal, potentially worth $1.5B+, to hire some of its talent and license its tech (Business Insider)",
+      "url": "https://www.techmeme.com/260805/p18",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:30:02Z"
     },
     {
       "title": "AI 生成到 90% 突然断了：你的解决方案是？",
@@ -4124,6 +3864,76 @@
       "ts": "2026-08-05T12:32:06.596000Z"
     },
     {
+      "title": "Texas called itself the “epicenter of AI.” Now it won’t plug in a data centre until it’s audited",
+      "title_zh": "Texas called itself the “epicenter of AI.” Now it won’t plug in a data centre until it’s audited",
+      "url": "https://thenextweb.com/news/texas-data-centre-audit-grid-connections-abbott",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:40:43Z"
+    },
+    {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "title_zh": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:41:47Z"
+    },
+    {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "title_zh": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:41:47Z"
+    },
+    {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "title_zh": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:41:47Z"
+    },
+    {
+      "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
+      "title_zh": "Iowa et al asks OpenAI to keep their bots sandboxed",
+      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:42:50Z"
+    },
+    {
+      "title": "Iowa-led states ask OpenAI to keep their bots on a leash",
+      "title_zh": "Iowa-led states ask OpenAI to keep their bots on a leash",
+      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:42:50Z"
+    },
+    {
+      "title": "It's official: Anthropic is building an in-house chip team for Claude",
+      "title_zh": "It's official: Anthropic is building an in-house chip team for Claude",
+      "url": "https://www.businessinsider.com/anthropic-in-house-silicon-chip-team-claude-2026-8",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T12:47:31Z"
+    },
+    {
       "title": "addyosmani /      agent-skills",
       "title_zh": "addyosmani /      agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
@@ -4142,6 +3952,266 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-08-05T12:48:29.677000Z"
+    },
+    {
+      "title": "LegaBot launches the first football league run entirely by AI agents. It never stops playing.",
+      "title_zh": "LegaBot launches the first football league run entirely by AI agents. It never stops playing.",
+      "url": "https://thenextweb.com/news/legabot-ai-autonomous-football-league-247",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:00:04Z"
+    },
+    {
+      "title": "Anthropic confirms it is building an in-house silicon team to design custom chips for Claude, co-designing hardware and models and using a \"multi-chip approach\" (Tom Carter/Business Insider)",
+      "title_zh": "Anthropic confirms it is building an in-house silicon team to design custom chips for Claude, co-designing hardware and models and using a \"multi-chip approach\" (Tom Carter/Business Insider)",
+      "url": "https://www.techmeme.com/260805/p19",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:01:03Z"
+    },
+    {
+      "title": "Let Claude/Codex run actual 1000s of LinkedIn outreach with ~30 MCP tools",
+      "title_zh": "Let Claude/Codex run actual 1000s of LinkedIn outreach with ~30 MCP tools",
+      "url": "https://gist.github.com/ayush488-glitch/b3fe8261983eb9dbf616bef87795a39f",
+      "source": "HN Algolia · AI 24h",
+      "_site": "Hacker News",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:06:19Z"
+    },
+    {
+      "title": "AI is flooding bug bounties. Microsoft paid a record; Apple slammed the door",
+      "title_zh": "AI is flooding bug bounties. Microsoft paid a record; Apple slammed the door",
+      "url": "https://thenextweb.com/news/apple-caps-bug-bounty-microsoft-record-ai-submissions",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:07:29Z"
+    },
+    {
+      "title": "Cloudflare OS – an open-source AI productivity environment",
+      "title_zh": "Cloudflare OS – an open-source AI productivity environment",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:23:52Z"
+    },
+    {
+      "title": "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
+      "title_zh": "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260805/p20",
+      "source": "Techmeme",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:25:04Z"
+    },
+    {
+      "title": "YouTube explains its AI slop policy and why some creators won't get paid",
+      "title_zh": "YouTube explains its AI slop policy and why some creators won't get paid",
+      "url": "https://www.engadget.com/2226445/youtube-explains-ai-slop-policy-why-some-creators-wont-get-paid",
+      "source": "Engadget",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:30:00Z"
+    },
+    {
+      "title": "Universities would prefer no AI",
+      "title_zh": "Universities would prefer no AI",
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:32:55Z"
+    },
+    {
+      "title": "Universities would prefer no AI",
+      "title_zh": "Universities would prefer no AI",
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:32:55Z"
+    },
+    {
+      "title": "Open-weight AI caught the frontier on capability. On safety, it didn’t",
+      "title_zh": "Open-weight AI caught the frontier on capability. On safety, it didn’t",
+      "url": "https://thenextweb.com/news/open-weight-ai-safety-gap-glm-saferai-shieldstral",
+      "source": "The Next Web",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:40:30Z"
+    },
+    {
+      "title": "观点：大型语言模型无法“跳跃”",
+      "title_zh": "观点：大型语言模型无法“跳跃”",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "source": "openreview.net",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:43:46.102000Z"
+    },
+    {
+      "title": "Building an Advanced Agentic Harness",
+      "title_zh": "Building an Advanced Agentic Harness",
+      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-08-05T13:54:12Z"
+    },
+    {
+      "title": "Silicon Valley sees AI as the solution – for everyone else",
+      "title_zh": "Silicon Valley sees AI as the solution – for everyone else",
+      "url": "https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:58:28Z"
+    },
+    {
+      "title": "Silicon Valley sees AI as the solution – for everyone else",
+      "title_zh": "Silicon Valley sees AI as the solution – for everyone else",
+      "url": "https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:58:28Z"
+    },
+    {
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "title_zh": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os",
+      "source": "Hacker News",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:58:53Z"
+    },
+    {
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "title_zh": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:58:53Z"
+    },
+    {
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "title_zh": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T13:58:53Z"
+    },
+    {
+      "title": "Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words",
+      "title_zh": "Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words",
+      "url": "https://www.vocab.top",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T14:06:20Z"
+    },
+    {
+      "title": "《时代》杂志正向AI聊天机器人展示一个不同的网站，其中嵌入了广告",
+      "title_zh": "《时代》杂志正向AI聊天机器人展示一个不同的网站，其中嵌入了广告",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website",
+      "source": "www.vincentschmalbach.com",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T14:47:49.437000Z"
+    },
+    {
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "title_zh": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://news.ycombinator.com/item?id=49182996",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T15:09:20.822000Z"
+    },
+    {
+      "title": "Building an Advanced Agentic Harness",
+      "title_zh": "Building an Advanced Agentic Harness",
+      "url": "https://news.ycombinator.com/item?id=49182946",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-08-05T15:09:20.822000Z"
+    },
+    {
+      "title": "Why Erdős Problems Are Falling to AI",
+      "title_zh": "Why Erdős Problems Are Falling to AI",
+      "url": "https://news.ycombinator.com/item?id=49181519",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T15:09:20.822000Z"
+    },
+    {
+      "title": "Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words",
+      "title_zh": "Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words",
+      "url": "https://news.ycombinator.com/item?id=49183110",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T15:09:20.822000Z"
+    },
+    {
+      "title": "Silicon Valley sees AI as the solution – for everyone else",
+      "title_zh": "Silicon Valley sees AI as the solution – for everyone else",
+      "url": "https://news.ycombinator.com/item?id=49182985",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T15:09:20.822000Z"
+    },
+    {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "title_zh": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://news.ycombinator.com/item?id=49182041",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T15:09:20.822000Z"
+    },
+    {
+      "title": "Cloudflare OS – an open-source AI productivity environment",
+      "title_zh": "Cloudflare OS – an open-source AI productivity environment",
+      "url": "https://news.ycombinator.com/item?id=49182551",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-05T15:09:20.822000Z"
     }
   ]
 }
