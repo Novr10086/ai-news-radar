@@ -64,35 +64,51 @@ AI_KW = ["openai", "anthropic", "deepseek", "google gemini", "kimi",
          "大模型", "机器学习", "deep learning", "machine learning",
          "hugging face", "generative ai", "生成式", "agent"]
 
-# geopolitics 源名
-GEOPOLITICS_SOURCES = ["新华网", "新华社", "联合早报", "npr", "bbc", "reuters",
-                       "cnn", "the guardian", "ap news", "cctv", "央视"]
+# geopolitics 源名（国际媒体；新华网是综合源，单独处理，见 classify_source）
+GEOPOLITICS_SOURCES = ["联合早报", "npr", "bbc", "reuters", "ap world",
+                       "al jazeera", "france24", "nhk", "cnn",
+                       "the guardian", "cctv", "央视"]
 
 # tech 源名
-TECH_SOURCES = ["36氪", "虎嗅", "钛媒体", "techcrunch", "ars technica",
-                "the verge", "wired", "少数派", "info flow", "it之家",
-                "hacker news", "product hunt"]
+TECH_SOURCES = ["36氪", "虎嗅", "钛媒体", "techcrunch", "ars technica", "arstechnica",
+                "the verge", "wired", "少数派", "info flow", "it之家", "infoq",
+                "hacker news", "product hunt", "techradar", "techmeme",
+                "mashable", "engadget", "business insider", "the next web",
+                "mac rumors", "slashdot", "the decoder", "readwrite", "juejin"]
 
 # domestic 源名
 DOMESTIC_SOURCES = ["澎湃", "thepaper"]
 
 # 新华社/新华网文章中的科技/财经关键词 → 强制定向到 tech
 XINHUA_TECH_KW = ["科技", "AI", "人工智能", "数字", "量子", "芯片",
-                  "港股", "股价", "回购", "上市", "财报",
+                  "港股", "股价", "回购", "上市", "财报", "新能源",
                   "robot", "robotics", "startup", "融资",
                   "app", "软件", "智能", "算法", "超算"]
 
-# geopolitics 标题关键词
+# geopolitics 标题关键词（国际/时政/涉外）
 GEOPOLITICS_KW = ["导弹", "制裁", "战争", "外交", "总统", "首相",
                   "欧盟", "北约", "联合国", "主权", "领土", "军事",
                   "打击", "袭击", "死亡", "疫情", "埃博拉", "多瑙河",
                   "核", "黑海", "中东", "西共体", "轮值主席",
-                  "zone", "election", "strike"]
+                  "zone", "election", "strike",
+                  "美国", "白宫", "特朗普", "拜登", "俄罗斯", "普京", "乌克兰",
+                  "日本", "防卫", "韩国", "朝鲜", "菲律宾", "印度", "越南",
+                  "伊朗", "以色列", "巴勒斯坦", "加沙", "也门", "叙利亚",
+                  "伊拉克", "阿富汗", "土耳其", "埃及", "沙特",
+                  "关税", "大使", "使馆", "军演", "航母", "红海", "停火", "谈判",
+                  "纽约", "伦敦", "巴黎", "东京", "首尔", "华盛顿", "莫斯科", "罗马", "休达"]
 
-# domestic 标题关键词（社会民生）
+# domestic 标题关键词（社会民生/地方/政务）
 DOMESTIC_KW = ["西瓜", "物价", "民生", "医保", "养老", "房价", "教育",
                "补贴", "国补", "工资", "消费", "就业", "招聘", "裁员",
-               "流浪", "homeless"]
+               "流浪", "homeless",
+               "纪委", "违纪", "开除党籍", "政务处分", "巡视", "巡察", "立案",
+               "医院", "医疗", "药品", "疫苗", "学校", "中小学", "高考", "招生",
+               "高铁", "地铁", "公交", "航线", "机场", "高速", "盾构",
+               "暴雨", "台风", "洪水", "干旱", "高温", "寒潮", "预警", "泥石流",
+               "文旅", "景区", "博物馆", "非遗", "赛事", "护边",
+               "粮食", "菜篮子", "猪肉", "供电", "供水", "供暖", "供冷",
+               "公安", "检察", "法院", "基层", "乡村"]
 
 # tech 标题关键词
 TECH_KW = ["芯片", "gpu", "tpu", "手机", "平板", "星舰",
@@ -126,13 +142,20 @@ def classify_source(source: str, title: str, is_ai: bool) -> str:
         if kw in title_lower or kw in source_lower:
             return "ai"
 
+    # ── 新华网/新华社：综合媒体源，按标题内容细分 ──
+    if "新华社" in source or "新华网" in source:
+        # 科技财经类 → tech
+        if any(kw in title_lower for kw in XINHUA_TECH_KW):
+            return "tech"
+        # 国际/时政类 → geopolitics
+        if any(kw in title_lower for kw in GEOPOLITICS_KW):
+            return "geopolitics"
+        # 其余（国内/民生/地方/政务）→ domestic
+        return "domestic"
+
     # ── 国际/时政源 ──
     for gs in GEOPOLITICS_SOURCES:
         if gs in source_lower:
-            # 新华社/新华网里科技财经类内容截胡到 tech
-            if ("新华社" in source or "新华网" in source):
-                if any(kw in title_lower for kw in XINHUA_TECH_KW):
-                    return "tech"
             if "npr" in source_lower and any(kw in title_lower for kw in ["tech", "ai", "robot", "startup", "gpu", "app", "review"]):
                 return "tech"
             return "geopolitics"
