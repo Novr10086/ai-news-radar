@@ -9,9 +9,8 @@ on:
         default: false
         type: boolean
   schedule:
-    # 每天 3 次：北京 06:00 / 12:00 / 18:00（UTC 22:00 / 04:00 / 10:00）
-    # 私有仓库 Actions 额度 2000 分钟/月，每小时跑会超限
-    - cron: "0 22,4,10 * * *"
+    # 每小时一次（UTC 整点，即北京时间每个整点）。公开仓库 Actions 免费，无分钟数限制。
+    - cron: "0 * * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
