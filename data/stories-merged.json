@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T08:12:40.536988Z",
+  "generated_at": "2026-08-05T08:17:30.278285Z",
   "window_hours": 24,
-  "total_stories": 319,
+  "total_stories": 323,
   "stories": [
     {
       "story_id": "story_a7f0972a",
@@ -108,6 +108,28 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "published_at": "2026-08-04T13:58:29Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
+      "story_id": "story_f2e3597a",
+      "title": "我们于2026年7月发布的最新AI新闻",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "sources": [
+        {
+          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
+          "title": "The latest AI news we announced in July 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+          "source": "Google AI Blog",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -250,37 +272,6 @@
       "score": 9980
     },
     {
-      "story_id": "story_ca59b69a",
-      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-      "source_count": 2,
-      "source_names": [
-        "公众号：数字生命卡兹克",
-        "公众号：腾讯混元"
-      ],
-      "sources": [
-        {
-          "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
-          "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-          "source": "公众号：数字生命卡兹克",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T01:35:42Z"
-        },
-        {
-          "id": "51868ebba24a0c391770271a0455d8d630015049",
-          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
-          "source": "公众号：腾讯混元",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T08:12:36Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9970
-    },
-    {
       "story_id": "story_1363e912",
       "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
@@ -337,6 +328,37 @@
           "source": "github.com",
           "site_id": "buzzing",
           "published_at": "2026-08-04T18:17:29.648000Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
+      "story_id": "story_0f8ccd6f",
+      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "primary_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
+          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T12:56:45.712000Z"
+        },
+        {
+          "id": "1dc5cb276aab8e0592de6e5f7a70da7e3aefdaa9",
+          "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-04T10:00:55Z"
         }
       ],
       "item_count": 2,
@@ -931,6 +953,28 @@
           "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "site_id": "aihot",
           "published_at": "2026-08-05T02:40:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_ca59b69a",
+      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "sources": [
+        {
+          "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
+          "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+          "source": "公众号：数字生命卡兹克",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T01:35:42Z"
         }
       ],
       "item_count": 1,
@@ -1553,28 +1597,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_bad13754",
-      "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
-      "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
-      "primary_url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "14623a3657214a0e035814d6230e1127908fe081",
-          "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
-          "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
-          "source": "MarkTechPost（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T08:12:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_e8d11b79",
       "title": "来认识 Wrinkles，一款发掘你身边地点隐藏故事的应用。",
       "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you",
@@ -1782,28 +1804,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_dc48138f",
-      "title": "SpaceX 作为 AI 公司赚的钱，比作为太空公司还多",
-      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "primary_url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "6d581e834bf9c85346c7cff24abb15b6f564a151",
-          "title": "SpaceX made more revenue as an AI company than a space company",
-          "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-          "source": "The Verge",
-          "site_id": "curated_media",
-          "published_at": "2026-08-04T20:47:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_c528f3e3",
       "title": "我在 OpenAI 的职位是什么",
       "url": "https://x.com/thsottiaux/status/2084738022650892544",
@@ -1892,28 +1892,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_2daa746a",
-      "title": "Nvidia可不是闹着玩的：开放AI行业组织成立一周，已初见成效。",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
-      "primary_url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch AI"
-      ],
-      "sources": [
-        {
-          "id": "6f86d13b8f280b5a5a6a3cb57af5daff2709ece4",
-          "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
-          "source": "TechCrunch AI",
-          "site_id": "curated_media",
-          "published_at": "2026-08-04T19:28:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_ef0cb45f",
       "title": "Cursor 开源 Mixture-of-Kittens（MoK）：面向 GB300 NVL72 机架的确定性 MoE 训练 Megakernel",
       "url": "https://www.marktechpost.com/2026/08/04/cursor-open-sources-mixture-of-kittens-mok-a-deterministic-moe-training-megakernel-for-gb300-nvl72-racks",
@@ -1930,6 +1908,28 @@
           "source": "MarkTechPost Research",
           "site_id": "curated_media",
           "published_at": "2026-08-04T18:38:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_62a45b0d",
+      "title": "不健康”的LLM使用比你想的更普遍",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "ac078ddd3b3a68e9a8f90c52a20972683a53c398",
+          "title": "‘Not healthy’ LLM use is more common than you think",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+          "source": "The Verge",
+          "site_id": "curated_media",
+          "published_at": "2026-08-04T17:33:46Z"
         }
       ],
       "item_count": 1,
@@ -2018,28 +2018,6 @@
           "source": "Follow Builders · X · Aditya Agarwal",
           "site_id": "followbuilders",
           "published_at": "2026-08-04T16:24:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_dcc8ad5e",
-      "title": "Spotify 与 Merlin 合作扩展 AI 混音与翻唱项目",
-      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
-      "primary_url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch AI"
-      ],
-      "sources": [
-        {
-          "id": "8f2b3ec0f2b8dd6c4484593d6437bfc842b7b17d",
-          "title": "Spotify expands AI remix and covers project with Merlin partnership",
-          "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
-          "source": "TechCrunch AI",
-          "site_id": "curated_media",
-          "published_at": "2026-08-04T15:50:06Z"
         }
       ],
       "item_count": 1,
@@ -2266,28 +2244,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_082edf92",
-      "title": "Reddit 能抵挡住新一波 AI SEO 垃圾信息吗？",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "e3343b01034546b17ab77dc3aef5817e84dce3ec",
-          "title": "Can Reddit fend off a new wave of AI SEO spam?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-          "source": "The Verge",
-          "site_id": "curated_media",
-          "published_at": "2026-08-04T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_0266ed77",
       "title": "打官司、挖人，苹果和OpenAI的硬件大战才刚开始",
       "url": "https://www.tmtpost.com/8091859.html",
@@ -2313,37 +2269,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-05T01:45:04Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
-    },
-    {
-      "story_id": "story_5d031317",
-      "title": "好吧，又出现了更多 AI Agent 黑客攻击事件",
-      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents",
-      "primary_url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents",
-      "source_count": 2,
-      "source_names": [
-        "Wired AI",
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "051bbe4f35be25f71edcf05b86f47746802cb789",
-          "title": "OK, Well, There Are Even More AI Agent Hacking Incidents",
-          "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents",
-          "source": "Wired AI",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-04T23:11:31Z"
-        },
-        {
-          "id": "a2a022ff7b51b62d6f7b425a8ee02c844c8bb11e",
-          "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-          "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-04T23:11:31Z"
         }
       ],
       "item_count": 2,
@@ -3076,6 +3001,36 @@
       "score": 9720
     },
     {
+      "story_id": "story_5d031317",
+      "title": "好吧，又出现了更多 AI Agent 黑客攻击事件",
+      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents",
+      "primary_url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents",
+      "source_count": 1,
+      "source_names": [
+        "Wired AI"
+      ],
+      "sources": [
+        {
+          "id": "f7578ec19527f8080d976bfd2536ee0986bf7b36",
+          "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+          "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents",
+          "source": "Wired AI",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-04T23:11:31Z"
+        },
+        {
+          "id": "051bbe4f35be25f71edcf05b86f47746802cb789",
+          "title": "OK, Well, There Are Even More AI Agent Hacking Incidents",
+          "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents",
+          "source": "Wired AI",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-04T23:11:31Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9720
+    },
+    {
       "story_id": "story_3bfe79a0",
       "title": "从场景到组织：智能体部署路径与进化阶梯",
       "url": "https://www.huxiu.com/article/4880667.html?f=rss",
@@ -3158,6 +3113,94 @@
           "source": "Simon Willison",
           "site_id": "opmlrss",
           "published_at": "2026-08-04T22:00:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_dc48138f",
+      "title": "SpaceX 作为 AI 公司赚的钱，比作为太空公司还多",
+      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "primary_url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "44ed581845cebe753708826dcd13c437daf8105e",
+          "title": "SpaceX made more revenue as an AI company than a space company",
+          "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-04T20:47:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_2daa746a",
+      "title": "Nvidia可不是闹着玩的：开放AI行业组织成立一周，已初见成效。",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
+      "primary_url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "044dd6bc33616023995bcbf032accace33caddb5",
+          "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-04T19:28:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_899f3cac",
+      "title": "OpenAI 模型的第三方网络安全评估",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "primary_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "0c6b247c37e57d876b403e3d23698579e910f2bd",
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-04T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_24da5cc4",
+      "title": "OpenAI 网红之旅如何适得其反",
+      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "primary_url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "91616cbb7c18a1cd227e9ba735230f2d6f187bed",
+          "title": "How an OpenAI influencer trip backfired",
+          "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-04T17:46:41Z"
         }
       ],
       "item_count": 1,
@@ -3296,50 +3339,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_40304c16",
-      "title": "OpenAI 称苹果的商业机密诉讼咄咄逼人且带有奇怪的个人色彩",
-      "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "55f44216388b6fcd70741e5f72c9e2934a54f429",
-          "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-          "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-04T13:38:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f2e3597a",
-      "title": "我们于2026年7月发布的最新AI新闻",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "sources": [
-        {
-          "id": "8758822f6f8762704b9578624f43f958c496c1ae",
-          "title": "The latest AI news we announced in July 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_45a9d3ac",
       "title": "倒计时 1 天｜跨境电商 AI Workforce 大会明日重磅启幕",
       "url": "https://www.infoq.cn/article/8TfMHMQEm0fW0wXu3IlB",
@@ -3368,14 +3367,14 @@
       "primary_url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn",
       "source_count": 1,
       "source_names": [
-        "Wired"
+        "Wired AI"
       ],
       "sources": [
         {
-          "id": "4aa14c3f0e4df026cfb4006aa77b6eb6a808bd45",
+          "id": "f95f8ebc99f111ca17fe70900b66a068c67a9c6f",
           "title": "Is This Poker Player Bluffing? The AI Thinks So",
           "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn",
-          "source": "Wired",
+          "source": "Wired AI",
           "site_id": "opmlrss",
           "published_at": "2026-08-04T11:00:00Z"
         }
@@ -3400,6 +3399,28 @@
           "source": "Wired AI",
           "site_id": "opmlrss",
           "published_at": "2026-08-04T10:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_6595c1a8",
+      "title": "人人都在做”：好莱坞AI的真相",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck",
+      "primary_url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck",
+      "source_count": 1,
+      "source_names": [
+        "Wired AI"
+      ],
+      "sources": [
+        {
+          "id": "7d72531cc0cd82e90dcea624bcb6838bde218a3a",
+          "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+          "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck",
+          "source": "Wired AI",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-04T10:30:00Z"
         }
       ],
       "item_count": 1,
@@ -3519,7 +3540,7 @@
       "source_count": 3,
       "source_names": [
         "techcrunch.com",
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "Slashdot"
       ],
       "sources": [
@@ -3532,11 +3553,11 @@
           "published_at": "2026-08-04T17:28:54.130000Z"
         },
         {
-          "id": "52a5082f015683707d2f23a64b889c1452481d78",
+          "id": "26501dc0a57dcc508f0d7ce71ebc7d8731d12a26",
           "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
           "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-04T15:37:42Z"
         },
         {
@@ -3559,7 +3580,7 @@
       "source_count": 2,
       "source_names": [
         "deepgrove.ai",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3571,11 +3592,11 @@
           "published_at": "2026-08-05T07:51:44.647000Z"
         },
         {
-          "id": "005df6d645af8548c8f292c53881b62eb517a4b5",
-          "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+          "id": "1359736dce146d3edc96311ce2579184b4847b44",
+          "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
           "url": "https://deepgrove.ai/maple-preview",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-04T19:44:55Z"
         }
       ],
@@ -3652,7 +3673,7 @@
       "source_count": 2,
       "source_names": [
         "www.wheresyoured.at",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3664,11 +3685,11 @@
           "published_at": "2026-08-04T22:00:41.378000Z"
         },
         {
-          "id": "75344c39d9148918bc57b7e0cc091643422436e4",
+          "id": "be8698499167f466618787fda6fdafe2a523e9eb",
           "title": "The AI Demand Bubble",
           "url": "https://www.wheresyoured.at/the-ai-demand-bubble",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-04T15:51:51Z"
         }
       ],
@@ -3701,37 +3722,6 @@
           "source": "Hacker News",
           "site_id": "techurls",
           "published_at": "2026-08-04T16:36:05Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_0f8ccd6f",
-      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "primary_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "source_count": 2,
-      "source_names": [
-        "github.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "82e9bdce49dad9f880ad07604b745ed34194c013",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "github.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T12:56:45.712000Z"
-        },
-        {
-          "id": "efd43a4d16f236f9053e4d77942d8ed20d2c0614",
-          "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-04T10:00:55Z"
         }
       ],
       "item_count": 2,
@@ -4055,6 +4045,72 @@
       "score": 7
     },
     {
+      "story_id": "story_d2c655e7",
+      "title": "Piklum — AI Photo + SEO",
+      "url": "https://www.producthunt.com/products/piklum-ai-photo-seo",
+      "primary_url": "https://www.producthunt.com/products/piklum-ai-photo-seo",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "a6add885f17257ab9fa9411726f4fdc2a015c950",
+          "title": "Piklum — AI Photo + SEO",
+          "url": "https://www.producthunt.com/products/piklum-ai-photo-seo",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-05T08:17:06.828000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_43c307ce",
+      "title": "At the 2026 International Congress of Mathematicians, 20+ mathematicians reflect on how AI advances are transforming their work and field; many are optimistic (Kai Williams/Understanding AI)",
+      "url": "https://www.techmeme.com/260805/p5",
+      "primary_url": "https://www.techmeme.com/260805/p5",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "cba5a021aa5ed0bcbfa7076f89d3863fc39fd2be",
+          "title": "At the 2026 International Congress of Mathematicians, 20+ mathematicians reflect on how AI advances are transforming their work and field; many are optimistic (Kai Williams/Understanding AI)",
+          "url": "https://www.techmeme.com/260805/p5",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-05T08:10:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_035e0c30",
+      "title": "为什么情境工程是人工智能的下一个招聘挑战",
+      "url": "https://www.techradar.com/pro/why-context-engineering-is-ais-next-hiring-challenge",
+      "primary_url": "https://www.techradar.com/pro/why-context-engineering-is-ais-next-hiring-challenge",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "245c18e47f8a1772fd22419875f7899f30e671fe",
+          "title": "Why context engineering is AI’s next hiring challenge",
+          "url": "https://www.techradar.com/pro/why-context-engineering-is-ais-next-hiring-challenge",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-05T08:05:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_b55b3ad8",
       "title": "Dover MCP",
       "url": "https://www.producthunt.com/products/dover",
@@ -4115,6 +4171,28 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-08-05T07:53:44.239000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a0549cd2",
+      "title": "英国测试人员发现 OpenAI 和 Anthropic 代理在实验室中行为不当",
+      "url": "https://thenextweb.com/news/aisi-openai-anthropic-agents-unauthorised-actions",
+      "primary_url": "https://thenextweb.com/news/aisi-openai-anthropic-agents-unauthorised-actions",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "e4670a3fb43c08c2caa0f018aff672993eddd595",
+          "title": "UK testers catch OpenAI and Anthropic agents misbehaving in the lab",
+          "url": "https://thenextweb.com/news/aisi-openai-anthropic-agents-unauthorised-actions",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-05T07:42:30Z"
         }
       ],
       "item_count": 1,
@@ -4463,6 +4541,28 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-08-05T06:29:20.788000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b31102af",
+      "title": "OpenAI 又报告了两起流氓人工智能代理事件，这次是在第三方测试期间",
+      "url": "https://www.businessinsider.com/openai-rogue-ai-agents-testing-environment-misconfiguration-2026-8",
+      "primary_url": "https://www.businessinsider.com/openai-rogue-ai-agents-testing-environment-misconfiguration-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "80273e8a451f803ce7af3148575f9bab48f3f181",
+          "title": "OpenAI has reported 2 more incidents of rogue AI agents, this time during third-party testing",
+          "url": "https://www.businessinsider.com/openai-rogue-ai-agents-testing-environment-misconfiguration-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-05T06:13:08Z"
         }
       ],
       "item_count": 1,
@@ -5063,28 +5163,6 @@
       "score": 7
     },
     {
-      "story_id": "story_899f3cac",
-      "title": "OpenAI 模型的第三方网络安全评估",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "primary_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "2ec0bd849371939c2b765143fc3ff566f0de4c1f",
-          "title": "Third-party cyber evaluations involving OpenAI models",
-          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-04T21:14:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_408ca288",
       "title": "美国上诉法院推翻了此前临时禁止Perplexity在亚马逊平台上使用其智能购物工具的裁决",
       "url": "https://www.techmeme.com/260804/p43",
@@ -5377,15 +5455,15 @@
       "primary_url": "https://edotenv.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "20a7d07c0f22619a17766fbc34c36823b3ba0abb",
+          "id": "5fde4ccf26b408186dc9cb279297ab369674307c",
           "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
           "url": "https://edotenv.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-04T18:36:02Z"
         }
       ],
@@ -5613,28 +5691,6 @@
       "score": 7
     },
     {
-      "story_id": "story_24da5cc4",
-      "title": "OpenAI 网红之旅如何适得其反",
-      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "primary_url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "857a680047c9ac3e458fd24cc463a45af2c8e961",
-          "title": "How an OpenAI influencer trip backfired",
-          "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-04T17:46:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_48b9e98b",
       "title": "AI内存短缺波及你的手机账单，T-Mobile允许你慢慢还清",
       "url": "https://thenextweb.com/news/t-mobile-eip-flex-36-financing-memory-shortage-phone-prices",
@@ -5673,28 +5729,6 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-08-04T17:40:47Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_62a45b0d",
-      "title": "不健康”的LLM使用比你想的更普遍",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "4148096ab0ab0019171c841f91194b9a8327c189",
-          "title": "‘Not healthy’ LLM use is more common than you think",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-04T17:33:46Z"
         }
       ],
       "item_count": 1,
@@ -5927,15 +5961,15 @@
       "primary_url": "https://arxiv.org/abs/2602.16763",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "fc0b94e0dd30d0f14d4eaa792d123044462d716d",
+          "id": "99dc94b06b159e15adf8a84f4432fe7c22d498a2",
           "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
           "url": "https://arxiv.org/abs/2602.16763",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-04T16:10:39Z"
         }
       ],
@@ -6047,6 +6081,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-04T15:52:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_dcc8ad5e",
+      "title": "Spotify 与 Merlin 合作扩展 AI 混音与翻唱项目",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
+      "primary_url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "89eb9cce821ec066b05901e2f3bce8b1f932046d",
+          "title": "Spotify expands AI remix and covers project with Merlin partnership",
+          "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-04T15:50:06Z"
         }
       ],
       "item_count": 1,
@@ -6213,15 +6269,15 @@
       "primary_url": "https://github.com/tikalk/adlc-team-skills",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "719d4d48efec3386dd3b00804165d504be7d95a2",
+          "id": "51f577c7035cda60cddfcc373685ccdc4cd89fe6",
           "title": "Agent skills that bring team coding standards to Claude Code and Codex",
           "url": "https://github.com/tikalk/adlc-team-skills",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-04T14:38:31Z"
         }
       ],
@@ -6301,15 +6357,15 @@
       "primary_url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "25de4e50a1f636716339d1e4ebab3e1f5bb567d2",
+          "id": "56593254e19b2efbe6cf9bc2f39c3d86ca52aea7",
           "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
           "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-04T14:07:30Z"
         }
       ],
@@ -6377,6 +6433,28 @@
           "source": "TIME Magazine",
           "site_id": "techurls",
           "published_at": "2026-08-04T13:39:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_40304c16",
+      "title": "OpenAI 称苹果的商业机密诉讼咄咄逼人且带有奇怪的个人色彩",
+      "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "0e8c01e04244c96b2a1a5c07015a76672c458f61",
+          "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+          "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-08-04T13:38:29Z"
         }
       ],
       "item_count": 1,
@@ -6933,28 +7011,6 @@
       "score": 7
     },
     {
-      "story_id": "story_6595c1a8",
-      "title": "人人都在做”：好莱坞AI的真相",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck",
-      "primary_url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "93ed654a3005b475bcdcd9ba672aa739018bb9b3",
-          "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
-          "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-04T10:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_3e9e7172",
       "title": "死亡地带”：免费中国模型如何掏空美国AI",
       "url": "https://thenextweb.com/news/china-open-source-ai-death-zone-us-models",
@@ -6971,6 +7027,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-04T10:17:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_082edf92",
+      "title": "Reddit 能抵挡住新一波 AI SEO 垃圾信息吗？",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "8584d938f70af273ef0ef650778920c6a0321ef8",
+          "title": "Can Reddit fend off a new wave of AI SEO spam?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-04T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -7049,15 +7127,15 @@
       "primary_url": "https://github.com/david-g-3654/homebench",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "4e6ed0665917b7efe5d28640bac79588f499c9da",
+          "id": "e7753f7bc465ab08d1f4adde36d0b86b0922a0b9",
           "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
           "url": "https://github.com/david-g-3654/homebench",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-04T09:48:43Z"
         }
       ],
