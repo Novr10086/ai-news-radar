@@ -12,7 +12,6 @@ import math
 import os
 import random
 import re
-import socket
 import subprocess
 import time
 import xml.etree.ElementTree as ET
@@ -94,9 +93,30 @@ OFFICIAL_AI_FEEDS: tuple[dict[str, str], ...] = (
         "html_url": "https://deepmind.google/blog",
     },
     {
+        "title": "Google AI Blog",
+        "xml_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+        "html_url": "https://blog.google/innovation-and-ai/technology/ai/",
+    },
+    {
         "title": "Hugging Face Blog",
         "xml_url": "https://huggingface.co/blog/feed.xml",
         "html_url": "https://huggingface.co/blog",
+    },
+    {
+        "title": "GitHub AI & ML",
+        "xml_url": "https://github.blog/ai-and-ml/feed/",
+        "html_url": "https://github.blog/ai-and-ml/",
+    },
+    {
+        "title": "GitHub Changelog",
+        "xml_url": "https://github.blog/changelog/feed/",
+        "html_url": "https://github.blog/changelog/",
+    },
+    {
+        "title": "OpenAI Skills",
+        "xml_url": "https://github.com/openai/skills/commits/main.atom",
+        "html_url": "https://github.com/openai/skills",
+        "include_keywords": "hatch,pet,migrate-to-codex",
     },
 )
 OFFICIAL_AI_MAX_AGE_DAYS = 45
@@ -107,7 +127,55 @@ CURATED_AI_MEDIA_MAX_AGE_DAYS = 30
 # single round cannot flood the archive. Override via env for experiments.
 DISCUSSION_FETCH_CAP = int(os.environ.get("DISCUSSION_FETCH_CAP", "50"))
 CURATED_AI_MEDIA_FEEDS: tuple[dict[str, Any], ...] = (
-    # 通用热点雷达：精简 AI 媒体源，以 OPML 自定义源为主
+    {
+        "title": "The Decoder AI News",
+        "xml_url": "https://the-decoder.com/feed/",
+        "html_url": "https://the-decoder.com/",
+        "max_entries": 10,
+    },
+    {
+        "title": "TechCrunch AI",
+        "xml_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "html_url": "https://techcrunch.com/category/artificial-intelligence/",
+        "max_entries": 8,
+    },
+    {
+        # The Verge's AI topic RSS endpoint is not currently public/stable;
+        # keep the all-site RSS behind strict title-level AI filtering.
+        "title": "The Verge",
+        "xml_url": "https://www.theverge.com/rss/index.xml",
+        "html_url": "https://www.theverge.com/ai-artificial-intelligence",
+        "include_keywords": "ai,artificial intelligence,openai,anthropic,claude,chatgpt,gpt,gemini,llm,agent,copilot",
+        "max_entries": 6,
+        "strict_title_filter": True,
+    },
+    {
+        "title": "MarkTechPost Research",
+        "xml_url": "https://www.marktechpost.com/feed/",
+        "html_url": "https://www.marktechpost.com/",
+        "include_keywords": "paper,research,arxiv,benchmark,dataset,model,llm,agent,diffusion,transformer,multimodal,reasoning,inference,training,open-source",
+        "max_entries": 6,
+        "strict_title_filter": True,
+        "research_only": True,
+    },
+    {
+        "title": "VentureBeat AI",
+        "xml_url": "https://venturebeat.com/category/ai/feed",
+        "html_url": "https://venturebeat.com/category/ai/",
+        "max_entries": 8,
+    },
+    {
+        "title": "Artificial Intelligence News",
+        "xml_url": "https://www.artificialintelligence-news.com/feed/",
+        "html_url": "https://www.artificialintelligence-news.com/",
+        "max_entries": 8,
+    },
+    {
+        "title": "Claude Code Releases",
+        "xml_url": "https://github.com/anthropics/claude-code/releases.atom",
+        "html_url": "https://github.com/anthropics/claude-code/releases",
+        "max_entries": 6,
+    },
 )
 AIBREAKFAST_JINA_URL = "https://r.jina.ai/https://aibreakfast.beehiiv.com/"
 AIHOT_ITEMS_API_URL = "https://aihot.virxact.com/api/public/items"
@@ -969,10 +1037,10 @@ def waytoagi_updates_to_raw_items(payload: dict[str, Any], now: datetime) -> lis
 def create_session() -> requests.Session:
     session = requests.Session()
     retry = Retry(
-        total=1,
-        connect=1,
-        read=1,
-        backoff_factor=0.5,
+        total=3,
+        connect=3,
+        read=3,
+        backoff_factor=0.8,
         status_forcelist=[429, 500, 502, 503, 504],
         allowed_methods=frozenset(["GET", "POST"]),
     )
@@ -1163,12 +1231,10 @@ def fetch_iris(session: requests.Session, now: datetime) -> list[RawItem]:
     )
 
     out: list[RawItem] = []
-    import socket as _iris_sock
     for feed_name, feed_url in feeds:
         if len(out) >= DISCUSSION_FETCH_CAP:
             break
         try:
-            _iris_sock.setdefaulttimeout(15)
             if feedparser is not None:
                 parsed = feedparser.parse(feed_url)
                 source_name = str(feed_name or getattr(parsed, "feed", {}).get("title") or "Iris Feed")
@@ -2392,10 +2458,12 @@ def fetch_wesearch(session: requests.Session, now: datetime) -> list[RawItem]:
     return out
 
 
+
 def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem], list[dict[str, Any]]]:
     tasks = [
         ("official_ai", "Official AI Updates", fetch_official_ai_updates),
         ("curated_media", "Curated Media", fetch_curated_ai_media),
+        ("aibreakfast", "AI Breakfast", fetch_ai_breakfast),
         ("followbuilders", "Follow Builders", fetch_follow_builders),
         ("techurls", "TechURLs", fetch_techurls),
         ("buzzing", "Buzzing", fetch_buzzing),
@@ -2403,8 +2471,11 @@ def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem]
         ("bestblogs", "BestBlogs", fetch_bestblogs),
         ("zeli", "Zeli", fetch_zeli),
         ("hackernews", "Hacker News", fetch_hacker_news_algolia),
-        ("newsnow", "NewsNow", fetch_newsnow),
+        ("aihubtoday", "AI HubToday", fetch_ai_hubtoday),
+        ("aibase", "AIbase", fetch_aibase),
+        ("aihot", "AI HOT", fetch_aihot),
         ("wesearch", "WeSearch", fetch_wesearch),
+        ("newsnow", "NewsNow", fetch_newsnow),
     ]
 
     raw_items: list[RawItem] = []
@@ -6228,7 +6299,6 @@ def build_latest_payloads(latest_payload: dict[str, Any]) -> tuple[dict[str, Any
 
 
 def main() -> int:
-    socket.setdefaulttimeout(15)
     parser = argparse.ArgumentParser(description="Aggregate AI news updates from multiple sources")
     parser.add_argument("--output-dir", default="data", help="Directory for output JSON files")
     parser.add_argument("--window-hours", type=int, default=24, help="24h window size")

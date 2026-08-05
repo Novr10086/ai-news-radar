@@ -1,4 +1,80 @@
 {
-  "generated_at": "2026-08-05T06:28:59.889340Z",
-  "items": []
+  "generated_at": "2026-08-05T06:53:30.160097Z",
+  "model": "deepseek-v4-flash",
+  "personas": [
+    {
+      "id": "cynic",
+      "name": "毒舌评论员"
+    },
+    {
+      "id": "paper-police",
+      "name": "较真党"
+    },
+    {
+      "id": "pragmatic",
+      "name": "实用派"
+    }
+  ],
+  "items": [
+    {
+      "story_id": "story_05bcbbcf4f82",
+      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 52,
+          "review": "跑通是第一步，拿不出性能对比就是白嫖算力。"
+        },
+        "paper-police": {
+          "score": 70,
+          "review": "代码仓库可查，但缺论文和独立跑分，能否复现待验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "单卡就能跑V4 Flash，部署成本直接拉低，手头有MI300X的今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_406d5f9dbdc1",
+      "title": "Grok 4.5 免费体验，推荐 Build 工具链 / Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
+      "url": "https://x.com/elonmusk/status/2084857373555101726",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 25,
+          "review": "免费体验是引流，Build工具链详情只字未提，先跑个benchmark再喊话。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅推特宣称免费体验，无论文无代码无benchmark，性能无从验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "CLI 可直接下载体验新模型，想试新工具链的今天就能上手。"
+        }
+      }
+    },
+    {
+      "story_id": "story_bcfdafe93ce8",
+      "title": "用 LFM2.5-2.6B 随处部署本地 Agent / Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "本地部署是真的，'随处'就夸大了，先跑个基准看看。"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "官方博客给了模型和数字，但无论文，缺独立评测验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "2.6B 本地跑 Agent，隐私和推理成本都省了，今天就能动手试。"
+        }
+      }
+    }
+  ]
 }
