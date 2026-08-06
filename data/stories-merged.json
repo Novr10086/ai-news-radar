@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-06T23:38:31.317660Z",
+  "generated_at": "2026-08-06T23:47:56.295267Z",
   "window_hours": 24,
-  "total_stories": 266,
+  "total_stories": 267,
   "stories": [
+    {
+      "story_id": "story_61e5f938",
+      "title": "与美国心理学会合作研究青少年心理健康和人工智能",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "primary_url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "1a8fe6ac54175c21291af62fd9b6eda69be49685",
+          "title": "Working with the American Psychological Association on youth mental health and AI",
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
     {
       "story_id": "story_a87688ff",
       "title": "Baseten 拥抱人脸推理提供商 🔥",
@@ -18,28 +40,6 @@
           "title": "Baseten on Hugging Face Inference Providers 🔥",
           "url": "https://huggingface.co/blog/baseten",
           "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_a55486a7",
-      "title": "从要求到行动：世界如何让 ChatGPT 发挥作用",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "primary_url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "b8b9e957b961636d25b1f7d2b4013ee0edf8366c",
-          "title": "From asking to doing: How the world is putting ChatGPT to work",
-          "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-          "source": "OpenAI News",
           "site_id": "official_ai",
           "published_at": "2026-08-06T00:00:00Z"
         }
@@ -90,6 +90,55 @@
       ],
       "item_count": 1,
       "score": 10020
+    },
+    {
+      "story_id": "story_e1775d8d",
+      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source_count": 4,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "OpenAI News",
+        "openai.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        },
+        {
+          "id": "8e6f8531ea97ce6595b1d2ab685cb684369ff0d1",
+          "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T10:00:00Z"
+        },
+        {
+          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        },
+        {
+          "id": "006698dd9d730d1e3a747fe3a98049a45f8b2803",
+          "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-06T17:02:04Z"
+        }
+      ],
+      "item_count": 4,
+      "score": 9990
     },
     {
       "story_id": "story_613f17e1",
@@ -1127,6 +1176,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_42b06277",
+      "title": "Prime Agent：一个具有自我改进能力的RLM代理",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "primary_url": "https://www.primeintellect.ai/blog/prime-agent",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "sources": [
+        {
+          "id": "b54ae3a9d9c208f7ffb17c0d45c4fb14ed8ec632",
+          "title": "Prime Agent：一个具有自我改进能力的RLM代理",
+          "url": "https://www.primeintellect.ai/blog/prime-agent",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T01:27:27.867000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_050800b4",
       "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
       "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
@@ -1387,56 +1458,24 @@
       "score": 9780
     },
     {
-      "story_id": "story_e1775d8d",
-      "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "openai.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "8e6f8531ea97ce6595b1d2ab685cb684369ff0d1",
-          "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T10:00:00Z"
-        },
-        {
-          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "125c52798ba5d13eeea63add39b10826497d82a9",
-          "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-06T17:02:04Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9780
-    },
-    {
-      "story_id": "story_07d3666b",
+      "story_id": "story_9154bbe3",
       "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
-      "primary_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+      "primary_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
       "source_count": 2,
       "source_names": [
         "TechCrunch",
         "Engadget"
       ],
       "sources": [
+        {
+          "id": "957d0283829ef370041523575e510d013075be92",
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T22:43:53Z"
+        },
         {
           "id": "6a85c04ab49ded9aab93afce849b3137f3dbe859",
           "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
@@ -1454,7 +1493,7 @@
           "published_at": "2026-08-06T21:46:26Z"
         }
       ],
-      "item_count": 2,
+      "item_count": 3,
       "score": 9770
     },
     {
@@ -1483,37 +1522,6 @@
           "source": "Ars Technica",
           "site_id": "techurls",
           "published_at": "2026-08-06T20:03:44Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
-    },
-    {
-      "story_id": "story_e81467cd",
-      "title": "DeepMind 表示其人工智能可以比其他人更早预测飓风",
-      "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier",
-      "primary_url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier",
-      "source_count": 2,
-      "source_names": [
-        "Wired",
-        "news.google.com"
-      ],
-      "sources": [
-        {
-          "id": "5c0a6b8d5833bf8676e234fc49ccdac70c23da9a",
-          "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-          "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T16:23:04Z"
-        },
-        {
-          "id": "effadd6f84c0bc86615c9b77f7657f3067325507",
-          "title": "DeepMind称其人工智能能比其他任何系统更早预测飓风 - WIRED",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjB6eXc5RVhZR1NvODNoNjJsNGxHeVR5dHhKWGJmMUpXakdrNXRyUGZYRHAzaURfZ3VyWjlIS3EtUHUzWXVySFlNRkdSM0traGRiOEJNeWJkazhjVUxYZGZ4M2lVNU11bFY1cXdVMkhFUWpZUHZ3VmJrRlcyZUtobGs1WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:16:52.873000Z"
         }
       ],
       "item_count": 2,
@@ -1749,6 +1757,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_037d999a",
+      "title": "ICE 的 DNA 收集增加，SpaceX 的火箭坠入月球，人工智能的强烈反对",
+      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
+      "primary_url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "fdbfba26fca640adc1b5c31476336f9527ffa848",
+          "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+          "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T19:30:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_f902de92",
       "title": "家长们面临的最大的人工智能账单是什么？",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_-final-dnrexp-260805-withrowe-chatbotact-060826?traffic_source=rss",
@@ -1809,6 +1839,28 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-08-06T17:39:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_59c0aa67",
+      "title": "Ditto 等 Z 世代约会应用放弃刷卡，转而采用人工智能配对",
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
+      "primary_url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "deea62e4c9c8404497616bc6ac88657d4a33d69c",
+          "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+          "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T15:53:03Z"
         }
       ],
       "item_count": 1,
@@ -1947,28 +1999,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_73f64f09",
-      "title": "Spotify 前员工筹集 1000 万美元，将人工智能引入电子商务建议",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
-      "primary_url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2a7af502981fc63ece2a2243fda61bcbcde05eb4",
-          "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_878cf2e7",
       "title": "本周欧盟人工智能法案生效的内容以及未生效的内容",
       "url": "https://www.aljazeera.com/news/2026/8/6/what-came-into-force-with-the-eus-ai-act-this-week-and-what-didnt?traffic_source=rss",
@@ -1985,6 +2015,28 @@
           "source": "Al Jazeera English",
           "site_id": "opmlrss",
           "published_at": "2026-08-06T12:45:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_bdd91b0d",
+      "title": "你现在可以要求谷歌地图的人工智能为你订餐",
+      "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
+      "primary_url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "42622f70008da8ef0ccdbadf8df48729cff009dd",
+          "title": "You can now ask Google Maps’ AI to order food for you",
+          "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T12:30:37Z"
         }
       ],
       "item_count": 1,
@@ -2475,6 +2527,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_7d732400",
+      "title": "OpenAI 称苹果的商业机密诉讼“烂透了”",
+      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "primary_url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "9183381efe67b10b554dc3fc341ec5b0da046698",
+          "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+          "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T09:33:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_ea8ccc2e",
       "title": "首席科学家离职，谷歌AI的派系之争终于结束",
       "url": "https://www.huxiu.com/article/4881177.html?f=rss",
@@ -2829,28 +2903,6 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-08-06T06:35:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_61e5f938",
-      "title": "与美国心理学会合作研究青少年心理健康和人工智能",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "primary_url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "6d511b02ea8dac73efbca0dd833e2b22ccfb3386",
-          "title": "Working with the American Psychological Association on youth mental health and AI",
-          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T06:00:00Z"
         }
       ],
       "item_count": 1,
@@ -3401,6 +3453,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_a55486a7",
+      "title": "从要求到行动：世界如何让 ChatGPT 发挥作用",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "primary_url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "d08a0add110f089a340b9edf1b0fac5fea599041",
+          "title": "From asking to doing: How the world is putting ChatGPT to work",
+          "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_62277c84",
       "title": "利用人工智能进行热带气旋业务预报",
       "url": "https://www.nature.com/articles/s41586-026-10953-2",
@@ -3550,22 +3624,53 @@
       "score": 9570
     },
     {
+      "story_id": "story_739aec95",
+      "title": "DeepMind称其人工智能能比其他任何系统更早预测飓风 - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjB6eXc5RVhZR1NvODNoNjJsNGxHeVR5dHhKWGJmMUpXakdrNXRyUGZYRHAzaURfZ3VyWjlIS3EtUHUzWXVySFlNRkdSM0traGRiOEJNeWJkazhjVUxYZGZ4M2lVNU11bFY1cXdVMkhFUWpZUHZ3VmJrRlcyZUtobGs1WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjB6eXc5RVhZR1NvODNoNjJsNGxHeVR5dHhKWGJmMUpXakdrNXRyUGZYRHAzaURfZ3VyWjlIS3EtUHUzWXVySFlNRkdSM0traGRiOEJNeWJkazhjVUxYZGZ4M2lVNU11bFY1cXdVMkhFUWpZUHZ3VmJrRlcyZUtobGs1WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "effadd6f84c0bc86615c9b77f7657f3067325507",
+          "title": "DeepMind称其人工智能能比其他任何系统更早预测飓风 - WIRED",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjB6eXc5RVhZR1NvODNoNjJsNGxHeVR5dHhKWGJmMUpXakdrNXRyUGZYRHAzaURfZ3VyWjlIS3EtUHUzWXVySFlNRkdSM0traGRiOEJNeWJkazhjVUxYZGZ4M2lVNU11bFY1cXdVMkhFUWpZUHZ3VmJrRlcyZUtobGs1WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T23:16:52.873000Z"
+        },
+        {
+          "id": "a673ae64589b9e92219f5417c87565cf8d775185",
+          "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+          "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-06T16:23:04Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_24353d58",
       "title": "vLLM 内部：高通量 LLM 推理系统剖析 (2025)",
       "url": "https://www.aleksagordic.com/blog/vllm",
       "primary_url": "https://www.aleksagordic.com/blog/vllm",
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "Hacker News"
       ],
       "sources": [
         {
-          "id": "0ce169501879e66071894be126738f1f19b68e13",
+          "id": "eab770089e012125733bd3ced98892627684c234",
           "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
           "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-06T21:30:21Z"
         },
         {
@@ -3672,6 +3777,28 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_2303a127",
+      "title": "Qwen3.8-Max 开源超大杯正式发布，如何让 AI 无感切换新模型",
+      "url": "https://juejin.cn/post/7669997158734184474",
+      "primary_url": "https://juejin.cn/post/7669997158734184474",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "04d31cb06d1577eae99575320a63fe301200baae",
+          "title": "Qwen3.8-Max 开源超大杯正式发布，如何让 AI 无感切换新模型",
+          "url": "https://juejin.cn/post/7669997158734184474",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-06T23:47:33.972000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_afac9726",
@@ -4004,28 +4131,6 @@
       "score": 7
     },
     {
-      "story_id": "story_037d999a",
-      "title": "ICE 的 DNA 收集增加，SpaceX 的火箭坠入月球，人工智能的强烈反对",
-      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
-      "primary_url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "4e4589c212eb294d85b110b88647894c09e2dce0",
-          "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-          "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:30:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_cb2619c2",
       "title": "PMI 通讯主管解释了为什么人工智能使企业网站比以往任何时候都更加重要",
       "url": "https://www.businessinsider.com/pmi-moira-gilchrist-cmo-insider-august-2026",
@@ -4252,15 +4357,15 @@
       "primary_url": "https://github.com/CopilotKit/channels-sdk",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "f9a9e6f3fdd6b11975f6d31c24a5cb3bc8eeef47",
+          "id": "032ba1c77e03bd47d3e0834e7b00bb5c2d5dbd53",
           "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
           "url": "https://github.com/CopilotKit/channels-sdk",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-06T16:05:51Z"
         }
       ],
@@ -4306,28 +4411,6 @@
           "source": "BBC News",
           "site_id": "techurls",
           "published_at": "2026-08-06T15:59:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_59c0aa67",
-      "title": "Ditto 等 Z 世代约会应用放弃刷卡，转而采用人工智能配对",
-      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
-      "primary_url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "a8da6fd444adcf69cc8323b2481a89cb4f034756",
-          "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-          "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T15:53:03Z"
         }
       ],
       "item_count": 1,
@@ -4620,6 +4703,28 @@
       "score": 7
     },
     {
+      "story_id": "story_73f64f09",
+      "title": "Spotify 前员工筹集 1000 万美元，将人工智能引入电子商务建议",
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
+      "primary_url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "f58e18a0e451cc2b989eade72eccfb2b3b7c5678",
+          "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-06T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_406422ad",
       "title": "独家： Mirendil 与 Google Cloud 签署价值超过 1 亿美元的协议，以扩展自我改进的人工智能",
       "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
@@ -4790,28 +4895,6 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-08-06T12:40:44.137000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bdd91b0d",
-      "title": "你现在可以要求谷歌地图的人工智能为你订餐",
-      "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
-      "primary_url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "61131ecce5a713d1e4dd1bc90c28f5cfb3163afe",
-          "title": "You can now ask Google Maps’ AI to order food for you",
-          "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T12:30:37Z"
         }
       ],
       "item_count": 1,
@@ -5318,28 +5401,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-06T09:40:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7d732400",
-      "title": "OpenAI 称苹果的商业机密诉讼“烂透了”",
-      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "primary_url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "ee961fcb72b66258cd3d8b73f6c0a66874516d67",
-          "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-          "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T09:33:11Z"
         }
       ],
       "item_count": 1,
@@ -5968,15 +6029,15 @@
       "primary_url": "https://github.com/pradipta/wallfacer",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "e5933f6de7dcc816a26a3633947bad888209fabd",
+          "id": "8a2dcf0fd7e5f7801dc3ee46b8363e05612cf33b",
           "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
           "url": "https://github.com/pradipta/wallfacer",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-06T03:52:56Z"
         }
       ],
@@ -6056,15 +6117,15 @@
       "primary_url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "a419fe9473f69298877e6968721fa19b43e68561",
+          "id": "ab444fecc9b5811d1d739381c2c36d28fcc9c353",
           "title": "LLMs won't break symmetric crypto",
           "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-06T01:39:06Z"
         }
       ],
@@ -6088,28 +6149,6 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-08-06T01:29:23.683000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_42b06277",
-      "title": "Prime Agent：一个具有自我改进能力的RLM代理",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "primary_url": "https://www.primeintellect.ai/blog/prime-agent",
-      "source_count": 1,
-      "source_names": [
-        "www.primeintellect.ai"
-      ],
-      "sources": [
-        {
-          "id": "c39a3f9f6aaca3269a1da4add68c8ff97dfef743",
-          "title": "Prime Agent：一个具有自我改进能力的RLM代理",
-          "url": "https://www.primeintellect.ai/blog/prime-agent",
-          "source": "www.primeintellect.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T01:27:27.867000Z"
         }
       ],
       "item_count": 1,
