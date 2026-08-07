@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T11:39:27.893323Z",
+  "generated_at": "2026-08-07T12:42:33.456980Z",
   "window_hours": 24,
-  "total_stories": 250,
+  "total_stories": 244,
   "stories": [
     {
       "story_id": "story_04dbcdd1",
@@ -118,14 +118,23 @@
       "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
       "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
+        "公众号：蚂蚁百灵（Ling）",
         "公众号：小红书技术（dots.llm）",
         "公众号：面壁智能（MiniCPM）",
         "公众号：火山引擎",
         "公众号：千问APP（阿里）"
       ],
       "sources": [
+        {
+          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T12:02:16Z"
+        },
         {
           "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
           "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
@@ -167,8 +176,8 @@
           "published_at": "2026-08-06T13:25:10Z"
         }
       ],
-      "item_count": 5,
-      "score": 9990
+      "item_count": 6,
+      "score": 10000
     },
     {
       "story_id": "story_e1775d8d",
@@ -179,7 +188,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "openai.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -199,11 +208,11 @@
           "published_at": "2026-08-06T23:01:28.628000Z"
         },
         {
-          "id": "125c52798ba5d13eeea63add39b10826497d82a9",
+          "id": "006698dd9d730d1e3a747fe3a98049a45f8b2803",
           "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
           "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-06T17:02:04Z"
         }
       ],
@@ -261,11 +270,11 @@
           "published_at": "2026-08-06T13:26:42Z"
         },
         {
-          "id": "ff6e84e0f8bf44c7ddae4d613e3a49c28cadd9fa",
+          "id": "db2dfe391b681ee0abf62920fe827d6aaea37b68",
           "title": "The messy politics behind Google’s big AI shakeup",
           "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
           "source": "The Verge",
-          "site_id": "opmlrss",
+          "site_id": "techurls",
           "published_at": "2026-08-06T13:26:42Z"
         }
       ],
@@ -1475,6 +1484,45 @@
       "score": 9770
     },
     {
+      "story_id": "story_9154bbe3",
+      "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+      "primary_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "957d0283829ef370041523575e510d013075be92",
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T22:43:53Z"
+        },
+        {
+          "id": "2eeb92e672bb0adf4298515742e587283c889c0c",
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-06T22:43:53Z"
+        },
+        {
+          "id": "77877cb316d57328ee796de23e80abe7c2a21f17",
+          "title": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
+          "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-08-06T21:46:26Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9770
+    },
+    {
       "story_id": "story_eb4c08e6",
       "title": "Anthropic 将设计自己的硬件来为 Claude 提供动力",
       "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team",
@@ -1513,7 +1561,7 @@
       "source_count": 2,
       "source_names": [
         "BBC World",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1525,11 +1573,11 @@
           "published_at": "2026-08-06T18:01:52Z"
         },
         {
-          "id": "105ad9be432c11d267ae09dd5615b1caae8e7f19",
+          "id": "13912f8247dd9655b574c4926040ad01a931f72c",
           "title": "Artificial Intelligence used to design new viruses",
           "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-07T06:31:15Z"
         }
       ],
@@ -1537,35 +1585,70 @@
       "score": 9770
     },
     {
-      "story_id": "story_e81467cd",
-      "title": "DeepMind 表示其人工智能可以比其他人更早预测飓风",
-      "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier",
-      "primary_url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier",
-      "source_count": 2,
+      "story_id": "story_c12f27b6",
+      "title": "哈佛大学教授：美国正在豪赌AI，但要是赌输了怎么办？",
+      "url": "https://www.huxiu.com/article/4881562.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881562.html?f=rss",
+      "source_count": 1,
       "source_names": [
-        "Wired",
-        "news.google.com"
+        "虎嗅"
       ],
       "sources": [
         {
-          "id": "5c0a6b8d5833bf8676e234fc49ccdac70c23da9a",
-          "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-          "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier",
-          "source": "Wired",
+          "id": "0fb1f3746806d1fa69e27865974f189763af224d",
+          "title": "哈佛大学教授：美国正在豪赌AI，但要是赌输了怎么办？",
+          "url": "https://www.huxiu.com/article/4881562.html?f=rss",
+          "source": "虎嗅",
           "site_id": "opmlrss",
-          "published_at": "2026-08-06T16:23:04Z"
-        },
-        {
-          "id": "effadd6f84c0bc86615c9b77f7657f3067325507",
-          "title": "DeepMind称其人工智能能比其他任何系统更早预测飓风 - WIRED",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjB6eXc5RVhZR1NvODNoNjJsNGxHeVR5dHhKWGJmMUpXakdrNXRyUGZYRHAzaURfZ3VyWjlIS3EtUHUzWXVySFlNRkdSM0traGRiOEJNeWJkazhjVUxYZGZ4M2lVNU11bFY1cXdVMkhFUWpZUHZ3VmJrRlcyZUtobGs1WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:16:52.873000Z"
+          "published_at": "2026-08-07T11:40:17Z"
         }
       ],
-      "item_count": 2,
-      "score": 9770
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_8b2f8519",
+      "title": "“实在撑不住了，”自助烤肉批量关门，低价模型失效了？",
+      "url": "https://www.huxiu.com/article/4881561.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881561.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "f45c39554c53fed9242c41c736c055be4a4a7301",
+          "title": "“实在撑不住了，”自助烤肉批量关门，低价模型失效了？",
+          "url": "https://www.huxiu.com/article/4881561.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T11:39:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_925644a7",
+      "title": "一年砸下110亿美元，比红杉还凶，白宫才是AI圈最猛投资人",
+      "url": "https://www.huxiu.com/article/4881555.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881555.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "9e8f1f7331bfc4236bbd4e08b338433e396ed620",
+          "title": "一年砸下110亿美元，比红杉还凶，白宫才是AI圈最猛投资人",
+          "url": "https://www.huxiu.com/article/4881555.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T11:06:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_d8b2b79d",
@@ -1584,6 +1667,28 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-08-07T11:00:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_938a5c10",
+      "title": "Jeff Dean最新YC现场访谈：构建人工智能的1%原则",
+      "url": "https://www.huxiu.com/article/4881552.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881552.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "63a9725f52888120aa9dd5fa94071169b5edefc2",
+          "title": "Jeff Dean最新YC现场访谈：构建人工智能的1%原则",
+          "url": "https://www.huxiu.com/article/4881552.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T10:53:22Z"
         }
       ],
       "item_count": 1,
@@ -2404,6 +2509,50 @@
       "score": 9720
     },
     {
+      "story_id": "story_6556a0fd",
+      "title": "为什么普通人不使用人工智能代理",
+      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
+      "primary_url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "9edcb6b7cefcfd5863bf98a809cbedcfe8a1f5de",
+          "title": "Why Normal People Aren’t Using AI Agents",
+          "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T19:55:45Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_037d999a",
+      "title": "ICE 的 DNA 收集增加，SpaceX 的火箭坠入月球，人工智能的强烈反对",
+      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
+      "primary_url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "fdbfba26fca640adc1b5c31476336f9527ffa848",
+          "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+          "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T19:30:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_f902de92",
       "title": "家长们面临的最大的人工智能账单是什么？",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_-final-dnrexp-260805-withrowe-chatbotact-060826?traffic_source=rss",
@@ -2427,7 +2576,7 @@
     },
     {
       "story_id": "story_055da198",
-      "title": "当人工智能“治疗师”提出建议时，加州立法者试图设定一些限制 - 美联社新闻",
+      "title": "当人工智能“治疗师”提出建议时，加州立法者试图设定一些限制 - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2JOVzdRZ2h6eU9yaERJa2txVXQ1bkFLSTA3N2lQajJZbkFxLVg2Y2JOaUFJeDJlSV9tZng4S0dVeTQyb2dGMVI3RXgtOGFYV29VcC1pT0JBcE5TczJrTWNXcHpxbFJjejk2djRRVG5XdTlieExQX1BIclRlUzA0TXF5MWNXUzdtaFFMYjlBRTVhSDVIWFV6RFduYjJlV2RoaF82OTdaVUwtTzNsckE?oc=5",
       "primary_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2JOVzdRZ2h6eU9yaERJa2txVXQ1bkFLSTA3N2lQajJZbkFxLVg2Y2JOaUFJeDJlSV9tZng4S0dVeTQyb2dGMVI3RXgtOGFYV29VcC1pT0JBcE5TczJrTWNXcHpxbFJjejk2djRRVG5XdTlieExQX1BIclRlUzA0TXF5MWNXUzdtaFFMYjlBRTVhSDVIWFV6RFduYjJlV2RoaF82OTdaVUwtTzNsckE?oc=5",
       "source_count": 1,
@@ -2442,9 +2591,17 @@
           "source": "AP World News",
           "site_id": "opmlrss",
           "published_at": "2026-08-06T18:43:12Z"
+        },
+        {
+          "id": "09c64d27230ef99ce468d3e1d557be408a622cf5",
+          "title": "As AI ‘therapists’ dish out advice, California lawmakers try to set some limits - apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2JOVzdRZ2h6eU9yaERJa2txVXQ1bkFLSTA3N2lQajJZbkFxLVg2Y2JOaUFJeDJlSV9tZng4S0dVeTQyb2dGMVI3RXgtOGFYV29VcC1pT0JBcE5TczJrTWNXcHpxbFJjejk2djRRVG5XdTlieExQX1BIclRlUzA0TXF5MWNXUzdtaFFMYjlBRTVhSDVIWFV6RFduYjJlV2RoaF82OTdaVUwtTzNsckE?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T18:43:12Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -2486,28 +2643,6 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-08-06T17:34:42Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_59c0aa67",
-      "title": "Ditto 等 Z 世代约会应用放弃刷卡，转而采用人工智能配对",
-      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
-      "primary_url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "deea62e4c9c8404497616bc6ac88657d4a33d69c",
-          "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-          "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T15:53:03Z"
         }
       ],
       "item_count": 1,
@@ -2668,6 +2803,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_406422ad",
+      "title": "独家： Mirendil 与 Google Cloud 签署价值超过 1 亿美元的协议，以扩展自我改进的人工智能",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
+      "primary_url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "78122d445fd25d3664ed1465d2906932741efed7",
+          "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-06T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_878cf2e7",
       "title": "本周欧盟人工智能法案生效的内容以及未生效的内容",
       "url": "https://www.aljazeera.com/news/2026/8/6/what-came-into-force-with-the-eus-ai-act-this-week-and-what-didnt?traffic_source=rss",
@@ -2684,116 +2841,6 @@
           "source": "Al Jazeera English",
           "site_id": "opmlrss",
           "published_at": "2026-08-06T12:45:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c48c28ba",
-      "title": "谷歌地图增加了代理功能，包括食品订购和酒店预订",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings",
-      "primary_url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "bab523c3861abc2911419b11d25d5ae0d4d9e93e",
-          "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-          "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T12:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_5c5acf1b",
-      "title": "科学家的AI纯真年代结束了",
-      "url": "https://www.huxiu.com/article/4881245.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4881245.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "6160969f1a4bbb7c876d624e1f071874fe60063b",
-          "title": "科学家的AI纯真年代结束了",
-          "url": "https://www.huxiu.com/article/4881245.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T12:22:42Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e7b7f8dd",
-      "title": "经过测试和审查的 5 款最佳人工智能笔记工具 (2026)",
-      "url": "https://www.wired.com/gallery/best-ai-notetakers",
-      "primary_url": "https://www.wired.com/gallery/best-ai-notetakers",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "4688412b87f7b79d2dadd1b96ad9aae060aff50c",
-          "title": "5 Best AI Notetakers (2026), Tested and Reviewed",
-          "url": "https://www.wired.com/gallery/best-ai-notetakers",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T12:02:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a0ac2a7e",
-      "title": "字节年内二开全员会：承认语言模型落后，转向To B，重仓年轻人",
-      "url": "https://www.tmtpost.com/8094419.html",
-      "primary_url": "https://www.tmtpost.com/8094419.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "70621a67e5d9c4e51ae8811676a58354bf9217dd",
-          "title": "字节年内二开全员会：承认语言模型落后，转向To B，重仓年轻人",
-          "url": "https://www.tmtpost.com/8094419.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a7432cee",
-      "title": "DeepSeek、腾讯旗下公司等获宇树科技战略配售",
-      "url": "https://m.thepaper.cn/detail/33731336",
-      "primary_url": "https://m.thepaper.cn/detail/33731336",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "0f7a1369aef56690e036195473f276609cf3b0e6",
-          "title": "DeepSeek、腾讯旗下公司等获宇树科技战略配售",
-          "url": "https://m.thepaper.cn/detail/33731336",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T11:56:02Z"
         }
       ],
       "item_count": 1,
@@ -2887,7 +2934,7 @@
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2899,11 +2946,11 @@
           "published_at": "2026-08-07T00:37:30Z"
         },
         {
-          "id": "56a33b30a886913bd37741d22b59ec5727dd1d0a",
+          "id": "9f763516ba297ede8370d591e1f64169270e1782",
           "title": "New Orleans will use AI to answer 911 calls instead of a human",
           "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-07T00:37:30Z"
         }
       ],
@@ -2911,42 +2958,34 @@
       "score": 9570
     },
     {
-      "story_id": "story_9154bbe3",
-      "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
-      "primary_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+      "story_id": "story_739aec95",
+      "title": "DeepMind称其人工智能能比其他任何系统更早预测飓风 - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjB6eXc5RVhZR1NvODNoNjJsNGxHeVR5dHhKWGJmMUpXakdrNXRyUGZYRHAzaURfZ3VyWjlIS3EtUHUzWXVySFlNRkdSM0traGRiOEJNeWJkazhjVUxYZGZ4M2lVNU11bFY1cXdVMkhFUWpZUHZ3VmJrRlcyZUtobGs1WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjB6eXc5RVhZR1NvODNoNjJsNGxHeVR5dHhKWGJmMUpXakdrNXRyUGZYRHAzaURfZ3VyWjlIS3EtUHUzWXVySFlNRkdSM0traGRiOEJNeWJkazhjVUxYZGZ4M2lVNU11bFY1cXdVMkhFUWpZUHZ3VmJrRlcyZUtobGs1WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
-        "Engadget"
+        "news.google.com",
+        "Wired"
       ],
       "sources": [
         {
-          "id": "04751a57c754c107c6d9c04983eebcf55669623d",
-          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T22:43:53Z"
+          "id": "effadd6f84c0bc86615c9b77f7657f3067325507",
+          "title": "DeepMind称其人工智能能比其他任何系统更早预测飓风 - WIRED",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjB6eXc5RVhZR1NvODNoNjJsNGxHeVR5dHhKWGJmMUpXakdrNXRyUGZYRHAzaURfZ3VyWjlIS3EtUHUzWXVySFlNRkdSM0traGRiOEJNeWJkazhjVUxYZGZ4M2lVNU11bFY1cXdVMkhFUWpZUHZ3VmJrRlcyZUtobGs1WQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T23:16:52.873000Z"
         },
         {
-          "id": "2eeb92e672bb0adf4298515742e587283c889c0c",
-          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
-          "source": "TechCrunch",
+          "id": "a673ae64589b9e92219f5417c87565cf8d775185",
+          "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+          "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier",
+          "source": "Wired",
           "site_id": "techurls",
-          "published_at": "2026-08-06T22:43:53Z"
-        },
-        {
-          "id": "77877cb316d57328ee796de23e80abe7c2a21f17",
-          "title": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
-          "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T21:46:26Z"
+          "published_at": "2026-08-06T16:23:04Z"
         }
       ],
-      "item_count": 3,
+      "item_count": 2,
       "score": 9570
     },
     {
@@ -2981,35 +3020,172 @@
       "score": 9570
     },
     {
-      "story_id": "story_b9be9e54",
-      "title": "在4万次游戏运行中，人类在批准AI代理的指令时，每3个威胁中就有1个被遗漏",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats",
-      "primary_url": "https://scalex.dev/blog/ai-agent-permissions-stats",
-      "source_count": 2,
+      "story_id": "story_fd5ece9f",
+      "title": "PrimeIntellect-ai /      prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "primary_url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source_count": 1,
       "source_names": [
-        "scalex.dev",
-        "Hacker News"
+        "github"
       ],
       "sources": [
         {
-          "id": "2bf3b627d593403848f5ff199dc875835d779e20",
-          "title": "在4万次游戏运行中，人类在批准AI代理的指令时，每3个威胁中就有1个被遗漏",
-          "url": "https://scalex.dev/blog/ai-agent-permissions-stats",
-          "source": "scalex.dev",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T15:19:31.962000Z"
-        },
-        {
-          "id": "86e28424d4a5351fe816bc5c935d5c83c1c1f7a8",
-          "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-          "url": "https://scalex.dev/blog/ai-agent-permissions-stats",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T11:58:07Z"
+          "id": "02c1bd4c7b7461f803a135d0d361d6d93bab37a0",
+          "title": "PrimeIntellect-ai /      prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "source": "github",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T12:28:32.820000Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_125010e3",
+      "title": "chenyme /      grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "primary_url": "https://github.com/chenyme/grok2api",
+      "source_count": 1,
+      "source_names": [
+        "github"
+      ],
+      "sources": [
+        {
+          "id": "a4b53070b577b3e4c8e5d4db3160d4d11969dc87",
+          "title": "chenyme /      grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "source": "github",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T12:28:32.820000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_aab2fba2",
+      "title": "改进 ChatGPT 中的 GPT-5.6 Sol，扩展免费用户的 GPT-5.6 Luna 访问权限",
+      "url": "https://news.ycombinator.com/item?id=49199357",
+      "primary_url": "https://news.ycombinator.com/item?id=49199357",
+      "source_count": 1,
+      "source_names": [
+        "hackernews"
+      ],
+      "sources": [
+        {
+          "id": "f11604aac7e0dbb0c6d6dc8ed5b0f1041b834450",
+          "title": "Generative \"AI\": The Guitar Hero of Creativity",
+          "url": "https://news.ycombinator.com/item?id=49207770",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T12:27:22.808000Z"
+        },
+        {
+          "id": "29c1e474f473371abaf5dacde3d03a387101f281",
+          "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+          "url": "https://news.ycombinator.com/item?id=49162299",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T10:17:31.908000Z"
+        },
+        {
+          "id": "6d2a696bf9757defaf0210ef795a03f181f62c49",
+          "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+          "url": "https://news.ycombinator.com/item?id=49204546",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T08:08:48.507000Z"
+        },
+        {
+          "id": "60b7d4bd5166b8cf47d88606c5f62dd3aca1d1c6",
+          "title": "Anthropic CEO reportedly worried new hires only care about money",
+          "url": "https://news.ycombinator.com/item?id=49206115",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T06:05:30.018000Z"
+        },
+        {
+          "id": "aa5cb3c6dd0e1a404fea84f78f3ffcb6a73cff38",
+          "title": "Learning to fly FPV drones with AI flight coach",
+          "url": "https://news.ycombinator.com/item?id=49161803",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T04:23:01.779000Z"
+        },
+        {
+          "id": "e4a5a650c891155673c829224efc8d56d14768c2",
+          "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+          "url": "https://news.ycombinator.com/item?id=49199357",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-06T23:38:03.065000Z"
+        },
+        {
+          "id": "d253261d73a4658ccf3fba5698e02dcb4b7a060b",
+          "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+          "url": "https://news.ycombinator.com/item?id=49202852",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-06T23:38:03.065000Z"
+        },
+        {
+          "id": "0b5c10fe2f04d652ede028790c899a0b16206321",
+          "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+          "url": "https://news.ycombinator.com/item?id=49200652",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-06T23:38:03.065000Z"
+        },
+        {
+          "id": "415a2eedae23e3d33460541a1708178ded44e55b",
+          "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+          "url": "https://news.ycombinator.com/item?id=49198583",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-06T23:38:03.065000Z"
+        },
+        {
+          "id": "e299b2e6dc588c42679463c7d6e886b51542b6f9",
+          "title": "DeepSeek planning to significantly raise prices",
+          "url": "https://news.ycombinator.com/item?id=49197005",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-06T15:08:03.969000Z"
+        },
+        {
+          "id": "86155ead337c1affb00b7a78a7386d9fb2092a6d",
+          "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+          "url": "https://news.ycombinator.com/item?id=49195468",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-06T15:08:03.969000Z"
+        }
+      ],
+      "item_count": 11,
+      "score": 7
+    },
+    {
+      "story_id": "story_99ac6597",
+      "title": "Google Sheets 的新 Gemini 功能终于让我了解了我的财务状况",
+      "url": "https://www.androidpolice.com/google-sheets-new-gemini-feature-finally-made-me-understand-my-finances",
+      "primary_url": "https://www.androidpolice.com/google-sheets-new-gemini-feature-finally-made-me-understand-my-finances",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "9e2a019244100ae02121095170ba4f3d66e487cc",
+          "title": "Google Sheets' new Gemini feature finally made me understand my finances",
+          "url": "https://www.androidpolice.com/google-sheets-new-gemini-feature-finally-made-me-understand-my-finances",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T12:15:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_724ab43f",
@@ -3251,100 +3427,6 @@
         }
       ],
       "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_aab2fba2",
-      "title": "改进 ChatGPT 中的 GPT-5.6 Sol，扩展免费用户的 GPT-5.6 Luna 访问权限",
-      "url": "https://news.ycombinator.com/item?id=49199357",
-      "primary_url": "https://news.ycombinator.com/item?id=49199357",
-      "source_count": 1,
-      "source_names": [
-        "hackernews"
-      ],
-      "sources": [
-        {
-          "id": "29c1e474f473371abaf5dacde3d03a387101f281",
-          "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-          "url": "https://news.ycombinator.com/item?id=49162299",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T10:17:31.908000Z"
-        },
-        {
-          "id": "6d2a696bf9757defaf0210ef795a03f181f62c49",
-          "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-          "url": "https://news.ycombinator.com/item?id=49204546",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T08:08:48.507000Z"
-        },
-        {
-          "id": "60b7d4bd5166b8cf47d88606c5f62dd3aca1d1c6",
-          "title": "Anthropic CEO reportedly worried new hires only care about money",
-          "url": "https://news.ycombinator.com/item?id=49206115",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T06:05:30.018000Z"
-        },
-        {
-          "id": "aa5cb3c6dd0e1a404fea84f78f3ffcb6a73cff38",
-          "title": "Learning to fly FPV drones with AI flight coach",
-          "url": "https://news.ycombinator.com/item?id=49161803",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T04:23:01.779000Z"
-        },
-        {
-          "id": "e4a5a650c891155673c829224efc8d56d14768c2",
-          "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "url": "https://news.ycombinator.com/item?id=49199357",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-06T23:38:03.065000Z"
-        },
-        {
-          "id": "d253261d73a4658ccf3fba5698e02dcb4b7a060b",
-          "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-          "url": "https://news.ycombinator.com/item?id=49202852",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-06T23:38:03.065000Z"
-        },
-        {
-          "id": "0b5c10fe2f04d652ede028790c899a0b16206321",
-          "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-          "url": "https://news.ycombinator.com/item?id=49200652",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-06T23:38:03.065000Z"
-        },
-        {
-          "id": "415a2eedae23e3d33460541a1708178ded44e55b",
-          "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
-          "url": "https://news.ycombinator.com/item?id=49198583",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-06T23:38:03.065000Z"
-        },
-        {
-          "id": "e299b2e6dc588c42679463c7d6e886b51542b6f9",
-          "title": "DeepSeek planning to significantly raise prices",
-          "url": "https://news.ycombinator.com/item?id=49197005",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-06T15:08:03.969000Z"
-        },
-        {
-          "id": "86155ead337c1affb00b7a78a7386d9fb2092a6d",
-          "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-          "url": "https://news.ycombinator.com/item?id=49195468",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-06T15:08:03.969000Z"
-        }
-      ],
-      "item_count": 10,
       "score": 7
     },
     {
@@ -3678,6 +3760,28 @@
       "score": 7
     },
     {
+      "story_id": "story_b5fbb149",
+      "title": "生成“AI”：创造力的吉他英雄",
+      "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity",
+      "primary_url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "e97b0e33887a4ef0f86429818f2c2a391648489f",
+          "title": "Generative \"AI\": The Guitar Hero of Creativity",
+          "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T09:07:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_7aa27452",
       "title": "Sources: Google's AI shakeup is a seismic shift in the works for months and cements Sergey Brin's influence, after execs became frustrated with Demis Hassabis (Financial Times)",
       "url": "https://www.techmeme.com/260807/p5",
@@ -3992,15 +4096,15 @@
       "primary_url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "e65e266bc4e30d823627d721547a3d0998410715",
+          "id": "42907b1d4c3c102868cb2bfa0b06b6875ef55564",
           "title": "Anthropic CEO reportedly worried new hires only care about money",
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-07T05:15:27Z"
         }
       ],
@@ -4382,28 +4486,6 @@
       "score": 7
     },
     {
-      "story_id": "story_f2c0761c",
-      "title": "OpenAI 和四家竞争对手刚刚就人工智能代理的一项标准达成一致",
-      "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
-      "primary_url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "382619f9c1e43698e7eb11c53ff1afe2b0100e18",
-          "title": "OpenAI and four rivals just agreed on one standard for AI agents",
-          "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-06T22:21:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_927d3e80",
       "title": "Sources: Canva slashed revenue growth forecast as heavy use of new AI features drove up costs and slowed their rollout, while more Canva users turned to ChatGPT (The Information)",
       "url": "https://www.techmeme.com/260806/p51",
@@ -4668,28 +4750,6 @@
       "score": 7
     },
     {
-      "story_id": "story_6556a0fd",
-      "title": "为什么普通人不使用人工智能代理",
-      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
-      "primary_url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "fef52dacfe9862108fac8693c8b78531a2dcb477",
-          "title": "Why Normal People Aren’t Using AI Agents",
-          "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:55:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_31266520",
       "title": "Docs: US data labeling companies, like Surge AI and Mercor, that sell training datasets to US AI labs and the government are also selling them to Chinese labs (Anna Tong/Forbes)",
       "url": "https://www.techmeme.com/260806/p42",
@@ -4704,28 +4764,6 @@
           "title": "Docs: US data labeling companies, like Surge AI and Mercor, that sell training datasets to US AI labs and the government are also selling them to Chinese labs (Anna Tong/Forbes)",
           "url": "https://www.techmeme.com/260806/p42",
           "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:30:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_037d999a",
-      "title": "ICE 的 DNA 收集增加，SpaceX 的火箭坠入月球，人工智能的强烈反对",
-      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
-      "primary_url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "4e4589c212eb294d85b110b88647894c09e2dce0",
-          "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-          "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
-          "source": "Wired",
           "site_id": "techurls",
           "published_at": "2026-08-06T19:30:46Z"
         }
@@ -4932,6 +4970,28 @@
       "score": 7
     },
     {
+      "story_id": "story_f2c0761c",
+      "title": "OpenAI 和四家竞争对手刚刚就人工智能代理的一项标准达成一致",
+      "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+      "primary_url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "d35a9682624a01dcd3ab8c6e6ba364c72fa7e554",
+          "title": "OpenAI and four rivals just agreed on one standard for AI agents",
+          "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-06T18:00:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_42e4ca25",
       "title": "Suno 正在添加音频水印，以便更容易识别人工智能生成的歌曲",
       "url": "https://www.engadget.com/2231870/suno-adding-audio-watermarks-ai-generated-songs-identifiable",
@@ -5092,15 +5152,15 @@
       "primary_url": "https://github.com/CopilotKit/channels-sdk",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "f9a9e6f3fdd6b11975f6d31c24a5cb3bc8eeef47",
+          "id": "032ba1c77e03bd47d3e0834e7b00bb5c2d5dbd53",
           "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
           "url": "https://github.com/CopilotKit/channels-sdk",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-06T16:05:51Z"
         }
       ],
@@ -5146,6 +5206,28 @@
           "source": "BBC News",
           "site_id": "techurls",
           "published_at": "2026-08-06T15:59:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_59c0aa67",
+      "title": "Ditto 等 Z 世代约会应用放弃刷卡，转而采用人工智能配对",
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
+      "primary_url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "a8da6fd444adcf69cc8323b2481a89cb4f034756",
+          "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+          "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-06T15:53:03Z"
         }
       ],
       "item_count": 1,
@@ -5212,6 +5294,28 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-08-06T15:22:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b9be9e54",
+      "title": "在4万次游戏运行中，人类在批准AI代理的指令时，每3个威胁中就有1个被遗漏",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats",
+      "primary_url": "https://scalex.dev/blog/ai-agent-permissions-stats",
+      "source_count": 1,
+      "source_names": [
+        "scalex.dev"
+      ],
+      "sources": [
+        {
+          "id": "2bf3b627d593403848f5ff199dc875835d779e20",
+          "title": "在4万次游戏运行中，人类在批准AI代理的指令时，每3个威胁中就有1个被遗漏",
+          "url": "https://scalex.dev/blog/ai-agent-permissions-stats",
+          "source": "scalex.dev",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T15:19:31.962000Z"
         }
       ],
       "item_count": 1,
@@ -5482,28 +5586,6 @@
       "score": 7
     },
     {
-      "story_id": "story_406422ad",
-      "title": "独家： Mirendil 与 Google Cloud 签署价值超过 1 亿美元的协议，以扩展自我改进的人工智能",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
-      "primary_url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1dc9b6a2dc084315606c1b844c0179beaeec10fc",
-          "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-          "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_2f5b9452",
       "title": "Significant-Gravitas /      AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
@@ -5586,204 +5668,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-06T12:42:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f85055ce",
-      "title": "别光会用 Skill，不会写等于白搭：从规范到原理，手把手教你给 AI Agent 造技能",
-      "url": "https://juejin.cn/post/7669744437334622208",
-      "primary_url": "https://juejin.cn/post/7669744437334622208",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "50cda9e9843ed25667e976b6bcd05794a161932f",
-          "title": "别光会用 Skill，不会写等于白搭：从规范到原理，手把手教你给 AI Agent 造技能",
-          "url": "https://juejin.cn/post/7669744437334622208",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-06T12:40:53.448000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_432c145e",
-      "title": "Brandfetch MCP",
-      "url": "https://www.producthunt.com/products/brandfetch",
-      "primary_url": "https://www.producthunt.com/products/brandfetch",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "15cc9741acd8c93c521f9fda78a701e1f0e0ca5c",
-          "title": "Brandfetch MCP",
-          "url": "https://www.producthunt.com/products/brandfetch",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-06T12:40:44.137000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4d4ec6a0",
-      "title": "Ticketdesk AI",
-      "url": "https://www.producthunt.com/products/ticketdesk-ai",
-      "primary_url": "https://www.producthunt.com/products/ticketdesk-ai",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "3f2b900e48bbe5841d575bffc49f95004d2d1627",
-          "title": "Ticketdesk AI",
-          "url": "https://www.producthunt.com/products/ticketdesk-ai",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-06T12:40:44.137000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bdd91b0d",
-      "title": "你现在可以要求谷歌地图的人工智能为你订餐",
-      "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
-      "primary_url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "61131ecce5a713d1e4dd1bc90c28f5cfb3163afe",
-          "title": "You can now ask Google Maps’ AI to order food for you",
-          "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T12:30:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dc74b3b4",
-      "title": "Unitree的IPO可能会使中国机器人冠军的估值达到70亿美元或更多",
-      "url": "https://thenextweb.com/news/unitree-shanghai-ipo-valuation-50bn-yuan",
-      "primary_url": "https://thenextweb.com/news/unitree-shanghai-ipo-valuation-50bn-yuan",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "a67252c3e11c12560a152e9b6db4ebe8840895ff",
-          "title": "Unitree’s IPO could value China’s robot champion at $7bn or more",
-          "url": "https://thenextweb.com/news/unitree-shanghai-ipo-valuation-50bn-yuan",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T12:30:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_85d8b54b",
-      "title": "WindBorne 的人工智能超越了政府的天气预报。从他们身上赚钱是更难的问题",
-      "url": "https://thenextweb.com/news/windborne-37m-series-b-weather-ai-balloons",
-      "primary_url": "https://thenextweb.com/news/windborne-37m-series-b-weather-ai-balloons",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "7ce0c20d14ba6dbe881f9283a4475e0123f81c82",
-          "title": "WindBorne’s AI beats the government’s weather forecasts. Making money from them is the harder problem",
-          "url": "https://thenextweb.com/news/windborne-37m-series-b-weather-ai-balloons",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T12:16:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_79704503",
-      "title": "Meta 声称其自己的人工智能在测试过程中也入侵了第三方服务",
-      "url": "https://www.engadget.com/2231446/meta-ai-model-hacked-third-party-irregular",
-      "primary_url": "https://www.engadget.com/2231446/meta-ai-model-hacked-third-party-irregular",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "6f52fe7a8c4060d736ad291a62cf4b860c3219f7",
-          "title": "Meta claims its own AI also hacked into a third-party service during testing",
-          "url": "https://www.engadget.com/2231446/meta-ai-model-hacked-third-party-irregular",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T12:08:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6142088d",
-      "title": "柏林莫斯成为押注“可控”金融人工智能的独角兽",
-      "url": "https://thenextweb.com/news/moss-berlin-unicorn-30m-series-c-finance-ai",
-      "primary_url": "https://thenextweb.com/news/moss-berlin-unicorn-30m-series-c-finance-ai",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "df6b7ee099d45034b8e73e212562351f0118f5d6",
-          "title": "Berlin’s Moss becomes a unicorn betting on ‘controllable’ finance AI",
-          "url": "https://thenextweb.com/news/moss-berlin-unicorn-30m-series-c-finance-ai",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T12:04:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_90df372f",
-      "title": "Filing: Hangzhou-based Unitree Robotics prices its Shanghai IPO at ~$22/share, aiming to sell 40.4M shares to raise $904M; Unitree shipped 5,500+ robots in 2025 (Bloomberg)",
-      "url": "https://www.techmeme.com/260806/p17",
-      "primary_url": "https://www.techmeme.com/260806/p17",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "719a3d524b7bb4a4884cd7b391aa02a47580c605",
-          "title": "Filing: Hangzhou-based Unitree Robotics prices its Shanghai IPO at ~$22/share, aiming to sell 40.4M shares to raise $904M; Unitree shipped 5,500+ robots in 2025 (Bloomberg)",
-          "url": "https://www.techmeme.com/260806/p17",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T11:40:01Z"
         }
       ],
       "item_count": 1,
