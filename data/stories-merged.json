@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T18:42:28.444875Z",
+  "generated_at": "2026-08-07T19:45:53.974343Z",
   "window_hours": 24,
-  "total_stories": 242,
+  "total_stories": 239,
   "stories": [
     {
       "story_id": "story_420b06b9",
@@ -172,6 +172,37 @@
       "score": 10000
     },
     {
+      "story_id": "story_231ac941",
+      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+      "url": "https://blog.cloudflare.com/kitesurf",
+      "primary_url": "https://blog.cloudflare.com/kitesurf",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T18:54:34.746000Z"
+        },
+        {
+          "id": "61913009bbc58b6274b14cf61cc1a177a22d2efd",
+          "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-07T10:42:07Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
       "story_id": "story_e1775d8d",
       "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
@@ -201,6 +232,28 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_cf3be4e6",
+      "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
+      "url": "https://x.com/OpenAI/status/2085801349866729975",
+      "primary_url": "https://x.com/OpenAI/status/2085801349866729975",
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "sources": [
+        {
+          "id": "de7bec17fc19aa883088e7e3196c1edf80764cd4",
+          "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
+          "url": "https://x.com/OpenAI/status/2085801349866729975",
+          "source": "X：OpenAI (@OpenAI)",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T18:52:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_cacbbd76",
@@ -995,59 +1048,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_f56dccdb",
-      "title": "科学家首次用AI制造新病毒",
-      "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
-      "primary_url": "https://x.com/AISafetyMemes/status/2085447739320758622",
-      "source_count": 1,
-      "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
-      ],
-      "sources": [
-        {
-          "id": "c854f908f3eb301595b33cc3fdbbf6a78d5d1024",
-          "title": "科学家首次用AI制造新病毒",
-          "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T19:27:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_02f53e1b",
-      "title": "ChatGPT 的免费用户现在可以进行无限制的文本聊天，由 GPT-5.6 Luna 提供支持 https://t.co/eZq1e1hTQX",
-      "url": "https://x.com/thsottiaux/status/2085610231707623750",
-      "primary_url": "https://x.com/thsottiaux/status/2085610231707623750",
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "Mac Rumors"
-      ],
-      "sources": [
-        {
-          "id": "a3fffe18588f9d7e47c2cb9e63311afeefca526f",
-          "title": "Free users of ChatGPT now have unlimited text chats, powered by GPT-5.6 Luna https://t.co/eZq1e1hTQX",
-          "url": "https://x.com/thsottiaux/status/2085610231707623750",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-07T06:13:22Z"
-        },
-        {
-          "id": "df3d38acd6f0054c3b9608749a7944db092f76ca",
-          "title": "Free ChatGPT Users Get Unlimited Text Chats and GPT-5.6 Luna",
-          "url": "https://www.macrumors.com/2026/08/06/chatgpt-free-unlimited-text-chats",
-          "source": "Mac Rumors",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T18:52:27Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9870
-    },
-    {
       "story_id": "story_01060cd9",
       "title": "the ai-devblog skill elicits what YOU think the story is, and works with you to trace what you read and report it faithfully. also does visuals... https://t.co/629UcBES0e",
       "url": "https://x.com/swyx/status/2085616830786543667",
@@ -1064,6 +1064,28 @@
           "source": "Follow Builders · X · Swyx",
           "site_id": "followbuilders",
           "published_at": "2026-08-07T06:39:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_02f53e1b",
+      "title": "ChatGPT 的免费用户现在可以进行无限制的文本聊天，由 GPT-5.6 Luna 提供支持 https://t.co/eZq1e1hTQX",
+      "url": "https://x.com/thsottiaux/status/2085610231707623750",
+      "primary_url": "https://x.com/thsottiaux/status/2085610231707623750",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux"
+      ],
+      "sources": [
+        {
+          "id": "a3fffe18588f9d7e47c2cb9e63311afeefca526f",
+          "title": "Free users of ChatGPT now have unlimited text chats, powered by GPT-5.6 Luna https://t.co/eZq1e1hTQX",
+          "url": "https://x.com/thsottiaux/status/2085610231707623750",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-07T06:13:22Z"
         }
       ],
       "item_count": 1,
@@ -1180,10 +1202,10 @@
       "score": 9820
     },
     {
-      "story_id": "story_07d3666b",
+      "story_id": "story_9154bbe3",
       "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
-      "primary_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+      "primary_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
       "source_count": 2,
       "source_names": [
         "TechCrunch",
@@ -1191,17 +1213,17 @@
       ],
       "sources": [
         {
-          "id": "6a85c04ab49ded9aab93afce849b3137f3dbe859",
-          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
+          "id": "957d0283829ef370041523575e510d013075be92",
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-08-06T22:43:53Z"
         },
         {
-          "id": "04751a57c754c107c6d9c04983eebcf55669623d",
-          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+          "id": "2eeb92e672bb0adf4298515742e587283c889c0c",
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400",
           "source": "TechCrunch",
           "site_id": "techurls",
           "published_at": "2026-08-06T22:43:53Z"
@@ -1250,6 +1272,58 @@
       "score": 9770
     },
     {
+      "story_id": "story_73ddfbd0",
+      "title": "看 Roku 的 AI 频道就像从槽里吃饭",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "primary_url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "14b9f2f5b81d80a2d45d26c1dc0d68eb68b563e0",
+          "title": "Watching Roku’s AI channel is like eating from a trough",
+          "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T18:59:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_65308bcb",
+      "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "69442b455e5e9339db6c34aa8653ec3d781eb689",
+          "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T18:40:34Z"
+        },
+        {
+          "id": "f11ba5ec225d341c8d4856109d2806c7968aa821",
+          "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T18:40:34Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9720
+    },
+    {
       "story_id": "story_aeaec4f0",
       "title": "迪士尼+尝试新的人工智能搜索",
       "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
@@ -1266,6 +1340,28 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-08-07T17:53:44Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_4dc258c8",
+      "title": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+      "primary_url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "1da3719b40a914945098cac7fc118d4c819240f6",
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T17:36:22Z"
         }
       ],
       "item_count": 1,
@@ -1302,50 +1398,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_93f793ec",
-      "title": "应对关键网络能力的下一个前沿",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "primary_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "e678580a57098cb04f46bb0c8bf7063390b2318e",
-          "title": "Responding to the next frontier of critical cyber capabilities",
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T15:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_56234561",
-      "title": "研究人员称，中国人工智能模型 Kimi 逃脱了网络安全测试环境",
-      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say",
-      "primary_url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "ec4ac5c4800be4cec7eb55ac5936f2e8b83594f1",
-          "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-          "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T14:28:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_bb3ea04b",
       "title": "Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能",
       "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
@@ -1362,6 +1414,28 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-08-07T14:22:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_ef947c15",
+      "title": "科学家利用人工智能创造了 16 种新病毒",
+      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
+      "primary_url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "69f672ba8fbc477febc67412db40518b789240cb",
+          "title": "Scientists Used AI to Create 16 New Viruses",
+          "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T14:13:57Z"
         }
       ],
       "item_count": 1,
@@ -1736,28 +1810,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-07T10:19:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_84b8ae9f",
-      "title": "最热门的新型人工智能聊天机器人只是一个回答你问题的人",
-      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
-      "primary_url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "33a6dc2f48dc401caa2177b8b86c2d255a4b3636",
-          "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-          "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2270,28 +2322,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_b01134bb",
-      "title": "中国最强大的人工智能模型之一也逃脱了遏制",
-      "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox",
-      "primary_url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "a95d3bbe08f1e0a505b201e63e7be9728cb6c7b6",
-          "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T01:16:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_2b3f9e0f",
       "title": "谷歌AI大地震：一天失去四位核心科学家，4.6万亿美元巨头的重构之路",
       "url": "https://www.tmtpost.com/8094778.html",
@@ -2490,77 +2520,25 @@
       "score": 9720
     },
     {
-      "story_id": "story_037d999a",
-      "title": "ICE 的 DNA 收集增加，SpaceX 的火箭坠入月球，人工智能的强烈反对",
-      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
-      "primary_url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
+      "story_id": "story_6556a0fd",
+      "title": "为什么普通人不使用人工智能代理",
+      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
+      "primary_url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
       "source_count": 1,
       "source_names": [
         "Wired"
       ],
       "sources": [
         {
-          "id": "fdbfba26fca640adc1b5c31476336f9527ffa848",
-          "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-          "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows",
+          "id": "9edcb6b7cefcfd5863bf98a809cbedcfe8a1f5de",
+          "title": "Why Normal People Aren’t Using AI Agents",
+          "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
           "source": "Wired",
           "site_id": "opmlrss",
-          "published_at": "2026-08-06T19:30:46Z"
+          "published_at": "2026-08-06T19:55:45Z"
         }
       ],
       "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f902de92",
-      "title": "家长们面临的最大的人工智能账单是什么？",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_-final-dnrexp-260805-withrowe-chatbotact-060826?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_-final-dnrexp-260805-withrowe-chatbotact-060826?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "cb9c087bfb1a854587d3868026bb2fb39a04f9d5",
-          "title": "The biggest AI bill for parents yet?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_-final-dnrexp-260805-withrowe-chatbotact-060826?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T19:04:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_055da198",
-      "title": "当人工智能“治疗师”提出建议时，加州立法者试图设定一些限制 - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2JOVzdRZ2h6eU9yaERJa2txVXQ1bkFLSTA3N2lQajJZbkFxLVg2Y2JOaUFJeDJlSV9tZng4S0dVeTQyb2dGMVI3RXgtOGFYV29VcC1pT0JBcE5TczJrTWNXcHpxbFJjejk2djRRVG5XdTlieExQX1BIclRlUzA0TXF5MWNXUzdtaFFMYjlBRTVhSDVIWFV6RFduYjJlV2RoaF82OTdaVUwtTzNsckE?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2JOVzdRZ2h6eU9yaERJa2txVXQ1bkFLSTA3N2lQajJZbkFxLVg2Y2JOaUFJeDJlSV9tZng4S0dVeTQyb2dGMVI3RXgtOGFYV29VcC1pT0JBcE5TczJrTWNXcHpxbFJjejk2djRRVG5XdTlieExQX1BIclRlUzA0TXF5MWNXUzdtaFFMYjlBRTVhSDVIWFV6RFduYjJlV2RoaF82OTdaVUwtTzNsckE?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "b1213e99fa3335ac53c21df8ff8c9c7c99206ec0",
-          "title": "As AI ‘therapists’ dish out advice, California lawmakers try to set some limits - AP News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2JOVzdRZ2h6eU9yaERJa2txVXQ1bkFLSTA3N2lQajJZbkFxLVg2Y2JOaUFJeDJlSV9tZng4S0dVeTQyb2dGMVI3RXgtOGFYV29VcC1pT0JBcE5TczJrTWNXcHpxbFJjejk2djRRVG5XdTlieExQX1BIclRlUzA0TXF5MWNXUzdtaFFMYjlBRTVhSDVIWFV6RFduYjJlV2RoaF82OTdaVUwtTzNsckE?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T18:43:12Z"
-        },
-        {
-          "id": "09c64d27230ef99ce468d3e1d557be408a622cf5",
-          "title": "As AI ‘therapists’ dish out advice, California lawmakers try to set some limits - apnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2JOVzdRZ2h6eU9yaERJa2txVXQ1bkFLSTA3N2lQajJZbkFxLVg2Y2JOaUFJeDJlSV9tZng4S0dVeTQyb2dGMVI3RXgtOGFYV29VcC1pT0JBcE5TczJrTWNXcHpxbFJjejk2djRRVG5XdTlieExQX1BIclRlUzA0TXF5MWNXUzdtaFFMYjlBRTVhSDVIWFV6RFduYjJlV2RoaF82OTdaVUwtTzNsckE?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-06T18:43:12Z"
-        }
-      ],
-      "item_count": 2,
       "score": 9720
     },
     {
@@ -2571,7 +2549,7 @@
       "source_count": 3,
       "source_names": [
         "www.aleksagordic.com",
-        "Hacker News · 24h最热",
+        "HN Algolia · AI 24h",
         "Hacker News"
       ],
       "sources": [
@@ -2584,11 +2562,11 @@
           "published_at": "2026-08-07T08:47:19.454000Z"
         },
         {
-          "id": "0ce169501879e66071894be126738f1f19b68e13",
+          "id": "814c3d5fea73ba4798002e5b51d217b87ab75eaa",
           "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
           "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-06T21:30:21Z"
         },
         {
@@ -2604,44 +2582,35 @@
       "score": 9580
     },
     {
-      "story_id": "story_5a36eb7b",
-      "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-      "url": "https://illegal.solutions/posts/xai_pollution",
-      "primary_url": "https://illegal.solutions/posts/xai_pollution",
-      "source_count": 3,
+      "story_id": "story_99c5fc17",
+      "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "primary_url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "source_count": 2,
       "source_names": [
-        "illegal.solutions",
-        "Hacker News",
+        "app.dealroom.co",
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "2d5bffdaa11c312081cc36f73c393fd5bd94d6b2",
-          "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
-          "url": "https://illegal.solutions/posts/xai_pollution",
-          "source": "illegal.solutions",
+          "id": "245e1489906e00027a5c0cc106e451ff1be2522d",
+          "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
+          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+          "source": "app.dealroom.co",
           "site_id": "buzzing",
-          "published_at": "2026-08-06T20:37:49.680000Z"
+          "published_at": "2026-08-07T18:38:41.025000Z"
         },
         {
-          "id": "05b831ef5b2c957d8005521684ca5618fbfc66f4",
-          "title": "xAI Ignores Laws and Profits: Rules for Thee, Not for Me",
-          "url": "https://illegal.solutions/posts/xai_pollution",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:38:45Z"
-        },
-        {
-          "id": "aa43d2717848ef3e897f8084b331659d5a99368f",
-          "title": "xAI, SpaceX, and the Race for AI Buildout",
-          "url": "https://illegal.solutions/posts/xai_pollution",
+          "id": "ff09546fd3e590eb379499b04112092d7cbbaf24",
+          "title": "Oracle bans AI-generated code from OpenJDK",
+          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-08-06T19:38:45Z"
+          "published_at": "2026-08-07T17:36:30Z"
         }
       ],
-      "item_count": 3,
-      "score": 9580
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_9e243503",
@@ -2651,7 +2620,7 @@
       "source_count": 2,
       "source_names": [
         "www.fastcompany.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2663,74 +2632,12 @@
           "published_at": "2026-08-07T14:54:52.874000Z"
         },
         {
-          "id": "afaeb7ec0aad12fb08472bf90e26108cc3ab934e",
+          "id": "93edf60a154be85ae634725a6d915406ca06765b",
           "title": "AI psychosis is the new leadership blind spot",
           "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-07T13:27:30Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_7c0b32b7",
-      "title": "新奥尔良正在测试 Carbyne 的人工智能紧急呼叫分类软件",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007",
-      "primary_url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "1b2b2dff25300c194eb9acb59c9e858265565d95",
-          "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-          "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-07T00:37:30Z"
-        },
-        {
-          "id": "56a33b30a886913bd37741d22b59ec5727dd1d0a",
-          "title": "New Orleans will use AI to answer 911 calls instead of a human",
-          "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T00:37:30Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_9242020d",
-      "title": "根据代理指数，Qwen3.8 Max 现已被评为综合表现最佳的模型",
-      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-      "primary_url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-      "source_count": 2,
-      "source_names": [
-        "artificialanalysis.ai",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "711cb39be1ff0255d1a432d518ca91fa6a60f5cb",
-          "title": "根据代理指数，Qwen3.8 Max 现已被评为综合表现最佳的模型",
-          "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-          "source": "artificialanalysis.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T20:37:49.482000Z"
-        },
-        {
-          "id": "476419751caf77662f6d3a564dc5cf754fdbad5c",
-          "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-          "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-06T18:44:49Z"
         }
       ],
       "item_count": 2,
@@ -2746,6 +2653,14 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "8afc8984e384de0b5f4712c0026cd90a0077807b",
+          "title": "Databricks drove down AI coding spend 70%",
+          "url": "https://news.ycombinator.com/item?id=49214468",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T19:29:53.662000Z"
+        },
         {
           "id": "224b908c1ff8a32f86c8fc00e9cb6cbdaa14daed",
           "title": "DeepSeek V4 Flash 0731",
@@ -2851,7 +2766,51 @@
           "published_at": "2026-08-06T23:38:03.065000Z"
         }
       ],
-      "item_count": 13,
+      "item_count": 14,
+      "score": 7
+    },
+    {
+      "story_id": "story_89d237a1",
+      "title": "Claude·代码：8月14日起，自动模式将成为默认权限模式",
+      "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
+      "primary_url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "bb12ee3cd8c231f30c1e90b16aa4c39e107f3f2b",
+          "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
+          "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-07T19:11:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_05b5c328",
+      "title": "Databricks 将 AI 编码支出减少了 70%",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "primary_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "c51cb0b25083d42c7dcd5e681da9a9ac429ded70",
+          "title": "Databricks drove down AI coding spend 70%",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-07T18:25:17Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -2899,6 +2858,28 @@
       "score": 7
     },
     {
+      "story_id": "story_29e73b77",
+      "title": "与Claude·科德交谈。强迫自己放慢速度并思考",
+      "url": "https://github.com/tmshapland/audiochatty-plugin",
+      "primary_url": "https://github.com/tmshapland/audiochatty-plugin",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "9f3c746e59708afdd79468e23db05064b59d1fc9",
+          "title": "Talk to Claude Code. Force Yourself to Slow Down and Think",
+          "url": "https://github.com/tmshapland/audiochatty-plugin",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-07T18:03:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_7072d9c4",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
@@ -2937,50 +2918,6 @@
           "source": "Daring Fireball",
           "site_id": "techurls",
           "published_at": "2026-08-07T17:45:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_99c5fc17",
-      "title": "Oracle 禁止 OpenJDK 中人工智能生成的代码",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "primary_url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "3118c156848c4284438d48863c9d8557fbf5dcd8",
-          "title": "Oracle bans AI-generated code from OpenJDK",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-07T17:36:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4dc258c8",
-      "title": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-      "primary_url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "90f4e42c24d2e59849fdae672102ba2c11dc37df",
-          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T17:36:22Z"
         }
       ],
       "item_count": 1,
@@ -3141,21 +3078,43 @@
       "score": 7
     },
     {
+      "story_id": "story_93f793ec",
+      "title": "应对关键网络能力的下一个前沿",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "primary_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "d833fd14b2c7c3de57e46c845e3dd0302b31dfc3",
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-07T16:39:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_a39ff3ff",
       "title": "人工智能广告牌正在扼杀科幻小说",
       "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny",
       "primary_url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "cc1f0e4d1e09f7d2ad52b8db797125f1fcb3ce7b",
+          "id": "a25c39bb6187b905e7fa6e39385702964f2e4efc",
           "title": "The AI Billboards Are Killing SF",
           "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-07T16:32:16Z"
         }
       ],
@@ -3449,6 +3408,28 @@
       "score": 7
     },
     {
+      "story_id": "story_56234561",
+      "title": "研究人员称，中国人工智能模型 Kimi 逃脱了网络安全测试环境",
+      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say",
+      "primary_url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "edd4e14c4ec0246511b57f7b9bbd0455195dd04d",
+          "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+          "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T14:28:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_2faf22cd",
       "title": "如果你先做这些事情，新的 Siri AI 就很棒",
       "url": "https://mashable.com/tech/new-siri-ai-setup-guide",
@@ -3487,28 +3468,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-07T14:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ef947c15",
-      "title": "科学家利用人工智能创造了 16 种新病毒",
-      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
-      "primary_url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "47182451a2d5023d4a68b9b44889eaf2ae63db00",
-          "title": "Scientists Used AI to Create 16 New Viruses",
-          "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T14:13:57Z"
         }
       ],
       "item_count": 1,
@@ -3977,28 +3936,6 @@
       "score": 7
     },
     {
-      "story_id": "story_231ac941",
-      "title": "Kitesurf：在 V8 隔离中运行的代理优先浏览器",
-      "url": "https://blog.cloudflare.com/kitesurf",
-      "primary_url": "https://blog.cloudflare.com/kitesurf",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "906c560f3063411be7ac28aa0dfd06cd9bfff199",
-          "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T10:42:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_5ab88cf1",
       "title": "Sources: the US Commerce Department's BIS is reviewing how Chinese AI companies access Nvidia chips overseas, including by legally renting foreign data centers (Mackenzie Hawkins/Bloomberg)",
       "url": "https://www.techmeme.com/260807/p10",
@@ -4219,6 +4156,28 @@
       "score": 7
     },
     {
+      "story_id": "story_84b8ae9f",
+      "title": "最热门的新型人工智能聊天机器人只是一个回答你问题的人",
+      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
+      "primary_url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "057ba87cfb71f1f5dbeab2a5ee47ff0287ac524d",
+          "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+          "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_84640285",
       "title": "AI深度视频生成器免费在线",
       "url": "https://www.producthunt.com/products/ai-depth-video-generator-free-online",
@@ -4423,15 +4382,15 @@
       "primary_url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "e97b0e33887a4ef0f86429818f2c2a391648489f",
+          "id": "1daf6ae5296c1e463816384523bf664f5ee18cc7",
           "title": "Generative \"AI\": The Guitar Hero of Creativity",
           "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-07T09:07:36Z"
         }
       ],
@@ -4665,15 +4624,15 @@
       "primary_url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "105ad9be432c11d267ae09dd5615b1caae8e7f19",
+          "id": "13912f8247dd9655b574c4926040ad01a931f72c",
           "title": "Artificial Intelligence used to design new viruses",
           "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-07T06:31:15Z"
         }
       ],
@@ -4775,15 +4734,15 @@
       "primary_url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "ba2e5517d359b656428022bef612fc149b0ac2ed",
+          "id": "e65e266bc4e30d823627d721547a3d0998410715",
           "title": "Anthropic CEO reportedly worried new hires only care about money",
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-07T05:15:27Z"
         }
       ],
@@ -4967,6 +4926,28 @@
       "score": 7
     },
     {
+      "story_id": "story_b01134bb",
+      "title": "中国最强大的人工智能模型之一也逃脱了遏制",
+      "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox",
+      "primary_url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "ef29ab724e1d7722da87bbb754914168d1fc537c",
+          "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T01:16:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_a5cbad05",
       "title": "A profile of DDN, a managed data storage company whose annual revenue is expected to grow from $300M pre-AI boom to $1B by year's end, fueled by AI partnerships (Iain Martin/Forbes)",
       "url": "https://www.techmeme.com/260806/p56",
@@ -5008,6 +4989,36 @@
         }
       ],
       "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7c0b32b7",
+      "title": "新奥尔良正在测试 Carbyne 的人工智能紧急呼叫分类软件",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007",
+      "primary_url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "e7765b126ba9b51f0b7f109ff8fe5ece1008f495",
+          "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+          "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-07T00:37:30Z"
+        },
+        {
+          "id": "9f763516ba297ede8370d591e1f64169270e1782",
+          "title": "New Orleans will use AI to answer 911 calls instead of a human",
+          "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-07T00:37:30Z"
+        }
+      ],
+      "item_count": 2,
       "score": 7
     },
     {
@@ -5341,6 +5352,50 @@
       "score": 7
     },
     {
+      "story_id": "story_5a36eb7b",
+      "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
+      "url": "https://illegal.solutions/posts/xai_pollution",
+      "primary_url": "https://illegal.solutions/posts/xai_pollution",
+      "source_count": 1,
+      "source_names": [
+        "illegal.solutions"
+      ],
+      "sources": [
+        {
+          "id": "2d5bffdaa11c312081cc36f73c393fd5bd94d6b2",
+          "title": "xAI、SpaceX 与人工智能基础设施建设的竞赛",
+          "url": "https://illegal.solutions/posts/xai_pollution",
+          "source": "illegal.solutions",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T20:37:49.680000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9242020d",
+      "title": "根据代理指数，Qwen3.8 Max 现已被评为综合表现最佳的模型",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "primary_url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "source_count": 1,
+      "source_names": [
+        "artificialanalysis.ai"
+      ],
+      "sources": [
+        {
+          "id": "711cb39be1ff0255d1a432d518ca91fa6a60f5cb",
+          "title": "根据代理指数，Qwen3.8 Max 现已被评为综合表现最佳的模型",
+          "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+          "source": "artificialanalysis.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T20:37:49.482000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_1d97d819",
       "title": "谷歌构建了一个人工智能翻译器，可以在 Raspberry Pi 上完全离线运行",
       "url": "https://thenextweb.com/news/google-gemma-translator-offline-raspberry-pi-antigravity",
@@ -5445,138 +5500,6 @@
           "source": "Engadget",
           "site_id": "techurls",
           "published_at": "2026-08-06T19:57:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6556a0fd",
-      "title": "为什么普通人不使用人工智能代理",
-      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
-      "primary_url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "fef52dacfe9862108fac8693c8b78531a2dcb477",
-          "title": "Why Normal People Aren’t Using AI Agents",
-          "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:55:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_31266520",
-      "title": "Docs: US data labeling companies, like Surge AI and Mercor, that sell training datasets to US AI labs and the government are also selling them to Chinese labs (Anna Tong/Forbes)",
-      "url": "https://www.techmeme.com/260806/p42",
-      "primary_url": "https://www.techmeme.com/260806/p42",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "43188f698a8935404fe8fefbc3ab9f6679fd7c99",
-          "title": "Docs: US data labeling companies, like Surge AI and Mercor, that sell training datasets to US AI labs and the government are also selling them to Chinese labs (Anna Tong/Forbes)",
-          "url": "https://www.techmeme.com/260806/p42",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:30:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5ccb04ce",
-      "title": "Gravity raised $30.5M to place ads inside AI chatbots. Its next product targets the bots themselves.",
-      "url": "https://thenextweb.com/news/gravity-ai-ads-30-5m-series-a-agent-to-agent",
-      "primary_url": "https://thenextweb.com/news/gravity-ai-ads-30-5m-series-a-agent-to-agent",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "017d93c9134b819b67854f7c7a1694d5240e5630",
-          "title": "Gravity raised $30.5M to place ads inside AI chatbots. Its next product targets the bots themselves.",
-          "url": "https://thenextweb.com/news/gravity-ai-ads-30-5m-series-a-agent-to-agent",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:24:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cb2619c2",
-      "title": "PMI 通讯主管解释了为什么人工智能使企业网站比以往任何时候都更加重要",
-      "url": "https://www.businessinsider.com/pmi-moira-gilchrist-cmo-insider-august-2026",
-      "primary_url": "https://www.businessinsider.com/pmi-moira-gilchrist-cmo-insider-august-2026",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "3e25a8351dd5311721dd7a42f3c8ca42676279bc",
-          "title": "PMI's head of comms explains why AI has made corporate websites more important than ever",
-          "url": "https://www.businessinsider.com/pmi-moira-gilchrist-cmo-insider-august-2026",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:24:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_979cf480",
-      "title": "Figma CEO Dylan Field forfeits ~$46M in stock awards to revive investor confidence amid AI disruption fears; FIG is down ~77% from its peak more than a year ago (Brody Ford/Bloomberg)",
-      "url": "https://www.techmeme.com/260806/p41",
-      "primary_url": "https://www.techmeme.com/260806/p41",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "55e936993d511efe630c54fdf174458dd40c3d21",
-          "title": "Figma CEO Dylan Field forfeits ~$46M in stock awards to revive investor confidence amid AI disruption fears; FIG is down ~77% from its peak more than a year ago (Brody Ford/Bloomberg)",
-          "url": "https://www.techmeme.com/260806/p41",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T19:05:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3cd59049",
-      "title": "Scientists trained AI on genetic sequences to design viruses not found in nature, yielding viable viruses that can infect bacteria but pose no threat to humans (Carl Zimmer/New York Times)",
-      "url": "https://www.techmeme.com/260806/p40",
-      "primary_url": "https://www.techmeme.com/260806/p40",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "ecde6a6cb2ee28b6b3ea772b7d2efe3f190d1b2f",
-          "title": "Scientists trained AI on genetic sequences to design viruses not found in nature, yielding viable viruses that can infect bacteria but pose no threat to humans (Carl Zimmer/New York Times)",
-          "url": "https://www.techmeme.com/260806/p40",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T18:50:00Z"
         }
       ],
       "item_count": 1,
