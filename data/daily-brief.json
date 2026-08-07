@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-08-07T12:42:33.454538Z",
+  "generated_at": "2026-08-07T14:06:51.216686Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "title_zh": "HSP GRUPPE 如何构建人工智能税务咨询能力",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "source": "OpenAI News",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-08-07T09:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.91
-    },
     {
       "title": "Codex CLI 0.147.0",
       "title_zh": null,
@@ -24,6 +13,17 @@
       "published_at": "2026-08-07T00:00:00Z",
       "ai_is_related": true,
       "ai_score": 0.98
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "title_zh": "WeatherNext：人工智能模型在预测气旋方面取得突破",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+      "source": "Google DeepMind",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-06T15:06:15Z",
+      "ai_is_related": true,
+      "ai_score": 0.87
     },
     {
       "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
@@ -55,6 +55,17 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-08-06T16:53:12.298000Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+      "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+      "source": "The Decoder：AI News（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-07T12:50:56Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -103,17 +114,6 @@
       "ai_score": 1.0
     },
     {
-      "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-      "title_zh": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-      "url": "https://www.aibase.com/news/30194",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-07T08:07:50.491085Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
       "title": "If you’re trying to understand the dynamic of real world agent adoption this post is a great place to start. Everyone got so hooked on talking to chatbots that there’s limited recognition still that working with an ag...",
       "title_zh": null,
       "url": "https://x.com/levie/status/2085587079405425146",
@@ -147,6 +147,17 @@
       "ai_score": 0.33
     },
     {
+      "title": "新鲜零食进京，门店模型跑通了吗？",
+      "title_zh": "新鲜零食进京，门店模型跑通了吗？",
+      "url": "https://www.huxiu.com/article/4881575.html?f=rss",
+      "source": "虎嗅",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-08-07T12:45:50Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
+    },
+    {
       "title": "“实在撑不住了，”自助烤肉批量关门，低价模型失效了？",
       "title_zh": "“实在撑不住了，”自助烤肉批量关门，低价模型失效了？",
       "url": "https://www.huxiu.com/article/4881561.html?f=rss",
@@ -167,6 +178,17 @@
       "published_at": "2026-08-07T10:24:14Z",
       "ai_is_related": false,
       "ai_score": 0.47
+    },
+    {
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "title_zh": "Kitesurf：在 V8 隔离中运行的代理优先浏览器",
+      "url": "https://news.ycombinator.com/item?id=49208393",
+      "source": "hackernews",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-08-07T14:06:27.916000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
     },
     {
       "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
@@ -198,28 +220,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-08-06T23:01:30.135000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "An Agentic IDE That Builds Itself",
-      "title_zh": "一个可以自行构建的 Agentic IDE",
-      "url": "https://www.sawyerhood.com/blog/an-agentic-ide-that-builds-itself",
-      "source": "Hacker News · 24h最热",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-08-06T22:59:05Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Google Maps can now order your food, book your hotel, and read your calendar. Ask Maps just became an agent.",
-      "title_zh": "Google 地图现在可以点餐、预订酒店和阅读日历。 Ask Maps 刚刚成为代理商。",
-      "url": "https://thenextweb.com/news/google-maps-ask-maps-agentic-food-ordering-hotel-booking",
-      "source": "The Next Web",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-08-06T18:04:45Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
