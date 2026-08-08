@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T18:24:14.963016Z",
+  "generated_at": "2026-08-08T19:22:59.804846Z",
   "window_hours": 24,
-  "total_stories": 126,
+  "total_stories": 118,
   "stories": [
     {
       "story_id": "story_7e0e401d",
@@ -43,8 +43,8 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "simonwillison.net",
-        "Hacker News",
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -64,19 +64,19 @@
           "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "id": "c625026916665fea186982a1e9a2f0e96ccec9ae",
           "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T10:57:44Z"
-        },
-        {
-          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "Timeline of the OpenAI accidental attack against Hugging Face",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
+        },
+        {
+          "id": "5b015116aed6ce47d6c5207632a67bb607bab9cd",
+          "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-08T10:57:44Z"
         }
       ],
@@ -216,48 +216,26 @@
       "score": 9920
     },
     {
-      "story_id": "story_231ac941",
-      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-      "url": "https://blog.cloudflare.com/kitesurf",
-      "primary_url": "https://blog.cloudflare.com/kitesurf",
+      "story_id": "story_18dbed8e",
+      "title": "如何成为记忆工程师：来自 Stanford、Microsoft、Anthropic 与 NVIDIA 的视角",
+      "url": "https://waytoagi.feishu.cn/wiki/PCj7wTswPigE9ukBveicR3Frnzh?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/PCj7wTswPigE9ukBveicR3Frnzh?from=from_copylink",
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "社区更新 · 2026-08-08"
       ],
       "sources": [
         {
-          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34.746000Z"
+          "id": "e3fddf52f584fbf57f20e193a4ecaf1d6cadabd4",
+          "title": "如何成为记忆工程师：来自 Stanford、Microsoft、Anthropic 与 NVIDIA 的视角",
+          "url": "https://waytoagi.feishu.cn/wiki/PCj7wTswPigE9ukBveicR3Frnzh?from=from_copylink",
+          "source": "社区更新 · 2026-08-08",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T19:22:23.578682Z"
         }
       ],
       "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_cf3be4e6",
-      "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
-      "url": "https://x.com/OpenAI/status/2085801349866729975",
-      "primary_url": "https://x.com/OpenAI/status/2085801349866729975",
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "sources": [
-        {
-          "id": "de7bec17fc19aa883088e7e3196c1edf80764cd4",
-          "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
-          "url": "https://x.com/OpenAI/status/2085801349866729975",
-          "source": "X：OpenAI (@OpenAI)",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:52:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
+      "score": 9820
     },
     {
       "story_id": "story_d1d6b400",
@@ -436,94 +414,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_0a61cf39",
-      "title": "The team and I use Auto mode exclusively, and have been for many months. I couldn't imagine going back to permission prompts! Really excited to get this out to everyone. https://t.co/rH6qc6hqyT",
-      "url": "https://x.com/bcherny/status/2085807103382519872",
-      "primary_url": "https://x.com/bcherny/status/2085807103382519872",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Boris Cherny"
-      ],
-      "sources": [
-        {
-          "id": "2df094bc4487928cc6978706177bb514e272b78a",
-          "title": "The team and I use Auto mode exclusively, and have been for many months. I couldn't imagine going back to permission prompts! Really excited to get this out to everyone. https://t.co/rH6qc6hqyT",
-          "url": "https://x.com/bcherny/status/2085807103382519872",
-          "source": "Follow Builders · X · Boris Cherny",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-07T19:15:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_8d111f5f",
-      "title": "This important and timely conversation with @Thom_Wolf of @huggingface, about AI security and the future of open source AI, is also available on Spotify, Apple Podcasts and here on Youtube https://t.co/rooEdLz3c6",
-      "url": "https://x.com/mattturck/status/2085803904671826243",
-      "primary_url": "https://x.com/mattturck/status/2085803904671826243",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Matt Turck"
-      ],
-      "sources": [
-        {
-          "id": "838a70823b570615c8c52482002199757afd06a8",
-          "title": "This important and timely conversation with @Thom_Wolf of @huggingface, about AI security and the future of open source AI, is also available on Spotify, Apple Podcasts and here on Youtube https://t.co/rooEdLz3c6",
-          "url": "https://x.com/mattturck/status/2085803904671826243",
-          "source": "Follow Builders · X · Matt Turck",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-07T19:02:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_fc696bbb",
-      "title": "🚨 Special Friday episode - this one couldn't wait. OpenAI's model hacked @huggingface. As a side quest. Co-founder and CSO @Thom_Wolf takes us inside the first autonomous AI attack, why GLM 5.2, rather than Claude, ha...",
-      "url": "https://x.com/mattturck/status/2085803900045590626",
-      "primary_url": "https://x.com/mattturck/status/2085803900045590626",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Matt Turck"
-      ],
-      "sources": [
-        {
-          "id": "26b6ba9a19a94b8513dad4389d8dafdae0a66404",
-          "title": "🚨 Special Friday episode - this one couldn't wait. OpenAI's model hacked @huggingface. As a side quest. Co-founder and CSO @Thom_Wolf takes us inside the first autonomous AI attack, why GLM 5.2, rather than Claude, ha...",
-          "url": "https://x.com/mattturck/status/2085803900045590626",
-          "source": "Follow Builders · X · Matt Turck",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-07T19:02:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_5f41778a",
-      "title": "“OpenAI 的模型攻击了我们” - Hugging Face 的 Thomas Wolf",
-      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
-      "primary_url": "https://www.youtube.com/@DataDrivenNYC/videos",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · Podcast · The MAD Podcast with Matt Turck"
-      ],
-      "sources": [
-        {
-          "id": "1592782f08e7a4d5c3eb35501c8c46b2e40ba479",
-          "title": "“OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf",
-          "url": "https://www.youtube.com/@DataDrivenNYC/videos",
-          "source": "Follow Builders · Podcast · The MAD Podcast with Matt Turck",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-07T18:38:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_b45bf82e",
       "title": "终于有人承认在院线电影里用AI了！未来的电影，还有“含 AI 量”为零的可能吗？｜深度观察",
       "url": "https://m.thepaper.cn/detail/33739222",
@@ -584,6 +474,28 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_395fa653",
+      "title": "Jorge Messi, Lionel Messi’s father and longtime agent, dies at 68 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFNFX1NIa2tfR0ZnVXRwRm5PV2pYY0FkSmNiVzFhQzhuOUdDdnNsZHQ1dkZUcFk5RnVDazUweEhyYnJaalU4bnp4RmtKQWZXX2tXRi1oYVlzRmpNUlJJcVRTUThuSXZHaHd5Q19qVTJyWHF2Y1Q1bVpPMU1HZnpZcGlXZF9MaDViYXFwRzQ5azR3TDR2ZUE0RmZYQQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFNFX1NIa2tfR0ZnVXRwRm5PV2pYY0FkSmNiVzFhQzhuOUdDdnNsZHQ1dkZUcFk5RnVDazUweEhyYnJaalU4bnp4RmtKQWZXX2tXRi1oYVlzRmpNUlJJcVRTUThuSXZHaHd5Q19qVTJyWHF2Y1Q1bVpPMU1HZnpZcGlXZF9MaDViYXFwRzQ5azR3TDR2ZUE0RmZYQQ?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "180855ab91f1231fd736dd8d5e0d318c5fce25f4",
+          "title": "Jorge Messi, Lionel Messi’s father and longtime agent, dies at 68 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFNFX1NIa2tfR0ZnVXRwRm5PV2pYY0FkSmNiVzFhQzhuOUdDdnNsZHQ1dkZUcFk5RnVDazUweEhyYnJaalU4bnp4RmtKQWZXX2tXRi1oYVlzRmpNUlJJcVRTUThuSXZHaHd5Q19qVTJyWHF2Y1Q1bVpPMU1HZnpZcGlXZF9MaDViYXFwRzQ5azR3TDR2ZUE0RmZYQQ?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T17:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_14978fc9",
@@ -712,6 +624,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-08T13:15:23Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_78dfbddd",
+      "title": "特朗普和马斯克的人工智能公司瞄准了环境执法的一个支柱 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzdhM1U5ZjhQcHJMZTl3TFlYSEVSeFp2cW1GLWN4QzJ4dHd6S1BXSGZRUGFCQU9ZMEtaRkwtOE9KODRmZzFyYWhNVGF6RmtCaTFTT1BVOU1KRWtqNDJKUEFYSUpTRW11R21jTFFMR0s3ZFZxRGF1U0V5ZkRnNkx5ZXhKVmtkQ0xiaUlfaFpfdHBoOEEzNmdJUFJ0VngyTFI0QkFWem53?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzdhM1U5ZjhQcHJMZTl3TFlYSEVSeFp2cW1GLWN4QzJ4dHd6S1BXSGZRUGFCQU9ZMEtaRkwtOE9KODRmZzFyYWhNVGF6RmtCaTFTT1BVOU1KRWtqNDJKUEFYSUpTRW11R21jTFFMR0s3ZFZxRGF1U0V5ZkRnNkx5ZXhKVmtkQ0xiaUlfaFpfdHBoOEEzNmdJUFJ0VngyTFI0QkFWem53?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "7b2467c6f5224451b99cde11d686c2f4938311e6",
+          "title": "A pillar of environmental enforcement is targeted by Trump and Musk’s AI company - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzdhM1U5ZjhQcHJMZTl3TFlYSEVSeFp2cW1GLWN4QzJ4dHd6S1BXSGZRUGFCQU9ZMEtaRkwtOE9KODRmZzFyYWhNVGF6RmtCaTFTT1BVOU1KRWtqNDJKUEFYSUpTRW11R21jTFFMR0s3ZFZxRGF1U0V5ZkRnNkx5ZXhKVmtkQ0xiaUlfaFpfdHBoOEEzNmdJUFJ0VngyTFI0QkFWem53?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T12:50:00Z"
         }
       ],
       "item_count": 1,
@@ -1334,6 +1268,50 @@
       "score": 9720
     },
     {
+      "story_id": "story_d9d5c88a",
+      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "primary_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "554084e11f496586ec5229e131656ca227068c8e",
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T22:48:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_4d1764cb",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+      "primary_url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "98b24f59cc1c3f65f22df0e46f2489c771a66353",
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T21:30:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_78db5548",
       "title": "Fenix Flexin 甚至不再否认使用人工智能来制作“Rubberz”",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
@@ -1356,58 +1334,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_73ddfbd0",
-      "title": "看 Roku 的 AI 频道就像从槽里吃饭",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "primary_url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "14b9f2f5b81d80a2d45d26c1dc0d68eb68b563e0",
-          "title": "Watching Roku’s AI channel is like eating from a trough",
-          "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T18:59:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_65308bcb",
-      "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "69442b455e5e9339db6c34aa8653ec3d781eb689",
-          "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T18:40:34Z"
-        },
-        {
-          "id": "f11ba5ec225d341c8d4856109d2806c7968aa821",
-          "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T18:40:34Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9720
-    },
-    {
       "story_id": "story_a8577abe",
       "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
       "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
@@ -1415,7 +1341,7 @@
       "source_count": 2,
       "source_names": [
         "social.treehouse.systems",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1427,11 +1353,11 @@
           "published_at": "2026-08-08T18:06:47.814000Z"
         },
         {
-          "id": "00ad3b3517bd94cec6564ea0ddb1e73110d6908f",
+          "id": "5dc6c649c45f97f1ae58a03a5f45220ce30d3885",
           "title": "Gentoo bugzilla closed due AI bot scraper overload",
           "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-08T13:55:42Z"
         }
       ],
@@ -1439,43 +1365,112 @@
       "score": 9570
     },
     {
-      "story_id": "story_05b5c328",
-      "title": "Databricks 将人工智能编码支出降低了 70%",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "primary_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "source_count": 2,
+      "story_id": "story_5c6da8de",
+      "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭",
+      "url": "https://news.ycombinator.com/item?id=49221864",
+      "primary_url": "https://news.ycombinator.com/item?id=49221864",
+      "source_count": 1,
       "source_names": [
-        "www.databricks.com",
+        "hackernews"
+      ],
+      "sources": [
+        {
+          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
+          "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "url": "https://news.ycombinator.com/item?id=49224294",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T19:22:42.356000Z"
+        },
+        {
+          "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
+          "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "url": "https://news.ycombinator.com/item?id=49215786",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T15:20:59.257000Z"
+        },
+        {
+          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
+          "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T15:20:59.257000Z"
+        },
+        {
+          "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
+          "title": "Gentoo bugzilla closed due AI bot scraper overload",
+          "url": "https://news.ycombinator.com/item?id=49221864",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T14:23:36.523000Z"
+        },
+        {
+          "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
+          "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "url": "https://news.ycombinator.com/item?id=49221089",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T13:20:32.652000Z"
+        },
+        {
+          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
+          "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T12:29:03.485000Z"
+        },
+        {
+          "id": "fde07b592f5711381b8eff1d306f682acff1d8e9",
+          "title": "Managing AI Coding Costs at Scale",
+          "url": "https://news.ycombinator.com/item?id=49214468",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T02:32:55.933000Z"
+        },
+        {
+          "id": "cd4624a53f00cdeed379a56b78347d5995296de0",
+          "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+          "url": "https://news.ycombinator.com/item?id=49213985",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T20:31:54.927000Z"
+        },
+        {
+          "id": "8afc8984e384de0b5f4712c0026cd90a0077807b",
+          "title": "Databricks drove down AI coding spend 70%",
+          "url": "https://news.ycombinator.com/item?id=49214468",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T19:29:53.662000Z"
+        }
+      ],
+      "item_count": 9,
+      "score": 7
+    },
+    {
+      "story_id": "story_5efc40ed",
+      "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+      "primary_url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+      "source_count": 1,
+      "source_names": [
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "7ddb2706d3107fd04c47e41e1637e29351e8e038",
-          "title": "Databricks 将人工智能编码支出降低了 70%",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "www.databricks.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T21:02:43.201000Z"
-        },
-        {
-          "id": "c51cb0b25083d42c7dcd5e681da9a9ac429ded70",
-          "title": "Databricks drove down AI coding spend 70%",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "id": "7f09339289c3e2eb26beaf046fd0da9168756765",
+          "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-08-07T18:25:17Z"
-        },
-        {
-          "id": "edd1a51f0917f0a8d9f607996de2b3b67026b7ee",
-          "title": "Managing AI Coding Costs at Scale",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T18:25:17Z"
+          "published_at": "2026-08-08T18:09:31Z"
         }
       ],
-      "item_count": 3,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_d60300fc",
@@ -1541,100 +1536,6 @@
         }
       ],
       "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5c6da8de",
-      "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭",
-      "url": "https://news.ycombinator.com/item?id=49221864",
-      "primary_url": "https://news.ycombinator.com/item?id=49221864",
-      "source_count": 1,
-      "source_names": [
-        "hackernews"
-      ],
-      "sources": [
-        {
-          "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
-          "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "url": "https://news.ycombinator.com/item?id=49215786",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T15:20:59.257000Z"
-        },
-        {
-          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
-          "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T15:20:59.257000Z"
-        },
-        {
-          "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
-          "title": "Gentoo bugzilla closed due AI bot scraper overload",
-          "url": "https://news.ycombinator.com/item?id=49221864",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T14:23:36.523000Z"
-        },
-        {
-          "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
-          "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-          "url": "https://news.ycombinator.com/item?id=49221089",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T13:20:32.652000Z"
-        },
-        {
-          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
-          "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T12:29:03.485000Z"
-        },
-        {
-          "id": "fde07b592f5711381b8eff1d306f682acff1d8e9",
-          "title": "Managing AI Coding Costs at Scale",
-          "url": "https://news.ycombinator.com/item?id=49214468",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T02:32:55.933000Z"
-        },
-        {
-          "id": "cd4624a53f00cdeed379a56b78347d5995296de0",
-          "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
-          "url": "https://news.ycombinator.com/item?id=49213985",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T20:31:54.927000Z"
-        },
-        {
-          "id": "8afc8984e384de0b5f4712c0026cd90a0077807b",
-          "title": "Databricks drove down AI coding spend 70%",
-          "url": "https://news.ycombinator.com/item?id=49214468",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T19:29:53.662000Z"
-        },
-        {
-          "id": "224b908c1ff8a32f86c8fc00e9cb6cbdaa14daed",
-          "title": "DeepSeek V4 Flash 0731",
-          "url": "https://news.ycombinator.com/item?id=49214008",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T18:29:36.097000Z"
-        },
-        {
-          "id": "40682e45a2c15289b4d1e5e28a15eb98cac8e9bb",
-          "title": "Oracle bans AI-generated code from OpenJDK",
-          "url": "https://news.ycombinator.com/item?id=49213754",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T18:29:36.097000Z"
-        }
-      ],
-      "item_count": 10,
       "score": 7
     },
     {
@@ -1798,15 +1699,15 @@
       "primary_url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "acee0936dcff6743d870b19d0b03f48a61274675",
+          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
           "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
           "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-08T12:16:03Z"
         }
       ],
@@ -2458,38 +2359,16 @@
       "primary_url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "3d9d889354ccf1260ee299c3a25c0e86356bfd76",
+          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
           "title": "Should AI labs be treated like the owners of dangerous animals?",
           "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T00:03:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d9d5c88a",
-      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "primary_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2b0d5c7cb66e880aff2938f640b66aa13e0c9bd0",
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-          "source": "TechCrunch",
+          "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-08-07T22:48:24Z"
+          "published_at": "2026-08-08T00:03:31Z"
         }
       ],
       "item_count": 1,
@@ -2534,28 +2413,6 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-07T22:44:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4d1764cb",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-      "primary_url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9cf016e4fa742d7e4b3ab02bb9eb6faa5de185f0",
-          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T21:30:11Z"
         }
       ],
       "item_count": 1,
@@ -2622,6 +2479,28 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-08-07T21:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_05b5c328",
+      "title": "Databricks 将人工智能编码支出降低了 70%",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "primary_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "source_count": 1,
+      "source_names": [
+        "www.databricks.com"
+      ],
+      "sources": [
+        {
+          "id": "7ddb2706d3107fd04c47e41e1637e29351e8e038",
+          "title": "Databricks 将人工智能编码支出降低了 70%",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "source": "www.databricks.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T21:02:43.201000Z"
         }
       ],
       "item_count": 1,
@@ -2842,94 +2721,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-07T19:30:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d5d32a2c",
-      "title": "Disney+ 和 ESPN 正在测试人工智能驱动的搜索，让用户用简单的语言描述他们想要的内容",
-      "url": "https://thenextweb.com/news/disney-espn-ai-search-discovery-beta",
-      "primary_url": "https://thenextweb.com/news/disney-espn-ai-search-discovery-beta",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "8251245faf2c035948e4043bc4d0645520bc80a1",
-          "title": "Disney+ and ESPN are testing AI-powered search that lets users describe what they want in plain language",
-          "url": "https://thenextweb.com/news/disney-espn-ai-search-discovery-beta",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T19:12:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_89d237a1",
-      "title": "Claude·代码：8月14日起，自动模式将成为默认权限模式",
-      "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
-      "primary_url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "bb12ee3cd8c231f30c1e90b16aa4c39e107f3f2b",
-          "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
-          "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-07T19:11:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7072d9c4",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "primary_url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "source_count": 1,
-      "source_names": [
-        "arcprize.org"
-      ],
-      "sources": [
-        {
-          "id": "7526a801bac9ef20a58d410882be7369307de1ba",
-          "title": "DeepSeek V4 Flash 0731",
-          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-          "source": "arcprize.org",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T19:10:50.452000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_99c5fc17",
-      "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "primary_url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "source_count": 1,
-      "source_names": [
-        "app.dealroom.co"
-      ],
-      "sources": [
-        {
-          "id": "245e1489906e00027a5c0cc106e451ff1be2522d",
-          "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "source": "app.dealroom.co",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T18:38:41.025000Z"
         }
       ],
       "item_count": 1,
