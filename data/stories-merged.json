@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-08-08T06:37:20.673645Z",
+  "generated_at": "2026-08-08T07:41:50.149562Z",
   "window_hours": 24,
-  "total_stories": 202,
+  "total_stories": 201,
   "stories": [
+    {
+      "story_id": "story_93f793ec",
+      "title": "应对关键网络能力的下一个前沿领域",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "primary_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "sources": [
+        {
+          "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T15:20:00Z"
+        },
+        {
+          "id": "3db804f194a1d5367a65288097f89e5f7cec1bb6",
+          "title": "应对关键网络能力的下一个前沿领域",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T19:58:36.823000Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
+    },
     {
       "story_id": "story_7e0e401d",
       "title": "Claude Code 会话间可互发消息",
@@ -57,28 +88,6 @@
       "score": 10020
     },
     {
-      "story_id": "story_04dbcdd1",
-      "title": "HSP GRUPPE 如何构建人工智能税务咨询能力",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "primary_url": "https://openai.com/index/hsp-gruppe",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "url": "https://openai.com/index/hsp-gruppe",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
       "story_id": "story_cc3cf8a4",
       "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
       "url": "https://x.com/runwayml/status/2085684483366523193",
@@ -101,15 +110,45 @@
       "score": 10020
     },
     {
+      "story_id": "story_231ac941",
+      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+      "url": "https://blog.cloudflare.com/kitesurf",
+      "primary_url": "https://blog.cloudflare.com/kitesurf",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T18:54:34.746000Z"
+        },
+        {
+          "id": "2e1f5ab412ff59602875d97d2d1a452071ac5c01",
+          "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-07T10:42:07Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
       "story_id": "story_52eb4571",
       "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
       "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
       "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "公众号：蚂蚁百灵（Ling）",
-        "公众号：小红书技术（dots.llm）",
-        "公众号：面壁智能（MiniCPM）"
+        "公众号：小红书技术（dots.llm）"
       ],
       "sources": [
         {
@@ -127,45 +166,6 @@
           "source": "公众号：小红书技术（dots.llm）",
           "site_id": "aihot",
           "published_at": "2026-08-07T09:59:00Z"
-        },
-        {
-          "id": "4308e87bf2f6e7113425e138acd3b37426bbd145",
-          "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:41:21Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9980
-    },
-    {
-      "story_id": "story_231ac941",
-      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-      "url": "https://blog.cloudflare.com/kitesurf",
-      "primary_url": "https://blog.cloudflare.com/kitesurf",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34.746000Z"
-        },
-        {
-          "id": "906c560f3063411be7ac28aa0dfd06cd9bfff199",
-          "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T10:42:07Z"
         }
       ],
       "item_count": 2,
@@ -452,28 +452,6 @@
           "source": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-07T08:07:50.491085Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_3eafc6a5",
-      "title": "Krea 推出 Seedance 2.5 视频模型",
-      "url": "https://x.com/krea_ai/status/2085629541385736662",
-      "primary_url": "https://x.com/krea_ai/status/2085629541385736662",
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "sources": [
-        {
-          "id": "e809506aac5a613385def31f8c88b577abc01d23",
-          "title": "Krea 推出 Seedance 2.5 视频模型",
-          "url": "https://x.com/krea_ai/status/2085629541385736662",
-          "source": "X：Krea AI (@krea_ai)",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T07:30:06Z"
         }
       ],
       "item_count": 1,
@@ -810,28 +788,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_01060cd9",
-      "title": "the ai-devblog skill elicits what YOU think the story is, and works with you to trace what you read and report it faithfully. also does visuals... https://t.co/629UcBES0e",
-      "url": "https://x.com/swyx/status/2085616830786543667",
-      "primary_url": "https://x.com/swyx/status/2085616830786543667",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Swyx"
-      ],
-      "sources": [
-        {
-          "id": "d488c40dcb3c136cf8e0b7d976c910b2dad25339",
-          "title": "the ai-devblog skill elicits what YOU think the story is, and works with you to trace what you read and report it faithfully. also does visuals... https://t.co/629UcBES0e",
-          "url": "https://x.com/swyx/status/2085616830786543667",
-          "source": "Follow Builders · X · Swyx",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-07T06:39:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_c8582a05",
       "title": "从PPT到生产线，巨头们跨过具身智能“理想国”",
       "url": "https://www.tmtpost.com/8095622.html",
@@ -870,37 +826,6 @@
       ],
       "item_count": 3,
       "score": 9780
-    },
-    {
-      "story_id": "story_93f793ec",
-      "title": "应对关键网络能力的下一个前沿领域",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "primary_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "sources": [
-        {
-          "id": "e678580a57098cb04f46bb0c8bf7063390b2318e",
-          "title": "Responding to the next frontier of critical cyber capabilities",
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T15:20:00Z"
-        },
-        {
-          "id": "3db804f194a1d5367a65288097f89e5f7cec1bb6",
-          "title": "应对关键网络能力的下一个前沿领域",
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T19:58:36.823000Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
     },
     {
       "story_id": "story_2592b191",
@@ -1461,28 +1386,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_4dc258c8",
-      "title": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-      "primary_url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "1da3719b40a914945098cac7fc118d4c819240f6",
-          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T17:36:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_764f9d70",
       "title": "谷歌人工智能变革背后的原因是什么",
       "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
@@ -1513,22 +1416,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_bb3ea04b",
-      "title": "Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
-      "primary_url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
+      "story_id": "story_b900f380",
+      "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
+      "primary_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "93f01c942386201a7bae53157b0ae3e1f0bc4b7e",
-          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-          "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
+          "id": "33d5abc684b2e4e22cb5b712153ecac0b0fb2261",
+          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-07T14:22:49Z"
+          "published_at": "2026-08-07T16:16:09Z"
         }
       ],
       "item_count": 1,
@@ -1551,6 +1454,28 @@
           "source": "新华网 / 新华社新闻",
           "site_id": "opmlrss",
           "published_at": "2026-08-07T14:04:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9e34709d",
+      "title": "人工智能聊天机器人让处于危机中的人们失望了。这可以解决吗？",
+      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
+      "primary_url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "bfdfa0f232f3773220a01bb064e9a2038cb11c66",
+          "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+          "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T13:49:37Z"
         }
       ],
       "item_count": 1,
@@ -1997,6 +1922,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_04dbcdd1",
+      "title": "HSP GRUPPE 如何构建人工智能税务咨询能力",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "primary_url": "https://openai.com/index/hsp-gruppe",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "a58439faab36f295476ea7e17b0e42bee4101b19",
+          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_bf645419",
       "title": "豆包下场做AI导购，谁会最先受到冲击？",
       "url": "https://www.huxiu.com/article/4881495.html?f=rss",
@@ -2133,9 +2080,10 @@
       "title": "Databricks 将人工智能编码支出降低了 70%",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
       "primary_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "www.databricks.com",
+        "Hacker News",
         "Hacker News (黑客新闻)"
       ],
       "sources": [
@@ -2148,11 +2096,11 @@
           "published_at": "2026-08-07T21:02:43.201000Z"
         },
         {
-          "id": "c54f7b14bdf7cd7f4ba80a98702b9010e483b939",
+          "id": "221d639c224a929816d37b0801453bf9793c64c8",
           "title": "Databricks drove down AI coding spend 70%",
           "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-07T18:25:17Z"
         },
         {
@@ -2165,7 +2113,7 @@
         }
       ],
       "item_count": 3,
-      "score": 9570
+      "score": 9580
     },
     {
       "story_id": "story_99c5fc17",
@@ -2206,7 +2154,7 @@
       "source_count": 2,
       "source_names": [
         "www.fastcompany.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2218,16 +2166,60 @@
           "published_at": "2026-08-07T14:54:52.874000Z"
         },
         {
-          "id": "afaeb7ec0aad12fb08472bf90e26108cc3ab934e",
+          "id": "93edf60a154be85ae634725a6d915406ca06765b",
           "title": "AI psychosis is the new leadership blind spot",
           "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-07T13:27:30Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_26547812",
+      "title": "AgentScan",
+      "url": "https://www.producthunt.com/products/agentscan",
+      "primary_url": "https://www.producthunt.com/products/agentscan",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "f8881098fee292a1f337851723e8eda36ce8d285",
+          "title": "AgentScan",
+          "url": "https://www.producthunt.com/products/agentscan",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T07:19:31.120000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_75aabebc",
+      "title": "Jarvis by eWynk - AI Companion",
+      "url": "https://www.producthunt.com/products/jarvis-by-ewynk-ai-companion",
+      "primary_url": "https://www.producthunt.com/products/jarvis-by-ewynk-ai-companion",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "0191ef84df4ab44e7429bd7616f69893e3ce6eca",
+          "title": "Jarvis by eWynk - AI Companion",
+          "url": "https://www.producthunt.com/products/jarvis-by-ewynk-ai-companion",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T07:19:31.120000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_1aaf3df9",
@@ -2786,6 +2778,28 @@
       "score": 7
     },
     {
+      "story_id": "story_7072d9c4",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "primary_url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "source_count": 1,
+      "source_names": [
+        "arcprize.org"
+      ],
+      "sources": [
+        {
+          "id": "7526a801bac9ef20a58d410882be7369307de1ba",
+          "title": "DeepSeek V4 Flash 0731",
+          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+          "source": "arcprize.org",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T19:10:50.452000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_efa28748",
       "title": "Meta 的人工智能模型在测试期间还攻击了另一家公司",
       "url": "https://daringfireball.net/linked/2026/08/07/meta-ai-cyberattack",
@@ -2852,28 +2866,6 @@
       "score": 7
     },
     {
-      "story_id": "story_7072d9c4",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "primary_url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "bd31d09bd85fb6f8763cba6056d86be117ca5074",
-          "title": "DeepSeek V4 Flash 0731",
-          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-07T17:56:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_87616701",
       "title": "Claude赛：Claude寓言 5 逐行翻译的荷马史诗《奥德赛》",
       "url": "https://theclaudyssey.com",
@@ -2912,6 +2904,28 @@
           "source": "Daring Fireball",
           "site_id": "techurls",
           "published_at": "2026-08-07T17:45:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4dc258c8",
+      "title": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+      "primary_url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "90f4e42c24d2e59849fdae672102ba2c11dc37df",
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T17:36:22Z"
         }
       ],
       "item_count": 1,
@@ -3182,28 +3196,6 @@
       "score": 7
     },
     {
-      "story_id": "story_b900f380",
-      "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
-      "primary_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9baf32732c17ddcafa973fbfa82926f155b56f41",
-          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T16:16:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_ca05de86",
       "title": "一家研究公司分享了其精选的网络安全热门股票，其中代理人工智能威胁不断上升",
       "url": "https://www.businessinsider.com/top-cybersecurity-stock-picks-agentic-ai-hacks-panw-ffiv-zs-2026-8",
@@ -3446,6 +3438,28 @@
       "score": 7
     },
     {
+      "story_id": "story_bb3ea04b",
+      "title": "Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
+      "primary_url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "169c59eebffa3a54acffb5fcc444bb600d0f70fb",
+          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+          "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T14:22:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_9892442e",
       "title": "Ad measurement company VideoAmp laid off ~20% of staff this week, citing AI as a \"major platform shift\"; sources: 50-60 employees were cut, including its CTO (Nat Ives/Wall Street Journal)",
       "url": "https://www.techmeme.com/260807/p16",
@@ -3572,28 +3586,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-07T13:50:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9e34709d",
-      "title": "人工智能聊天机器人让处于危机中的人们失望了。这可以解决吗？",
-      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
-      "primary_url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "8acddd9f00b6f74ac569984770fdf0921525279b",
-          "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-          "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T13:49:37Z"
         }
       ],
       "item_count": 1,
@@ -4606,28 +4598,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-08-07T07:45:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_84469cc6",
-      "title": "据报道 OpenAI 的 AI 智能音箱形状将像甜甜圈",
-      "url": "https://mashable.com/tech/openai-smart-speaker-form-factor-pricing-report",
-      "primary_url": "https://mashable.com/tech/openai-smart-speaker-form-factor-pricing-report",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "bdf31d4924c774e0993a0f2dd9ce53e16a29db3f",
-          "title": "OpenAIs AI smart speaker will reportedly be shaped like a doughnut",
-          "url": "https://mashable.com/tech/openai-smart-speaker-form-factor-pricing-report",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T07:12:56Z"
         }
       ],
       "item_count": 1,
