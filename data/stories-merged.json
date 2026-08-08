@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T21:21:55.239716Z",
+  "generated_at": "2026-08-08T22:19:53.661204Z",
   "window_hours": 24,
-  "total_stories": 107,
+  "total_stories": 105,
   "stories": [
     {
       "story_id": "story_f73b7773",
@@ -13,7 +13,7 @@
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "simonwillison.net",
         "Hacker News",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -41,11 +41,11 @@
           "published_at": "2026-08-08T10:57:44Z"
         },
         {
-          "id": "5b015116aed6ce47d6c5207632a67bb607bab9cd",
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
           "title": "Timeline of the OpenAI accidental attack against Hugging Face",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T10:57:44Z"
         }
       ],
@@ -1215,22 +1215,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_4d1764cb",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-      "primary_url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+      "story_id": "story_d9d5c88a",
+      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "primary_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "98b24f59cc1c3f65f22df0e46f2489c771a66353",
-          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+          "id": "554084e11f496586ec5229e131656ca227068c8e",
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-07T21:30:11Z"
+          "published_at": "2026-08-07T22:48:24Z"
         }
       ],
       "item_count": 1,
@@ -1244,7 +1244,7 @@
       "source_count": 2,
       "source_names": [
         "mezha.net",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1256,11 +1256,11 @@
           "published_at": "2026-08-08T19:26:49.887000Z"
         },
         {
-          "id": "7f09339289c3e2eb26beaf046fd0da9168756765",
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
           "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-08T18:09:31Z"
         }
       ],
@@ -1275,7 +1275,7 @@
       "source_count": 2,
       "source_names": [
         "social.treehouse.systems",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1287,11 +1287,11 @@
           "published_at": "2026-08-08T18:06:47.814000Z"
         },
         {
-          "id": "00ad3b3517bd94cec6564ea0ddb1e73110d6908f",
+          "id": "5dc6c649c45f97f1ae58a03a5f45220ce30d3885",
           "title": "Gentoo bugzilla closed due AI bot scraper overload",
           "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-08T13:55:42Z"
         }
       ],
@@ -1713,15 +1713,15 @@
       "primary_url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
+          "id": "03f85c4f71adad6e44f09ceb8d763efd9b9ba792",
           "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
           "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-08T12:16:03Z"
         }
       ],
@@ -2373,38 +2373,16 @@
       "primary_url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
+          "id": "0c7a6964464cde19745c96e728ee60544f8ca811",
           "title": "Should AI labs be treated like the owners of dangerous animals?",
           "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-08T00:03:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d9d5c88a",
-      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "primary_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2b0d5c7cb66e880aff2938f640b66aa13e0c9bd0",
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T22:48:24Z"
         }
       ],
       "item_count": 1,
@@ -2449,28 +2427,6 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-07T22:44:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a7200c1e",
-      "title": "由于严重的黑客问题，OpenAI 推迟了下一个主要人工智能模型“Astra”的发布",
-      "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns",
-      "primary_url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns",
-      "source_count": 1,
-      "source_names": [
-        "Mac Rumors"
-      ],
-      "sources": [
-        {
-          "id": "900f8458dab1238790c290a522dc5f102a3598f6",
-          "title": "OpenAI Delays Next Major AI Model 'Astra' Over Critical Hacking Concerns",
-          "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns",
-          "source": "Mac Rumors",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T21:27:43Z"
         }
       ],
       "item_count": 1,
