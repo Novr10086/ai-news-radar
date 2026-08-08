@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T15:21:17.169819Z",
+  "generated_at": "2026-08-08T16:22:45.485630Z",
   "window_hours": 24,
-  "total_stories": 148,
+  "total_stories": 145,
   "stories": [
     {
       "story_id": "story_7e0e401d",
@@ -1400,6 +1400,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_d9d5c88a",
+      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "primary_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "554084e11f496586ec5229e131656ca227068c8e",
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T22:48:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_4d1764cb",
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
@@ -1518,6 +1540,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_4dc258c8",
+      "title": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+      "primary_url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "1da3719b40a914945098cac7fc118d4c819240f6",
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T17:36:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_764f9d70",
       "title": "谷歌人工智能变革背后的原因是什么",
       "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
@@ -1552,10 +1596,11 @@
       "title": "Databricks 将人工智能编码支出降低了 70%",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
       "primary_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "www.databricks.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1567,24 +1612,24 @@
           "published_at": "2026-08-07T21:02:43.201000Z"
         },
         {
-          "id": "c54f7b14bdf7cd7f4ba80a98702b9010e483b939",
+          "id": "221d639c224a929816d37b0801453bf9793c64c8",
           "title": "Databricks drove down AI coding spend 70%",
           "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-07T18:25:17Z"
         },
         {
-          "id": "ecab0b90573fc1c936977df0283b4dfdf43df765",
+          "id": "edd1a51f0917f0a8d9f607996de2b3b67026b7ee",
           "title": "Managing AI Coding Costs at Scale",
           "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-07T18:25:17Z"
         }
       ],
       "item_count": 3,
-      "score": 9570
+      "score": 9580
     },
     {
       "story_id": "story_93f793ec",
@@ -1625,7 +1670,7 @@
       "source_count": 2,
       "source_names": [
         "app.dealroom.co",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1637,11 +1682,11 @@
           "published_at": "2026-08-07T18:38:41.025000Z"
         },
         {
-          "id": "3118c156848c4284438d48863c9d8557fbf5dcd8",
+          "id": "848404cc5b1c7344562bd6f2e6bc51ed37f76065",
           "title": "Oracle bans AI-generated code from OpenJDK",
           "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-07T17:36:30Z"
         }
       ],
@@ -1743,21 +1788,65 @@
       "score": 7
     },
     {
+      "story_id": "story_e8204cc8",
+      "title": "'AI success will be defined not by how much infrastructure organizations own, but by how productively they use it': Nvidia lays out its thoughts on how storage has become the next frontier of AI",
+      "url": "https://www.techradar.com/pro/ai-success-will-be-defined-not-by-how-much-infrastructure-organizations-own-but-by-how-productively-they-use-it-nvidia-lays-out-its-thoughts-on-how-storage-has-become-the-next-frontier-of-ai",
+      "primary_url": "https://www.techradar.com/pro/ai-success-will-be-defined-not-by-how-much-infrastructure-organizations-own-but-by-how-productively-they-use-it-nvidia-lays-out-its-thoughts-on-how-storage-has-become-the-next-frontier-of-ai",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "9a2ff31fbe7ff8c5e963d7686cf66989e6a9c006",
+          "title": "'AI success will be defined not by how much infrastructure organizations own, but by how productively they use it': Nvidia lays out its thoughts on how storage has become the next frontier of AI",
+          "url": "https://www.techradar.com/pro/ai-success-will-be-defined-not-by-how-much-infrastructure-organizations-own-but-by-how-productively-they-use-it-nvidia-lays-out-its-thoughts-on-how-storage-has-become-the-next-frontier-of-ai",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T15:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b9624e47",
+      "title": "‘Playing around with your favourite artist’s song is an ultimate expression of fandom’: Spotify is taking another step into participatory music tools with its upcoming AI remix feature — but it signals red flags for industry professionals",
+      "url": "https://www.techradar.com/audio/spotify/playing-around-with-your-favourite-artists-song-is-an-ultimate-expression-of-fandom-spotify-is-taking-another-step-into-participatory-music-tools-with-its-upcoming-ai-remix-feature-but-it-signals-red-flags-for-industry-professionals",
+      "primary_url": "https://www.techradar.com/audio/spotify/playing-around-with-your-favourite-artists-song-is-an-ultimate-expression-of-fandom-spotify-is-taking-another-step-into-participatory-music-tools-with-its-upcoming-ai-remix-feature-but-it-signals-red-flags-for-industry-professionals",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "f83e44be4f0858b20dcd006087b0910eee9880cb",
+          "title": "‘Playing around with your favourite artist’s song is an ultimate expression of fandom’: Spotify is taking another step into participatory music tools with its upcoming AI remix feature — but it signals red flags for industry professionals",
+          "url": "https://www.techradar.com/audio/spotify/playing-around-with-your-favourite-artists-song-is-an-ultimate-expression-of-fandom-spotify-is-taking-another-step-into-participatory-music-tools-with-its-upcoming-ai-remix-feature-but-it-signals-red-flags-for-industry-professionals",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T14:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_a8577abe",
       "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭",
       "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
       "primary_url": "https://social.treehouse.systems/@mgorny/117058483039362779",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
+          "id": "00ad3b3517bd94cec6564ea0ddb1e73110d6908f",
           "title": "Gentoo bugzilla closed due AI bot scraper overload",
           "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-08T13:55:42Z"
         }
       ],
@@ -1781,6 +1870,28 @@
           "source": "deepmind.google",
           "site_id": "buzzing",
           "published_at": "2026-08-08T13:50:40.143000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a82ba100",
+      "title": "South Korea's AI-driven chip industry boom is reordering the country's society, changing expectations around fairness, careers, and even culture and dating (Bloomberg)",
+      "url": "https://www.techmeme.com/260808/p6",
+      "primary_url": "https://www.techmeme.com/260808/p6",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "d0da0b9dbbfa61c1b40a91193ec44dd88b7bd00c",
+          "title": "South Korea's AI-driven chip industry boom is reordering the country's society, changing expectations around fairness, careers, and even culture and dating (Bloomberg)",
+          "url": "https://www.techmeme.com/260808/p6",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T13:45:01Z"
         }
       ],
       "item_count": 1,
@@ -1815,15 +1926,15 @@
       "primary_url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "03f85c4f71adad6e44f09ceb8d763efd9b9ba792",
+          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
           "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
           "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-08T12:16:03Z"
         }
       ],
@@ -2475,38 +2586,16 @@
       "primary_url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
+          "id": "0c7a6964464cde19745c96e728ee60544f8ca811",
           "title": "Should AI labs be treated like the owners of dangerous animals?",
           "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-08T00:03:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d9d5c88a",
-      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "primary_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2b0d5c7cb66e880aff2938f640b66aa13e0c9bd0",
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T22:48:24Z"
         }
       ],
       "item_count": 1,
@@ -2695,15 +2784,15 @@
       "primary_url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "d40cded2ab916f1d2037fb7e9959ee271c12514f",
+          "id": "6503fbad13ebd0b0ac2d5903355a893d4ddc62a4",
           "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
           "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-07T20:25:04Z"
         }
       ],
@@ -2865,6 +2954,28 @@
       "score": 7
     },
     {
+      "story_id": "story_7072d9c4",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "primary_url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "source_count": 1,
+      "source_names": [
+        "arcprize.org"
+      ],
+      "sources": [
+        {
+          "id": "7526a801bac9ef20a58d410882be7369307de1ba",
+          "title": "DeepSeek V4 Flash 0731",
+          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+          "source": "arcprize.org",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T19:10:50.452000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_efa28748",
       "title": "Meta 的人工智能模型在测试期间还攻击了另一家公司",
       "url": "https://daringfireball.net/linked/2026/08/07/meta-ai-cyberattack",
@@ -2925,28 +3036,6 @@
           "source": "HN Algolia · AI 24h",
           "site_id": "hackernews",
           "published_at": "2026-08-07T18:03:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7072d9c4",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "primary_url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "b247d9e7bb0adf676f76904048b3a97152ffb566",
-          "title": "DeepSeek V4 Flash 0731",
-          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T17:56:20Z"
         }
       ],
       "item_count": 1,
@@ -3035,28 +3124,6 @@
           "source": "Daring Fireball",
           "site_id": "techurls",
           "published_at": "2026-08-07T17:45:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4dc258c8",
-      "title": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-      "primary_url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "90f4e42c24d2e59849fdae672102ba2c11dc37df",
-          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T17:36:22Z"
         }
       ],
       "item_count": 1,
@@ -3267,15 +3334,15 @@
       "primary_url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "cc1f0e4d1e09f7d2ad52b8db797125f1fcb3ce7b",
+          "id": "a25c39bb6187b905e7fa6e39385702964f2e4efc",
           "title": "The AI Billboards Are Killing SF",
           "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-07T16:32:16Z"
         }
       ],
@@ -3299,138 +3366,6 @@
           "source": "Engadget",
           "site_id": "techurls",
           "published_at": "2026-08-07T16:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d9e76bd7",
-      "title": "Singapore-based Multiplier, which acquires accounting firms to boost their growth with AI tools, raised a $35M Series B led by TheGP at a $300M valuation (Maria Armental/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260807/p19",
-      "primary_url": "https://www.techmeme.com/260807/p19",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "cc95faf650f17dc04143231ab3f2edcd515b0455",
-          "title": "Singapore-based Multiplier, which acquires accounting firms to boost their growth with AI tools, raised a $35M Series B led by TheGP at a $300M valuation (Maria Armental/Wall Street Journal)",
-          "url": "https://www.techmeme.com/260807/p19",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T16:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b9aaf4a8",
-      "title": "HP EliteBook X G2i 是一款人工智能驱动的笔记本电脑，可以满足您的业务需求",
-      "url": "https://www.techradar.com/computing/laptops/the-hp-elitebook-x-g2i-is-an-ai-powered-laptop-that-can-keep-up-with-your-business-needs",
-      "primary_url": "https://www.techradar.com/computing/laptops/the-hp-elitebook-x-g2i-is-an-ai-powered-laptop-that-can-keep-up-with-your-business-needs",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "d62a78d977a26d96c7edfeadd20bdd83da8ad698",
-          "title": "The HP EliteBook X G2i is an AI-powered laptop that can keep up with your business needs",
-          "url": "https://www.techradar.com/computing/laptops/the-hp-elitebook-x-g2i-is-an-ai-powered-laptop-that-can-keep-up-with-your-business-needs",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T16:18:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b900f380",
-      "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
-      "primary_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9baf32732c17ddcafa973fbfa82926f155b56f41",
-          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T16:16:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ca05de86",
-      "title": "一家研究公司分享了其精选的网络安全热门股票，其中代理人工智能威胁不断上升",
-      "url": "https://www.businessinsider.com/top-cybersecurity-stock-picks-agentic-ai-hacks-panw-ffiv-zs-2026-8",
-      "primary_url": "https://www.businessinsider.com/top-cybersecurity-stock-picks-agentic-ai-hacks-panw-ffiv-zs-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "15a60f8c4a20df99380c61386d7a0b4988f68d60",
-          "title": "A research firm shares its top cybersecurity stock picks with agentic AI threats on the rise",
-          "url": "https://www.businessinsider.com/top-cybersecurity-stock-picks-agentic-ai-hacks-panw-ffiv-zs-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T16:11:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_da6985a1",
-      "title": "Grindr 首席执行官表示，人工智能正在做的工作需要额外雇用 200 名工程师",
-      "url": "https://www.businessinsider.com/grindr-ceo-ai-work-200-additional-engineers-2026-8",
-      "primary_url": "https://www.businessinsider.com/grindr-ceo-ai-work-200-additional-engineers-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "877ad73db98890cb9d949b165c1f53559fda64c2",
-          "title": "Grindr CEO says AI is doing work that would have required hiring 200 additional engineers",
-          "url": "https://www.businessinsider.com/grindr-ceo-ai-work-200-additional-engineers-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T16:04:26Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e4bf484e",
-      "title": "人工智能不会解决美国教育问题",
-      "url": "https://time.com/article/2026/08/07/ai-won-t-fix-american-education",
-      "primary_url": "https://time.com/article/2026/08/07/ai-won-t-fix-american-education",
-      "source_count": 1,
-      "source_names": [
-        "TIME Magazine"
-      ],
-      "sources": [
-        {
-          "id": "2ebce4976fdd33196465fd2fca7ab08f3ffaa147",
-          "title": "AI Won’t Fix American Education",
-          "url": "https://time.com/article/2026/08/07/ai-won-t-fix-american-education",
-          "source": "TIME Magazine",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T15:36:06Z"
         }
       ],
       "item_count": 1,
