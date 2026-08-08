@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T16:22:45.485630Z",
+  "generated_at": "2026-08-08T17:22:19.754507Z",
   "window_hours": 24,
-  "total_stories": 145,
+  "total_stories": 138,
   "stories": [
     {
       "story_id": "story_7e0e401d",
@@ -61,12 +61,11 @@
       "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
       "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "simonwillison.net",
-        "Hacker News",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -86,24 +85,46 @@
           "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "id": "f3322cdb03b9204d5bfa111f6a6de7808a57b307",
           "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-08T10:57:44Z"
         },
         {
-          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "id": "5b015116aed6ce47d6c5207632a67bb607bab9cd",
           "title": "Timeline of the OpenAI accidental attack against Hugging Face",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-08T10:57:44Z"
         }
       ],
       "item_count": 4,
-      "score": 9990
+      "score": 9980
+    },
+    {
+      "story_id": "story_68e04ac7",
+      "title": "Grok Imagine 图像编辑迎来重大升级",
+      "url": "https://x.com/elonmusk/status/2086127247077843282",
+      "primary_url": "https://x.com/elonmusk/status/2086127247077843282",
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "sources": [
+        {
+          "id": "a6019dda5cb7d1ba14da2264f9ca635000460ba8",
+          "title": "Grok Imagine 图像编辑迎来重大升级",
+          "url": "https://x.com/elonmusk/status/2086127247077843282",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T16:27:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_4d47576f",
@@ -568,50 +589,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_7556a1ad",
-      "title": "One reason big tech is struggling to build AI products is their orgs were designed for the previous software paradigm. Layered, hierarchical, risk averse, incremental thinking, death by reviews. Building on intelligen...",
-      "url": "https://x.com/realmadhuguru/status/2085774194676265409",
-      "primary_url": "https://x.com/realmadhuguru/status/2085774194676265409",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Madhu Guru"
-      ],
-      "sources": [
-        {
-          "id": "5bf6db5d0f777601b1fe161167b6d0f3b857cc9d",
-          "title": "One reason big tech is struggling to build AI products is their orgs were designed for the previous software paradigm. Layered, hierarchical, risk averse, incremental thinking, death by reviews. Building on intelligen...",
-          "url": "https://x.com/realmadhuguru/status/2085774194676265409",
-          "source": "Follow Builders · X · Madhu Guru",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-07T17:04:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_433776dc",
-      "title": "This is what happens when I use Codex to do everything on my computer including extremely mundane stuff that I'm just too lazy to do myself. https://t.co/c6UZ6L2RSC",
-      "url": "https://x.com/petergyang/status/2085773704374693948",
-      "primary_url": "https://x.com/petergyang/status/2085773704374693948",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Yang"
-      ],
-      "sources": [
-        {
-          "id": "b4868cf020cd9ebe53ec94e25084fd836503203e",
-          "title": "This is what happens when I use Codex to do everything on my computer including extremely mundane stuff that I'm just too lazy to do myself. https://t.co/c6UZ6L2RSC",
-          "url": "https://x.com/petergyang/status/2085773704374693948",
-          "source": "Follow Builders · X · Peter Yang",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-07T17:02:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_b45bf82e",
       "title": "终于有人承认在院线电影里用AI了！未来的电影，还有“含 AI 量”为零的可能吗？｜深度观察",
       "url": "https://m.thepaper.cn/detail/33739222",
@@ -672,6 +649,28 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_14978fc9",
+      "title": "没有AI聊天的童年，将成为富人孩子的特权？",
+      "url": "https://www.huxiu.com/article/4881717.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881717.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "4ce2f4b1186dc1317488c163e8929e06dec93931",
+          "title": "没有AI聊天的童年，将成为富人孩子的特权？",
+          "url": "https://www.huxiu.com/article/4881717.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T16:07:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_5b545857",
@@ -1422,28 +1421,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_4d1764cb",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-      "primary_url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "98b24f59cc1c3f65f22df0e46f2489c771a66353",
-          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T21:30:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_78db5548",
       "title": "Fenix Flexin 甚至不再否认使用人工智能来制作“Rubberz”",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
@@ -1540,58 +1517,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_4dc258c8",
-      "title": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-      "primary_url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "1da3719b40a914945098cac7fc118d4c819240f6",
-          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T17:36:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_764f9d70",
-      "title": "谷歌人工智能变革背后的原因是什么",
-      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "primary_url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "76c7b1bfd2825b2a4c87424032c092fb5c2e1db1",
-          "title": "What&#8217;s behind the Google AI shake-up",
-          "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T16:45:14Z"
-        },
-        {
-          "id": "619cf3c62797e069e948c45eff8fdd908e0c9ce0",
-          "title": "What’s behind the Google AI shake-up",
-          "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T16:45:14Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9720
-    },
-    {
       "story_id": "story_05b5c328",
       "title": "Databricks 将人工智能编码支出降低了 70%",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
@@ -1599,7 +1524,7 @@
       "source_count": 3,
       "source_names": [
         "www.databricks.com",
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -1612,11 +1537,11 @@
           "published_at": "2026-08-07T21:02:43.201000Z"
         },
         {
-          "id": "221d639c224a929816d37b0801453bf9793c64c8",
+          "id": "c54f7b14bdf7cd7f4ba80a98702b9010e483b939",
           "title": "Databricks drove down AI coding spend 70%",
           "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-07T18:25:17Z"
         },
         {
@@ -1630,37 +1555,6 @@
       ],
       "item_count": 3,
       "score": 9580
-    },
-    {
-      "story_id": "story_93f793ec",
-      "title": "应对关键网络能力的下一个前沿领域",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "primary_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source_count": 2,
-      "source_names": [
-        "openai.com",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "3db804f194a1d5367a65288097f89e5f7cec1bb6",
-          "title": "应对关键网络能力的下一个前沿领域",
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T19:58:36.823000Z"
-        },
-        {
-          "id": "d833fd14b2c7c3de57e46c845e3dd0302b31dfc3",
-          "title": "Responding to the next frontier of critical cyber capabilities",
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-07T16:39:36Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
     },
     {
       "story_id": "story_99c5fc17",
@@ -1692,6 +1586,50 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_d60300fc",
+      "title": "Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal (Hiroko Tabuchi/New York Times)",
+      "url": "https://www.techmeme.com/260808/p7",
+      "primary_url": "https://www.techmeme.com/260808/p7",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "218b40e66877619342bf0877a6701d64b932d2d5",
+          "title": "Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal (Hiroko Tabuchi/New York Times)",
+          "url": "https://www.techmeme.com/260808/p7",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T15:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c8de705a",
+      "title": "Claude 与 ChatGPT：这些人工智能助手有何不同",
+      "url": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ",
+      "primary_url": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "1d26734a95be3ca6c386b2190b21df1774d919a9",
+          "title": "Claude Vs ChatGPT: How These AI Assistants Differ",
+          "url": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T15:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_5c6da8de",
@@ -1926,15 +1864,15 @@
       "primary_url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
+          "id": "acee0936dcff6743d870b19d0b03f48a61274675",
           "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
           "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T12:16:03Z"
         }
       ],
@@ -2646,6 +2584,28 @@
       "score": 7
     },
     {
+      "story_id": "story_4d1764cb",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+      "primary_url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "9cf016e4fa742d7e4b3ab02bb9eb6faa5de185f0",
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T21:30:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_a7200c1e",
       "title": "由于严重的黑客问题，OpenAI 推迟了下一个主要人工智能模型“Astra”的发布",
       "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns",
@@ -2822,6 +2782,28 @@
       "score": 7
     },
     {
+      "story_id": "story_93f793ec",
+      "title": "应对关键网络能力的下一个前沿领域",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "primary_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source_count": 1,
+      "source_names": [
+        "openai.com"
+      ],
+      "sources": [
+        {
+          "id": "3db804f194a1d5367a65288097f89e5f7cec1bb6",
+          "title": "应对关键网络能力的下一个前沿领域",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T19:58:36.823000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_a0344af3",
       "title": "谷歌地球收回了制作虚假卫星图像的人工智能工具，该工具发布后立即被滥用",
       "url": "https://daringfireball.net/linked/2026/08/07/google-earth-ai-shitposts",
@@ -2938,15 +2920,15 @@
       "primary_url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "bb12ee3cd8c231f30c1e90b16aa4c39e107f3f2b",
+          "id": "116527302750ec794c5d2a6b25b3407a490b4e1e",
           "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
           "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-07T19:11:00Z"
         }
       ],
@@ -3130,6 +3112,28 @@
       "score": 7
     },
     {
+      "story_id": "story_4dc258c8",
+      "title": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+      "primary_url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "90f4e42c24d2e59849fdae672102ba2c11dc37df",
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T17:36:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_da3a145f",
       "title": "由于“严重”网络风险，OpenAI 正在放慢其下一代模型的速度",
       "url": "https://thenextweb.com/news/openai-astra-critical-cyber-capabilities-pause-preparedness",
@@ -3190,182 +3194,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-07T17:25:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c6b0cd1e",
-      "title": "“谷歌的顶级人工智能大脑将离开并推出 Discovery Loop”",
-      "url": "https://daringfireball.net/linked/2026/08/07/levy-discovery-loop",
-      "primary_url": "https://daringfireball.net/linked/2026/08/07/levy-discovery-loop",
-      "source_count": 1,
-      "source_names": [
-        "Daring Fireball"
-      ],
-      "sources": [
-        {
-          "id": "33e15735f062f81058a1cccf0144001a68965ad1",
-          "title": "‘Google’s Top AI Brains Are Leaving to Launch Discovery Loop’",
-          "url": "https://daringfireball.net/linked/2026/08/07/levy-discovery-loop",
-          "source": "Daring Fireball",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T17:05:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_15271d1b",
-      "title": "Experts warn malicious AI skills are hitting more victims than ever — with one family amassing 1.7 million downloads",
-      "url": "https://www.techradar.com/pro/security/experts-warn-malicious-ai-skills-are-hitting-more-victims-than-ever-with-one-family-amassing-1-7-million-downloads",
-      "primary_url": "https://www.techradar.com/pro/security/experts-warn-malicious-ai-skills-are-hitting-more-victims-than-ever-with-one-family-amassing-1-7-million-downloads",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "d9c2b864138619924c175296577cb845f5386049",
-          "title": "Experts warn malicious AI skills are hitting more victims than ever — with one family amassing 1.7 million downloads",
-          "url": "https://www.techradar.com/pro/security/experts-warn-malicious-ai-skills-are-hitting-more-victims-than-ever-with-one-family-amassing-1-7-million-downloads",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T17:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a6ce12dd",
-      "title": "I asked Gemini and ChatGPT to build OpenAI's mythical AI hardware — the results are shockingly good but still don't make me want this $300-plus device",
-      "url": "https://www.techradar.com/ai-platforms-assistants/i-asked-gemini-and-chatgpt-to-build-openais-mythical-ai-hardware-the-results-are-shockingly-good-but-still-dont-make-me-want-this-usd300-plus-device",
-      "primary_url": "https://www.techradar.com/ai-platforms-assistants/i-asked-gemini-and-chatgpt-to-build-openais-mythical-ai-hardware-the-results-are-shockingly-good-but-still-dont-make-me-want-this-usd300-plus-device",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "fcf9080f7244ec76df9393526b73614208515fc4",
-          "title": "I asked Gemini and ChatGPT to build OpenAI's mythical AI hardware — the results are shockingly good but still don't make me want this $300-plus device",
-          "url": "https://www.techradar.com/ai-platforms-assistants/i-asked-gemini-and-chatgpt-to-build-openais-mythical-ai-hardware-the-results-are-shockingly-good-but-still-dont-make-me-want-this-usd300-plus-device",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_09e60b82",
-      "title": "Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run (Sarah Perez/TechCrunch)",
-      "url": "https://www.techmeme.com/260807/p21",
-      "primary_url": "https://www.techmeme.com/260807/p21",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "3d3d7e172b823d73e721c83d6f8a2aba386c5d41",
-          "title": "Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run (Sarah Perez/TechCrunch)",
-          "url": "https://www.techmeme.com/260807/p21",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T16:50:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5b823fb7",
-      "title": "OpenAI says it has expanded safety testing around its upcoming model Astra as it \"cannot rule out\" critical cyber capabilities, potentially delaying its launch (Axios)",
-      "url": "https://www.techmeme.com/260807/p20",
-      "primary_url": "https://www.techmeme.com/260807/p20",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "3f769227f7da569514cee76ec82ac94ad7ed6813",
-          "title": "OpenAI says it has expanded safety testing around its upcoming model Astra as it \"cannot rule out\" critical cyber capabilities, potentially delaying its launch (Axios)",
-          "url": "https://www.techmeme.com/260807/p20",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T16:40:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_98faccc6",
-      "title": "代币末日已经到来：公司争先恐后地停止在人工智能上的支出",
-      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai",
-      "primary_url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "113b6c32b19ac0dca19a1228cf556fbebf5e97e4",
-          "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
-          "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T16:38:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a39ff3ff",
-      "title": "人工智能广告牌正在扼杀科幻小说",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny",
-      "primary_url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "a25c39bb6187b905e7fa6e39385702964f2e4efc",
-          "title": "The AI Billboards Are Killing SF",
-          "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T16:32:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_af8cbbb2",
-      "title": "人工智能正在以快速而可怕的方式改变网络安全",
-      "url": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way",
-      "primary_url": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "b104d7654e870a503148e08e65d7c2c57e3663b5",
-          "title": "AI is changing cybersecurity in quick and terrifying ways",
-          "url": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T16:30:00Z"
         }
       ],
       "item_count": 1,
