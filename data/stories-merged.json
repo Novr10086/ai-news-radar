@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-08-08T02:55:01.171088Z",
+  "generated_at": "2026-08-08T04:06:15.484886Z",
   "window_hours": 24,
-  "total_stories": 206,
+  "total_stories": 205,
   "stories": [
+    {
+      "story_id": "story_7e0e401d",
+      "title": "Claude Code 会话间可互发消息",
+      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+      "primary_url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+      "source_count": 2,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)",
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
+          "title": "Claude Code 会话间可互发消息",
+          "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T19:55:17Z"
+        },
+        {
+          "id": "d0643c17638349df968df0cccc865f1f46f56153",
+          "title": "Claude Code sessions can now message each other",
+          "url": "https://twitter.com/ClaudeDevs/status/2085817074816070014",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-07T20:28:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
+    },
     {
       "story_id": "story_420b06b9",
       "title": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？",
@@ -20,50 +51,6 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "published_at": "2026-08-07T17:53:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_04dbcdd1",
-      "title": "HSP GRUPPE 如何构建人工智能税务咨询能力",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "primary_url": "https://openai.com/index/hsp-gruppe",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "url": "https://openai.com/index/hsp-gruppe",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_7e0e401d",
-      "title": "Claude Code 会话间可互发消息",
-      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "primary_url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "sources": [
-        {
-          "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-          "title": "Claude Code 会话间可互发消息",
-          "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
         }
       ],
       "item_count": 1,
@@ -148,7 +135,7 @@
       "source_count": 2,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -160,11 +147,11 @@
           "published_at": "2026-08-07T18:54:34.746000Z"
         },
         {
-          "id": "61913009bbc58b6274b14cf61cc1a177a22d2efd",
+          "id": "906c560f3063411be7ac28aa0dfd06cd9bfff199",
           "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
           "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-07T10:42:07Z"
         }
       ],
@@ -832,28 +819,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_188e78ba",
-      "title": "We’re updating Claude Fable 5’s biology safeguards to reduce false positives. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. Fable can now assist on a wider ran...",
-      "url": "https://x.com/claudeai/status/2085563808773189680",
-      "primary_url": "https://x.com/claudeai/status/2085563808773189680",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Claude"
-      ],
-      "sources": [
-        {
-          "id": "7d87ba3c4af806ef8e3e62f1a7f95ce575f233bb",
-          "title": "We’re updating Claude Fable 5’s biology safeguards to reduce false positives. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. Fable can now assist on a wider ran...",
-          "url": "https://x.com/claudeai/status/2085563808773189680",
-          "source": "Follow Builders · X · Claude",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-07T03:08:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_c8582a05",
       "title": "从PPT到生产线，巨头们跨过具身智能“理想国”",
       "url": "https://www.tmtpost.com/8095622.html",
@@ -894,6 +859,72 @@
       "score": 9780
     },
     {
+      "story_id": "story_a4476df4",
+      "title": "价值350万的“提示词”开源了，揭秘全球首部全AI 生成的电影长片",
+      "url": "https://www.huxiu.com/article/4881638.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881638.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "12f40c8f33355e7c14759715eb2d9ea8d12b231a",
+          "title": "价值350万的“提示词”开源了，揭秘全球首部全AI 生成的电影长片",
+          "url": "https://www.huxiu.com/article/4881638.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T03:37:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_91f6adec",
+      "title": "ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
+      "url": "https://www.huxiu.com/article/4881637.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881637.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "d2246e8f07481a564ca58a485c3e5a037ffa9a83",
+          "title": "ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
+          "url": "https://www.huxiu.com/article/4881637.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T03:37:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_4a585eb4",
+      "title": "4700亿美元蒸发后, 美国终于暴露封杀中国AI的真实算盘",
+      "url": "https://www.huxiu.com/article/4881636.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881636.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "253eeda446ce09bd392a74469c56050a3c716c99",
+          "title": "4700亿美元蒸发后, 美国终于暴露封杀中国AI的真实算盘",
+          "url": "https://www.huxiu.com/article/4881636.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T03:34:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_664e486b",
       "title": "AI博主站上风口",
       "url": "https://www.tmtpost.com/8096014.html",
@@ -916,6 +947,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_993bd4c9",
+      "title": "AI正在拿走搜索框，但零售商死守收银台",
+      "url": "https://www.huxiu.com/article/4881625.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881625.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "55913607e2db25e893c9913c786435e9097b061c",
+          "title": "AI正在拿走搜索框，但零售商死守收银台",
+          "url": "https://www.huxiu.com/article/4881625.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T02:41:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_b582fc7e",
       "title": "年薪千万不如估值百亿，AI大神“看不上”大厂",
       "url": "https://www.tmtpost.com/8095177.html",
@@ -932,6 +985,28 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-08-08T01:52:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_efc1de8c",
+      "title": "这只AI概念股正在飙涨，它能摆脱“迷因股”的标签吗？",
+      "url": "https://www.tmtpost.com/8095999.html",
+      "primary_url": "https://www.tmtpost.com/8095999.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "f0f3ca1c91bb09735d1ca197c11899eb66b2790c",
+          "title": "这只AI概念股正在飙涨，它能摆脱“迷因股”的标签吗？",
+          "url": "https://www.tmtpost.com/8095999.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T01:37:51Z"
         }
       ],
       "item_count": 1,
@@ -1114,6 +1189,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_d9d5c88a",
+      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "primary_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "554084e11f496586ec5229e131656ca227068c8e",
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T22:48:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_78db5548",
       "title": "Fenix Flexin 甚至不再否认使用人工智能来制作“Rubberz”",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
@@ -1210,6 +1307,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_4dc258c8",
+      "title": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+      "primary_url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "1da3719b40a914945098cac7fc118d4c819240f6",
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T17:36:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_764f9d70",
       "title": "谷歌人工智能变革背后的原因是什么",
       "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
@@ -1240,44 +1359,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_b900f380",
-      "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
-      "primary_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
+      "story_id": "story_bb3ea04b",
+      "title": "Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
+      "primary_url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "33d5abc684b2e4e22cb5b712153ecac0b0fb2261",
-          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
+          "id": "93f01c942386201a7bae53157b0ae3e1f0bc4b7e",
+          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+          "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-07T16:16:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_ef947c15",
-      "title": "科学家利用人工智能创造了 16 种新病毒",
-      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
-      "primary_url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "69f672ba8fbc477febc67412db40518b789240cb",
-          "title": "Scientists Used AI to Create 16 New Viruses",
-          "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T14:13:57Z"
+          "published_at": "2026-08-07T14:22:49Z"
         }
       ],
       "item_count": 1,
@@ -1636,6 +1733,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_84b8ae9f",
+      "title": "最热门的新型人工智能聊天机器人只是一个回答你问题的人",
+      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
+      "primary_url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "33a6dc2f48dc401caa2177b8b86c2d255a4b3636",
+          "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+          "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_24b73d7f",
       "title": "AI彻底改写存储周期，消费电子将迎来长期高价？",
       "url": "https://www.huxiu.com/article/4881525.html?f=rss",
@@ -1718,6 +1837,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-07T09:12:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_04dbcdd1",
+      "title": "HSP GRUPPE 如何构建人工智能税务咨询能力",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "primary_url": "https://openai.com/index/hsp-gruppe",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "a58439faab36f295476ea7e17b0e42bee4101b19",
+          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T09:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1900,59 +2041,14 @@
       "score": 9720
     },
     {
-      "story_id": "story_64c023c8",
-      "title": "人工智能首次用于创造自然界中未发现的病毒",
-      "url": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "a7ea2f89c71f46ba5610bac1b39509ee6aac183a",
-          "title": "AI used to create viruses not found in nature for first time",
-          "url": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T03:48:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_77c438aa",
-      "title": "“AI超级创作者”接管影视创作？我先泼盆冷水",
-      "url": "https://www.huxiu.com/article/4881374.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4881374.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "bd41ffe619ac512dcc11fad03f09fe743534704d",
-          "title": "“AI超级创作者”接管影视创作？我先泼盆冷水",
-          "url": "https://www.huxiu.com/article/4881374.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T03:03:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_05b5c328",
       "title": "Databricks 将人工智能编码支出降低了 70%",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
       "primary_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "www.databricks.com",
-        "Hacker News",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1964,24 +2060,24 @@
           "published_at": "2026-08-07T21:02:43.201000Z"
         },
         {
-          "id": "221d639c224a929816d37b0801453bf9793c64c8",
+          "id": "c54f7b14bdf7cd7f4ba80a98702b9010e483b939",
           "title": "Databricks drove down AI coding spend 70%",
           "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-07T18:25:17Z"
         },
         {
-          "id": "edd1a51f0917f0a8d9f607996de2b3b67026b7ee",
+          "id": "ecab0b90573fc1c936977df0283b4dfdf43df765",
           "title": "Managing AI Coding Costs at Scale",
           "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-07T18:25:17Z"
         }
       ],
       "item_count": 3,
-      "score": 9580
+      "score": 9570
     },
     {
       "story_id": "story_93f793ec",
@@ -1991,7 +2087,7 @@
       "source_count": 2,
       "source_names": [
         "openai.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2003,11 +2099,11 @@
           "published_at": "2026-08-07T19:58:36.823000Z"
         },
         {
-          "id": "d833fd14b2c7c3de57e46c845e3dd0302b31dfc3",
+          "id": "955f81f3df29ea947a1d8e6bc5c0f85f6f593866",
           "title": "Responding to the next frontier of critical cyber capabilities",
           "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-07T16:39:36Z"
         }
       ],
@@ -2053,7 +2149,7 @@
       "source_count": 2,
       "source_names": [
         "www.fastcompany.com",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2065,16 +2161,38 @@
           "published_at": "2026-08-07T14:54:52.874000Z"
         },
         {
-          "id": "afaeb7ec0aad12fb08472bf90e26108cc3ab934e",
+          "id": "e7f048dd333eccb97b176221f74511850b6a2fe2",
           "title": "AI psychosis is the new leadership blind spot",
           "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-07T13:27:30Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_9d4b1d01",
+      "title": "GitHub Trending 榜首｜腾讯 Agent 记忆库技术拆解：分层记忆 vs 向量堆，让 AI 不再反复问",
+      "url": "https://juejin.cn/post/7670369216241074202",
+      "primary_url": "https://juejin.cn/post/7670369216241074202",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "bf578b08de96d4985d35dfbb50526d246dccedb1",
+          "title": "GitHub Trending 榜首｜腾讯 Agent 记忆库技术拆解：分层记忆 vs 向量堆，让 AI 不再反复问",
+          "url": "https://juejin.cn/post/7670369216241074202",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T04:05:54.001000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_27a95d25",
@@ -2281,38 +2399,16 @@
       "primary_url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "0c7a6964464cde19745c96e728ee60544f8ca811",
+          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
           "title": "Should AI labs be treated like the owners of dangerous animals?",
           "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-08T00:03:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d9d5c88a",
-      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "primary_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2b0d5c7cb66e880aff2938f640b66aa13e0c9bd0",
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-          "source": "TechCrunch",
+          "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-08-07T22:48:24Z"
+          "published_at": "2026-08-08T00:03:31Z"
         }
       ],
       "item_count": 1,
@@ -2479,15 +2575,15 @@
       "primary_url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "d40cded2ab916f1d2037fb7e9959ee271c12514f",
+          "id": "6503fbad13ebd0b0ac2d5903355a893d4ddc62a4",
           "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
           "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-07T20:25:04Z"
         }
       ],
@@ -2605,28 +2701,6 @@
       "score": 7
     },
     {
-      "story_id": "story_7072d9c4",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "primary_url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "source_count": 1,
-      "source_names": [
-        "arcprize.org"
-      ],
-      "sources": [
-        {
-          "id": "7526a801bac9ef20a58d410882be7369307de1ba",
-          "title": "DeepSeek V4 Flash 0731",
-          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-          "source": "arcprize.org",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T19:10:50.452000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_efa28748",
       "title": "Meta 的人工智能模型在测试期间还攻击了另一家公司",
       "url": "https://daringfireball.net/linked/2026/08/07/meta-ai-cyberattack",
@@ -2693,21 +2767,43 @@
       "score": 7
     },
     {
+      "story_id": "story_7072d9c4",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "primary_url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "b247d9e7bb0adf676f76904048b3a97152ffb566",
+          "title": "DeepSeek V4 Flash 0731",
+          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T17:56:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_87616701",
       "title": "Claude赛：Claude寓言 5 逐行翻译的荷马史诗《奥德赛》",
       "url": "https://theclaudyssey.com",
       "primary_url": "https://theclaudyssey.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "319ab902b6cbaadce10b22c80f2f82862068d4a3",
+          "id": "5a7d1768215d907ede1479f622c0bf847c4f9a45",
           "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
           "url": "https://theclaudyssey.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-07T17:55:14Z"
         }
       ],
@@ -2731,28 +2827,6 @@
           "source": "Daring Fireball",
           "site_id": "techurls",
           "published_at": "2026-08-07T17:45:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4dc258c8",
-      "title": "OpenAI 昂贵的智能扬声器将使用活动部件来显得“更有活力”",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-      "primary_url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "90f4e42c24d2e59849fdae672102ba2c11dc37df",
-          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T17:36:22Z"
         }
       ],
       "item_count": 1,
@@ -2941,15 +3015,15 @@
       "primary_url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "a25c39bb6187b905e7fa6e39385702964f2e4efc",
+          "id": "cc1f0e4d1e09f7d2ad52b8db797125f1fcb3ce7b",
           "title": "The AI Billboards Are Killing SF",
           "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-07T16:32:16Z"
         }
       ],
@@ -3017,6 +3091,28 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-08-07T16:18:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b900f380",
+      "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
+      "primary_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "9baf32732c17ddcafa973fbfa82926f155b56f41",
+          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T16:16:09Z"
         }
       ],
       "item_count": 1,
@@ -3265,28 +3361,6 @@
       "score": 7
     },
     {
-      "story_id": "story_bb3ea04b",
-      "title": "Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
-      "primary_url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "169c59eebffa3a54acffb5fcc444bb600d0f70fb",
-          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-          "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T14:22:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_9892442e",
       "title": "Ad measurement company VideoAmp laid off ~20% of staff this week, citing AI as a \"major platform shift\"; sources: 50-60 employees were cut, including its CTO (Nat Ives/Wall Street Journal)",
       "url": "https://www.techmeme.com/260807/p16",
@@ -3303,6 +3377,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-07T14:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ef947c15",
+      "title": "科学家利用人工智能创造了 16 种新病毒",
+      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
+      "primary_url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "47182451a2d5023d4a68b9b44889eaf2ae63db00",
+          "title": "Scientists Used AI to Create 16 New Viruses",
+          "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-07T14:13:57Z"
         }
       ],
       "item_count": 1,
@@ -3991,28 +4087,6 @@
       "score": 7
     },
     {
-      "story_id": "story_84b8ae9f",
-      "title": "最热门的新型人工智能聊天机器人只是一个回答你问题的人",
-      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
-      "primary_url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "057ba87cfb71f1f5dbeab2a5ee47ff0287ac524d",
-          "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-          "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_84640285",
       "title": "AI深度视频生成器免费在线",
       "url": "https://www.producthunt.com/products/ai-depth-video-generator-free-online",
@@ -4591,15 +4665,15 @@
       "primary_url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "ba2e5517d359b656428022bef612fc149b0ac2ed",
+          "id": "e65e266bc4e30d823627d721547a3d0998410715",
           "title": "Anthropic CEO reportedly worried new hires only care about money",
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-07T05:15:27Z"
         }
       ],
@@ -4645,94 +4719,6 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-08-07T04:22:49.906000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9caf5232",
-      "title": "I'm a VC who finds $120 worth of AI subscriptions more productive than an intern. This is my tech stack.",
-      "url": "https://www.businessinsider.com/tech-stack-vc-productivity-apps-coding-better-than-intern-2026-8",
-      "primary_url": "https://www.businessinsider.com/tech-stack-vc-productivity-apps-coding-better-than-intern-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "163bf14541a2560601ac785cdcf19a3310dc42b6",
-          "title": "I'm a VC who finds $120 worth of AI subscriptions more productive than an intern. This is my tech stack.",
-          "url": "https://www.businessinsider.com/tech-stack-vc-productivity-apps-coding-better-than-intern-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T04:01:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d4b11a3d",
-      "title": "Sydney-based AI data center company Firmus raised $2B in funding from Coatue, Nvidia, and others at a $10.5B post-money valuation, up from $5.5B in April (Nichiket Sunil/Reuters)",
-      "url": "https://www.techmeme.com/260806/p61",
-      "primary_url": "https://www.techmeme.com/260806/p61",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "cae05ad89da8edc1a5a34130a0f4bfbab0121e5f",
-          "title": "Sydney-based AI data center company Firmus raised $2B in funding from Coatue, Nvidia, and others at a $10.5B post-money valuation, up from $5.5B in April (Nichiket Sunil/Reuters)",
-          "url": "https://www.techmeme.com/260806/p61",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T03:55:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_98d7f35b",
-      "title": "Naïve, which provides infrastructure for AI agents to handle most business operations, raised a $28.5M Series A led by Nexus, bringing its total funding to $32M (Ram Iyer/TechCrunch)",
-      "url": "https://www.techmeme.com/260806/p60",
-      "primary_url": "https://www.techmeme.com/260806/p60",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "e8a65074ed07f53ab010a7f93c05a1fca8500390",
-          "title": "Naïve, which provides infrastructure for AI agents to handle most business operations, raised a $28.5M Series A led by Nexus, bringing its total funding to $32M (Ram Iyer/TechCrunch)",
-          "url": "https://www.techmeme.com/260806/p60",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T03:31:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_da8a1619",
-      "title": "科学家制造出第一种由人工智能设计的病毒",
-      "url": "https://science.slashdot.org/story/26/08/06/1824255/scientists-make-first-viruses-designed-by-ai",
-      "primary_url": "https://science.slashdot.org/story/26/08/06/1824255/scientists-make-first-viruses-designed-by-ai",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "cf6b8e213638686fc6952a94dbc4ab5bf46b6a5e",
-          "title": "Scientists Make First Viruses Designed By AI",
-          "url": "https://science.slashdot.org/story/26/08/06/1824255/scientists-make-first-viruses-designed-by-ai",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T03:30:00Z"
         }
       ],
       "item_count": 1,
