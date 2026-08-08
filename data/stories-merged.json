@@ -1,18 +1,17 @@
 {
-  "generated_at": "2026-08-08T22:19:53.661204Z",
+  "generated_at": "2026-08-08T23:19:47.398874Z",
   "window_hours": 24,
-  "total_stories": 105,
+  "total_stories": 104,
   "stories": [
     {
       "story_id": "story_f73b7773",
       "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
       "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "simonwillison.net",
-        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -33,11 +32,11 @@
           "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "id": "c625026916665fea186982a1e9a2f0e96ccec9ae",
           "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T10:57:44Z"
         },
         {
@@ -50,7 +49,29 @@
         }
       ],
       "item_count": 4,
-      "score": 9990
+      "score": 9980
+    },
+    {
+      "story_id": "story_818c4197",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "primary_url": "https://www.ithome.com/0/987/452.htm",
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_68e04ac7",
@@ -157,28 +178,6 @@
           "source": "IT之家（RSS）",
           "site_id": "aihot",
           "published_at": "2026-08-08T08:25:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_9a75ac3e",
-      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-      "url": "https://www.ithome.com/0/987/221.htm",
-      "primary_url": "https://www.ithome.com/0/987/221.htm",
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
         }
       ],
       "item_count": 1,
@@ -339,28 +338,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_5f3804c7",
-      "title": "turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training + input probes + a classifier checking intent). didn't expect that a year ago. auto mode is default in...",
-      "url": "https://x.com/bcherny/status/2085860677990883454",
-      "primary_url": "https://x.com/bcherny/status/2085860677990883454",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Boris Cherny"
-      ],
-      "sources": [
-        {
-          "id": "23673b5ab8da732413c28f40341447b1a81a1fee",
-          "title": "turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training + input probes + a classifier checking intent). didn't expect that a year ago. auto mode is default in...",
-          "url": "https://x.com/bcherny/status/2085860677990883454",
-          "source": "Follow Builders · X · Boris Cherny",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-07T22:48:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_b45bf82e",
       "title": "终于有人承认在院线电影里用AI了！未来的电影，还有“含 AI 量”为零的可能吗？｜深度观察",
       "url": "https://m.thepaper.cn/detail/33739222",
@@ -421,6 +398,28 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_3944409f",
+      "title": "OpenAI 收购演示初创公司 NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+      "primary_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "5dd4e80149456443ee99600b6ddf8f3e46154772",
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T19:41:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_395fa653",
@@ -1215,28 +1214,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_d9d5c88a",
-      "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "primary_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "554084e11f496586ec5229e131656ca227068c8e",
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T22:48:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_5efc40ed",
       "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
       "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
@@ -1275,7 +1252,7 @@
       "source_count": 2,
       "source_names": [
         "social.treehouse.systems",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1287,16 +1264,60 @@
           "published_at": "2026-08-08T18:06:47.814000Z"
         },
         {
-          "id": "5dc6c649c45f97f1ae58a03a5f45220ce30d3885",
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
           "title": "Gentoo bugzilla closed due AI bot scraper overload",
           "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T13:55:42Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_c1f20895",
+      "title": "只需 37 美元即可使用 AI 撰写下一份 300K 手稿",
+      "url": "https://mashable.com/life/aug-8-youbooks-ai-non-fiction-book-generator-fan-plan-lifetime-subscriptions",
+      "primary_url": "https://mashable.com/life/aug-8-youbooks-ai-non-fiction-book-generator-fan-plan-lifetime-subscriptions",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "96bbaabb2254e79386ef453d4365c2ba436ea5b6",
+          "title": "Write your next 300K manuscript with AI for just $37",
+          "url": "https://mashable.com/life/aug-8-youbooks-ai-non-fiction-book-generator-fan-plan-lifetime-subscriptions",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1fd6fb5a",
+      "title": "新奥尔良将使用人工智能代替人类接听 911 电话",
+      "url": "https://slashdot.org/story/26/08/08/2155204/new-orleans-will-use-ai-to-answer-911-calls-instead-of-a-human",
+      "primary_url": "https://slashdot.org/story/26/08/08/2155204/new-orleans-will-use-ai-to-answer-911-calls-instead-of-a-human",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "4c2f956e2bbcf51df36fa099e45ba1b2e6fa1811",
+          "title": "New Orleans Will Use AI To Answer 911 Calls Instead of a Human",
+          "url": "https://slashdot.org/story/26/08/08/2155204/new-orleans-will-use-ai-to-answer-911-calls-instead-of-a-human",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T21:57:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_5c6da8de",
@@ -1377,28 +1398,6 @@
       "score": 7
     },
     {
-      "story_id": "story_3944409f",
-      "title": "OpenAI 收购演示初创公司 NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-      "primary_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "b4bb76e1c010029de72e0a94a2df1c4fc7a8082f",
-          "title": "OpenAI acquires presentation startup NextSlide",
-          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T19:41:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_3a7b2397",
       "title": "出于安全考虑，OpenAI 将暂停人工智能模型 Astra 的部分工作",
       "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
@@ -1465,6 +1464,28 @@
       "score": 7
     },
     {
+      "story_id": "story_f6998665",
+      "title": "A sea lion climbed aboard a fishing vessel in Argentina, found its way into the captain's bed and promptly fell asleep. The crew only realized they had an unexpected passenger after hearing loud snoring coming from the cabin.",
+      "url": "https://www.reddit.com/r/funny/comments/1vj33ry/a_sea_lion_climbed_aboard_a_fishing_vessel_in",
+      "primary_url": "https://www.reddit.com/r/funny/comments/1vj33ry/a_sea_lion_climbed_aboard_a_fishing_vessel_in",
+      "source_count": 1,
+      "source_names": [
+        "Reddit (热门)"
+      ],
+      "sources": [
+        {
+          "id": "9a857fb814d393992a106948736cdce6645bca2f",
+          "title": "A sea lion climbed aboard a fishing vessel in Argentina, found its way into the captain's bed and promptly fell asleep. The crew only realized they had an unexpected passenger after hearing loud snoring coming from the cabin.",
+          "url": "https://www.reddit.com/r/funny/comments/1vj33ry/a_sea_lion_climbed_aboard_a_fishing_vessel_in",
+          "source": "Reddit (热门)",
+          "site_id": "iris",
+          "published_at": "2026-08-08T18:19:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_d60300fc",
       "title": "Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal (Hiroko Tabuchi/New York Times)",
       "url": "https://www.techmeme.com/260808/p7",
@@ -1515,15 +1536,15 @@
       "primary_url": "https://code.claude.com/docs/en/cross-session-messaging",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "id": "8d3eee9cfed261ea50e46aa704d6c84b9ec32861",
           "title": "Message your other Claude Code sessions",
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T15:34:49Z"
         }
       ],
@@ -2373,60 +2394,16 @@
       "primary_url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "0c7a6964464cde19745c96e728ee60544f8ca811",
+          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
           "title": "Should AI labs be treated like the owners of dangerous animals?",
           "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-08T00:03:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ea857b42",
-      "title": "Sources: Situational Awareness invested $500M, including $400M this week, into Source Foundry, a startup that plans to develop new AI chip manufacturing tools (Wall Street Journal)",
-      "url": "https://www.techmeme.com/260807/p31",
-      "primary_url": "https://www.techmeme.com/260807/p31",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "190197158155acb0bd8b90f71bc44c8df71e1f1a",
-          "title": "Sources: Situational Awareness invested $500M, including $400M this week, into Source Foundry, a startup that plans to develop new AI chip manufacturing tools (Wall Street Journal)",
-          "url": "https://www.techmeme.com/260807/p31",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T22:45:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_956e8005",
-      "title": "YouTube 明星 Hank Green 为自己制定了新的人工智能政策，并敦促其他内容创作者也这样做",
-      "url": "https://www.businessinsider.com/hank-green-youtube-star-sets-personal-ai-policy-after-backlash-2026-8",
-      "primary_url": "https://www.businessinsider.com/hank-green-youtube-star-sets-personal-ai-policy-after-backlash-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "7521f4916d3878a55249f94d2210d968a490b3ee",
-          "title": "YouTube star Hank Green sets new AI policy for himself — and urges other content creators to do the same",
-          "url": "https://www.businessinsider.com/hank-green-youtube-star-sets-personal-ai-policy-after-backlash-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T22:44:35Z"
         }
       ],
       "item_count": 1,
