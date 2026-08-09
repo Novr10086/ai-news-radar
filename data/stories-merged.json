@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T08:32:19.059995Z",
+  "generated_at": "2026-08-09T09:31:04.115733Z",
   "window_hours": 24,
-  "total_stories": 117,
+  "total_stories": 115,
   "stories": [
     {
       "story_id": "story_f73b7773",
@@ -12,7 +12,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "simonwillison.net",
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -33,11 +33,11 @@
           "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "id": "f3322cdb03b9204d5bfa111f6a6de7808a57b307",
           "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-08T10:57:44Z"
         },
         {
@@ -603,15 +603,55 @@
       "score": 9820
     },
     {
-      "story_id": "story_4fec10ee",
-      "title": "人类最恐惧的事情还是发生了：AI们拉了个群密谋大事",
-      "url": "https://www.huxiu.com/article/4881766.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4881766.html?f=rss",
-      "source_count": 1,
+      "story_id": "story_7d632124",
+      "title": "AI存储股暴跌，高盛为何敢押注HBM翻倍？",
+      "url": "https://www.tmtpost.com/8096591.html",
+      "primary_url": "https://www.tmtpost.com/8096591.html",
+      "source_count": 2,
       "source_names": [
+        "钛媒体 TMTPost",
         "虎嗅"
       ],
       "sources": [
+        {
+          "id": "89ab2e6d996da8baa6fe01d1ce048cb8239d1c9d",
+          "title": "AI存储股暴跌，高盛为何敢押注HBM翻倍？",
+          "url": "https://www.tmtpost.com/8096591.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-09T09:12:17Z"
+        },
+        {
+          "id": "593f8da5da70955bd62f66a795cfe16831d776eb",
+          "title": "AI存储股暴跌，高盛为何敢押注HBM翻倍？",
+          "url": "https://www.huxiu.com/article/4881761.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-09T05:37:21Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
+      "story_id": "story_8960e061",
+      "title": "人类最恐惧的事情还是发生了：AI们拉了个群密谋大事",
+      "url": "https://www.tmtpost.com/8096616.html",
+      "primary_url": "https://www.tmtpost.com/8096616.html",
+      "source_count": 2,
+      "source_names": [
+        "钛媒体 TMTPost",
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "6d39c5850cb4c7e89380ce915ae1d949190e1ca0",
+          "title": "人类最恐惧的事情还是发生了：AI们拉了个群密谋大事",
+          "url": "https://www.tmtpost.com/8096616.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-09T09:12:14Z"
+        },
         {
           "id": "c9c95a831c56c0c3febe2844b3f68cfc53ac4457",
           "title": "人类最恐惧的事情还是发生了：AI们拉了个群密谋大事",
@@ -619,6 +659,50 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-09T06:55:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
+      "story_id": "story_a387488e",
+      "title": "做底座还是做入口？国产AI 到下决心的时候了！",
+      "url": "https://www.tmtpost.com/8096705.html",
+      "primary_url": "https://www.tmtpost.com/8096705.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "728cc9bf72bd20d310cfb0e8c473b670dc89ff09",
+          "title": "做底座还是做入口？国产AI 到下决心的时候了！",
+          "url": "https://www.tmtpost.com/8096705.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-09T09:16:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_564a7423",
+      "title": "935亿之后，具身智能的账该怎么算？",
+      "url": "https://www.tmtpost.com/8096557.html",
+      "primary_url": "https://www.tmtpost.com/8096557.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "042be617c3e9bdd32d08c6a9022632917573ce34",
+          "title": "935亿之后，具身智能的账该怎么算？",
+          "url": "https://www.tmtpost.com/8096557.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-09T08:32:55Z"
         }
       ],
       "item_count": 1,
@@ -663,28 +747,6 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-08-09T05:43:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_83fd4693",
-      "title": "AI存储股暴跌，高盛为何敢押注HBM翻倍？",
-      "url": "https://www.huxiu.com/article/4881761.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4881761.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "593f8da5da70955bd62f66a795cfe16831d776eb",
-          "title": "AI存储股暴跌，高盛为何敢押注HBM翻倍？",
-          "url": "https://www.huxiu.com/article/4881761.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-09T05:37:21Z"
         }
       ],
       "item_count": 1,
@@ -1161,6 +1223,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_f540fb29",
+      "title": "如何在 Gmail 和 Google 文档中禁用 Gemini",
+      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
+      "primary_url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "98d56aac650e33bcb8bf4a4f6b5cabd901bafad1",
+          "title": "How to Disable Gemini in Gmail and Google Docs",
+          "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_b0f16c1f",
       "title": "AI无法为一座没有地图的工厂导航",
       "url": "https://www.huxiu.com/article/4881678.html?f=rss",
@@ -1183,28 +1267,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_febf1d40",
-      "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
-      "url": "https://m.thepaper.cn/detail/33744426",
-      "primary_url": "https://m.thepaper.cn/detail/33744426",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "c9b4936dd4beab18892530395134766a64308867",
-          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
-          "url": "https://m.thepaper.cn/detail/33744426",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T09:05:21Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_a6508ad3",
       "title": "向您其他“Claude代码”会话发送消息",
       "url": "https://code.claude.com/docs/en/cross-session-messaging",
@@ -1212,7 +1274,7 @@
       "source_count": 2,
       "source_names": [
         "code.claude.com",
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
@@ -1224,11 +1286,11 @@
           "published_at": "2026-08-09T06:22:36.507000Z"
         },
         {
-          "id": "8d3eee9cfed261ea50e46aa704d6c84b9ec32861",
+          "id": "ccd78cb14dcef4b54915673f2890b1db5b55a8a9",
           "title": "Message your other Claude Code sessions",
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-08T15:34:49Z"
         }
       ],
@@ -1369,7 +1431,7 @@
       "source_count": 2,
       "source_names": [
         "social.treehouse.systems",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1381,16 +1443,82 @@
           "published_at": "2026-08-08T18:06:47.814000Z"
         },
         {
-          "id": "5dc6c649c45f97f1ae58a03a5f45220ce30d3885",
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
           "title": "Gentoo bugzilla closed due AI bot scraper overload",
           "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T13:55:42Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_89ec884b",
+      "title": "房间设计人工智能",
+      "url": "https://www.producthunt.com/products/roomdesign-ai",
+      "primary_url": "https://www.producthunt.com/products/roomdesign-ai",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "de0554eee8f4a42c922a8ee9c959809cb47946fd",
+          "title": "RoomDesign AI",
+          "url": "https://www.producthunt.com/products/roomdesign-ai",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T09:11:52.197000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2d9bd7fe",
+      "title": "🍉 我把《天龙八部》喂给了 AI，问它\"段誉会什么武功？\"答案让我惊呆了",
+      "url": "https://juejin.cn/post/7671078538116546575",
+      "primary_url": "https://juejin.cn/post/7671078538116546575",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "ead8df5da44cfdb804cf70dd82166117e2d3b0c2",
+          "title": "🍉 我把《天龙八部》喂给了 AI，问它\"段誉会什么武功？\"答案让我惊呆了",
+          "url": "https://juejin.cn/post/7671078538116546575",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T09:07:23.083000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d3d5ffe9",
+      "title": "ChatGPT、Gemini、Claude 和其他人工智能工具 — 仅今天仅需 69.97 美元",
+      "url": "https://mashable.com/tech/aug-9-1minai-advanced-business-plan-lifetime-subscription",
+      "primary_url": "https://mashable.com/tech/aug-9-1minai-advanced-business-plan-lifetime-subscription",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "67752f29d28c7f0db41cd8e2adfdce3c1264b108",
+          "title": "ChatGPT, Gemini, Claude, and other AI tools — just $69.97 today only",
+          "url": "https://mashable.com/tech/aug-9-1minai-advanced-business-plan-lifetime-subscription",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_6935e768",
@@ -1553,15 +1681,15 @@
       "primary_url": "https://marketnow.site",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
+          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
           "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
           "url": "https://marketnow.site",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-09T03:13:01Z"
         }
       ],
@@ -1641,15 +1769,15 @@
       "primary_url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "5c114006686bd25b8b4b99ade4f4bf226dedfb76",
+          "id": "118dc95503e6d55369d001a63abda14f490dc16d",
           "title": "ChatGPT starts blocking direct requests to copy an author's style",
           "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-09T02:01:38Z"
         }
       ],
@@ -1663,15 +1791,15 @@
       "primary_url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "a6b5aab369048efdfc41ab79c35e2d99a29db3bc",
+          "id": "8d9b8f8d81fff330f21335d5929cf2bbdc810757",
           "title": "The AI Apocalypse Is Here",
           "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-09T01:28:36Z"
         }
       ],
@@ -2169,15 +2297,15 @@
       "primary_url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "acee0936dcff6743d870b19d0b03f48a61274675",
+          "id": "03f85c4f71adad6e44f09ceb8d763efd9b9ba792",
           "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
           "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-08T12:16:03Z"
         }
       ],
@@ -2515,28 +2643,6 @@
       "score": 7
     },
     {
-      "story_id": "story_f540fb29",
-      "title": "如何在 Gmail 和 Google 文档中禁用 Gemini",
-      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
-      "primary_url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "188330dc7c842a08fc95af8c347f25d3fd12b185",
-          "title": "How to Disable Gemini in Gmail and Google Docs",
-          "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_d9daa835",
       "title": "ChatGPT Android 应用程序中的隐藏代码表明 OpenAI 正在构建直接 WhatsApp 贴纸导出功能",
       "url": "https://thenextweb.com/news/chatgpt-whatsapp-sticker-export-apk-teardown",
@@ -2575,138 +2681,6 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-08T09:36:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dcc76027",
-      "title": "Replit首席执行官表示人工智能正在使软件工程更加人性化",
-      "url": "https://www.businessinsider.com/replit-ceo-ai-software-engineers-more-human-saaspocalypse-2026-8",
-      "primary_url": "https://www.businessinsider.com/replit-ceo-ai-software-engineers-more-human-saaspocalypse-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "9851517dcfb6d910ef73d7fc084637d864dd68eb",
-          "title": "Replit's CEO says AI is making software engineering more human",
-          "url": "https://www.businessinsider.com/replit-ceo-ai-software-engineers-more-human-saaspocalypse-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T09:30:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b23e08ed",
-      "title": "弗里曼协议——构建人工智能并生存",
-      "url": "https://www.producthunt.com/products/freeman-protocol-build-ai-survive",
-      "primary_url": "https://www.producthunt.com/products/freeman-protocol-build-ai-survive",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "3ff8feeb56030f92b98c1090bcaec6a808e5a321",
-          "title": "Freeman Protocol — Build AI & survive",
-          "url": "https://www.producthunt.com/products/freeman-protocol-build-ai-survive",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T09:28:55.814000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_93f1b420",
-      "title": "我是一名软件开发人员，人工智能在 3 个主要方面改变了我的工作",
-      "url": "https://www.businessinsider.com/software-developer-says-ai-changed-his-job-2026-8",
-      "primary_url": "https://www.businessinsider.com/software-developer-says-ai-changed-his-job-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "a9e47b5ef0f7e87e8ddf89843af6bbc713e954b0",
-          "title": "I’m a software developer, and AI has changed my job in 3 major ways",
-          "url": "https://www.businessinsider.com/software-developer-says-ai-changed-his-job-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T09:24:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_29c89670",
-      "title": "人工智能可以分析你的粪便。应该吗？",
-      "url": "https://www.businessinsider.com/ai-toilet-tech-toto-throne-vivoo-gut-health-tracking-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-toilet-tech-toto-throne-vivoo-gut-health-tracking-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "a875f8a20eb215175216f3983187808ebc019fb1",
-          "title": "AI can analyze your poop. Should it?",
-          "url": "https://www.businessinsider.com/ai-toilet-tech-toto-throne-vivoo-gut-health-tracking-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T09:00:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_72d7367a",
-      "title": "人工智能公司不断销毁旧书。这就是原因。",
-      "url": "https://mashable.com/tech/anthropic-ai-book-training-destroy",
-      "primary_url": "https://mashable.com/tech/anthropic-ai-book-training-destroy",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "cea477c41f2c7bf73189431ac72ea6e03f707528",
-          "title": "AI companies keep destroying old books. Heres why.",
-          "url": "https://mashable.com/tech/anthropic-ai-book-training-destroy",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_89ae19c5",
-      "title": "使用此促销代码，终身使用 Claude、GPT、Gemini 和 17 种以上其他 AI 模型只需 60 美元",
-      "url": "https://mashable.com/tech/aug-8-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-      "primary_url": "https://mashable.com/tech/aug-8-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "e8f840151ca3b6cbed84ecda9016533acf96ca00",
-          "title": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code",
-          "url": "https://mashable.com/tech/aug-8-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T09:00:00Z"
         }
       ],
       "item_count": 1,
