@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T07:46:21.988926Z",
+  "generated_at": "2026-08-09T08:32:19.059995Z",
   "window_hours": 24,
-  "total_stories": 112,
+  "total_stories": 117,
   "stories": [
     {
       "story_id": "story_f73b7773",
@@ -13,7 +13,7 @@
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "simonwillison.net",
         "Hacker News",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -41,16 +41,38 @@
           "published_at": "2026-08-08T10:57:44Z"
         },
         {
-          "id": "5b015116aed6ce47d6c5207632a67bb607bab9cd",
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
           "title": "Timeline of the OpenAI accidental attack against Hugging Face",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T10:57:44Z"
         }
       ],
       "item_count": 4,
       "score": 9990
+    },
+    {
+      "story_id": "story_cd3bd5a2",
+      "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+      "primary_url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "9d0376059a540cf55332476d773f52e93dce002c",
+          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+          "source": "MarkTechPost（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T07:17:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_58f64751",
@@ -201,28 +223,6 @@
           "source": "Ars Technica：AI（RSS）",
           "site_id": "aihot",
           "published_at": "2026-08-08T11:05:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_e95a1c64",
-      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-      "url": "https://www.ithome.com/0/987/366.htm",
-      "primary_url": "https://www.ithome.com/0/987/366.htm",
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "url": "https://www.ithome.com/0/987/366.htm",
-          "source": "IT之家（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
         }
       ],
       "item_count": 1,
@@ -853,28 +853,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_3944409f",
-      "title": "OpenAI 收购演示初创公司 NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-      "primary_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "5dd4e80149456443ee99600b6ddf8f3e46154772",
-          "title": "OpenAI acquires presentation startup NextSlide",
-          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T19:41:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_395fa653",
       "title": "Jorge Messi, Lionel Messi’s father and longtime agent, dies at 68 - AP News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFNFX1NIa2tfR0ZnVXRwRm5PV2pYY0FkSmNiVzFhQzhuOUdDdnNsZHQ1dkZUcFk5RnVDazUweEhyYnJaalU4bnp4RmtKQWZXX2tXRi1oYVlzRmpNUlJJcVRTUThuSXZHaHd5Q19qVTJyWHF2Y1Q1bVpPMU1HZnpZcGlXZF9MaDViYXFwRzQ5azR3TDR2ZUE0RmZYQQ?oc=5",
@@ -1183,28 +1161,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_f540fb29",
-      "title": "如何在 Gmail 和 Google 文档中禁用 Gemini",
-      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
-      "primary_url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "98d56aac650e33bcb8bf4a4f6b5cabd901bafad1",
-          "title": "How to Disable Gemini in Gmail and Google Docs",
-          "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_b0f16c1f",
       "title": "AI无法为一座没有地图的工厂导航",
       "url": "https://www.huxiu.com/article/4881678.html?f=rss",
@@ -1243,50 +1199,6 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-08-08T09:05:21Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_103f3d18",
-      "title": "离开美团的王慧文：一笔投资赚20倍，押中24家AI公司",
-      "url": "https://www.tmtpost.com/8095579.html",
-      "primary_url": "https://www.tmtpost.com/8095579.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "e38503e11c1eb8ebc0336b9314f560720a27ac7d",
-          "title": "离开美团的王慧文：一笔投资赚20倍，押中24家AI公司",
-          "url": "https://www.tmtpost.com/8095579.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T08:18:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_8d42456a",
-      "title": "终于有人承认在院线电影里用 AI 了，未来的电影，还有“含 AI 量”为零的可能吗？",
-      "url": "https://www.tmtpost.com/8095471.html",
-      "primary_url": "https://www.tmtpost.com/8095471.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "caf47a05cb702980776a8bda02b65244c7edc31b",
-          "title": "终于有人承认在院线电影里用 AI 了，未来的电影，还有“含 AI 量”为零的可能吗？",
-          "url": "https://www.tmtpost.com/8095471.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T08:15:21Z"
         }
       ],
       "item_count": 1,
@@ -1426,7 +1338,7 @@
       "source_count": 2,
       "source_names": [
         "mezha.net",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1438,11 +1350,11 @@
           "published_at": "2026-08-08T19:26:49.887000Z"
         },
         {
-          "id": "7f09339289c3e2eb26beaf046fd0da9168756765",
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
           "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-08T18:09:31Z"
         }
       ],
@@ -1479,6 +1391,50 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_6935e768",
+      "title": "The Ball in OpenAI's court",
+      "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+      "primary_url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "b1ac18b85f3b0b250a6216ad642f0c0b14f35ec6",
+          "title": "The Ball in OpenAI's court",
+          "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T08:11:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5e25fc1f",
+      "title": "'We want photographers to have a proper partner to their camera': Zoner Studio on skipping AI editing gimmicks and the messy reality of shooting",
+      "url": "https://www.techradar.com/pro/we-want-photographers-to-have-a-proper-partner-to-their-camera-zoner-studio-on-skipping-ai-editing-gimmicks-and-the-messy-reality-of-shooting",
+      "primary_url": "https://www.techradar.com/pro/we-want-photographers-to-have-a-proper-partner-to-their-camera-zoner-studio-on-skipping-ai-editing-gimmicks-and-the-messy-reality-of-shooting",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "399e13a774e98b4ec69f4487f534c55c9946cf30",
+          "title": "'We want photographers to have a proper partner to their camera': Zoner Studio on skipping AI editing gimmicks and the messy reality of shooting",
+          "url": "https://www.techradar.com/pro/we-want-photographers-to-have-a-proper-partner-to-their-camera-zoner-studio-on-skipping-ai-editing-gimmicks-and-the-messy-reality-of-shooting",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_c45d6111",
@@ -1525,6 +1481,28 @@
       "score": 7
     },
     {
+      "story_id": "story_c8cdc8c1",
+      "title": "Show HN: CliTimes - 时间存在于您的 CLI 上（使用 Claude 代码）",
+      "url": "https://github.com/howieyoung/cli-times",
+      "primary_url": "https://github.com/howieyoung/cli-times",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "67b0967eb97dcc8b64189091f61c2b61a63e0a93",
+          "title": "Show HN: CliTimes - Times lives on your CLI (with Claude Code)",
+          "url": "https://github.com/howieyoung/cli-times",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T07:25:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_50ba18e0",
       "title": "Google's AI shakeup suggests it may be prioritizing AI diffusion over frontier-model leadership, betting on AI compute as a bigger economic opportunity (Tim O'Reilly/Asimov's Addendum)",
       "url": "https://www.techmeme.com/260809/p4",
@@ -1547,21 +1525,43 @@
       "score": 7
     },
     {
+      "story_id": "story_54fad7cb",
+      "title": "Muse Code 默认向 Meta 发送 Codex 和 Claude 指令",
+      "url": "https://runtimewire.com/article/exclusive-muse-code-sends-codex-and-claude-instructions-to-meta-by-default",
+      "primary_url": "https://runtimewire.com/article/exclusive-muse-code-sends-codex-and-claude-instructions-to-meta-by-default",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "b48e3fd4282fb5dc414d8f1fbc7a4f277232e54c",
+          "title": "Muse Code Sends Codex and Claude Instructions to Meta by Default",
+          "url": "https://runtimewire.com/article/exclusive-muse-code-sends-codex-and-claude-instructions-to-meta-by-default",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T05:21:44Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_3c94c412",
       "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
       "url": "https://marketnow.site",
       "primary_url": "https://marketnow.site",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
+          "id": "5660f67d71ed812801f3938793c3267b40a125b0",
           "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
           "url": "https://marketnow.site",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-09T03:13:01Z"
         }
       ],
@@ -1663,15 +1663,15 @@
       "primary_url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "8d9b8f8d81fff330f21335d5929cf2bbdc810757",
+          "id": "a6b5aab369048efdfc41ab79c35e2d99a29db3bc",
           "title": "The AI Apocalypse Is Here",
           "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-09T01:28:36Z"
         }
       ],
@@ -1805,6 +1805,28 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-08-08T20:47:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3944409f",
+      "title": "OpenAI 收购演示初创公司 NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+      "primary_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "b4bb76e1c010029de72e0a94a2df1c4fc7a8082f",
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T19:41:13Z"
         }
       ],
       "item_count": 1,
@@ -2119,22 +2141,66 @@
       "score": 7
     },
     {
+      "story_id": "story_07eb4445",
+      "title": "Armenia just opened the region’s biggest AI factory. It exists because Washington signed a licence.",
+      "url": "https://thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy",
+      "primary_url": "https://thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "f5821c28e4430a7680c0aa049a11481cbf14fd68",
+          "title": "Armenia just opened the region’s biggest AI factory. It exists because Washington signed a licence.",
+          "url": "https://thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:21:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_00a23074",
       "title": "CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割",
       "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
       "primary_url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "03f85c4f71adad6e44f09ceb8d763efd9b9ba792",
+          "id": "acee0936dcff6743d870b19d0b03f48a61274675",
           "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
           "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T12:16:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d8367b85",
+      "title": "Recruiters are using AI avatars to run interviews. Now candidates are sending avatars to attend them.",
+      "url": "https://thenextweb.com/news/ai-avatars-job-interviews-candidates-recruiters",
+      "primary_url": "https://thenextweb.com/news/ai-avatars-job-interviews-candidates-recruiters",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "0036a444ac84cf172f3b116d0bab21872c9002df",
+          "title": "Recruiters are using AI avatars to run interviews. Now candidates are sending avatars to attend them.",
+          "url": "https://thenextweb.com/news/ai-avatars-job-interviews-candidates-recruiters",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:04:26Z"
         }
       ],
       "item_count": 1,
@@ -2185,21 +2251,65 @@
       "score": 7
     },
     {
+      "story_id": "story_f1243746",
+      "title": "美国模特闯入Hugging Face。使用中国模型进行调查。",
+      "url": "https://thenextweb.com/news/hugging-face-delangue-china-open-models-winning",
+      "primary_url": "https://thenextweb.com/news/hugging-face-delangue-china-open-models-winning",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "2ed3ec93b4454b1321175bea01181bd6edeffe83",
+          "title": "American models broke into Hugging Face. A Chinese model was used to investigate.",
+          "url": "https://thenextweb.com/news/hugging-face-delangue-china-open-models-winning",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T11:39:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5e28109f",
+      "title": "中国人工智能的新瓶颈不是芯片。它的中文训练数据即将耗尽。",
+      "url": "https://thenextweb.com/news/china-chinese-language-ai-training-data-shortage",
+      "primary_url": "https://thenextweb.com/news/china-chinese-language-ai-training-data-shortage",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "6d60402738da2bd5d02d427e36da02a1d26553b3",
+          "title": "China’s new AI bottleneck isn’t chips. It’s running out of Chinese-language training data.",
+          "url": "https://thenextweb.com/news/china-chinese-language-ai-training-data-shortage",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T11:38:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_1a348fcd",
       "title": "自动模式将成为Claude代码中的默认模式——因为人类不可信",
       "url": "https://thenewstack.io/claude-code-auto-mode",
       "primary_url": "https://thenewstack.io/claude-code-auto-mode",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "931737abcd08217c32a8f18b12069386329c2688",
+          "id": "89d3bfdc20866c905f5b8d52a34392fb37baa33e",
           "title": "Auto Mode will be the default in Claude Code – because humans can't be trusted",
           "url": "https://thenewstack.io/claude-code-auto-mode",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-08T11:35:06Z"
         }
       ],
@@ -2339,6 +2449,28 @@
       "score": 7
     },
     {
+      "story_id": "story_2576b567",
+      "title": "Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead",
+      "url": "https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off",
+      "primary_url": "https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "99c440546a0482dfd9c18ccbd0f989e031839617",
+          "title": "Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead",
+          "url": "https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T10:09:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_2179c255",
       "title": "工人们担心人工智能会暴露他们不知道如何正确完成工作",
       "url": "https://www.techradar.com/pro/workers-are-worried-ai-will-expose-they-dont-know-how-to-do-their-jobs-properly",
@@ -2377,6 +2509,50 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-08T10:03:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f540fb29",
+      "title": "如何在 Gmail 和 Google 文档中禁用 Gemini",
+      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
+      "primary_url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "188330dc7c842a08fc95af8c347f25d3fd12b185",
+          "title": "How to Disable Gemini in Gmail and Google Docs",
+          "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d9daa835",
+      "title": "ChatGPT Android 应用程序中的隐藏代码表明 OpenAI 正在构建直接 WhatsApp 贴纸导出功能",
+      "url": "https://thenextweb.com/news/chatgpt-whatsapp-sticker-export-apk-teardown",
+      "primary_url": "https://thenextweb.com/news/chatgpt-whatsapp-sticker-export-apk-teardown",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "8486761d1c2c9ed55c11eb4a9fbcd3e7c616ddec",
+          "title": "Hidden code in ChatGPT’s Android app suggests OpenAI is building a direct WhatsApp sticker export",
+          "url": "https://thenextweb.com/news/chatgpt-whatsapp-sticker-export-apk-teardown",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T09:38:58Z"
         }
       ],
       "item_count": 1,
@@ -2531,72 +2707,6 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-08-08T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_41635040",
-      "title": "Ash — 人工智能参谋长",
-      "url": "https://www.producthunt.com/products/ash-ai-chief-of-staff",
-      "primary_url": "https://www.producthunt.com/products/ash-ai-chief-of-staff",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "54061e2299e1f822e5ef38dec5b9f04be9e4f5f7",
-          "title": "Ash — AI Chief of Staff",
-          "url": "https://www.producthunt.com/products/ash-ai-chief-of-staff",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T08:29:38.308000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6b633d8f",
-      "title": "Create less AI slop and have more fun: 4 McKinsey partners told us what they want from junior consultants",
-      "url": "https://www.businessinsider.com/mckinsey-partners-advice-for-junior-consultants-ai-slop-socialize-2026-8",
-      "primary_url": "https://www.businessinsider.com/mckinsey-partners-advice-for-junior-consultants-ai-slop-socialize-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "9aed8b6fc52c0b1daed65ad09bcee189cbe44404",
-          "title": "Create less AI slop and have more fun: 4 McKinsey partners told us what they want from junior consultants",
-          "url": "https://www.businessinsider.com/mckinsey-partners-advice-for-junior-consultants-ai-slop-socialize-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T08:07:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0adb4435",
-      "title": "我问 ChatGPT、Claude、Gemini 和 Grok 他们最喜欢哪一个科幻人工智能——他们的答案出奇地不同",
-      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-claude-gemini-and-grok-which-sci-fi-ai-theyre-most-like-and-their-answers-were-surprisingly-different",
-      "primary_url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-claude-gemini-and-grok-which-sci-fi-ai-theyre-most-like-and-their-answers-were-surprisingly-different",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "9993df1630734c9615d809a7d6f513124ed0595a",
-          "title": "I asked ChatGPT, Claude, Gemini and Grok which sci-fi AI they're most like — and their answers were surprisingly different",
-          "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-claude-gemini-and-grok-which-sci-fi-ai-theyre-most-like-and-their-answers-were-surprisingly-different",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T08:00:00Z"
         }
       ],
       "item_count": 1,
