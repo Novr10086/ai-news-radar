@@ -1,18 +1,17 @@
 {
-  "generated_at": "2026-08-09T04:56:37.509868Z",
+  "generated_at": "2026-08-09T05:43:22.481097Z",
   "window_hours": 24,
-  "total_stories": 96,
+  "total_stories": 97,
   "stories": [
     {
       "story_id": "story_f73b7773",
       "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
       "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "simonwillison.net",
-        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -33,11 +32,11 @@
           "published_at": "2026-08-08T14:38:40.439000Z"
         },
         {
-          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "id": "c625026916665fea186982a1e9a2f0e96ccec9ae",
           "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T10:57:44Z"
         },
         {
@@ -50,7 +49,7 @@
         }
       ],
       "item_count": 4,
-      "score": 9990
+      "score": 9980
     },
     {
       "story_id": "story_58f64751",
@@ -293,6 +292,28 @@
       ],
       "item_count": 1,
       "score": 9820
+    },
+    {
+      "story_id": "story_bfac48d9",
+      "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
+      "url": "https://www.huxiu.com/article/4881757.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881757.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "c3efae82aa609b04de5784cbaa9ccd10d12137f9",
+          "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
+          "url": "https://www.huxiu.com/article/4881757.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-09T04:21:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_94dcc779",
@@ -940,7 +961,7 @@
       "source_count": 2,
       "source_names": [
         "mezha.net",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -952,11 +973,11 @@
           "published_at": "2026-08-08T19:26:49.887000Z"
         },
         {
-          "id": "20fcecdef2911569da9805225694720c760b2329",
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
           "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-08T18:09:31Z"
         }
       ],
@@ -971,7 +992,7 @@
       "source_count": 2,
       "source_names": [
         "social.treehouse.systems",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -983,11 +1004,11 @@
           "published_at": "2026-08-08T18:06:47.814000Z"
         },
         {
-          "id": "5dc6c649c45f97f1ae58a03a5f45220ce30d3885",
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
           "title": "Gentoo bugzilla closed due AI bot scraper overload",
           "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T13:55:42Z"
         }
       ],
@@ -1004,6 +1025,14 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "baf0a07b6a7e61dec2bd07b304166bd08691a17e",
+          "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "url": "https://news.ycombinator.com/item?id=49228086",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T05:43:04.897000Z"
+        },
         {
           "id": "b0bff110a2c809f8b8c8488830fd5669ddf83a59",
           "title": "ChatGPT starts blocking direct requests to copy an author's style",
@@ -1069,7 +1098,29 @@
           "published_at": "2026-08-08T12:29:03.485000Z"
         }
       ],
-      "item_count": 8,
+      "item_count": 9,
+      "score": 7
+    },
+    {
+      "story_id": "story_3c94c412",
+      "title": "实时 MCP 拦截器，阻止 .env 读取和危险命令代理",
+      "url": "https://marketnow.site",
+      "primary_url": "https://marketnow.site",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "b3f4f2fb78c1c89bbda7afd7adac105b371ff88b",
+          "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+          "url": "https://marketnow.site",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-09T03:13:01Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -1145,15 +1196,15 @@
       "primary_url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
+          "id": "5c114006686bd25b8b4b99ade4f4bf226dedfb76",
           "title": "ChatGPT starts blocking direct requests to copy an author's style",
           "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-09T02:01:38Z"
         }
       ],
@@ -1167,15 +1218,15 @@
       "primary_url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "8d9b8f8d81fff330f21335d5929cf2bbdc810757",
+          "id": "a6b5aab369048efdfc41ab79c35e2d99a29db3bc",
           "title": "The AI Apocalypse Is Here",
           "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-09T01:28:36Z"
         }
       ],
@@ -1453,15 +1504,15 @@
       "primary_url": "https://code.claude.com/docs/en/cross-session-messaging",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "d701a11300d80906f2a4955712818009896d5d9a",
+          "id": "791785f6eb5df43737e935bb32ce700080603158",
           "title": "Message your other Claude Code sessions",
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-08T15:34:49Z"
         }
       ],
@@ -1651,15 +1702,15 @@
       "primary_url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
+          "id": "03f85c4f71adad6e44f09ceb8d763efd9b9ba792",
           "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
           "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-08T12:16:03Z"
         }
       ],
@@ -1717,15 +1768,15 @@
       "primary_url": "https://thenewstack.io/claude-code-auto-mode",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "89d3bfdc20866c905f5b8d52a34392fb37baa33e",
+          "id": "931737abcd08217c32a8f18b12069386329c2688",
           "title": "Auto Mode will be the default in Claude Code – because humans can't be trusted",
           "url": "https://thenewstack.io/claude-code-auto-mode",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-08T11:35:06Z"
         }
       ],
@@ -2189,28 +2240,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-08T05:45:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c1754825",
-      "title": "我用 Codex 自动剪视频，全靠这 9 个 视频 skills",
-      "url": "https://juejin.cn/post/7670567758656962595",
-      "primary_url": "https://juejin.cn/post/7670567758656962595",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "9fe5432bbdafa88e1230d70a9d2e8dfe1464bac7",
-          "title": "我用 Codex 自动剪视频，全靠这 9 个 视频 skills",
-          "url": "https://juejin.cn/post/7670567758656962595",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T05:24:58.347000Z"
         }
       ],
       "item_count": 1,
