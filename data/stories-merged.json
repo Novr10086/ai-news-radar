@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T20:33:17.391694Z",
+  "generated_at": "2026-08-10T21:33:45.268591Z",
   "window_hours": 24,
-  "total_stories": 243,
+  "total_stories": 247,
   "stories": [
     {
       "story_id": "story_56292896",
@@ -11,8 +11,8 @@
       "source_count": 3,
       "source_names": [
         "OpenAI News",
-        "Hacker News · 24h最热",
-        "Hacker News"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -24,19 +24,19 @@
           "published_at": "2026-08-10T14:00:00Z"
         },
         {
-          "id": "cde69d2706bf4e3eecfebc8d78c3fd65a9655ba5",
+          "id": "e05568c26cf1f3a6a5f215f4dd05615e1d46056d",
           "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-10T14:38:20Z"
         },
         {
-          "id": "ad4b50f011a7df8764638bba26e0733014fd5d11",
+          "id": "c5b1c9386311bd99eaa8beb0fabb4496aca0fe70",
           "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-10T14:38:20Z"
         }
       ],
@@ -119,6 +119,28 @@
       "score": 10020
     },
     {
+      "story_id": "story_52b9c6e0",
+      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+      "url": "https://openai.com/index/model-ml",
+      "primary_url": "https://openai.com/index/model-ml",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
       "story_id": "story_98a69bb3",
       "title": "使知识蒸馏足够便宜以进行大规模运行",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
@@ -154,28 +176,6 @@
           "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
           "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
           "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_dd3ed843",
-      "title": "将前沿网络模型交给更值得信赖的人",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "primary_url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "0aec5c7bd13ab84e2d66c55839494fb7a8f98e01",
-          "title": "Putting frontier cyber models in more trusted hands",
-          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
           "source": "OpenAI News",
           "site_id": "official_ai",
           "published_at": "2026-08-10T10:00:00Z"
@@ -229,28 +229,6 @@
       "score": 10020
     },
     {
-      "story_id": "story_70ce1451",
-      "title": "ChatGPT Business 即将推出高级席位",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "primary_url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "6532406ec987eb5acf1cfea51869858156bcf87a",
-          "title": "Premium seats are coming to ChatGPT Business",
-          "url": "https://openai.com/index/premium-seats-chatgpt-business",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
       "story_id": "story_9151c8fd",
       "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
       "url": "https://bobdahacker.com/blog/tldv-hack",
@@ -259,7 +237,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "bobdahacker.com",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -279,11 +257,11 @@
           "published_at": "2026-08-10T14:03:26.804000Z"
         },
         {
-          "id": "fdafb8b741ff79843314871f5e2f2d7cc931c36e",
+          "id": "8afc0f7a0b4b5c96efde6740ff5059df0d8dd58b",
           "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
           "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-10T12:26:05Z"
         }
       ],
@@ -1299,50 +1277,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_0b70db74",
-      "title": "Linear Agent files feature requests for itself. If a user asks it to do something and it doesn’t have the right tool, the agent reports the gap. Linear’s system then adds the request to an issue so that every task the...",
-      "url": "https://x.com/petergyang/status/2086562291206791482",
-      "primary_url": "https://x.com/petergyang/status/2086562291206791482",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Yang"
-      ],
-      "sources": [
-        {
-          "id": "bd0ba6fcb1760e61166184dd3737bc183f5a4dd4",
-          "title": "Linear Agent files feature requests for itself. If a user asks it to do something and it doesn’t have the right tool, the agent reports the gap. Linear’s system then adds the request to an issue so that every task the...",
-          "url": "https://x.com/petergyang/status/2086562291206791482",
-          "source": "Follow Builders · X · Peter Yang",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-09T21:16:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_aef1aec8",
-      "title": "One reason why we’re going to get uneven diffusion rates of agents is because different workflows in the enterprise are more or less aligned to continuous, uninterrupted computer work. A big reason why agentic coding...",
-      "url": "https://x.com/levie/status/2086559201053294909",
-      "primary_url": "https://x.com/levie/status/2086559201053294909",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "sources": [
-        {
-          "id": "52ab209f74023b1afed08a3a5141917d0982945f",
-          "title": "One reason why we’re going to get uneven diffusion rates of agents is because different workflows in the enterprise are more or less aligned to continuous, uninterrupted computer work. A big reason why agentic coding...",
-          "url": "https://x.com/levie/status/2086559201053294909",
-          "source": "Follow Builders · X · Aaron Levie",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-09T21:04:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_d30f9dee",
       "title": "哥伦比亚和厄瓜多尔发生强烈地震，促使人们撤离房屋和建筑物 - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
@@ -1436,6 +1370,28 @@
       "score": 9770
     },
     {
+      "story_id": "story_47270e40",
+      "title": "马克·扎克伯格的人工智能宣言正是人们不喜欢人工智能的原因",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai",
+      "primary_url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "b3b1b9b06eb8bf8817883089e25afe6053953d63",
+          "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+          "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-10T20:53:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_81076f80",
       "title": "Claude特工入侵健身房后，科技行业一片喧嚣",
       "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym",
@@ -1452,28 +1408,6 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-08-10T20:04:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_15446211",
-      "title": "Meta 的新 Glimmer AI 模型为扎克伯格的个人智能愿景提供了暗示",
-      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
-      "primary_url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "dc489f3f896f243d0904e2707b595fec901f1b19",
-          "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-10T16:20:13Z"
         }
       ],
       "item_count": 1,
@@ -1686,50 +1620,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_c1609043",
-      "title": "Discovered Materials 正在玩人工智能打地鼠游戏来寻找更酷的芯片",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
-      "primary_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "0d3756a3be806484979ad2fe6fbbf4a5ad42b28b",
-          "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-          "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-10T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_52b9c6e0",
-      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
-      "url": "https://openai.com/index/model-ml",
-      "primary_url": "https://openai.com/index/model-ml",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "60dbaf04515c3377e4c7d933e032e4d75e9a03db",
-          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "url": "https://openai.com/index/model-ml",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-10T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_f24aa5ca",
       "title": "马斯克的新生图模型，让我笑了一整晚",
       "url": "https://www.huxiu.com/article/4882068.html?f=rss",
@@ -1752,6 +1642,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_f0e8a9d5",
+      "title": "AI Slop 的强烈反对实际上正在产生影响",
+      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact",
+      "primary_url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "53cdc8b1ddd740fb225c804b9a5b51c5fc5297e7",
+          "title": "The AI Slop Backlash Is Actually Having an Impact",
+          "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-10T11:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_72519687",
       "title": "超强台风“海豚”袭击中国，引发洪水和山体滑坡警报",
       "url": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss",
@@ -1768,6 +1680,28 @@
           "source": "Al Jazeera English",
           "site_id": "opmlrss",
           "published_at": "2026-08-10T11:06:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_5479eb87",
+      "title": "福特的新人工智能助手可以检查你的燃油水平和轮胎压力",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "primary_url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "77970928a17e890971c748e3765625a15c5b28aa",
+          "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+          "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-10T11:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1834,6 +1768,28 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-08-10T10:15:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_dd3ed843",
+      "title": "将前沿网络模型交给更值得信赖的人",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "primary_url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "8929723050535158423fce441486de795435e505",
+          "title": "Putting frontier cyber models in more trusted hands",
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-10T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2670,6 +2626,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_70ce1451",
+      "title": "ChatGPT Business 即将推出高级席位",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "primary_url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "d8de07cd934990109e43fd11e45c55a5c7fb2ba0",
+          "title": "Premium seats are coming to ChatGPT Business",
+          "url": "https://openai.com/index/premium-seats-chatgpt-business",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_16049311",
       "title": "这个人工智能工具声称可以挑选出前 1% 的预印本。研究人员应该相信它吗？",
       "url": "https://www.nature.com/articles/d41586-026-02276-z",
@@ -2765,8 +2743,8 @@
       "source_count": 3,
       "source_names": [
         "research.meta.ai",
-        "Hacker News",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)",
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
@@ -2778,19 +2756,19 @@
           "published_at": "2026-08-10T11:25:13.277000Z"
         },
         {
-          "id": "3b2154d2e4ff0d5c94c25928bbc22422d29e5900",
+          "id": "be073ad6741e3cf5f19474ae367678a4111f389d",
           "title": "Meta Muse Glimmer – open weights 30B local coding model",
           "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-10T10:10:02Z"
         },
         {
-          "id": "82531084f7d346652d8c366534daa0c77e99437c",
+          "id": "721d73a06b6b01d860855be52ad5d03851e294ee",
           "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
           "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-10T10:10:02Z"
         }
       ],
@@ -2808,6 +2786,14 @@
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "32cd88644a7322813cf756fc6732c15b1a687b84",
+          "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+          "url": "https://news.ycombinator.com/item?id=49246804",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T21:15:29.692000Z"
+        },
         {
           "id": "ba4c113a9202f537d4b7a2a8ad41400d7323c999",
           "title": "Attacker Takes over Zoom AI",
@@ -2983,14 +2969,6 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-10T01:04:00.179000Z"
-        },
-        {
-          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-          "title": "The tragedy of the commons, AI edition",
-          "url": "https://news.ycombinator.com/item?id=49235011",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:08:14.346000Z"
         }
       ],
       "item_count": 23,
@@ -3004,7 +2982,7 @@
       "source_count": 2,
       "source_names": [
         "www.anthropic.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3016,11 +2994,11 @@
           "published_at": "2026-08-10T19:54:08.696000Z"
         },
         {
-          "id": "b3d7644a043d7c8122eee16ee3c38d119445ebd3",
+          "id": "456856493e7d6a15ada24d728ed900923678a231",
           "title": "Learning more about Claude's mathematical capabilities",
           "url": "https://www.anthropic.com/research/riemann-zeta",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-10T17:41:13Z"
         }
       ],
@@ -3035,7 +3013,7 @@
       "source_count": 2,
       "source_names": [
         "www.ft.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3047,11 +3025,11 @@
           "published_at": "2026-08-10T19:06:14.294000Z"
         },
         {
-          "id": "7dd12c9c591011654c8fff48800fa97fd49ac502",
+          "id": "55ac3634bcbd7887f500bff4064851053d508431",
           "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
           "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-10T14:06:22Z"
         }
       ],
@@ -3128,7 +3106,7 @@
       "source_count": 2,
       "source_names": [
         "www.whodunnitai.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3140,11 +3118,11 @@
           "published_at": "2026-08-10T11:09:28.739000Z"
         },
         {
-          "id": "14da2da7c0fbe62ae9fdd57bacf260ad71ca3b37",
+          "id": "08b99ee274dde74ac2573cbec3246f6ca1b388d0",
           "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
           "url": "https://www.whodunnitai.com",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-10T03:18:40Z"
         }
       ],
@@ -3190,7 +3168,7 @@
       "source_count": 2,
       "source_names": [
         "claude.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3202,16 +3180,60 @@
           "published_at": "2026-08-10T06:06:29.188000Z"
         },
         {
-          "id": "a03095c093c0118c650ba87125b2207740067070",
+          "id": "1c847893da1d425098ccdd4b2eb857091900e3f5",
           "title": "Auto mode is now the default in Claude Code",
           "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-10T03:50:00Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_a8fbe84b",
+      "title": "Corma 从红杉资本筹集了 6000 万美元，用于构建网络安全所缺少的防御性人工智能",
+      "url": "https://thenextweb.com/news/corma-60m-seed-sequoia-defensive-cybersecurity-ai",
+      "primary_url": "https://thenextweb.com/news/corma-60m-seed-sequoia-defensive-cybersecurity-ai",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "1cdd95a1fad764ef7aa8bb6ff7815134247ba682",
+          "title": "Corma raised $60M from Sequoia to build the defensive AI that cybersecurity is missing",
+          "url": "https://thenextweb.com/news/corma-60m-seed-sequoia-defensive-cybersecurity-ai",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T20:30:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_22667f1b",
+      "title": "Arena Group 正在更名为 Paradium.AI，收入减半",
+      "url": "https://thenextweb.com/news/arena-group-paradium-ai-rebrand-q2-2026-results",
+      "primary_url": "https://thenextweb.com/news/arena-group-paradium-ai-rebrand-q2-2026-results",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "5bdc43c31bdd16d1c30d594b58154b977e505e41",
+          "title": "The Arena Group is renaming itself Paradium.AI, and its revenue just halved",
+          "url": "https://thenextweb.com/news/arena-group-paradium-ai-rebrand-q2-2026-results",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T20:27:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_cae0bbf6",
@@ -3230,6 +3252,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-10T20:04:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5a7de9f8",
+      "title": "Point2 raised $136M to solve AI’s wiring problem. Its RF cables beat copper on reach and optics on latency.",
+      "url": "https://thenextweb.com/news/point2-136m-series-b-rf-interconnect-ai-data-centre",
+      "primary_url": "https://thenextweb.com/news/point2-136m-series-b-rf-interconnect-ai-data-centre",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "d3b941375b958d02fe1e67483817234f07a11aac",
+          "title": "Point2 raised $136M to solve AI’s wiring problem. Its RF cables beat copper on reach and optics on latency.",
+          "url": "https://thenextweb.com/news/point2-136m-series-b-rf-interconnect-ai-data-centre",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T20:00:53Z"
         }
       ],
       "item_count": 1,
@@ -3296,6 +3340,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-10T19:19:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5c740736",
+      "title": "OpenAI 正在招聘一名电力交易员，因为电力现在已成为其账簿上的一个职位",
+      "url": "https://thenextweb.com/news/openai-power-trading-lead-data-centre-hedging",
+      "primary_url": "https://thenextweb.com/news/openai-power-trading-lead-data-centre-hedging",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "4457f424e189aaece6310af8494f4ab5da34203c",
+          "title": "OpenAI is hiring a power trader, because electricity is now a position on its books",
+          "url": "https://thenextweb.com/news/openai-power-trading-lead-data-centre-hedging",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T19:05:40Z"
         }
       ],
       "item_count": 1,
@@ -3566,6 +3632,28 @@
       "score": 7
     },
     {
+      "story_id": "story_dc264893",
+      "title": "Show HN：Needle2：14MB 代理LLM，适用于手机、可穿戴设备、智能家居和机器人",
+      "url": "https://cactuscompute.com/needle",
+      "primary_url": "https://cactuscompute.com/needle",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "fb234ce67c2a78ca97b848558290825e6aebfbba",
+          "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+          "url": "https://cactuscompute.com/needle",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-10T17:22:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_94b7b28e",
       "title": "OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative (Sam Sabin/Axios)",
       "url": "https://www.techmeme.com/260810/p32",
@@ -3660,16 +3748,38 @@
       "primary_url": "https://www.stoaexchange.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "1fa842c8802c50bfb0a4011e1cdfd548d21fba43",
+          "id": "4848e9835f178a9bc6b39836df3fd14ed262885a",
           "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
           "url": "https://www.stoaexchange.com",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-10T16:35:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_15446211",
+      "title": "Meta 的新 Glimmer AI 模型为扎克伯格的个人智能愿景提供了暗示",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
+      "primary_url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "435dbeb044cabd03ff8b3d90fd654a2dc24f835c",
+          "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T16:20:13Z"
         }
       ],
       "item_count": 1,
@@ -3918,6 +4028,28 @@
       "score": 7
     },
     {
+      "story_id": "story_a45aa7c9",
+      "title": "简而言之，人工智能泡沫",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1vknzog/ai_bubble_in_a_nutshell",
+      "primary_url": "https://www.reddit.com/r/wallstreetbets/comments/1vknzog/ai_bubble_in_a_nutshell",
+      "source_count": 1,
+      "source_names": [
+        "Reddit (热门)"
+      ],
+      "sources": [
+        {
+          "id": "d6efb37f2c76d1b137e915ad1a2ae558c1cfa5ee",
+          "title": "AI bubble in a nutshell",
+          "url": "https://www.reddit.com/r/wallstreetbets/comments/1vknzog/ai_bubble_in_a_nutshell",
+          "source": "Reddit (热门)",
+          "site_id": "iris",
+          "published_at": "2026-08-10T15:26:59Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_9dba75a4",
       "title": "I thought asking an AI agent to book a gym class was harmless, then I saw what happened if you ask Claude and OpenClaw to ‘move me to the top of the list’ — now I’m adding one safeguard to every agent prompt",
       "url": "https://www.techradar.com/ai-platforms-assistants/claude/i-thought-asking-an-ai-agent-to-book-a-gym-class-was-harmless-then-i-saw-what-happened-if-you-ask-claude-and-openclaw-to-move-me-to-the-top-of-the-list-now-im-adding-one-safeguard-to-every-agent-prompt",
@@ -4012,15 +4144,15 @@
       "primary_url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "46f3eaa48a1c67d2e67ce528759b3a41bb0da831",
+          "id": "6cc11020bd9d0ca838fb9429fb2d4dc15e83b092",
           "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
           "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-10T14:20:41Z"
         }
       ],
@@ -4122,15 +4254,15 @@
       "primary_url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "708d22abbc9c8a113ef0e2df3c8cb57b8af1db44",
+          "id": "bc3f325248b92ec2b3411bb7d14a7d4e46043ce9",
           "title": "Humanising LLM Outputs Is Dumb",
           "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-10T13:35:40Z"
         }
       ],
@@ -4270,6 +4402,28 @@
       "score": 7
     },
     {
+      "story_id": "story_c1609043",
+      "title": "Discovered Materials 正在玩人工智能打地鼠游戏来寻找更酷的芯片",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
+      "primary_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "d1458fbbf953fb2e1604f2e6f8cbf1518ae2cb14",
+          "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+          "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_c1904c2c",
       "title": "Show HN：在 250 美元的 FPGA 上以 21,000 tok/s 运行的微型LLM（现场演示）",
       "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260",
@@ -4286,28 +4440,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-08-10T11:52:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f0e8a9d5",
-      "title": "AI Slop 的强烈反对实际上正在产生影响",
-      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact",
-      "primary_url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "9008ed8ad2b56ea8da38797bf2711ec203aab123",
-          "title": "The AI Slop Backlash Is Actually Having an Impact",
-          "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T11:30:00Z"
         }
       ],
       "item_count": 1,
@@ -4374,6 +4506,28 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-08-10T11:20:00.474000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cca12b70",
+      "title": "我在我拥有的笔记本电脑上对本地LLM进行了基准测试",
+      "url": "https://mamonas.dev/posts/local-llms-on-the-laptop-i-already-have",
+      "primary_url": "https://mamonas.dev/posts/local-llms-on-the-laptop-i-already-have",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "5fd878316f16a9bd2187634982c1a07ff03f08a7",
+          "title": "I Benchmarked Local LLMs on the Laptop I Have",
+          "url": "https://mamonas.dev/posts/local-llms-on-the-laptop-i-already-have",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T11:14:58Z"
         }
       ],
       "item_count": 1,
@@ -4468,28 +4622,6 @@
       "score": 7
     },
     {
-      "story_id": "story_5479eb87",
-      "title": "福特的新人工智能助手可以检查你的燃油水平和轮胎压力",
-      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "primary_url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "73ffceddbfe2a36954f63772572b12c297b1453a",
-          "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-          "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_5e79bb58",
       "title": "Prisca AI",
       "url": "https://www.producthunt.com/products/prisca-ai",
@@ -4518,15 +4650,15 @@
       "primary_url": "https://twitter.com/finkd/status/2086754845218726027",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "a03e552e24ad995134e9a329fca21ff49a277f4b",
+          "id": "9a20a2a5d2ae8a1e04e7c39eace1f5d00d7b0265",
           "title": "Meta's new open-weight model targets local agentic AI",
           "url": "https://twitter.com/finkd/status/2086754845218726027",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-10T10:55:03Z"
         }
       ],
@@ -4672,15 +4804,15 @@
       "primary_url": "https://www.meta.com/thefutureisforeveryone",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "67a4a006a60d08412f0be5d01126195a2b907f5b",
+          "id": "7f44c2ba091754770f5bfbace1aac8aeb927a0f4",
           "title": "The Future Is for Everyone – The Path to a Positive AI Future",
           "url": "https://www.meta.com/thefutureisforeveryone",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-10T10:15:55Z"
         }
       ],
@@ -5672,50 +5804,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-08-09T21:36:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6736775a",
-      "title": "人工智能驱动的浏览器从头开始生成每个网站",
-      "url": "https://idle.slashdot.org/story/26/08/09/2048241/ai-powered-browser-just-generates-every-website-from-scratch",
-      "primary_url": "https://idle.slashdot.org/story/26/08/09/2048241/ai-powered-browser-just-generates-every-website-from-scratch",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "c18b63728342b736b2f05065b44f5fd6332592e1",
-          "title": "AI-Powered Browser Just Generates Every Website From Scratch",
-          "url": "https://idle.slashdot.org/story/26/08/09/2048241/ai-powered-browser-just-generates-every-website-from-scratch",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T21:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a719cd79",
-      "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会",
-      "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-      "primary_url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "087f4b4f40dfeef3e4a8651579d74a2b7b2feb1b",
-          "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-          "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T21:01:31Z"
         }
       ],
       "item_count": 1,
