@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T10:59:56.281749Z",
+  "generated_at": "2026-08-10T11:49:32.212744Z",
   "window_hours": 24,
-  "total_stories": 201,
+  "total_stories": 211,
   "stories": [
     {
       "story_id": "story_98a69bb3",
@@ -117,7 +117,7 @@
       "source_count": 2,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -129,11 +129,11 @@
           "published_at": "2026-08-10T00:46:27.596000Z"
         },
         {
-          "id": "2ba7dd0899d669ed5f8ecab3b293ba75d967e21c",
+          "id": "85bf3d7e3745817e89dcea889c1ad8542e45adb7",
           "title": "OpenChamber: An Agentic Development Environment",
           "url": "https://openchamber.dev",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-09T17:27:16Z"
         }
       ],
@@ -810,28 +810,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_e8a0666b",
-      "title": "AI安全测试正成为安全风险",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
-      "primary_url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "0db338916ed46a5fc87fdacfe41de9749fceaf8f",
-          "title": "AI安全测试正成为安全风险",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
-          "source": "TechCrunch：AI（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_707c8b1b",
       "title": "USA: agents doing ExploitGym benchmark. Australia: agents exploiting gyms for real. Australia is not for beginners. https://t.co/v1neRbcW1x",
       "url": "https://x.com/realmadhuguru/status/2086661565898695097",
@@ -1250,6 +1228,55 @@
       "score": 9820
     },
     {
+      "story_id": "story_966ebff2",
+      "title": "Anthropic 默认开启 Claude Code 的自动模式",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+      "primary_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+      "source_count": 4,
+      "source_names": [
+        "TechCrunch",
+        "HN Algolia · AI 24h",
+        "claude.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "d92c9758bfcb64f458e755bfad5d62a985cbd4a5",
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-09T19:20:32Z"
+        },
+        {
+          "id": "9e94a7cceda2e301cb4fa74a37c9c709e9f67a63",
+          "title": "Anthropic is turning Claude Code's auto mode on by default",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T19:33:23Z"
+        },
+        {
+          "id": "789b2fe10390c2092e0511aa9d920fcbb46622e5",
+          "title": "“自动模式”现已成为 Claude Code 的默认设置",
+          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+          "source": "claude.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T06:06:29.188000Z"
+        },
+        {
+          "id": "a03095c093c0118c650ba87125b2207740067070",
+          "title": "Auto mode is now the default in Claude Code",
+          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T03:50:00Z"
+        }
+      ],
+      "item_count": 4,
+      "score": 9790
+    },
+    {
       "story_id": "story_c22ead8d",
       "title": "具身智能的大脑，200亿一张门票",
       "url": "https://www.tmtpost.com/8097290.html",
@@ -1310,6 +1337,72 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_f0e8a9d5",
+      "title": "AI Slop 的强烈反对实际上正在产生影响",
+      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact",
+      "primary_url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "53cdc8b1ddd740fb225c804b9a5b51c5fc5297e7",
+          "title": "The AI Slop Backlash Is Actually Having an Impact",
+          "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-10T11:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_72519687",
+      "title": "超强台风“海豚”袭击中国，引发洪水和山体滑坡警报",
+      "url": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss",
+      "primary_url": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss",
+      "source_count": 1,
+      "source_names": [
+        "Al Jazeera English"
+      ],
+      "sources": [
+        {
+          "id": "f1c6c6fdbcd254ecd4f38c404ddd20f1f31a2a58",
+          "title": "Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings",
+          "url": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-10T11:06:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_d7b34aaf",
+      "title": "马斯克联手黄仁勋，太空算力是未来还是噱头？",
+      "url": "https://www.huxiu.com/article/4881931.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4881931.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "5d5bf01e2f78c1a7e3b3925e04e845a204c84f1d",
+          "title": "马斯克联手黄仁勋，太空算力是未来还是噱头？",
+          "url": "https://www.huxiu.com/article/4881931.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-10T10:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_ca9e77dc",
@@ -2244,6 +2337,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_e8a0666b",
+      "title": "AI安全测试正成为安全风险",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+      "primary_url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "dd9371c617ace73e69c78ca17c91bb712be35a82",
+          "title": "The AI safety test is becoming a safety risk",
+          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-09T14:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_d4380d36",
       "title": "AI制药，新痛点",
       "url": "https://www.huxiu.com/article/4881816.html?f=rss",
@@ -2282,28 +2397,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-09T14:22:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_3b37caac",
-      "title": "这个曾经臭名昭著的红灯区现在是世界顶级人工智能中心之一",
-      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs",
-      "primary_url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "a97b9474b8a2cd80e11a85ce0d965a2fff3835bf",
-          "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-          "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-09T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2376,92 +2469,241 @@
       "score": 9720
     },
     {
-      "story_id": "story_966ebff2",
-      "title": "Anthropic 默认开启 Claude Code 的自动模式",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
-      "primary_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
-      "source_count": 3,
+      "story_id": "story_3f4b51b0",
+      "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "primary_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "source_count": 2,
       "source_names": [
-        "claude.com",
-        "HN Algolia · AI 24h",
-        "TechCrunch"
+        "research.meta.ai",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "789b2fe10390c2092e0511aa9d920fcbb46622e5",
-          "title": "“自动模式”现已成为 Claude Code 的默认设置",
-          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-          "source": "claude.com",
+          "id": "52204fc7d1dbbd74b2476931745956ccdaddf6b6",
+          "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "source": "research.meta.ai",
           "site_id": "buzzing",
-          "published_at": "2026-08-10T06:06:29.188000Z"
+          "published_at": "2026-08-10T11:25:13.277000Z"
         },
         {
-          "id": "1602ccd8ec701d17ab227f86b311c8afc83e6e1a",
-          "title": "Auto mode is now the default in Claude Code",
-          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-10T03:50:00Z"
-        },
-        {
-          "id": "9e94a7cceda2e301cb4fa74a37c9c709e9f67a63",
-          "title": "Anthropic is turning Claude Code's auto mode on by default",
-          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T19:33:23Z"
-        },
-        {
-          "id": "2db2700b7717b77373fed0322609d930a19bbc5c",
-          "title": "Anthropic is turning Claude Code’s auto mode on by default",
-          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T19:20:32Z"
-        }
-      ],
-      "item_count": 4,
-      "score": 9580
-    },
-    {
-      "story_id": "story_158a0a8f",
-      "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频]",
-      "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-      "primary_url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
-          "title": "AI Code Is Insane Trash",
-          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T17:10:35Z"
-        },
-        {
-          "id": "b5581a5d57539808a332a3b45a242c66cefe3a7f",
-          "title": "70% of AI revenue comes from OpenAI and Anthropic",
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "id": "d5fbf296c31465f36dc4589a885c46741cf8822f",
+          "title": "Meta Muse Glimmer – open weights 30B local coding model",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-08-09T11:56:16Z"
-        },
-        {
-          "id": "e5f5b4d4b2f7bca4251a06d6fb1809bab8cff984",
-          "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T11:56:16Z"
+          "published_at": "2026-08-10T10:10:02Z"
         }
       ],
-      "item_count": 3,
-      "score": 9580
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_d620868b",
+      "title": "Show HN: 语音驱动的谋杀悬疑游戏，用你的声音审问AI嫌疑人",
+      "url": "https://www.whodunnitai.com",
+      "primary_url": "https://www.whodunnitai.com",
+      "source_count": 2,
+      "source_names": [
+        "www.whodunnitai.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "801f0fba098b6fe160120c838ab093849c07c550",
+          "title": "Show HN: 语音驱动的谋杀悬疑游戏，用你的声音审问AI嫌疑人",
+          "url": "https://www.whodunnitai.com",
+          "source": "www.whodunnitai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T11:09:28.739000Z"
+        },
+        {
+          "id": "08b99ee274dde74ac2573cbec3246f6ca1b388d0",
+          "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+          "url": "https://www.whodunnitai.com",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-10T03:18:40Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_3276732e",
+      "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
+      "url": "https://news.ycombinator.com/item?id=49231022",
+      "primary_url": "https://news.ycombinator.com/item?id=49231022",
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "hackernews"
+      ],
+      "sources": [
+        {
+          "id": "4da2c9fdda7fc6c84cb882b3653c22ef8f629137",
+          "title": "Ask HN: Gemini/Antigravity or Claude Code, which is better for programming?",
+          "url": "https://news.ycombinator.com/item?id=49241042",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-10T08:45:10Z"
+        },
+        {
+          "id": "905acd55692d6ca55368002624b04cead3f8645c",
+          "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "url": "https://news.ycombinator.com/item?id=49239751",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T06:48:25.514000Z"
+        },
+        {
+          "id": "32e19295643205bc99c048a54501bbb609d2ee7c",
+          "title": "The Philippines' big offshoring industry is growing despite AI",
+          "url": "https://news.ycombinator.com/item?id=49239226",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T06:48:25.514000Z"
+        },
+        {
+          "id": "0801e6b357a97132dd8026d429ec2454828f70ab",
+          "title": "Auto mode is now the default in Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49239021",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T04:52:11.108000Z"
+        },
+        {
+          "id": "45a1e26d00589c48762181725f9be2d3d385833a",
+          "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+          "url": "https://news.ycombinator.com/item?id=49238851",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T04:52:11.108000Z"
+        },
+        {
+          "id": "0e05b7529fad7807f9edf0c87e4dbbedaaefd051",
+          "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+          "url": "https://news.ycombinator.com/item?id=49236439",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T01:04:00.179000Z"
+        },
+        {
+          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
+          "title": "The tragedy of the commons, AI edition",
+          "url": "https://news.ycombinator.com/item?id=49235011",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T21:08:14.346000Z"
+        },
+        {
+          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
+          "title": "How I use LLMs to learn complex topics",
+          "url": "https://news.ycombinator.com/item?id=49234675",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T20:07:53.223000Z"
+        },
+        {
+          "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
+          "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "url": "https://news.ycombinator.com/item?id=49232778",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T18:07:40.714000Z"
+        },
+        {
+          "id": "c5063da7647d473f481f7ad2e89abb24e6d5ebc4",
+          "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
+          "url": "https://news.ycombinator.com/item?id=49233415",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T18:07:40.714000Z"
+        },
+        {
+          "id": "79dd43ffa5128791c76b540ae548086bc60ade88",
+          "title": "OpenChamber: An Agentic Development Environment",
+          "url": "https://news.ycombinator.com/item?id=49233448",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T18:07:40.714000Z"
+        },
+        {
+          "id": "7e9389d643c728eebd156df42584608bbcdb44b9",
+          "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+          "url": "https://news.ycombinator.com/item?id=49233306",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T18:07:40.714000Z"
+        },
+        {
+          "id": "3584fd8a533924d10582516e03d0b1f3d17e5730",
+          "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
+          "url": "https://news.ycombinator.com/item?id=49232548",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T18:07:40.714000Z"
+        },
+        {
+          "id": "105503b6099117dc9f3214e93012a3f2a4b52a56",
+          "title": "Why climate, fertility collapse, and AI compute share the same bottleneck?",
+          "url": "https://news.ycombinator.com/item?id=49231279",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T18:07:40.714000Z"
+        },
+        {
+          "id": "a77869a6f151c09961698d0e97ca224261408d1d",
+          "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "url": "https://news.ycombinator.com/item?id=49232300",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T17:07:23.034000Z"
+        },
+        {
+          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
+          "title": "I Wanted to Own the Harness. Then Codex Desktop Won",
+          "url": "https://news.ycombinator.com/item?id=49231838",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T17:07:23.034000Z"
+        },
+        {
+          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+          "title": "70% of AI revenue comes from OpenAI and Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49230605",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T15:07:12.761000Z"
+        },
+        {
+          "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
+          "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+          "url": "https://news.ycombinator.com/item?id=49230550",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T14:07:04.607000Z"
+        },
+        {
+          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
+          "title": "Amazon circumvents Gilroy community vote for AI data center",
+          "url": "https://news.ycombinator.com/item?id=49230954",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T13:42:03.029000Z"
+        },
+        {
+          "id": "faefcecd27d54e9a5b23de511c89ecdebd486d7b",
+          "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+          "url": "https://news.ycombinator.com/item?id=49231022",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T13:42:03.029000Z"
+        }
+      ],
+      "item_count": 20,
+      "score": 9570
     },
     {
       "story_id": "story_fedf7641",
@@ -2471,7 +2713,7 @@
       "source_count": 2,
       "source_names": [
         "www.docker.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2483,11 +2725,11 @@
           "published_at": "2026-08-10T07:58:21.108000Z"
         },
         {
-          "id": "3bbfa338ed70f5b45a8c48bf472cf4236a1e3641",
+          "id": "2ee82fb6cb664d2814ba8a47e5d89ccf4dce5cd0",
           "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
           "url": "https://www.docker.com/products/docker-sandboxes",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-10T06:02:38Z"
         }
       ],
@@ -2502,7 +2744,7 @@
       "source_count": 2,
       "source_names": [
         "www.economist.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2514,11 +2756,11 @@
           "published_at": "2026-08-10T05:50:30.600000Z"
         },
         {
-          "id": "858ce1f865a829da05fd79ea627e1b87408e49d1",
+          "id": "ffd184206face1103f4e29caab4778fe3560895a",
           "title": "The tragedy of the commons, AI edition",
           "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-09T19:43:52Z"
         }
       ],
@@ -2533,7 +2775,7 @@
       "source_count": 2,
       "source_names": [
         "laurentiugabriel.github.io",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2545,16 +2787,231 @@
           "published_at": "2026-08-09T20:30:33.242000Z"
         },
         {
-          "id": "7ed1941a2069ee4e5cb7eecee0ac4407ce9fdb57",
+          "id": "cf7f2c0866cec8358b002676e8bacb1945ea3b90",
           "title": "How I use LLMs to learn complex topics",
           "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-09T19:16:49Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_158a0a8f",
+      "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频]",
+      "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+      "primary_url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "592de2bacba86cd3e4149c6df3bd0300ca2b6267",
+          "title": "AI Code Is Insane Trash",
+          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-09T17:10:35Z"
+        },
+        {
+          "id": "a8d011acf8659509e848c790ccd4b96a622b2420",
+          "title": "70% of AI revenue comes from OpenAI and Anthropic",
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-09T11:56:16Z"
+        },
+        {
+          "id": "67cf4ee790ddcb581b86d085711406dbfa91294c",
+          "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T11:56:16Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9570
+    },
+    {
+      "story_id": "story_66e3173c",
+      "title": "专家警告朝鲜黑客越来越多地利用人工智能来发起更智能、更狡猾的网络攻击",
+      "url": "https://www.techradar.com/pro/security/experts-warn-north-korean-hackers-are-increasingly-using-ai-to-build-smarter-and-more-devious-cyberattacks",
+      "primary_url": "https://www.techradar.com/pro/security/experts-warn-north-korean-hackers-are-increasingly-using-ai-to-build-smarter-and-more-devious-cyberattacks",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "d1cc7990de7f77d1f304125d015fee593dade766",
+          "title": "Experts warn North Korean hackers are increasingly using AI to build smarter and more devious cyberattacks",
+          "url": "https://www.techradar.com/pro/security/experts-warn-north-korean-hackers-are-increasingly-using-ai-to-build-smarter-and-more-devious-cyberattacks",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T11:25:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9e18f55f",
+      "title": "人工智能群组通话",
+      "url": "https://www.producthunt.com/products/ai-group-call",
+      "primary_url": "https://www.producthunt.com/products/ai-group-call",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "268c816ac2acf0b37c84a49c3d201c712ca9bc23",
+          "title": "AI Group Call",
+          "url": "https://www.producthunt.com/products/ai-group-call",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T11:20:00.474000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c5a61356",
+      "title": "Prime Agent",
+      "url": "https://www.producthunt.com/products/prime-intellect",
+      "primary_url": "https://www.producthunt.com/products/prime-intellect",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "3253e9f298630b9ad7575352e4f0ca020feee44e",
+          "title": "Prime Agent",
+          "url": "https://www.producthunt.com/products/prime-intellect",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T11:20:00.474000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f616be07",
+      "title": "Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
+      "url": "https://www.techmeme.com/260810/p17",
+      "primary_url": "https://www.techmeme.com/260810/p17",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "435f9982d20dc253c7af28559fe409ab7406df0b",
+          "title": "Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
+          "url": "https://www.techmeme.com/260810/p17",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T11:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4417defa",
+      "title": "同行评审不堪重负——它能在人工智能时代生存吗？",
+      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+      "primary_url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "b4d9826840139581a2a4d5afd3656c9e611db38d",
+          "title": "Peer review is overwhelmed—can it survive in the AI era?",
+          "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T11:00:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2f9193f6",
+      "title": "我通过这个隐藏的Gemini功能找到了我完全忘记的信息",
+      "url": "https://www.androidpolice.com/gemini-feature-saves-me-hours-by-searching-gmail-drive-and-calendar-at-once",
+      "primary_url": "https://www.androidpolice.com/gemini-feature-saves-me-hours-by-searching-gmail-drive-and-calendar-at-once",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "9e77b87e5536bf81a102b6dedb2a403b6b8a1b30",
+          "title": "I found information I'd completely forgotten about with this hidden Gemini feature",
+          "url": "https://www.androidpolice.com/gemini-feature-saves-me-hours-by-searching-gmail-drive-and-calendar-at-once",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T11:00:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_696c2bf1",
+      "title": "As AI salaries intensify competition in San Francisco's rental market, CoStar says average asking rent is up 18% in under two years to $3,728/month, passing NYC (Wall Street Journal)",
+      "url": "https://www.techmeme.com/260810/p16",
+      "primary_url": "https://www.techmeme.com/260810/p16",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "87341c60882aab185ee4e953a38081d723d31384",
+          "title": "As AI salaries intensify competition in San Francisco's rental market, CoStar says average asking rent is up 18% in under two years to $3,728/month, passing NYC (Wall Street Journal)",
+          "url": "https://www.techmeme.com/260810/p16",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T11:00:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5479eb87",
+      "title": "福特的新人工智能助手可以检查你的燃油水平和轮胎压力",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "primary_url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "73ffceddbfe2a36954f63772572b12c297b1453a",
+          "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+          "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_5e79bb58",
@@ -2573,6 +3030,28 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-08-10T10:59:34.813000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0b37cf06",
+      "title": "Meta 的新开放权重模型瞄准本地代理 AI",
+      "url": "https://twitter.com/finkd/status/2086754845218726027",
+      "primary_url": "https://twitter.com/finkd/status/2086754845218726027",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "9a20a2a5d2ae8a1e04e7c39eace1f5d00d7b0265",
+          "title": "Meta's new open-weight model targets local agentic AI",
+          "url": "https://twitter.com/finkd/status/2086754845218726027",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T10:55:03Z"
         }
       ],
       "item_count": 1,
@@ -2645,6 +3124,50 @@
       "score": 7
     },
     {
+      "story_id": "story_d0d3ac1c",
+      "title": "扎克伯格倡导“每个人”的人工智能，Meta 推出 Muse Glimmer 模型",
+      "url": "https://www.businessinsider.com/meta-muse-glimmer-new-open-weight-model-spark-mark-zuckerberg-2026-8",
+      "primary_url": "https://www.businessinsider.com/meta-muse-glimmer-new-open-weight-model-spark-mark-zuckerberg-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "448b20ac90ed8131761afea9707e9c77f2552df0",
+          "title": "Meta launches Muse Glimmer model as Zuckerberg champions AI for 'everyone'",
+          "url": "https://www.businessinsider.com/meta-muse-glimmer-new-open-weight-model-spark-mark-zuckerberg-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T10:36:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_bcc9a476",
+      "title": "为什么金融机构需要更清晰的人工智能治理方法",
+      "url": "https://www.techradar.com/pro/why-financial-institutions-need-a-clearer-approach-to-ai-governance",
+      "primary_url": "https://www.techradar.com/pro/why-financial-institutions-need-a-clearer-approach-to-ai-governance",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "1d62f4cdcde3731d6840e163177d453f3db05075",
+          "title": "Why financial institutions need a clearer approach to AI governance",
+          "url": "https://www.techradar.com/pro/why-financial-institutions-need-a-clearer-approach-to-ai-governance",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T10:33:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_2490412b",
       "title": "Mark Zuckerberg criticizes \"closed\" AI model makers, says AI labs are espousing a \"discourse ... so filled with doom\", and defends distillation as a principle (Jamie John/Financial Times)",
       "url": "https://www.techmeme.com/260810/p12",
@@ -2661,28 +3184,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-10T10:22:21Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3f4b51b0",
-      "title": "Meta Muse Glimmer – 开放权重 30B 本地编码模型",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "primary_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "be073ad6741e3cf5f19474ae367678a4111f389d",
-          "title": "Meta Muse Glimmer – open weights 30B local coding model",
-          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-10T10:10:02Z"
         }
       ],
       "item_count": 1,
@@ -3261,172 +3762,6 @@
       "score": 7
     },
     {
-      "story_id": "story_3276732e",
-      "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
-      "url": "https://news.ycombinator.com/item?id=49231022",
-      "primary_url": "https://news.ycombinator.com/item?id=49231022",
-      "source_count": 1,
-      "source_names": [
-        "hackernews"
-      ],
-      "sources": [
-        {
-          "id": "905acd55692d6ca55368002624b04cead3f8645c",
-          "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "url": "https://news.ycombinator.com/item?id=49239751",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T06:48:25.514000Z"
-        },
-        {
-          "id": "32e19295643205bc99c048a54501bbb609d2ee7c",
-          "title": "The Philippines' big offshoring industry is growing despite AI",
-          "url": "https://news.ycombinator.com/item?id=49239226",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T06:48:25.514000Z"
-        },
-        {
-          "id": "0801e6b357a97132dd8026d429ec2454828f70ab",
-          "title": "Auto mode is now the default in Claude Code",
-          "url": "https://news.ycombinator.com/item?id=49239021",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T04:52:11.108000Z"
-        },
-        {
-          "id": "45a1e26d00589c48762181725f9be2d3d385833a",
-          "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-          "url": "https://news.ycombinator.com/item?id=49238851",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T04:52:11.108000Z"
-        },
-        {
-          "id": "0e05b7529fad7807f9edf0c87e4dbbedaaefd051",
-          "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "url": "https://news.ycombinator.com/item?id=49236439",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T01:04:00.179000Z"
-        },
-        {
-          "id": "2493cce8919efb1f054ac62b08d7acb01980be84",
-          "title": "The tragedy of the commons, AI edition",
-          "url": "https://news.ycombinator.com/item?id=49235011",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T21:08:14.346000Z"
-        },
-        {
-          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-          "title": "How I use LLMs to learn complex topics",
-          "url": "https://news.ycombinator.com/item?id=49234675",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T20:07:53.223000Z"
-        },
-        {
-          "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
-          "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-          "url": "https://news.ycombinator.com/item?id=49232778",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T18:07:40.714000Z"
-        },
-        {
-          "id": "c5063da7647d473f481f7ad2e89abb24e6d5ebc4",
-          "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
-          "url": "https://news.ycombinator.com/item?id=49233415",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T18:07:40.714000Z"
-        },
-        {
-          "id": "79dd43ffa5128791c76b540ae548086bc60ade88",
-          "title": "OpenChamber: An Agentic Development Environment",
-          "url": "https://news.ycombinator.com/item?id=49233448",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T18:07:40.714000Z"
-        },
-        {
-          "id": "7e9389d643c728eebd156df42584608bbcdb44b9",
-          "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
-          "url": "https://news.ycombinator.com/item?id=49233306",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T18:07:40.714000Z"
-        },
-        {
-          "id": "3584fd8a533924d10582516e03d0b1f3d17e5730",
-          "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
-          "url": "https://news.ycombinator.com/item?id=49232548",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T18:07:40.714000Z"
-        },
-        {
-          "id": "105503b6099117dc9f3214e93012a3f2a4b52a56",
-          "title": "Why climate, fertility collapse, and AI compute share the same bottleneck?",
-          "url": "https://news.ycombinator.com/item?id=49231279",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T18:07:40.714000Z"
-        },
-        {
-          "id": "a77869a6f151c09961698d0e97ca224261408d1d",
-          "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "url": "https://news.ycombinator.com/item?id=49232300",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T17:07:23.034000Z"
-        },
-        {
-          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-          "title": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "url": "https://news.ycombinator.com/item?id=49231838",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T17:07:23.034000Z"
-        },
-        {
-          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-          "title": "70% of AI revenue comes from OpenAI and Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49230605",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T15:07:12.761000Z"
-        },
-        {
-          "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
-          "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "url": "https://news.ycombinator.com/item?id=49230550",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T14:07:04.607000Z"
-        },
-        {
-          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
-          "title": "Amazon circumvents Gilroy community vote for AI data center",
-          "url": "https://news.ycombinator.com/item?id=49230954",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T13:42:03.029000Z"
-        },
-        {
-          "id": "faefcecd27d54e9a5b23de511c89ecdebd486d7b",
-          "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "url": "https://news.ycombinator.com/item?id=49231022",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T13:42:03.029000Z"
-        }
-      ],
-      "item_count": 19,
-      "score": 7
-    },
-    {
       "story_id": "story_6642be33",
       "title": "A look at London's King's Cross, which transformed from a seedy area into an AI hub after DeepMind moved in in 2016, now home to OpenAI, Meta, Wayve, and others (Dominic-Madori Davis/TechCrunch)",
       "url": "https://www.techmeme.com/260810/p2",
@@ -3499,15 +3834,15 @@
       "primary_url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "ce5be5c31bf9dee226632d71c949e30c37b9efa5",
+          "id": "3f84e20d81398ab7290802c84d964f6cf131e9e4",
           "title": "The Philippines' big offshoring industry is growing despite AI",
           "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-10T04:35:24Z"
         }
       ],
@@ -3575,28 +3910,6 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-08-10T03:30:08.959000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d620868b",
-      "title": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人",
-      "url": "https://www.whodunnitai.com",
-      "primary_url": "https://www.whodunnitai.com",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "b731b6d81a80c8d11e9e1a754a24a9e65782415e",
-          "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-          "url": "https://www.whodunnitai.com",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T03:18:40Z"
         }
       ],
       "item_count": 1,
@@ -3741,15 +4054,15 @@
       "primary_url": "https://www.betonit.ai/p/the-ambition-project",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "ab92fa2e23bfaf599976658237369cb47ce1d3df",
+          "id": "cad874604eb475639ff7d74b3781e8001a1137e4",
           "title": "The Ambition Project",
           "url": "https://www.betonit.ai/p/the-ambition-project",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-09T23:36:05Z"
         }
       ],
@@ -3785,15 +4098,15 @@
       "primary_url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "538a042ed4ea3010401ceddd19fc63049abcdd1e",
+          "id": "4f55bdb824f7c0f8ef60aa4c2e9ba9cdba6b4df5",
           "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
           "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-09T21:52:23Z"
         }
       ],
@@ -3851,15 +4164,15 @@
       "primary_url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "7ab3b2223a82a6f5bca759a9d42fa6152f64d0b3",
+          "id": "087f4b4f40dfeef3e4a8651579d74a2b7b2feb1b",
           "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
           "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-09T21:01:31Z"
         }
       ],
@@ -4005,15 +4318,15 @@
       "primary_url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "0f6d62321b8583e8dc833ecd1da8eb427c0dfd71",
+          "id": "21588f457da81c30032d6c7cf87de1984faad73f",
           "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
           "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-09T17:10:05Z"
         }
       ],
@@ -4181,15 +4494,15 @@
       "primary_url": "https://unyolo.io",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "84d532015bf17e2e0282bf25d466a4a136be113a",
+          "id": "e1e36ed69e3b40d1439aef9ff932a3b44f011a2e",
           "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
           "url": "https://unyolo.io",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-09T15:53:03Z"
         }
       ],
@@ -4445,16 +4758,38 @@
       "primary_url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "dbfb363117a0b3e166b457f365f07b3744e95b42",
+          "id": "b05da0cc7affb1c4cbe4b31c2553f0618b5e16bc",
           "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
           "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-09T13:03:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3b37caac",
+      "title": "这个曾经臭名昭著的红灯区现在是世界顶级人工智能中心之一",
+      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs",
+      "primary_url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "7d758cfae3faed39c7a76bd417f3bf9c0b0f58e5",
+          "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+          "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -4609,94 +4944,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-08-09T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9b663279",
-      "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间",
-      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-      "primary_url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "bcea122e50442a20d68b1681ca7f2feeeb6ad581",
-          "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:46:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_62a9a816",
-      "title": "AgentConnect",
-      "url": "https://www.producthunt.com/products/agentconnect",
-      "primary_url": "https://www.producthunt.com/products/agentconnect",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "c20eed258e337f5d382bfa56624ae264449cb983",
-          "title": "AgentConnect",
-          "url": "https://www.producthunt.com/products/agentconnect",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T11:21:37.200000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_abee9cad",
-      "title": "Prompt Golf",
-      "url": "https://www.producthunt.com/products/prompt-golf",
-      "primary_url": "https://www.producthunt.com/products/prompt-golf",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "17d4781e31ef4363711b1a6d15ee465001638180",
-          "title": "Prompt Golf",
-          "url": "https://www.producthunt.com/products/prompt-golf",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T11:21:37.200000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_269424fa",
-      "title": "A look back at \"Move 37\", a watershed AI moment from AlphaGo's 2016 Go victory, as math witnesses similar breakthroughs where AI makes surprising discoveries (Ben Cohen/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260809/p5",
-      "primary_url": "https://www.techmeme.com/260809/p5",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "e8dc4e5dda5dbb584e344f7fac66da9ead542fc1",
-          "title": "A look back at \"Move 37\", a watershed AI moment from AlphaGo's 2016 Go victory, as math witnesses similar breakthroughs where AI makes surprising discoveries (Ben Cohen/Wall Street Journal)",
-          "url": "https://www.techmeme.com/260809/p5",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T11:00:00Z"
         }
       ],
       "item_count": 1,
