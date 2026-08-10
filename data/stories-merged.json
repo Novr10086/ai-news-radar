@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T16:44:32.243061Z",
+  "generated_at": "2026-08-10T17:44:39.806572Z",
   "window_hours": 24,
   "total_stories": 225,
   "stories": [
@@ -8,11 +8,12 @@
       "title": "Claude Code 自动模式默认开启原理",
       "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
       "primary_url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "X：Claude Devs (@ClaudeDevs)",
-        "TechCrunch",
-        "HN Algolia · AI 24h"
+        "Mashable",
+        "HN Algolia · AI 24h",
+        "TechCrunch"
       ],
       "sources": [
         {
@@ -24,12 +25,12 @@
           "published_at": "2026-08-10T15:58:56Z"
         },
         {
-          "id": "d92c9758bfcb64f458e755bfad5d62a985cbd4a5",
-          "title": "Anthropic is turning Claude Code’s auto mode on by default",
-          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-09T19:20:32Z"
+          "id": "4e2686eb5033dee1b2d6ae338b0210fd56d5df8a",
+          "title": "Claude Code’s auto mode will be on by default, Anthropic confirms",
+          "url": "https://mashable.com/tech/anthropic-claude-code-auto-mode-on-default",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T16:30:08Z"
         },
         {
           "id": "9e94a7cceda2e301cb4fa74a37c9c709e9f67a63",
@@ -38,10 +39,18 @@
           "source": "HN Algolia · AI 24h",
           "site_id": "hackernews",
           "published_at": "2026-08-09T19:33:23Z"
+        },
+        {
+          "id": "2db2700b7717b77373fed0322609d930a19bbc5c",
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T19:20:32Z"
         }
       ],
-      "item_count": 3,
-      "score": 10080
+      "item_count": 4,
+      "score": 10090
     },
     {
       "story_id": "story_56292896",
@@ -51,7 +60,7 @@
       "source_count": 2,
       "source_names": [
         "OpenAI News",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -63,38 +72,16 @@
           "published_at": "2026-08-10T14:00:00Z"
         },
         {
-          "id": "ad4b50f011a7df8764638bba26e0733014fd5d11",
+          "id": "14338f93a3feec9a5ad8d2947b1c358fec111bb3",
           "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-10T14:38:20Z"
         }
       ],
       "item_count": 2,
       "score": 10070
-    },
-    {
-      "story_id": "story_1b4a121c",
-      "title": "构建人工智能原生财务功能教会了我什么",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
     },
     {
       "story_id": "story_8bec2762",
@@ -163,6 +150,28 @@
       "score": 10020
     },
     {
+      "story_id": "story_36e5104f",
+      "title": "推出黎明蓝和黎明红",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "sources": [
+        {
+          "id": "f3e37ca2717f3d493fa7547f988c0bb8f89d8b60",
+          "title": "Introducing Daybreak Blue and Daybreak Red",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
       "story_id": "story_89474050",
       "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
       "url": "https://huggingface.co/blog/muse-glimmer",
@@ -185,6 +194,28 @@
       "score": 10020
     },
     {
+      "story_id": "story_70ce1451",
+      "title": "ChatGPT Business 即将推出高级席位",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "primary_url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "6532406ec987eb5acf1cfea51869858156bcf87a",
+          "title": "Premium seats are coming to ChatGPT Business",
+          "url": "https://openai.com/index/premium-seats-chatgpt-business",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
       "story_id": "story_9151c8fd",
       "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
       "url": "https://bobdahacker.com/blog/tldv-hack",
@@ -193,7 +224,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "bobdahacker.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -213,11 +244,11 @@
           "published_at": "2026-08-10T14:03:26.804000Z"
         },
         {
-          "id": "8afc0f7a0b4b5c96efde6740ff5059df0d8dd58b",
+          "id": "3f08d5358fce3580804c96b2679d1b5717c77daa",
           "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
           "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-10T12:26:05Z"
         }
       ],
@@ -281,37 +312,6 @@
           "source": "公众号：数字生命卡兹克",
           "site_id": "aihot",
           "published_at": "2026-08-10T00:52:19Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9970
-    },
-    {
-      "story_id": "story_abdb426d",
-      "title": "OpenChamber：一个基于代理的开发环境",
-      "url": "https://openchamber.dev",
-      "primary_url": "https://openchamber.dev",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
-          "title": "OpenChamber：一个基于代理的开发环境",
-          "url": "https://openchamber.dev",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:46:27.596000Z"
-        },
-        {
-          "id": "b0c33956015ed12f048b57acb7284c6ab31ec7be",
-          "title": "OpenChamber: An Agentic Development Environment",
-          "url": "https://openchamber.dev",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T17:27:16Z"
         }
       ],
       "item_count": 2,
@@ -987,6 +987,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_abdb426d",
+      "title": "OpenChamber：一个基于代理的开发环境",
+      "url": "https://openchamber.dev",
+      "primary_url": "https://openchamber.dev",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "sources": [
+        {
+          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
+          "title": "OpenChamber：一个基于代理的开发环境",
+          "url": "https://openchamber.dev",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:46:27.596000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_1624d30a",
       "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
       "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
@@ -1317,28 +1339,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_1bd84873",
-      "title": "@ChatGPT Trying to convert normies to go from the web to the desktop app to enjoy the power of agents and even with my manual onboarding it's confusing.",
-      "url": "https://x.com/petergyang/status/2086496705609085350",
-      "primary_url": "https://x.com/petergyang/status/2086496705609085350",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Yang"
-      ],
-      "sources": [
-        {
-          "id": "cbf1c64173d087eb61539e6b8f5b93b45e2f6892",
-          "title": "@ChatGPT Trying to convert normies to go from the web to the desktop app to enjoy the power of agents and even with my manual onboarding it's confusing.",
-          "url": "https://x.com/petergyang/status/2086496705609085350",
-          "source": "Follow Builders · X · Peter Yang",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-09T16:55:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_d30f9dee",
       "title": "哥伦比亚和厄瓜多尔发生强烈地震，促使人们撤离房屋和建筑物 - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
@@ -1430,6 +1430,28 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_1b4a121c",
+      "title": "构建人工智能原生财务功能教会了我什么",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "37843ee0c5953861077057da718ff408a5c73449",
+          "title": "What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-10T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_8146f3b7",
@@ -1808,6 +1830,28 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-08-10T10:15:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_dd3ed843",
+      "title": "将前沿网络模型交给更值得信赖的人",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "primary_url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "8929723050535158423fce441486de795435e505",
+          "title": "Putting frontier cyber models in more trusted hands",
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-10T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2732,6 +2776,46 @@
       "score": 9720
     },
     {
+      "story_id": "story_3f4b51b0",
+      "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "primary_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "source_count": 3,
+      "source_names": [
+        "research.meta.ai",
+        "Hacker News",
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "52204fc7d1dbbd74b2476931745956ccdaddf6b6",
+          "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "source": "research.meta.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T11:25:13.277000Z"
+        },
+        {
+          "id": "3b2154d2e4ff0d5c94c25928bbc22422d29e5900",
+          "title": "Meta Muse Glimmer – open weights 30B local coding model",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T10:10:02Z"
+        },
+        {
+          "id": "721d73a06b6b01d860855be52ad5d03851e294ee",
+          "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-10T10:10:02Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9580
+    },
+    {
       "story_id": "story_7ea807a5",
       "title": "DeepSeek 的 OpenCode Go 用户费用为 1.14 美元/天；双 DGX 24 年来收支平衡",
       "url": "https://news.ycombinator.com/item?id=49242728",
@@ -2742,6 +2826,38 @@
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "614d89240dc4e5cd9e1281d4bb9df37767659d9e",
+          "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+          "url": "https://news.ycombinator.com/item?id=49244085",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T17:15:08.054000Z"
+        },
+        {
+          "id": "2b48b24d2eec0021ef9e201d172a4c69b72db27f",
+          "title": "Humanising LLM Outputs Is Dumb",
+          "url": "https://news.ycombinator.com/item?id=49243474",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T17:15:08.054000Z"
+        },
+        {
+          "id": "d522db090cfe5787dd33adefb8714db84fdaf345",
+          "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+          "url": "https://news.ycombinator.com/item?id=49246057",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T17:15:08.054000Z"
+        },
+        {
+          "id": "521880934919fda671f38fc9cc1f76ba3d6c8f96",
+          "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+          "url": "https://news.ycombinator.com/item?id=49245437",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T17:15:08.054000Z"
+        },
         {
           "id": "a8c123cfa8e3f89e8787bfb4776a59eb0bd24760",
           "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
@@ -2917,25 +3033,9 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-09T18:07:40.714000Z"
-        },
-        {
-          "id": "a77869a6f151c09961698d0e97ca224261408d1d",
-          "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "url": "https://news.ycombinator.com/item?id=49232300",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T17:07:23.034000Z"
-        },
-        {
-          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-          "title": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "url": "https://news.ycombinator.com/item?id=49231838",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T17:07:23.034000Z"
         }
       ],
-      "item_count": 24,
+      "item_count": 26,
       "score": 9570
     },
     {
@@ -2946,7 +3046,7 @@
       "source_count": 2,
       "source_names": [
         "Slashdot",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2958,43 +3058,12 @@
           "published_at": "2026-08-10T16:00:00Z"
         },
         {
-          "id": "89cdfadbe80fbf423b219fd2f9490e061eb584c2",
+          "id": "538a042ed4ea3010401ceddd19fc63049abcdd1e",
           "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
           "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-09T21:52:23Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_3f4b51b0",
-      "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "primary_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "source_count": 2,
-      "source_names": [
-        "research.meta.ai",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "52204fc7d1dbbd74b2476931745956ccdaddf6b6",
-          "title": "Meta Muse Glimmer——开放权重 30B 本地编码模型",
-          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "source": "research.meta.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T11:25:13.277000Z"
-        },
-        {
-          "id": "3b2154d2e4ff0d5c94c25928bbc22422d29e5900",
-          "title": "Meta Muse Glimmer – open weights 30B local coding model",
-          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T10:10:02Z"
         }
       ],
       "item_count": 2,
@@ -3008,7 +3077,7 @@
       "source_count": 2,
       "source_names": [
         "www.whodunnitai.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3020,11 +3089,11 @@
           "published_at": "2026-08-10T11:09:28.739000Z"
         },
         {
-          "id": "08b99ee274dde74ac2573cbec3246f6ca1b388d0",
+          "id": "14da2da7c0fbe62ae9fdd57bacf260ad71ca3b37",
           "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
           "url": "https://www.whodunnitai.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-10T03:18:40Z"
         }
       ],
@@ -3070,7 +3139,7 @@
       "source_count": 2,
       "source_names": [
         "claude.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3082,11 +3151,11 @@
           "published_at": "2026-08-10T06:06:29.188000Z"
         },
         {
-          "id": "1c847893da1d425098ccdd4b2eb857091900e3f5",
+          "id": "df085c01486fcfc3f5385f6fb83111c88ee49479",
           "title": "Auto mode is now the default in Claude Code",
           "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-10T03:50:00Z"
         }
       ],
@@ -3101,7 +3170,7 @@
       "source_count": 2,
       "source_names": [
         "www.economist.com",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3113,11 +3182,11 @@
           "published_at": "2026-08-10T05:50:30.600000Z"
         },
         {
-          "id": "ffd184206face1103f4e29caab4778fe3560895a",
+          "id": "858ce1f865a829da05fd79ea627e1b87408e49d1",
           "title": "The tragedy of the commons, AI edition",
           "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-09T19:43:52Z"
         }
       ],
@@ -3132,7 +3201,7 @@
       "source_count": 2,
       "source_names": [
         "laurentiugabriel.github.io",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3144,16 +3213,82 @@
           "published_at": "2026-08-09T20:30:33.242000Z"
         },
         {
-          "id": "7ed1941a2069ee4e5cb7eecee0ac4407ce9fdb57",
+          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
           "title": "How I use LLMs to learn complex topics",
           "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-09T19:16:49Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_2f3bc9dd",
+      "title": "2026 年 8 月，我的最新 AI 装机单",
+      "url": "https://juejin.cn/post/7671084235286986803",
+      "primary_url": "https://juejin.cn/post/7671084235286986803",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "954162819089c98457ad932bb6fe58481a402d19",
+          "title": "2026 年 8 月，我的最新 AI 装机单",
+          "url": "https://juejin.cn/post/7671084235286986803",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T17:25:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_94b7b28e",
+      "title": "OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative (Sam Sabin/Axios)",
+      "url": "https://www.techmeme.com/260810/p32",
+      "primary_url": "https://www.techmeme.com/260810/p32",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "8bcd926a38585c73aab5403ceac1f9f866690c1e",
+          "title": "OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative (Sam Sabin/Axios)",
+          "url": "https://www.techmeme.com/260810/p32",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T17:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b33308f0",
+      "title": "Claude·代码通过对话自我完善，而不是通过它保存的记忆",
+      "url": "https://shojin.dev/blog/claude-code-improved-through-conversation-not-memories",
+      "primary_url": "https://shojin.dev/blog/claude-code-improved-through-conversation-not-memories",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "109bf998284f9fc8de16ec96dddffe9b7f5c7ac9",
+          "title": "Claude Code self-improved through conversation, not the memories it saved",
+          "url": "https://shojin.dev/blog/claude-code-improved-through-conversation-not-memories",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-10T16:49:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_7f9cf988",
@@ -3536,15 +3671,15 @@
       "primary_url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "7015808566063e5f741dbc87e1c29e59e309c9d7",
+          "id": "46f3eaa48a1c67d2e67ce528759b3a41bb0da831",
           "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
           "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-10T14:20:41Z"
         }
       ],
@@ -3954,15 +4089,15 @@
       "primary_url": "https://twitter.com/finkd/status/2086754845218726027",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "a03e552e24ad995134e9a329fca21ff49a277f4b",
+          "id": "6062539569bf39fad00620c5bfe0d116e63de3a8",
           "title": "Meta's new open-weight model targets local agentic AI",
           "url": "https://twitter.com/finkd/status/2086754845218726027",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-10T10:55:03Z"
         }
       ],
@@ -4768,15 +4903,15 @@
       "primary_url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "f0450b6f82d7aadec9fd09731fb67ed326fb2b9d",
+          "id": "ce5be5c31bf9dee226632d71c949e30c37b9efa5",
           "title": "The Philippines' big offshoring industry is growing despite AI",
           "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-10T04:35:24Z"
         }
       ],
@@ -5010,15 +5145,15 @@
       "primary_url": "https://www.betonit.ai/p/the-ambition-project",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "ab92fa2e23bfaf599976658237369cb47ce1d3df",
+          "id": "cad874604eb475639ff7d74b3781e8001a1137e4",
           "title": "The Ambition Project",
           "url": "https://www.betonit.ai/p/the-ambition-project",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-09T23:36:05Z"
         }
       ],
@@ -5098,15 +5233,15 @@
       "primary_url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "087f4b4f40dfeef3e4a8651579d74a2b7b2feb1b",
+          "id": "f05965b9c2feb7b1d6cb82fc3776cfbd9edcaf46",
           "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
           "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-09T21:01:31Z"
         }
       ],
@@ -5218,116 +5353,6 @@
           "source": "Reddit (热门)",
           "site_id": "iris",
           "published_at": "2026-08-09T18:04:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_39ff7183",
-      "title": "我用 Gemini 来计划和预算我的假期；我从来不会用其他方式做这事",
-      "url": "https://www.androidpolice.com/gemini-vacation-planning-budget",
-      "primary_url": "https://www.androidpolice.com/gemini-vacation-planning-budget",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "411cc3c5e8027d42d62bd2ebfbd6d702ec42914b",
-          "title": "I used Gemini to plan and budget my vacation; I'm never doing it any other way",
-          "url": "https://www.androidpolice.com/gemini-vacation-planning-budget",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T17:30:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4878dd59",
-      "title": "人工智能代码是疯狂的垃圾",
-      "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-      "primary_url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "592de2bacba86cd3e4149c6df3bd0300ca2b6267",
-          "title": "AI Code Is Insane Trash",
-          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-09T17:10:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_94d87bb5",
-      "title": "Show HN：可重玩的 A2A 陪审团，用于追踪代理如何影响决策",
-      "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-      "primary_url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "5d309e2de0dc6b4b4e79b5a71beadcbef0c12e5b",
-          "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
-          "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T17:10:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4550ec8d",
-      "title": "专家警告说，这个假的Claude安装指南可用于清空加密钱包",
-      "url": "https://www.techradar.com/pro/security/experts-warn-this-fake-claude-install-guide-can-be-used-to-empty-crypto-wallets",
-      "primary_url": "https://www.techradar.com/pro/security/experts-warn-this-fake-claude-install-guide-can-be-used-to-empty-crypto-wallets",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "9b46cba4b6c3ade22d34731a7dc64043035031b0",
-          "title": "Experts warn this fake Claude install guide can be used to empty crypto wallets",
-          "url": "https://www.techradar.com/pro/security/experts-warn-this-fake-claude-install-guide-can-be-used-to-empty-crypto-wallets",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T17:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_782328f8",
-      "title": "你无法监管人工智能主权的方式",
-      "url": "https://thenextweb.com/news/you-cant-regulate-your-way-to-ai-sovereignty",
-      "primary_url": "https://thenextweb.com/news/you-cant-regulate-your-way-to-ai-sovereignty",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "76e5fccf008b06193f73d91a13a7f1da569ef58b",
-          "title": "You can’t regulate your way to AI sovereignty",
-          "url": "https://thenextweb.com/news/you-cant-regulate-your-way-to-ai-sovereignty",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T17:00:30Z"
         }
       ],
       "item_count": 1,
