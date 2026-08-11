@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-11T12:43:51.481856Z",
+  "generated_at": "2026-08-11T14:14:33.239121Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "title_zh": "想到 ACE 了吗？我们可以用更少的代币做到这一点",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "Hugging Face Blog",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-11T13:37:10Z",
+      "ai_is_related": true,
+      "ai_score": 0.95
+    },
+    {
+      "title": "What building an AI-native finance function taught me",
+      "title_zh": "构建人工智能原生财务功能教会了我什么",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-10T17:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.91
+    },
     {
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "title_zh": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
@@ -26,6 +48,50 @@
       "ai_score": 1.0
     },
     {
+      "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+      "title_zh": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+      "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-11T13:51:45.827000Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
+      "title_zh": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
+      "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-11T13:51:45.827000Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+      "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "source": "NVIDIA Blog（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-11T13:00:25Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
+      "title_zh": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "source": "The Verge：AI（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-11T11:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
       "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
       "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
       "url": "https://www.aibase.com/news/30253",
@@ -44,72 +110,6 @@
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
       "published_at": "2026-08-11T09:52:20.454214Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-      "title_zh": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-      "url": "https://www.aibase.com/news/30250",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-11T09:52:20.454214Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
-      "title_zh": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-11T09:20:00Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-      "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-      "source": "公众号：智谱（GLM）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-11T05:52:25Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
-      "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
-      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-      "source": "MarkTechPost（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-11T05:44:38Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-      "title_zh": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-      "url": "https://www.ithome.com/0/988/239.htm",
-      "source": "IT之家（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-11T03:57:53Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-      "title_zh": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-      "source": "公众号：数字生命卡兹克",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-11T00:12:00Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
