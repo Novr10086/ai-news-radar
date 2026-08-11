@@ -1,39 +1,8 @@
 {
-  "generated_at": "2026-08-11T15:52:36.356041Z",
+  "generated_at": "2026-08-11T16:49:26.150589Z",
   "window_hours": 24,
-  "total_stories": 278,
+  "total_stories": 274,
   "stories": [
-    {
-      "story_id": "story_10c18412",
-      "title": "Claude Code 自动模式默认开启原理",
-      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "primary_url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "source_count": 2,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)",
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
-          "title": "Claude Code 自动模式默认开启原理",
-          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T15:58:56Z"
-        },
-        {
-          "id": "4e2686eb5033dee1b2d6ae338b0210fd56d5df8a",
-          "title": "Claude Code’s auto mode will be on by default, Anthropic confirms",
-          "url": "https://mashable.com/tech/anthropic-claude-code-auto-mode-on-default",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T16:30:08Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 10070
-    },
     {
       "story_id": "story_e55e02c2",
       "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点",
@@ -57,22 +26,22 @@
       "score": 10020
     },
     {
-      "story_id": "story_8bec2762",
-      "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "primary_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "story_id": "story_16251d7b",
+      "title": "在 ChatGPT 中测试广告",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "primary_url": "https://openai.com/index/testing-ads-in-chatgpt",
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI News"
       ],
       "sources": [
         {
-          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "source": "Hugging Face Blog",
+          "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
+          "title": "Testing ads in ChatGPT",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source": "OpenAI News",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T16:25:36Z"
+          "published_at": "2026-08-11T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -148,6 +117,28 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_83b6839d",
+      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "source_count": 1,
+      "source_names": [
+        "Google Cloud：Databases（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_8d2139a6",
@@ -540,6 +531,28 @@
           "source": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-11T04:58:48.124048Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_3b801671",
+      "title": "编写智能体时，哪种编程语言最合适？",
+      "url": "http://danluu.com/pl-tokens",
+      "primary_url": "http://danluu.com/pl-tokens",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "sources": [
+        {
+          "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
+          "title": "编写智能体时，哪种编程语言最合适？",
+          "url": "http://danluu.com/pl-tokens",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T04:58:14.908000Z"
         }
       ],
       "item_count": 1,
@@ -1272,28 +1285,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_47e99587",
-      "title": "i left Cursor. after 10 years inside the tech bubble in San Francisco, Cursor felt like the sharpest version of that world – fast, intense, ambitious, full of people trying to pull the future closer. i’m leaving with...",
-      "url": "https://x.com/ryolu_/status/2086854498639822942",
-      "primary_url": "https://x.com/ryolu_/status/2086854498639822942",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Ryo Lu"
-      ],
-      "sources": [
-        {
-          "id": "c5ce6a45722a9fd54f9c0e996c24ce4e2e9d8fac",
-          "title": "i left Cursor. after 10 years inside the tech bubble in San Francisco, Cursor felt like the sharpest version of that world – fast, intense, ambitious, full of people trying to pull the future closer. i’m leaving with...",
-          "url": "https://x.com/ryolu_/status/2086854498639822942",
-          "source": "Follow Builders · X · Ryo Lu",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-10T16:37:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_798a873c",
       "title": "英伟达调动5000亿美元，算力金融化加速",
       "url": "https://www.tmtpost.com/8098887.html",
@@ -1395,6 +1386,28 @@
       "score": 9770
     },
     {
+      "story_id": "story_680cc3f5",
+      "title": "未发布的Anthropic模型在数学中最大的未解决问题之一上取得了进展",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "primary_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "e574f8bd09ccabb18682fa2e1380ad1029b538fc",
+          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-11T16:25:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_71aaf439",
       "title": "国产模型涨价，美国模型降价，token价值规律",
       "url": "https://www.huxiu.com/article/4882396.html?f=rss",
@@ -1411,28 +1424,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-11T15:04:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_fa830ce9",
-      "title": "使用不到 20 个人工智能提示就发现了“Zoomsday”黑客攻击",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "f8bd4b16f846be676d24d87b51b35c0aaa408bfb",
-          "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T14:45:44Z"
         }
       ],
       "item_count": 1,
@@ -1807,28 +1798,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-11T10:10:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_02df43e6",
-      "title": "人工智能已死。类器官是活的",
-      "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
-      "primary_url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "b8a1fea2bbe199ccf8ccdb77c5be8b1f19bbe338",
-          "title": "AI Is Dead. Organoids Are Alive",
-          "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2885,26 +2854,35 @@
       "score": 9720
     },
     {
-      "story_id": "story_15446211",
-      "title": "Meta 的新 Glimmer AI 模型为扎克伯格的个人智能愿景提供了暗示",
-      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
-      "primary_url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
-      "source_count": 1,
+      "story_id": "story_6be852f3",
+      "title": "从专有大型语言模型（LLM）API中窃取推理轨迹",
+      "url": "https://stolen-thoughts.com",
+      "primary_url": "https://stolen-thoughts.com",
+      "source_count": 2,
       "source_names": [
-        "TechCrunch"
+        "stolen-thoughts.com",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "dc489f3f896f243d0904e2707b595fec901f1b19",
-          "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-10T16:20:13Z"
+          "id": "752ef422eeb21c238519e0539122f47b266adc1f",
+          "title": "从专有大型语言模型（LLM）API中窃取推理轨迹",
+          "url": "https://stolen-thoughts.com",
+          "source": "stolen-thoughts.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T16:09:31.598000Z"
+        },
+        {
+          "id": "27c82884b98ae0f47c267ccd647211fcf57b1d49",
+          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "url": "https://stolen-thoughts.com",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-11T13:22:00Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_60170ce4",
@@ -3108,49 +3086,9 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-10T17:15:08.054000Z"
-        },
-        {
-          "id": "a8c123cfa8e3f89e8787bfb4776a59eb0bd24760",
-          "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-          "url": "https://news.ycombinator.com/item?id=49244569",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T16:14:54.675000Z"
-        },
-        {
-          "id": "cdb58fb74d6f1af8895622ce445b4970988d0a6a",
-          "title": "Convince an AI it's not alive in psychological horror game Prove You're Human",
-          "url": "https://news.ycombinator.com/item?id=49245019",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T15:52:15.766000Z"
-        },
-        {
-          "id": "6c897b2ccbb5a0148c9e458c57cd0038b6eacecd",
-          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-          "url": "https://news.ycombinator.com/item?id=49243880",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T15:52:15.766000Z"
-        },
-        {
-          "id": "38ccc16695d067c988358ceb9973e0b79d1ca27b",
-          "title": "OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300",
-          "url": "https://news.ycombinator.com/item?id=49245062",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T15:52:15.766000Z"
-        },
-        {
-          "id": "c21217956e0d505714e8a4c082b597fef875feb4",
-          "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "url": "https://news.ycombinator.com/item?id=49244308",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T15:52:15.766000Z"
         }
       ],
-      "item_count": 29,
+      "item_count": 24,
       "score": 9570
     },
     {
@@ -3161,7 +3099,7 @@
       "source_count": 2,
       "source_names": [
         "support.claude.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3173,11 +3111,11 @@
           "published_at": "2026-08-11T06:18:04.621000Z"
         },
         {
-          "id": "6316eb4ae326ce248a60b8663bbda781ea294372",
+          "id": "306ad1b551ca00384c82540668de0500afe1e1bc",
           "title": "How Claude marks AI-generated content",
           "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-10T21:36:56Z"
         }
       ],
@@ -3223,7 +3161,7 @@
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3235,43 +3173,12 @@
           "published_at": "2026-08-11T05:26:58Z"
         },
         {
-          "id": "a5284a471eff446dba3ac5f70bcc7634e8b5e49c",
+          "id": "4194c21004c9b7034dbb0985f7b813147dd0b4a4",
           "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
           "url": "https://github.com/activeing123/mcptoon",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T05:26:58Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_3b801671",
-      "title": "编写智能体时，哪种编程语言最合适？",
-      "url": "http://danluu.com/pl-tokens",
-      "primary_url": "http://danluu.com/pl-tokens",
-      "source_count": 2,
-      "source_names": [
-        "danluu.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "186edeb419729d03ed2e358f1f19995e18998e98",
-          "title": "编写智能体时，哪种编程语言最合适？",
-          "url": "http://danluu.com/pl-tokens",
-          "source": "danluu.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T04:58:14.908000Z"
-        },
-        {
-          "id": "44d0cb41c38d9c5813a5d35c89f789ea793f66aa",
-          "title": "What's the best programming language for coding agents?",
-          "url": "http://danluu.com/pl-tokens",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T16:28:58Z"
         }
       ],
       "item_count": 2,
@@ -3340,6 +3247,37 @@
       "score": 9570
     },
     {
+      "story_id": "story_fc39713b",
+      "title": "英伟达正在将华尔街拉入人工智能建设之中。消息传出后，其股价下跌",
+      "url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
+      "primary_url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "5d972a4c7e49e0faae8cefe0b4a6c7f3caf0468f",
+          "title": "Nvidia is pulling Wall Street into the AI buildout",
+          "url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T19:25:07Z"
+        },
+        {
+          "id": "4df9e43e097dc7d2e67346a2c690bfa0988eb603",
+          "title": "Nvidia is pulling Wall Street into the AI buildout. Its shares fell on the news",
+          "url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T18:38:46Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_96b2e78c",
       "title": "从零在浏览器里跑 DeepSeek-R1：WebGPU + Transformer.js 全链路实战",
       "url": "https://juejin.cn/post/7671475529255321610",
@@ -3356,6 +3294,72 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-08-11T15:52:12.036000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_06e6d9c6",
+      "title": "Nvidia stopped funding the AI boom alone, Saudi banks cannot fund theirs, and 500 US towns have banned the buildings",
+      "url": "https://thenextweb.com/news/ai-buildout-capital-consent-nvidia-lenders-saudi-backlash",
+      "primary_url": "https://thenextweb.com/news/ai-buildout-capital-consent-nvidia-lenders-saudi-backlash",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "90dc70741214f829c4dd08289ff89250cdfa9875",
+          "title": "Nvidia stopped funding the AI boom alone, Saudi banks cannot fund theirs, and 500 US towns have banned the buildings",
+          "url": "https://thenextweb.com/news/ai-buildout-capital-consent-nvidia-lenders-saudi-backlash",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T15:50:43Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2e2cfb34",
+      "title": "李飞飞：人工智能在课堂上的真正风险是学生不再想学习",
+      "url": "https://thenextweb.com/news/fei-fei-li-ai-schools-student-motivation-learning",
+      "primary_url": "https://thenextweb.com/news/fei-fei-li-ai-schools-student-motivation-learning",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "0f439cea1051fd5b0a54cbb90f3b204c4fce93e1",
+          "title": "Fei-Fei Li: the real risk of AI in classrooms is students who stop wanting to learn",
+          "url": "https://thenextweb.com/news/fei-fei-li-ai-schools-student-motivation-learning",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T15:49:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9eef6844",
+      "title": "An activist investor says the market has decided Lionsgate is an AI casualty. It wants the studio to prove otherwise or sell.",
+      "url": "https://thenextweb.com/news/lionsgate-anson-funds-ai-casualty-library-licensing",
+      "primary_url": "https://thenextweb.com/news/lionsgate-anson-funds-ai-casualty-library-licensing",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "71088f626fcc6d7ab9a47d16674769363318c204",
+          "title": "An activist investor says the market has decided Lionsgate is an AI casualty. It wants the studio to prove otherwise or sell.",
+          "url": "https://thenextweb.com/news/lionsgate-anson-funds-ai-casualty-library-licensing",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T15:42:02Z"
         }
       ],
       "item_count": 1,
@@ -3412,15 +3416,15 @@
       "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "a9b3f1ef17a821b3975a91a795f6a120a6a5480c",
+          "id": "843a96fd1995c55c64cadd1f8212045b9791ea60",
           "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
           "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-11T14:50:33Z"
         }
       ],
@@ -3444,6 +3448,28 @@
           "source": "www.bbc.com",
           "site_id": "buzzing",
           "published_at": "2026-08-11T14:49:17.009000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fa830ce9",
+      "title": "使用不到 20 个人工智能提示就发现了“Zoomsday”黑客攻击",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "2f8b880c59ca43de32dc0b6b1ac6dd8cc3fd386b",
+          "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T14:45:44Z"
         }
       ],
       "item_count": 1,
@@ -3522,15 +3548,15 @@
       "primary_url": "https://github.com/anthropics/claude-code/issues/78431",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "ff0f2a1c41d03b69c58ed1e4d2e5eac4dd791d10",
+          "id": "e379caf8a363db6ccde2d6f99194bd664440b9df",
           "title": "Claude Code is leaking real email address as a User-Agent string in curl command",
           "url": "https://github.com/anthropics/claude-code/issues/78431",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-11T14:21:47Z"
         }
       ],
@@ -3654,38 +3680,16 @@
       "primary_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "5449e8559a614e422212f3e7fed8b47990522d76",
+          "id": "815d7f03b529e36a17d4a33027c8416e502f4fc2",
           "title": "Nvidia Nemotron 3.5 Lightning",
           "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-11T13:26:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6be852f3",
-      "title": "从专有的 LLM API 中窃取推理痕迹",
-      "url": "https://stolen-thoughts.com",
-      "primary_url": "https://stolen-thoughts.com",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "27c82884b98ae0f47c267ccd647211fcf57b1d49",
-          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-          "url": "https://stolen-thoughts.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-11T13:22:00Z"
         }
       ],
       "item_count": 1,
@@ -4204,15 +4208,15 @@
       "primary_url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "a6b559030fd7a34b44c2182fb74b8ba1993e8635",
+          "id": "0bfe1dc69c3ed28bfc0122f37c239866ab71ecd0",
           "title": "How to organize Claude Code for product work",
           "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-11T11:02:34Z"
         }
       ],
@@ -4366,15 +4370,15 @@
       "primary_url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "a9acabb07c0465534b0ff0e2cd88c9ef6390ca8b",
+          "id": "9bddce4bc9f699394f32e704cf96de7c106147d3",
           "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
           "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-11T10:40:47Z"
         }
       ],
@@ -4486,6 +4490,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-11T10:01:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_02df43e6",
+      "title": "人工智能已死。类器官是活的",
+      "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
+      "primary_url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "6661c4f66a6fb582a4152764b0bda729d65afb45",
+          "title": "AI Is Dead. Organoids Are Alive",
+          "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -5526,6 +5552,28 @@
       "score": 7
     },
     {
+      "story_id": "story_66bc9f78",
+      "title": "华尔街希望再为人工智能提供 5000 亿美元繁荣",
+      "url": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
+      "primary_url": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "91759ae8fa460b72fe9ea7e952b82cef75f2ff64",
+          "title": "Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom",
+          "url": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T23:28:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_209ab785",
       "title": "Virginia cracks down on electricity firms hiking prices for AI data centers — move could save ‘hundreds of millions of dollars’ for everyday users",
       "url": "https://www.techradar.com/pro/virginia-cracks-down-on-electricity-firms-hiking-prices-for-ai-data-centers-move-could-save-hundreds-of-millions-of-dollars-for-everyday-users",
@@ -5718,6 +5766,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-10T21:15:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_06f70f46",
+      "title": "字体对人类来说看起来完全正常，但对人工智能造成严重破坏",
+      "url": "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
+      "primary_url": "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "86704c270baa5b0cd11ad41372e811f4c179e02c",
+          "title": "Font looks perfectly normal to humans but wreaks havoc on AI",
+          "url": "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T21:02:09Z"
         }
       ],
       "item_count": 1,
@@ -6054,28 +6124,6 @@
       "score": 7
     },
     {
-      "story_id": "story_fc39713b",
-      "title": "英伟达正在将华尔街拉入人工智能建设之中。消息传出后，其股价下跌",
-      "url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
-      "primary_url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "4df9e43e097dc7d2e67346a2c690bfa0988eb603",
-          "title": "Nvidia is pulling Wall Street into the AI buildout. Its shares fell on the news",
-          "url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T18:38:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_70092cdd",
       "title": "由于人工智能成本飙升，SAP暂停了大部分差旅和招聘活动",
       "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
@@ -6312,182 +6360,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-10T16:49:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7f9cf988",
-      "title": "推出 HN：Stoa Markets (YC S26) – GPU 和 AI 服务器的市场",
-      "url": "https://www.stoaexchange.com",
-      "primary_url": "https://www.stoaexchange.com",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "4a46df41cf5ac715e0f7c7e4d0c7e484819e296f",
-          "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-          "url": "https://www.stoaexchange.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-10T16:35:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_853fde0e",
-      "title": "据报道，一名 OpenClaw 代理侵入了一家健身房的预订系统，并将某人从等候名单中剔除",
-      "url": "https://www.engadget.com/2233656/an-openclaw-agent-reportedly-hacked-a-gym-booking-system-and-kicked-soemone-off-a-waiting-list",
-      "primary_url": "https://www.engadget.com/2233656/an-openclaw-agent-reportedly-hacked-a-gym-booking-system-and-kicked-soemone-off-a-waiting-list",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "bbfac0bb916a191afa6725ccae602b7c863c7b65",
-          "title": "An OpenClaw agent reportedly hacked a gym's booking system and kicked someone off a waiting list",
-          "url": "https://www.engadget.com/2233656/an-openclaw-agent-reportedly-hacked-a-gym-booking-system-and-kicked-soemone-off-a-waiting-list",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T16:18:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_605a5733",
-      "title": "不用LangChain：用 200 行代码手搓 Agent 对话记忆与上下文压缩",
-      "url": "https://juejin.cn/post/7671855098491043866",
-      "primary_url": "https://juejin.cn/post/7671855098491043866",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "d220aff66e0848ef566a411df06d79e0cfb17300",
-          "title": "不用LangChain：用 200 行代码手搓 Agent 对话记忆与上下文压缩",
-          "url": "https://juejin.cn/post/7671855098491043866",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T16:14:55.007000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8ccc9c56",
-      "title": "ChatGPT 开始屏蔽直接要求复制作者写作风格的请求",
-      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-      "primary_url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-      "source_count": 1,
-      "source_names": [
-        "arstechnica.com"
-      ],
-      "sources": [
-        {
-          "id": "0faf543f82b51d98bedcdc7742fee1a7a1689e25",
-          "title": "ChatGPT 开始屏蔽直接要求复制作者写作风格的请求",
-          "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "arstechnica.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T16:11:49.595000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_00cbbd8b",
-      "title": "Sources: officials say OpenAI risks its White House relationship by hiring Dean Ball, who has criticized Trump's AI strategy after leaving the administration (Thomas Barrabi/New York Post)",
-      "url": "https://www.techmeme.com/260810/p29",
-      "primary_url": "https://www.techmeme.com/260810/p29",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "3d9a1b4c488ed64457fbd48f0f32b8525b030165",
-          "title": "Sources: officials say OpenAI risks its White House relationship by hiring Dean Ball, who has criticized Trump's AI strategy after leaving the administration (Thomas Barrabi/New York Post)",
-          "url": "https://www.techmeme.com/260810/p29",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T16:05:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dad42edd",
-      "title": "澳大利亚首次已知的自主网络攻击中，人工智能助手入侵了健身房网站",
-      "url": "https://it.slashdot.org/story/26/08/10/0518257/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack",
-      "primary_url": "https://it.slashdot.org/story/26/08/10/0518257/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "ff6ffc3684f4be152fda6c0603181ea5e6271064",
-          "title": "AI Assistant Hacks Gym Website In First Known Australian Autonomous Cyber Attack",
-          "url": "https://it.slashdot.org/story/26/08/10/0518257/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_233aa02b",
-      "title": "Show HN：Ante，离线运行的单个二进制文件中的编码代理",
-      "url": "https://github.com/AntigmaLabs/ante",
-      "primary_url": "https://github.com/AntigmaLabs/ante",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "f4bd92c074875d0a504a11c3a629f38f831e787c",
-          "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-          "url": "https://github.com/AntigmaLabs/ante",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T15:59:23Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_51d73799",
-      "title": "人工智能如何不辜负炒作却仍然让投资者失望",
-      "url": "https://www.businessinsider.com/ai-stocks-investing-tech-economy-moodys-mark-zandi-sp500-returns-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-stocks-investing-tech-economy-moodys-mark-zandi-sp500-returns-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "93a8be9237d264e34c7cf364ba179033e7a08e2d",
-          "title": "How AI could live up to the hype and still leave investors disappointed",
-          "url": "https://www.businessinsider.com/ai-stocks-investing-tech-economy-moodys-mark-zandi-sp500-returns-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T15:53:38Z"
         }
       ],
       "item_count": 1,
