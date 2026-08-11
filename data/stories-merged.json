@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T20:36:37.348351Z",
+  "generated_at": "2026-08-11T21:37:24.146743Z",
   "window_hours": 24,
   "total_stories": 284,
   "stories": [
@@ -78,8 +78,8 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com",
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -99,19 +99,19 @@
           "published_at": "2026-08-11T16:41:17.281000Z"
         },
         {
-          "id": "843a96fd1995c55c64cadd1f8212045b9791ea60",
+          "id": "a34f66e1c8e280c418a2058ee1fd6b5a18d113e2",
           "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-11T14:50:33Z"
-        },
-        {
-          "id": "d2b7aec04594679734bd16690316a9172d0a10b8",
-          "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
           "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
+          "published_at": "2026-08-11T14:50:33Z"
+        },
+        {
+          "id": "13f4c60667f8b4b32f567dee9d8502109afc97d3",
+          "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T14:50:33Z"
         }
       ],
@@ -157,37 +157,6 @@
       ],
       "item_count": 3,
       "score": 9980
-    },
-    {
-      "story_id": "story_baee0d63",
-      "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
-      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "primary_url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
-          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
-          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T18:32:57.961000Z"
-        },
-        {
-          "id": "a9acabb07c0465534b0ff0e2cd88c9ef6390ca8b",
-          "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-11T10:40:47Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9970
     },
     {
       "story_id": "story_68385c65",
@@ -435,6 +404,28 @@
           "source": "NVIDIA Blog（RSS）",
           "site_id": "aihot",
           "published_at": "2026-08-11T13:00:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_8a7d5b39",
+      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "079cd24c1c86473636689d6b518f7737f7c0d59c",
+          "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+          "source": "The Verge：AI（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T11:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1532,6 +1523,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_9b23bdca",
+      "title": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+      "primary_url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "8dba21124cb5ff12a3452bcc45042cd4db776d85",
+          "title": "OpenAI launches ChatGPT desktop app for Linux",
+          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-11T19:15:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_07bb9556",
       "title": "谷歌 Gemini 应用用户数量激增至 10 亿",
       "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
@@ -1542,6 +1555,14 @@
       ],
       "sources": [
         {
+          "id": "b8ecef936d7b6539531358cbd4c869e9ff88a122",
+          "title": "Google’s Gemini app surges to 1 billion users",
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-11T18:49:12Z"
+        },
+        {
           "id": "cb095caf6b2d8a1ee3912cc1c3c492f940b61ede",
           "title": "Google’s Gemini app surges to one billion users",
           "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
@@ -1550,7 +1571,7 @@
           "published_at": "2026-08-11T18:49:12Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -1576,44 +1597,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_66ee6305",
-      "title": "OpenAI 的长期首席运营官 Brad Lightcap 即将离职，“开始新的事情”",
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
-      "primary_url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+      "story_id": "story_70e57aa3",
+      "title": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+      "primary_url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "243bb41ef9fe09fcd72b6a7fac1a29f262a5d504",
-          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+          "id": "18a9d205c4f6d596a949495c6f0f0470a8233fe1",
+          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-11T17:41:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_680cc3f5",
-      "title": "未发布的Anthropic模型在数学中最大的未解决问题之一上取得了进展",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-      "primary_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "e574f8bd09ccabb18682fa2e1380ad1029b538fc",
-          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T16:25:20Z"
+          "published_at": "2026-08-11T17:41:22Z"
         }
       ],
       "item_count": 1,
@@ -1658,28 +1657,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-11T14:09:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7b9682b4",
-      "title": "人工智能可以帮助化石燃料公司产生更多排放",
-      "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
-      "primary_url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "1b46910046d04ed7ec13602a9bff0a7738e7aba9",
-          "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
-          "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T13:45:02Z"
         }
       ],
       "item_count": 1,
@@ -2076,6 +2053,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-11T09:03:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_d1918620",
+      "title": "人工智能正在帮助解决精神分裂症复杂的遗传难题",
+      "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia",
+      "primary_url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "42c5da0b1a11a9fd69aab4b732b25f516a87ee51",
+          "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+          "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-11T09:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2750,28 +2749,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_243ac129",
-      "title": "据报道 OpenAI 完成了 70 亿美元的员工收购要约",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer",
-      "primary_url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2a88352911bf5f0afddb714f4865cafe40e56890",
-          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T00:03:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_a4b0f6af",
       "title": "人工智能工具加快分析速度，但科学真理必须立足于现实",
       "url": "https://www.nature.com/articles/d41586-026-02490-9",
@@ -2978,59 +2955,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_47270e40",
-      "title": "马克·扎克伯格的人工智能宣言正是人们不喜欢人工智能的原因",
-      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai",
-      "primary_url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "b3b1b9b06eb8bf8817883089e25afe6053953d63",
-          "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-          "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-10T20:53:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_87555597",
-      "title": "OpenAI的伦理负责人入职不到一年便离职",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "primary_url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "source_count": 2,
-      "source_names": [
-        "www.ft.com",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "52af6381bd26d46a32175f94cc04fa929f324de1",
-          "title": "OpenAI的伦理负责人入职不到一年便离职",
-          "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-          "source": "www.ft.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T20:08:13.762000Z"
-        },
-        {
-          "id": "fa7c303e6bba2692eb4e634e75903ce6f2068f57",
-          "title": "OpenAI’s head of ethics leaves less than a year after joining",
-          "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-11T12:23:07Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_60170ce4",
       "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍",
       "url": "https://news.ycombinator.com/item?id=49259339",
@@ -3041,6 +2965,14 @@
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "c1dbff832f690391166a6d9964fd6e438190a533",
+          "title": "AI Is Solving CTF Challenges in Minutes",
+          "url": "https://news.ycombinator.com/item?id=49264578",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T21:24:17.132000Z"
+        },
         {
           "id": "5364863110dbd75b6be5689f8da6560a2e6bab55",
           "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
@@ -3192,17 +3124,40 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-10T22:15:33.964000Z"
-        },
-        {
-          "id": "32cd88644a7322813cf756fc6732c15b1a687b84",
-          "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-          "url": "https://news.ycombinator.com/item?id=49246804",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T21:15:29.692000Z"
         }
       ],
       "item_count": 20,
+      "score": 9570
+    },
+    {
+      "story_id": "story_87555597",
+      "title": "OpenAI的伦理负责人入职不到一年便离职",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "primary_url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "source_count": 2,
+      "source_names": [
+        "www.ft.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "52af6381bd26d46a32175f94cc04fa929f324de1",
+          "title": "OpenAI的伦理负责人入职不到一年便离职",
+          "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+          "source": "www.ft.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T20:08:13.762000Z"
+        },
+        {
+          "id": "4171f3ad9fd2b221ee7ecdc976b86729d614ff40",
+          "title": "OpenAI’s head of ethics leaves less than a year after joining",
+          "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-11T12:23:07Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9570
     },
     {
@@ -3314,7 +3269,7 @@
       "source_count": 2,
       "source_names": [
         "huggingface.co",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3326,12 +3281,43 @@
           "published_at": "2026-08-11T18:48:07.517000Z"
         },
         {
-          "id": "5449e8559a614e422212f3e7fed8b47990522d76",
+          "id": "9f63f0b509c0593e4855495f9076f2b5a1cd18ba",
           "title": "Nvidia Nemotron 3.5 Lightning",
           "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T13:26:02Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_baee0d63",
+      "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "primary_url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "source_count": 2,
+      "source_names": [
+        "www.lighthousenewsletter.com",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "215f6251468a1bfa096c8427e139fc9db004dc0e",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "www.lighthousenewsletter.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T18:32:57.961000Z"
+        },
+        {
+          "id": "9bddce4bc9f699394f32e704cf96de7c106147d3",
+          "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T10:40:47Z"
         }
       ],
       "item_count": 2,
@@ -3376,7 +3362,7 @@
       "source_count": 2,
       "source_names": [
         "stolen-thoughts.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3388,11 +3374,11 @@
           "published_at": "2026-08-11T16:09:31.598000Z"
         },
         {
-          "id": "27c82884b98ae0f47c267ccd647211fcf57b1d49",
+          "id": "dcd0217a40cddb7be3b6bd5ff33753f2bfb4f16a",
           "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
           "url": "https://stolen-thoughts.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-11T13:22:00Z"
         }
       ],
@@ -3407,7 +3393,7 @@
       "source_count": 2,
       "source_names": [
         "support.claude.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3419,11 +3405,11 @@
           "published_at": "2026-08-11T06:18:04.621000Z"
         },
         {
-          "id": "6316eb4ae326ce248a60b8663bbda781ea294372",
+          "id": "306ad1b551ca00384c82540668de0500afe1e1bc",
           "title": "How Claude marks AI-generated content",
           "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-10T21:36:56Z"
         }
       ],
@@ -3460,6 +3446,94 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_d7b3f0ab",
+      "title": "AI 在几分钟内解决 CTF 挑战",
+      "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+      "primary_url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "1a9552556128a048e781c222eb15746bf0fd6db4",
+          "title": "AI Is Solving CTF Challenges in Minutes",
+          "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T21:13:44Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d1dc80a2",
+      "title": "Google Gemini 在创纪录的时间内突破了 10 亿用户",
+      "url": "https://tech.slashdot.org/story/26/08/11/2020246/google-gemini-hits-1-billion-users-in-record-time",
+      "primary_url": "https://tech.slashdot.org/story/26/08/11/2020246/google-gemini-hits-1-billion-users-in-record-time",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "59692f3774c8043a470c9af1613e3c0dca7f9360",
+          "title": "Google Gemini Hits 1 Billion Users In Record Time",
+          "url": "https://tech.slashdot.org/story/26/08/11/2020246/google-gemini-hits-1-billion-users-in-record-time",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d014111e",
+      "title": "Sources: former OpenAI Chief Product Officer Kevin Weil is aiming to raise $150M for a new AI science startup, seeking a valuation of at least $750M (Business Insider)",
+      "url": "https://www.techmeme.com/260811/p36",
+      "primary_url": "https://www.techmeme.com/260811/p36",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "2ffe0b94d04beae870ab0e5ddd8ef87d772e1038",
+          "title": "Sources: former OpenAI Chief Product Officer Kevin Weil is aiming to raise $150M for a new AI science startup, seeking a valuation of at least $750M (Business Insider)",
+          "url": "https://www.techmeme.com/260811/p36",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T20:55:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4aa6e0c6",
+      "title": "Grok Bot 将始终在线的 AI 代理引入 macOS 和 iOS",
+      "url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios",
+      "primary_url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios",
+      "source_count": 1,
+      "source_names": [
+        "Mac Rumors"
+      ],
+      "sources": [
+        {
+          "id": "b9e6de7f4aab75d8a8d9b284d0d8c48074ba41c2",
+          "title": "Grok Bot Brings Always-On AI Agents to macOS and iOS",
+          "url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios",
+          "source": "Mac Rumors",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T20:34:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_ed516e09",
@@ -3506,21 +3580,43 @@
       "score": 7
     },
     {
+      "story_id": "story_8b07a84e",
+      "title": "前特勤局特工：特朗普的秘密飞机交换不寻常，并非史无前例",
+      "url": "https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One",
+      "primary_url": "https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One",
+      "source_count": 1,
+      "source_names": [
+        "TIME Magazine"
+      ],
+      "sources": [
+        {
+          "id": "366742e70fa6ec74f2cdab16bd56e826da875858",
+          "title": "Former Secret Service Agents: Trump’s Secret Plane Swap Unusual, Not Unprecedented",
+          "url": "https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One",
+          "source": "TIME Magazine",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T19:54:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_9810393c",
-      "title": "Compression Is Prediction",
+      "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
       "primary_url": "https://ngrok.com/blog/compression-is-prediction",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "488383ac63905e5c46c22ec4f39ec0056a30815d",
-          "title": "Compression Is Prediction",
+          "id": "ffbadcbbabcf9ef94346b9913a3b987e59a6d781",
+          "title": "Compression is prediction",
           "url": "https://ngrok.com/blog/compression-is-prediction",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T19:49:44Z"
         }
       ],
@@ -3588,28 +3684,6 @@
           "source": "Daring Fireball",
           "site_id": "techurls",
           "published_at": "2026-08-11T19:36:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9b23bdca",
-      "title": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
-      "primary_url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9e7d867a5ad8cc9d4b845adde37715c240600f45",
-          "title": "OpenAI launches ChatGPT desktop app for Linux",
-          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T19:15:35Z"
         }
       ],
       "item_count": 1,
@@ -3858,22 +3932,22 @@
       "score": 7
     },
     {
-      "story_id": "story_70e57aa3",
-      "title": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
-      "primary_url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+      "story_id": "story_66ee6305",
+      "title": "OpenAI 的长期首席运营官 Brad Lightcap 即将离职，“开始新的事情”",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+      "primary_url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "aee8dd7b03c56f6b9e850277c4fc14b5f3b18ea7",
-          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+          "id": "83db2240a3eeb9f67057ca7193fb83e3a3ff7337",
+          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
           "source": "TechCrunch",
           "site_id": "techurls",
-          "published_at": "2026-08-11T17:41:22Z"
+          "published_at": "2026-08-11T17:41:34Z"
         }
       ],
       "item_count": 1,
@@ -3930,15 +4004,15 @@
       "primary_url": "https://x.ai/bot",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "fa5b867483b0488ab79f5d3cb6570c036bcfbc5c",
+          "id": "b3642177c2e8a1e49497e33c08e3f51055bb7ea6",
           "title": "Grok Bot",
           "url": "https://x.ai/bot",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T17:23:09Z"
         }
       ],
@@ -4050,6 +4124,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-11T16:31:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_680cc3f5",
+      "title": "未发布的Anthropic模型在数学中最大的未解决问题之一上取得了进展",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "primary_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "09e967d024fe79054644754b92a897b3ef82bdc4",
+          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T16:25:20Z"
         }
       ],
       "item_count": 1,
@@ -4348,15 +4444,15 @@
       "primary_url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "95da8822b273efaa766cfe3bf4038b7997fafc65",
+          "id": "f5d0d43bd90c123f70ef4d2cb3b3bb4b4d5153d8",
           "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
           "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-11T14:03:18Z"
         }
       ],
@@ -4424,6 +4520,28 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-08-11T13:48:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7b9682b4",
+      "title": "人工智能可以帮助化石燃料公司产生更多排放",
+      "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
+      "primary_url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "2c28a7fa85d1b2ce262f47f2c4cda07e5056f3ec",
+          "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
+          "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T13:45:02Z"
         }
       ],
       "item_count": 1,
@@ -4678,15 +4796,15 @@
       "primary_url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "bd7dba0e61a8f59f85ea8f577f8b37b5de304615",
+          "id": "1539d2fc8ffc340e66e5c4b881c88e3d7c148638",
           "title": "OpenAI's Only Ethicist Reportedly Left Last Month",
           "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T12:23:07Z"
         }
       ],
@@ -4964,15 +5082,15 @@
       "primary_url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "d04f57541e8391e87a8d388280d9de3f44567ccb",
+          "id": "a6b559030fd7a34b44c2182fb74b8ba1993e8635",
           "title": "How to organize Claude Code for product work",
           "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T11:02:34Z"
         }
       ],
@@ -5046,28 +5164,6 @@
           "title": "A New Trick Reveals AI Models’ Inner Thoughts",
           "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
           "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8a7d5b39",
-      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "27c9b3d8a69b021dcee3698f63f71e148e1ca5cf",
-          "title": "The AI takeover of mathematics has begun",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-          "source": "The Verge",
           "site_id": "techurls",
           "published_at": "2026-08-11T11:00:00Z"
         }
@@ -5494,28 +5590,6 @@
       "score": 7
     },
     {
-      "story_id": "story_d1918620",
-      "title": "人工智能正在帮助解决精神分裂症复杂的遗传难题",
-      "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia",
-      "primary_url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "4cb8e0831dfc23631d9ca9c23578ba1ba6d49c99",
-          "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
-          "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_72cb554b",
       "title": "六家金融巨头支持英伟达 5000 亿美元的人工智能建设计划",
       "url": "https://thenextweb.com/news/nvidia-500bn-compute-financing-platforms",
@@ -5610,15 +5684,15 @@
       "primary_url": "https://quesma.com/blog/claude-code-pricing-for-enterprise",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "ab482c8d0625801dcdfe6569c067dfe7a20adafd",
+          "id": "aa4aeb73411fb230726cf37258d7cfd12808a1db",
           "title": "Claude Code pricing: same tokens, same model, up to 40x the price",
           "url": "https://quesma.com/blog/claude-code-pricing-for-enterprise",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-11T08:34:54Z"
         }
       ],
@@ -6286,6 +6360,28 @@
       "score": 7
     },
     {
+      "story_id": "story_243ac129",
+      "title": "据报道 OpenAI 完成了 70 亿美元的员工收购要约",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer",
+      "primary_url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "50308fd5053ec906845e54789976ee3e524c463c",
+          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T00:03:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_b7dbc0e1",
       "title": "随着 AI 主导的攻击倍增，OpenAI 推出新的网络模型",
       "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
@@ -6522,94 +6618,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-08-10T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ba5dc9bd",
-      "title": "With his long essay, Zuckerberg returns to his \"open\" AI arguments at an opportune time, as Chinese open models narrow the performance gap at much lower cost (M.G. Siegler/Spyglass)",
-      "url": "https://www.techmeme.com/260810/p41",
-      "primary_url": "https://www.techmeme.com/260810/p41",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "01ce72bc9f9fd61606c1ebd95177784ad5d02370",
-          "title": "With his long essay, Zuckerberg returns to his \"open\" AI arguments at an opportune time, as Chinese open models narrow the performance gap at much lower cost (M.G. Siegler/Spyglass)",
-          "url": "https://www.techmeme.com/260810/p41",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T21:35:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_63744b72",
-      "title": "我问Gemini我的鸡肉沙拉还好吗：它拯救了自己和我的胃",
-      "url": "https://www.techradar.com/ai-platforms-assistants/gemini/i-asked-gemini-if-my-chicken-salad-was-still-good-it-saved-itself-and-my-stomach",
-      "primary_url": "https://www.techradar.com/ai-platforms-assistants/gemini/i-asked-gemini-if-my-chicken-salad-was-still-good-it-saved-itself-and-my-stomach",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "eb4f09652c4f0e580b3d138a58aa5199991a01a1",
-          "title": "I asked Gemini if my chicken salad was still good: it saved itself and my stomach",
-          "url": "https://www.techradar.com/ai-platforms-assistants/gemini/i-asked-gemini-if-my-chicken-salad-was-still-good-it-saved-itself-and-my-stomach",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T21:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6157b47e",
-      "title": "Sources: OpenAI bought back ~$7B in shares from current and former employees in a tender offer valuing it at $852B, unchanged from its most recent funding round (Bloomberg)",
-      "url": "https://www.techmeme.com/260810/p40",
-      "primary_url": "https://www.techmeme.com/260810/p40",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "021ab3220fda563b2850c2a381c574db28e9ca18",
-          "title": "Sources: OpenAI bought back ~$7B in shares from current and former employees in a tender offer valuing it at $852B, unchanged from its most recent funding round (Bloomberg)",
-          "url": "https://www.techmeme.com/260810/p40",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T21:15:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_06f70f46",
-      "title": "字体对人类来说看起来完全正常，但对人工智能造成严重破坏",
-      "url": "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
-      "primary_url": "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "86704c270baa5b0cd11ad41372e811f4c179e02c",
-          "title": "Font looks perfectly normal to humans but wreaks havoc on AI",
-          "url": "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T21:02:09Z"
         }
       ],
       "item_count": 1,
