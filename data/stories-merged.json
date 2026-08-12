@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T09:17:02.869402Z",
+  "generated_at": "2026-08-12T10:53:38.532951Z",
   "window_hours": 24,
-  "total_stories": 273,
+  "total_stories": 274,
   "stories": [
     {
       "story_id": "story_e55e02c2",
@@ -20,28 +20,6 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "published_at": "2026-08-11T13:37:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_ca816138",
-      "title": "Daybreak 模型现已在 AWS 上提供",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "primary_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "541271c740829eb3d8c31048162316b10ac424bf",
-          "title": "Daybreak models are now available on AWS",
-          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -100,8 +78,8 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com",
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
@@ -121,19 +99,19 @@
           "published_at": "2026-08-11T16:41:17.281000Z"
         },
         {
-          "id": "843a96fd1995c55c64cadd1f8212045b9791ea60",
+          "id": "a34f66e1c8e280c418a2058ee1fd6b5a18d113e2",
           "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-11T14:50:33Z"
-        },
-        {
-          "id": "d2b7aec04594679734bd16690316a9172d0a10b8",
-          "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
           "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
+          "published_at": "2026-08-11T14:50:33Z"
+        },
+        {
+          "id": "6ca440ed062c77bedec85633388c418286b8b615",
+          "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-11T14:50:33Z"
         }
       ],
@@ -149,7 +127,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.404media.co",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -169,52 +147,12 @@
           "published_at": "2026-08-12T05:41:30.137000Z"
         },
         {
-          "id": "5ac6339b8cf43e440b8cd4f03e239fc3171ab396",
+          "id": "89ae5bcf405610024be71dce015b500e864559e3",
           "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-12T02:05:42Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9980
-    },
-    {
-      "story_id": "story_7ea365b0",
-      "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
-      "source_count": 3,
-      "source_names": [
-        "公众号：数字生命卡兹克",
-        "公众号：卡尔的AI沃茨",
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "sources": [
-        {
-          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
-          "title": "零基础用户半天上手AI的12步实操流程",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
-          "source": "公众号：数字生命卡兹克",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T00:08:00Z"
-        },
-        {
-          "id": "e0037c6da88c5465caeb47927f1f7f298ffc49a9",
-          "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
-          "source": "公众号：卡尔的AI沃茨",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T14:15:07Z"
-        },
-        {
-          "id": "f0a6eedb54f0fb1cb79de2bf700485192da8d8b8",
-          "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T09:20:00Z"
         }
       ],
       "item_count": 3,
@@ -252,31 +190,31 @@
       "score": 9970
     },
     {
-      "story_id": "story_baee0d63",
-      "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
-      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "primary_url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "story_id": "story_7ea365b0",
+      "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
       "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Hacker News · 24h最热"
+        "公众号：数字生命卡兹克",
+        "公众号：卡尔的AI沃茨"
       ],
       "sources": [
         {
-          "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
-          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
-          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "d747a416f4c95455fae2ec95897bb170bc08f61c",
+          "title": "零基础用户半天上手AI的12步实操流程",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+          "source": "公众号：数字生命卡兹克",
           "site_id": "aihot",
-          "published_at": "2026-08-11T18:32:57.961000Z"
+          "published_at": "2026-08-12T00:08:00Z"
         },
         {
-          "id": "a9acabb07c0465534b0ff0e2cd88c9ef6390ca8b",
-          "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-11T10:40:47Z"
+          "id": "e0037c6da88c5465caeb47927f1f7f298ffc49a9",
+          "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+          "source": "公众号：卡尔的AI沃茨",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T14:15:07Z"
         }
       ],
       "item_count": 2,
@@ -1075,6 +1013,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_7cea1086",
+      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge：AI（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T19:41:42Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_fca537ec",
       "title": "Gemini月活10亿，Gemma下载破10亿",
       "url": "https://x.com/OfficialLoganK/status/2087262466703286652",
@@ -1267,94 +1227,6 @@
           "source": "NVIDIA Blog（RSS）",
           "site_id": "aihot",
           "published_at": "2026-08-11T13:00:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_8a7d5b39",
-      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "079cd24c1c86473636689d6b518f7737f7c0d59c",
-          "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-          "source": "The Verge：AI（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_86feabe8",
-      "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-      "url": "https://www.aibase.com/news/30253",
-      "primary_url": "https://www.aibase.com/news/30253",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "url": "https://www.aibase.com/news/30253",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T09:52:20.454214Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_98b74b7a",
-      "title": "Claude挑战百年数学难题未果，却意外改写了人类数学史的底层边界！",
-      "url": "https://www.aibase.com/news/30251",
-      "primary_url": "https://www.aibase.com/news/30251",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "29b2a6cf469cd010981eb7a400e8944b20d5b21b",
-          "title": "Claude挑战百年数学难题未果，却意外改写了人类数学史的底层边界！",
-          "url": "https://www.aibase.com/news/30251",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T09:52:20.454214Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_80a78db7",
-      "title": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-      "url": "https://www.aibase.com/news/30250",
-      "primary_url": "https://www.aibase.com/news/30250",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "aa09708344fb1c94b133f49b04d63664d59d2ab8",
-          "title": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-          "url": "https://www.aibase.com/news/30250",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T09:52:20.454214Z"
         }
       ],
       "item_count": 1,
@@ -1916,6 +1788,37 @@
       "score": 9770
     },
     {
+      "story_id": "story_d48c8697",
+      "title": "马斯克上天之后，AI算力又瞄准了大海",
+      "url": "https://www.huxiu.com/article/4882503.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882503.html?f=rss",
+      "source_count": 2,
+      "source_names": [
+        "虎嗅",
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "9023ed0801aafc3e7633397ffb62fb19f48e541e",
+          "title": "马斯克上天之后，AI算力又瞄准了大海",
+          "url": "https://www.huxiu.com/article/4882503.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T08:28:02Z"
+        },
+        {
+          "id": "8ac04a1ba5d5090b68f7abc2f9e2762df9eb2f6c",
+          "title": "马斯克上天之后，AI算力又瞄准了大海",
+          "url": "https://www.tmtpost.com/8100189.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T06:53:50Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
       "story_id": "story_1ea76a18",
       "title": "10万亿参数大模型还没影，字节先造了个一级部门",
       "url": "https://www.tmtpost.com/8099914.html",
@@ -1947,35 +1850,277 @@
       "score": 9770
     },
     {
-      "story_id": "story_9b23bdca",
-      "title": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
-      "primary_url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+      "story_id": "story_a74e8a8c",
+      "title": "Spotify 将标记“AI Persona”个人资料并将其音乐从推荐中排除",
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
+      "primary_url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
       "source_count": 2,
       "source_names": [
         "TechCrunch",
-        "Hacker News · 24h最热"
+        "Slashdot"
       ],
       "sources": [
         {
-          "id": "8dba21124cb5ff12a3452bcc45042cd4db776d85",
-          "title": "OpenAI launches ChatGPT desktop app for Linux",
-          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+          "id": "bd0d08f3f220354b8e7be022c1c8ff4e288bbb95",
+          "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+          "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-11T19:15:35Z"
+          "published_at": "2026-08-11T13:00:00Z"
         },
         {
-          "id": "8f46ec7555afdf4abe3f08017b2fa8f30d2c3016",
-          "title": "ChatGPT Desktop App for Linux",
-          "url": "https://twitter.com/OpenAI/status/2087231350134980830",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-11T18:03:56Z"
+          "id": "72c1114126ed715e20cb38b0ed4ee6d883f798e8",
+          "title": "Spotify Will Label 'AI Persona' Profiles, Exclude Their Music From Recommendations",
+          "url": "https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T19:00:00Z"
         }
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_8e10c46f",
+      "title": "天哪，人工智能记者实际上正在报道重大新闻",
+      "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger",
+      "primary_url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "d2a7631c31ed3372e910e4f24e48cdb61386929e",
+          "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+          "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T10:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_07c01778",
+      "title": "原来，新能源汽车已经替AI死过一遍了",
+      "url": "https://www.huxiu.com/article/4882640.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882640.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "0f7eef6623bbc8f038efd71942ff9d72b63ba027",
+          "title": "原来，新能源汽车已经替AI死过一遍了",
+          "url": "https://www.huxiu.com/article/4882640.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T10:26:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_e138f518",
+      "title": "腾讯二季度营收增长11%，马化腾：大幅增加算力采购，将模型使用转化成收入",
+      "url": "https://m.thepaper.cn/detail/33769026",
+      "primary_url": "https://m.thepaper.cn/detail/33769026",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "e41a00540e24ffe5338622255430620d4b0c4263",
+          "title": "腾讯二季度营收增长11%，马化腾：大幅增加算力采购，将模型使用转化成收入",
+          "url": "https://m.thepaper.cn/detail/33769026",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T10:25:32Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_40f269b2",
+      "title": "阅文AI转型，成功了一半？",
+      "url": "https://www.huxiu.com/article/4882639.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882639.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "9f737d99e73e4a0c951ee5c0f032b451bff3be5d",
+          "title": "阅文AI转型，成功了一半？",
+          "url": "https://www.huxiu.com/article/4882639.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T10:22:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_fb1357d1",
+      "title": "独家｜华为云加码AI办公：OfficeClaw升级为OfficeAce，瞄准企业Agent入口",
+      "url": "https://www.tmtpost.com/8100764.html",
+      "primary_url": "https://www.tmtpost.com/8100764.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "1b841f1a5b8fbea651c3b2c80f60ae1b07b99c62",
+          "title": "独家｜华为云加码AI办公：OfficeClaw升级为OfficeAce，瞄准企业Agent入口",
+          "url": "https://www.tmtpost.com/8100764.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T10:21:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_ad51ffc0",
+      "title": "大厂AI，解锁新“收银台”",
+      "url": "https://www.huxiu.com/article/4882635.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882635.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "b26373ba859c5f3a7ea85426b1a372ded85a3503",
+          "title": "大厂AI，解锁新“收银台”",
+          "url": "https://www.huxiu.com/article/4882635.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T10:16:17Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_250920b0",
+      "title": "AI重演1873年：老百姓正悄悄成为算力的接盘者",
+      "url": "https://www.tmtpost.com/8100186.html",
+      "primary_url": "https://www.tmtpost.com/8100186.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "b38875383a6c2330e37c98bcf4c57f5e9de58c2d",
+          "title": "AI重演1873年：老百姓正悄悄成为算力的接盘者",
+          "url": "https://www.tmtpost.com/8100186.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T10:15:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9a2d20c9",
+      "title": "这种“AI散热材料”告急，稀土管制是源头",
+      "url": "https://www.tmtpost.com/8100661.html",
+      "primary_url": "https://www.tmtpost.com/8100661.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "a7145d48ff59b9917e7232e2a32c36a5e2ae9c98",
+          "title": "这种“AI散热材料”告急，稀土管制是源头",
+          "url": "https://www.tmtpost.com/8100661.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T10:09:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f63c1be5",
+      "title": "估值20亿美元，AI大神林俊旸创业，红杉、腾讯抢着投",
+      "url": "https://www.tmtpost.com/8100926.html",
+      "primary_url": "https://www.tmtpost.com/8100926.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "568b3899eec7dedf568470abf17fb149f1580db0",
+          "title": "估值20亿美元，AI大神林俊旸创业，红杉、腾讯抢着投",
+          "url": "https://www.tmtpost.com/8100926.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T10:05:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_6ade26de",
+      "title": "Anthropic全球水印对中企的启示：欧盟2027“互操”倒计时",
+      "url": "https://www.huxiu.com/article/4882620.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882620.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "3045e21ef9aa1c11c1f86c3ca1e4975d8dda48a6",
+          "title": "Anthropic全球水印对中企的启示：欧盟2027“互操”倒计时",
+          "url": "https://www.huxiu.com/article/4882620.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T09:38:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c0bfedf0",
+      "title": "这篇文章是AI写的吗？——当写作成本归零，企业如何建立内容信任契约",
+      "url": "https://www.huxiu.com/article/4882611.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882611.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "705dfdba002e4c3aa616e754967db3f805ebe7b3",
+          "title": "这篇文章是AI写的吗？——当写作成本归零，企业如何建立内容信任契约",
+          "url": "https://www.huxiu.com/article/4882611.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T09:24:17Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_c80896b5",
@@ -2060,6 +2205,28 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-08-12T08:37:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9ce2210b",
+      "title": "大厂藏不住了，一篇论文教你百元蒸馏Claude",
+      "url": "https://www.huxiu.com/article/4882528.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882528.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "2a2542f195edee9596683deadf27897983efaaa0",
+          "title": "大厂藏不住了，一篇论文教你百元蒸馏Claude",
+          "url": "https://www.huxiu.com/article/4882528.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T08:30:00Z"
         }
       ],
       "item_count": 1,
@@ -2214,28 +2381,6 @@
           "source": "少数派",
           "site_id": "opmlrss",
           "published_at": "2026-08-12T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a87645d8",
-      "title": "马斯克上天之后，AI算力又瞄准了大海",
-      "url": "https://www.tmtpost.com/8100189.html",
-      "primary_url": "https://www.tmtpost.com/8100189.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "8ac04a1ba5d5090b68f7abc2f9e2762df9eb2f6c",
-          "title": "马斯克上天之后，AI算力又瞄准了大海",
-          "url": "https://www.tmtpost.com/8100189.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-12T06:53:50Z"
         }
       ],
       "item_count": 1,
@@ -2748,44 +2893,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_9ad3e088",
-      "title": "Gemini 成为 Google 有史以来增长最快的产品，用户数量达到 1B",
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product",
-      "primary_url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product",
+      "story_id": "story_26ccdc1d",
+      "title": "Uber 出售其全部股份，令机器人公司 Serve 感到惊讶",
+      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
+      "primary_url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
       "source_count": 1,
       "source_names": [
-        "ArsTechnica"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "254592cd1cfd04de7ce479c0eebf51dc95c2072a",
-          "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-          "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product",
-          "source": "ArsTechnica",
+          "id": "ba79f8066f36ab4d986fb71e5e4e0be4188597a7",
+          "title": "Uber surprised robotics company Serve by selling its entire stake",
+          "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
+          "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-11T19:48:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7cea1086",
-      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "c409f615937bf6726a81b71aa738da48f9cc2585",
-          "title": "ChatGPT and Gemini both just passed 1 billion users",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T19:41:42Z"
+          "published_at": "2026-08-11T20:02:02Z"
         }
       ],
       "item_count": 1,
@@ -2866,28 +2989,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_680cc3f5",
-      "title": "未发布的Anthropic模型在数学中最大的未解决问题之一上取得了进展",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-      "primary_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "e574f8bd09ccabb18682fa2e1380ad1029b538fc",
-          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T16:25:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_71aaf439",
       "title": "国产模型涨价，美国模型降价，token价值规律",
       "url": "https://www.huxiu.com/article/4882396.html?f=rss",
@@ -2904,6 +3005,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-11T15:04:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_fa830ce9",
+      "title": "使用不到 20 个人工智能提示就发现了“Zoomsday”黑客攻击",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "f8bd4b16f846be676d24d87b51b35c0aaa408bfb",
+          "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-11T14:45:44Z"
         }
       ],
       "item_count": 1,
@@ -2998,28 +3121,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_cc3159d6",
-      "title": "Claude将在人工智能文本和图像上应用隐形水印",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "ad627c0d7a23f6cf19c4408e0da7cc7ab9956d9b",
-          "title": "Claude will apply invisible watermarks to AI text and images",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T12:22:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_fd34a055",
       "title": "AI办公大战拆解：腾讯字节阿里到底在争什么？",
       "url": "https://www.huxiu.com/article/4882340.html?f=rss",
@@ -3064,28 +3165,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_c2331795",
-      "title": "揭示人工智能模型内心想法的新技巧",
-      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
-      "primary_url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "2147c84187873703ed47a226c85cd4744e27fb83",
-          "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-          "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_4925494b",
       "title": "英伟达筹资3.4万亿推AI基建，200亿押注电力企业",
       "url": "https://www.huxiu.com/article/4882335.html?f=rss",
@@ -3108,226 +3187,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_0b4e2111",
-      "title": "法国报纸就谷歌人工智能摘要向反垄断监管机构提出上诉",
-      "url": "https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries",
-      "primary_url": "https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries",
-      "source_count": 1,
-      "source_names": [
-        "France24 English"
-      ],
-      "sources": [
-        {
-          "id": "2721ddda5a159b1d607e55764145bf276579dd52",
-          "title": "French newspapers appeal to antitrust regulator over Google's AI summaries",
-          "url": "https://www.france24.com/en/france/20260811-french-newspapers-target-google-over-ai-summaries",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:47:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c0e5f4ef",
-      "title": "字节AI，不装了：收税12%、不蒸馏、赌5万亿",
-      "url": "https://www.tmtpost.com/8098796.html",
-      "primary_url": "https://www.tmtpost.com/8098796.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "557ddc756fd47c826598930708c9306082ab0633",
-          "title": "字节AI，不装了：收税12%、不蒸馏、赌5万亿",
-          "url": "https://www.tmtpost.com/8098796.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:38:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_bdb5530f",
-      "title": "晶泰控股：AI for Science的“炼金术士”",
-      "url": "https://www.tmtpost.com/8098872.html",
-      "primary_url": "https://www.tmtpost.com/8098872.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "d95c0e9c1b9d87be2036a412bea2d876f7fd378c",
-          "title": "晶泰控股：AI for Science的“炼金术士”",
-          "url": "https://www.tmtpost.com/8098872.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:38:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_798a873c",
-      "title": "英伟达调动5000亿美元，算力金融化加速",
-      "url": "https://www.tmtpost.com/8098887.html",
-      "primary_url": "https://www.tmtpost.com/8098887.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "7866b91a21402d7bdd461a987f9323379b02ca5d",
-          "title": "英伟达调动5000亿美元，算力金融化加速",
-          "url": "https://www.tmtpost.com/8098887.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:38:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_43943112",
-      "title": "工业富联上半年净利同比增长96%，云服务商AI服务器营收增长2.3倍",
-      "url": "https://m.thepaper.cn/detail/33759716",
-      "primary_url": "https://m.thepaper.cn/detail/33759716",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "88a97d593101490409dd1cba23585912ce383ac9",
-          "title": "工业富联上半年净利同比增长96%，云服务商AI服务器营收增长2.3倍",
-          "url": "https://m.thepaper.cn/detail/33759716",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:37:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_ff157d92",
-      "title": "多家期刊发布AI使用规范：严禁AI洗稿或替代人工学术把关",
-      "url": "https://m.thepaper.cn/detail/33760020",
-      "primary_url": "https://m.thepaper.cn/detail/33760020",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "58e2fe376a91d2c2fd97de809ced82ca7b60f81e",
-          "title": "多家期刊发布AI使用规范：严禁AI洗稿或替代人工学术把关",
-          "url": "https://m.thepaper.cn/detail/33760020",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:30:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_8b4e3ba5",
-      "title": "华为、理想、小鹏、小米，拆完七篇论文：「世界模型与VLA」到底争的什么？",
-      "url": "https://www.tmtpost.com/8099113.html",
-      "primary_url": "https://www.tmtpost.com/8099113.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "28837810da551d23737462969a2a329811aa3e3b",
-          "title": "华为、理想、小鹏、小米，拆完七篇论文：「世界模型与VLA」到底争的什么？",
-          "url": "https://www.tmtpost.com/8099113.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:19:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_49b74324",
-      "title": "AI 入口，开始收费",
-      "url": "https://www.huxiu.com/article/4882317.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4882317.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "e5dae680896c732addd99237f1ff15b421031b1d",
-          "title": "AI 入口，开始收费",
-          "url": "https://www.huxiu.com/article/4882317.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:10:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_16251d7b",
-      "title": "在 ChatGPT 中测试广告",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "primary_url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "955540651d1b418bc06428cc9a44a3a9f93220f0",
-          "title": "Testing ads in ChatGPT",
-          "url": "https://openai.com/index/testing-ads-in-chatgpt",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_56baca31",
-      "title": "伊拉克半自治库尔德地区因美伊战争拖延而遭受苦难",
-      "url": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "acb4565ffb5e14014508c891fff27ac35f13862a",
-          "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-          "url": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T09:47:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_a62ae484",
       "title": "为什么Go是人工智能辅助软件工程的理想语言",
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
@@ -3336,7 +3195,7 @@
       "source_names": [
         "developers.googleblog.com",
         "Hacker News · 24h最热",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3356,11 +3215,11 @@
           "published_at": "2026-08-11T16:57:09Z"
         },
         {
-          "id": "dd1fb03befc2fcd20a8a5fa7e45139a9be001879",
+          "id": "1a71d2c6c1e9d0494e6e229038a5230562ce1e3a",
           "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
           "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T16:57:09Z"
         }
       ],
@@ -3375,7 +3234,7 @@
       "source_count": 2,
       "source_names": [
         "tencent-hunyuan.github.io",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3387,11 +3246,11 @@
           "published_at": "2026-08-12T00:54:23.266000Z"
         },
         {
-          "id": "518baeb484eb72ffb12a16aa117aaee8406cd8aa",
+          "id": "a10d964be8ca4233adc63044e60760bb41d28050",
           "title": "WorldClaw Agentic 3D open-world generation at scale",
           "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T21:56:18Z"
         }
       ],
@@ -3492,37 +3351,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_a62ac8e5",
-      "title": "Spotify 将给“AI Persona”个人资料贴上标签，从推荐中排除他们的音乐",
-      "url": "https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations",
-      "primary_url": "https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations",
-      "source_count": 2,
-      "source_names": [
-        "Slashdot",
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "72c1114126ed715e20cb38b0ed4ee6d883f798e8",
-          "title": "Spotify Will Label 'AI Persona' Profiles, Exclude Their Music From Recommendations",
-          "url": "https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T19:00:00Z"
-        },
-        {
-          "id": "4ee81598e8156a30b7c2543dae0f5e7facb238c7",
-          "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-          "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T13:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_dd194206",
       "title": "英伟达 Nemotron 3.5 Lightning",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
@@ -3560,16 +3388,16 @@
       "primary_url": "https://www.openssh.org/releasenotes.html",
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "Hacker News"
       ],
       "sources": [
         {
-          "id": "cd902405a1f172da0a9867781f39286109ad3ac9",
+          "id": "d88dc0073202b9f3c33d4741e62201d345e234cb",
           "title": "OpenSSH 10.5 released, AI assistance now welcome",
           "url": "https://www.openssh.org/releasenotes.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T17:49:37Z"
         },
         {
@@ -3592,7 +3420,7 @@
       "source_count": 2,
       "source_names": [
         "stolen-thoughts.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3604,16 +3432,444 @@
           "published_at": "2026-08-11T16:09:31.598000Z"
         },
         {
-          "id": "dcd0217a40cddb7be3b6bd5ff33753f2bfb4f16a",
+          "id": "22545fba846224fa051e387be58ae89682ed3355",
           "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
           "url": "https://stolen-thoughts.com",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-11T13:22:00Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_a5cf6322",
+      "title": "15 个提示 2 将 SaaS 入门时间缩短 1/2",
+      "url": "https://www.producthunt.com/products/15-prompts-2-cut-saas-onboarding-in-1-2",
+      "primary_url": "https://www.producthunt.com/products/15-prompts-2-cut-saas-onboarding-in-1-2",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "814bf7a8b3bd6a7f74779797a0e88af2e1343c79",
+          "title": "15 Prompts 2 Cut SaaS Onboarding in 1/2",
+          "url": "https://www.producthunt.com/products/15-prompts-2-cut-saas-onboarding-in-1-2",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-12T10:53:14.375000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6d6dedaf",
+      "title": "Dello AI",
+      "url": "https://www.producthunt.com/products/dello-ai",
+      "primary_url": "https://www.producthunt.com/products/dello-ai",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "ec096d16664a5d62f29b21039a46b250f0b1c5e7",
+          "title": "Dello AI",
+          "url": "https://www.producthunt.com/products/dello-ai",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-12T10:53:14.375000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_60170ce4",
+      "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍",
+      "url": "https://news.ycombinator.com/item?id=49259339",
+      "primary_url": "https://news.ycombinator.com/item?id=49259339",
+      "source_count": 1,
+      "source_names": [
+        "hackernews"
+      ],
+      "sources": [
+        {
+          "id": "c961a2cae712e099a1ef3f4d0661e8398dacd43c",
+          "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+          "url": "https://news.ycombinator.com/item?id=49269090",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-12T10:37:56.766000Z"
+        },
+        {
+          "id": "9418ca84de6377b03513f71ed6e4eca76f2e358d",
+          "title": "Tim Gowers: What sort of maths are LLMs good at?",
+          "url": "https://news.ycombinator.com/item?id=49270022",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-12T10:37:56.766000Z"
+        },
+        {
+          "id": "ccd39c0c5d6e3430ab3dd3919f7083c28a3db0ce",
+          "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "url": "https://news.ycombinator.com/item?id=49267057",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-12T03:32:27.767000Z"
+        },
+        {
+          "id": "568933c637b099a5b71d1fdb6a0d13b798f665bb",
+          "title": "Grok Bot",
+          "url": "https://news.ycombinator.com/item?id=49261514",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T22:33:08.663000Z"
+        },
+        {
+          "id": "7d23fa0a46257982be2467f2019a512b0a331a5f",
+          "title": "Suzanne: AI tool for designing and manufacturing physical products",
+          "url": "https://news.ycombinator.com/item?id=49264755",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T22:33:08.663000Z"
+        },
+        {
+          "id": "a5c444b5b1390d14186fe721be3c89d5fe89b897",
+          "title": "WorldClaw Agentic 3D open-world generation at scale",
+          "url": "https://news.ycombinator.com/item?id=49265051",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T22:33:08.663000Z"
+        },
+        {
+          "id": "c1dbff832f690391166a6d9964fd6e438190a533",
+          "title": "AI Is Solving CTF Challenges in Minutes",
+          "url": "https://news.ycombinator.com/item?id=49264578",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T21:24:17.132000Z"
+        },
+        {
+          "id": "5364863110dbd75b6be5689f8da6560a2e6bab55",
+          "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "url": "https://news.ycombinator.com/item?id=49259339",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T19:55:39.623000Z"
+        },
+        {
+          "id": "1d5a480723510641e90247ee058397e01ce71e02",
+          "title": "Go is an ideal language for AI-assisted software engineering",
+          "url": "https://news.ycombinator.com/item?id=49261133",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T19:55:39.623000Z"
+        },
+        {
+          "id": "960ef2ec2a381d365a01c3ac2c5b23371213f925",
+          "title": "OpenAI’s head of ethics leaves less than a year after joining",
+          "url": "https://news.ycombinator.com/item?id=49257160",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T19:55:39.623000Z"
+        },
+        {
+          "id": "010d91411c643feb6166f07aeb3df5ba48f3b582",
+          "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+          "url": "https://news.ycombinator.com/item?id=49261133",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T18:23:43.086000Z"
+        },
+        {
+          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
+          "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "url": "https://news.ycombinator.com/item?id=49259339",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T15:23:10.713000Z"
+        },
+        {
+          "id": "ebe7becf82728bab4803b6067bc5f254aeed25e8",
+          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "url": "https://news.ycombinator.com/item?id=49257876",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T15:23:10.713000Z"
+        },
+        {
+          "id": "84989693e09fe4ffbfc0ce46fdfb97e9020b2916",
+          "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+          "url": "https://news.ycombinator.com/item?id=49258581",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T15:23:10.713000Z"
+        },
+        {
+          "id": "a36627ac4ceb72e67f8b64ee3a84ab32713ad4be",
+          "title": "How to organize Claude Code for product work",
+          "url": "https://news.ycombinator.com/item?id=49256258",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T13:52:59.867000Z"
+        },
+        {
+          "id": "2d9b62395143cb97064bac915efe75dc0dee4ce8",
+          "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+          "url": "https://news.ycombinator.com/item?id=49256057",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T13:52:59.867000Z"
+        }
+      ],
+      "item_count": 16,
+      "score": 7
+    },
+    {
+      "story_id": "story_5c37e46e",
+      "title": "用 AI 做内容变收入",
+      "url": "https://juejin.cn/post/7672288735179014153",
+      "primary_url": "https://juejin.cn/post/7672288735179014153",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "b6b4a54d5ed68329914f85d81d28d0a4d60138e7",
+          "title": "用 AI 做内容变收入",
+          "url": "https://juejin.cn/post/7672288735179014153",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-12T10:35:25.214000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a02589c0",
+      "title": "A look at the challenges facing incoming Google DeepMind head Koray Kavukcuoglu, who joined DeepMind in 2012 and will oversee Gemini and frontier AI research (Kai Nicol-Schwarz/CNBC)",
+      "url": "https://www.techmeme.com/260812/p12",
+      "primary_url": "https://www.techmeme.com/260812/p12",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "ad4ba73f5e8837cbf0621c310428edc6ec877bb8",
+          "title": "A look at the challenges facing incoming Google DeepMind head Koray Kavukcuoglu, who joined DeepMind in 2012 and will oversee Gemini and frontier AI research (Kai Nicol-Schwarz/CNBC)",
+          "url": "https://www.techmeme.com/260812/p12",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T10:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_134b3e54",
+      "title": "为什么人工智能正在加速旧的网络风险，而不是创造新的风险",
+      "url": "https://www.techradar.com/pro/why-ai-is-accelerating-old-cyber-risks-not-creating-new-ones",
+      "primary_url": "https://www.techradar.com/pro/why-ai-is-accelerating-old-cyber-risks-not-creating-new-ones",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "5e8def9b19f68e56e233bdaf6cb2ea14d9c6d312",
+          "title": "Why AI is accelerating old cyber risks, not creating new ones",
+          "url": "https://www.techradar.com/pro/why-ai-is-accelerating-old-cyber-risks-not-creating-new-ones",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T10:27:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c8951768",
+      "title": "Former Alibaba star researcher Junyang Lin launches Shanghai-based Pragmatik Labs to build digital and physical AI agents; Pragmatik hit a $2B valuation in June (Juro Osawa/The Information)",
+      "url": "https://www.techmeme.com/260812/p11",
+      "primary_url": "https://www.techmeme.com/260812/p11",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "7646353cb3d710a60a2805afca3930d04a05bf90",
+          "title": "Former Alibaba star researcher Junyang Lin launches Shanghai-based Pragmatik Labs to build digital and physical AI agents; Pragmatik hit a $2B valuation in June (Juro Osawa/The Information)",
+          "url": "https://www.techmeme.com/260812/p11",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T10:15:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_da6d0455",
+      "title": "TripleDart 借助 AI 引领的增长，ARR 突破 700 万美元，息税前利润率达到 50%",
+      "url": "https://thenextweb.com/news/tripledart-7m-arr-50-percent-ebit-margin",
+      "primary_url": "https://thenextweb.com/news/tripledart-7m-arr-50-percent-ebit-margin",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "214acc1b97724fbc219b34097aedb9f223411884",
+          "title": "TripleDart tops $7 million ARR with AI-led growth, reports 50 per cent EBIT margin",
+          "url": "https://thenextweb.com/news/tripledart-7m-arr-50-percent-ebit-margin",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T10:12:59Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c2c8b3e1",
+      "title": "Tim Gowers：LLM擅长哪种数学？",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
+      "primary_url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "8c872cb8b029473c189e56b6083ae0b0b7acb51d",
+          "title": "Tim Gowers: What sort of maths are LLMs good at?",
+          "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T10:04:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ac0b0a01",
+      "title": "Google Pixel 11 发布：公司推出新设备、人工智能功能等实时更新",
+      "url": "https://www.engadget.com/2235161/google-pixel-11-launch-2026-live-blog-updates",
+      "primary_url": "https://www.engadget.com/2235161/google-pixel-11-launch-2026-live-blog-updates",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "d63ffa252e48cefa2b3e065b06bce3e74647cd9a",
+          "title": "Google Pixel 11 launch: Live updates as the company unveils new devices, AI features and more",
+          "url": "https://www.engadget.com/2235161/google-pixel-11-launch-2026-live-blog-updates",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_43957bff",
+      "title": "“我见过的最糟糕的事情”：为了追求人工智能硬件，货物盗窃变得暴力",
+      "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware",
+      "primary_url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "2cd781c128d15199eec748229d1c75ef209132ba",
+          "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+          "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d637a0bc",
+      "title": "瑞安航空与谷歌云签署了一份为期五年的人工智能协议，以及第二个可以依赖的云",
+      "url": "https://thenextweb.com/news/ryanair-google-cloud-five-year-ai-partnership",
+      "primary_url": "https://thenextweb.com/news/ryanair-google-cloud-five-year-ai-partnership",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "89ae54d2a39980a7c0682cd954204360c8116a91",
+          "title": "Ryanair signs a five-year AI deal with Google Cloud, and a second cloud to fall back on",
+          "url": "https://thenextweb.com/news/ryanair-google-cloud-five-year-ai-partnership",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T09:42:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_468a7b9f",
+      "title": "Stockholm-based AI coding startup Lovable raised $400M at a $13.3B valuation, up from $6.6B in December 2025, becoming one of Europe's most valuable startups (Ben Dummett/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260812/p8",
+      "primary_url": "https://www.techmeme.com/260812/p8",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "b746f9c49b4f359bb807ac48b8c7ff501c96bca1",
+          "title": "Stockholm-based AI coding startup Lovable raised $400M at a $13.3B valuation, up from $6.6B in December 2025, becoming one of Europe's most valuable startups (Ben Dummett/Wall Street Journal)",
+          "url": "https://www.techmeme.com/260812/p8",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T09:37:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4240a637",
+      "title": "Booking's CEO says AI will have a 'human cost' — and he wants every employee to be 'AI literate' in case their job goes away",
+      "url": "https://www.businessinsider.com/booking-ceo-ai-human-cost-employment-2026-8",
+      "primary_url": "https://www.businessinsider.com/booking-ceo-ai-human-cost-employment-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "db482d2fb5437de34bbe6ccad04e2a819d5a9c71",
+          "title": "Booking's CEO says AI will have a 'human cost' — and he wants every employee to be 'AI literate' in case their job goes away",
+          "url": "https://www.businessinsider.com/booking-ceo-ai-human-cost-employment-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T09:35:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_4fdbce96",
@@ -3654,6 +3910,28 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-08-12T09:16:43.418000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6eec4da3",
+      "title": "八年后，Brad Lightcap 将离开 OpenAI，开始新的事业",
+      "url": "https://thenextweb.com/news/brad-lightcap-leaves-openai-departures",
+      "primary_url": "https://thenextweb.com/news/brad-lightcap-leaves-openai-departures",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "a60edc6b0dbb9e6de1333a2d41239f60ccee85f3",
+          "title": "Brad Lightcap is leaving OpenAI after eight years to start something new",
+          "url": "https://thenextweb.com/news/brad-lightcap-leaves-openai-departures",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T09:09:31Z"
         }
       ],
       "item_count": 1,
@@ -3726,6 +4004,138 @@
       "score": 7
     },
     {
+      "story_id": "story_ae215dbf",
+      "title": "SpaceXAI 推出 Grok Bot，一款始终在线的人工智能代理",
+      "url": "https://mashable.com/tech/spacex-grok-bot-launches",
+      "primary_url": "https://mashable.com/tech/spacex-grok-bot-launches",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "75d7326d86d725c68b099f8d534aeca5e59c84bb",
+          "title": "SpaceXAI launches Grok Bot, an always-on AI agent",
+          "url": "https://mashable.com/tech/spacex-grok-bot-launches",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T09:01:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7ed00e12",
+      "title": "忘记聊天机器人培训吧。人工智能的下一个大数据抓取是关于了解人类如何工作。",
+      "url": "https://www.businessinsider.com/ai-next-data-grab-work-reinforcement-learning-environments-google-meta-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-next-data-grab-work-reinforcement-learning-environments-google-meta-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "96eb8e7f9ae4a0f23542cbef1c1a2f8723bd382d",
+          "title": "Forget chatbot training. AI's next big data grab is about learning how humans work.",
+          "url": "https://www.businessinsider.com/ai-next-data-grab-work-reinforcement-learning-environments-google-meta-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T09:00:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_47a2618e",
+      "title": "这款售价 200 美元的人工智能应用程序可将您的口语变成优美的文字",
+      "url": "https://mashable.com/tech/aug-12-contextli-pro-plus-plan-lifetime-subscription",
+      "primary_url": "https://mashable.com/tech/aug-12-contextli-pro-plus-plan-lifetime-subscription",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "7e5d568f87512658f5fdb649848b442e7800e223",
+          "title": "This $200 AI app turns your spoken words into polished writing",
+          "url": "https://mashable.com/tech/aug-12-contextli-pro-plus-plan-lifetime-subscription",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_61abaccc",
+      "title": "Spotify 将标记 AI 艺术家个人资料，并将其排除在您的推荐之外",
+      "url": "https://thenextweb.com/news/spotify-ai-persona-badge-recommendations",
+      "primary_url": "https://thenextweb.com/news/spotify-ai-persona-badge-recommendations",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "dfb5fb5df99e5712ebd6185ff599521fb8c3dbf8",
+          "title": "Spotify will badge AI artist profiles, and keep them out of your recommendations",
+          "url": "https://thenextweb.com/news/spotify-ai-persona-badge-recommendations",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T08:58:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c3d85f86",
+      "title": "企业人工智能需要新的行为智能模型",
+      "url": "https://www.techradar.com/pro/enterprise-ai-needs-a-new-model-for-behavioral-intelligence",
+      "primary_url": "https://www.techradar.com/pro/enterprise-ai-needs-a-new-model-for-behavioral-intelligence",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "f6df1ea37ccf4cae8eb113777457bc33cb2d6e98",
+          "title": "Enterprise AI needs a new model for behavioral intelligence",
+          "url": "https://www.techradar.com/pro/enterprise-ai-needs-a-new-model-for-behavioral-intelligence",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T08:56:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1d67fc05",
+      "title": "为专业人工智能构建案例",
+      "url": "https://www.techradar.com/pro/building-the-case-for-specialized-ai",
+      "primary_url": "https://www.techradar.com/pro/building-the-case-for-specialized-ai",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "a12af2bf9d4a2b2faf9051c6cb3d8b8de40182b5",
+          "title": "Building the case for specialized AI",
+          "url": "https://www.techradar.com/pro/building-the-case-for-specialized-ai",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T08:43:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_d19d56e3",
       "title": "Sources: AI coding startup Cognition is in early talks with investors to raise $1B+ at a $40B+ valuation, after raising $1B at a $26B valuation in May (Rebecca Torrence/Bloomberg)",
       "url": "https://www.techmeme.com/260812/p7",
@@ -3764,6 +4174,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-12T08:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_beeeb82c",
+      "title": "推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理",
+      "url": "https://discoveredmaterials.com/research",
+      "primary_url": "https://discoveredmaterials.com/research",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "304662f4edfd8c0b8865f3ea0932951babfaa32e",
+          "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+          "url": "https://discoveredmaterials.com/research",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T07:51:20Z"
         }
       ],
       "item_count": 1,
@@ -3990,140 +4422,6 @@
       "score": 7
     },
     {
-      "story_id": "story_60170ce4",
-      "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍",
-      "url": "https://news.ycombinator.com/item?id=49259339",
-      "primary_url": "https://news.ycombinator.com/item?id=49259339",
-      "source_count": 1,
-      "source_names": [
-        "hackernews"
-      ],
-      "sources": [
-        {
-          "id": "ccd39c0c5d6e3430ab3dd3919f7083c28a3db0ce",
-          "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "url": "https://news.ycombinator.com/item?id=49267057",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T03:32:27.767000Z"
-        },
-        {
-          "id": "568933c637b099a5b71d1fdb6a0d13b798f665bb",
-          "title": "Grok Bot",
-          "url": "https://news.ycombinator.com/item?id=49261514",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T22:33:08.663000Z"
-        },
-        {
-          "id": "7d23fa0a46257982be2467f2019a512b0a331a5f",
-          "title": "Suzanne: AI tool for designing and manufacturing physical products",
-          "url": "https://news.ycombinator.com/item?id=49264755",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T22:33:08.663000Z"
-        },
-        {
-          "id": "a5c444b5b1390d14186fe721be3c89d5fe89b897",
-          "title": "WorldClaw Agentic 3D open-world generation at scale",
-          "url": "https://news.ycombinator.com/item?id=49265051",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T22:33:08.663000Z"
-        },
-        {
-          "id": "c1dbff832f690391166a6d9964fd6e438190a533",
-          "title": "AI Is Solving CTF Challenges in Minutes",
-          "url": "https://news.ycombinator.com/item?id=49264578",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T21:24:17.132000Z"
-        },
-        {
-          "id": "5364863110dbd75b6be5689f8da6560a2e6bab55",
-          "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49259339",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T19:55:39.623000Z"
-        },
-        {
-          "id": "1d5a480723510641e90247ee058397e01ce71e02",
-          "title": "Go is an ideal language for AI-assisted software engineering",
-          "url": "https://news.ycombinator.com/item?id=49261133",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T19:55:39.623000Z"
-        },
-        {
-          "id": "960ef2ec2a381d365a01c3ac2c5b23371213f925",
-          "title": "OpenAI’s head of ethics leaves less than a year after joining",
-          "url": "https://news.ycombinator.com/item?id=49257160",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T19:55:39.623000Z"
-        },
-        {
-          "id": "010d91411c643feb6166f07aeb3df5ba48f3b582",
-          "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-          "url": "https://news.ycombinator.com/item?id=49261133",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T18:23:43.086000Z"
-        },
-        {
-          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
-          "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://news.ycombinator.com/item?id=49259339",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T15:23:10.713000Z"
-        },
-        {
-          "id": "ebe7becf82728bab4803b6067bc5f254aeed25e8",
-          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-          "url": "https://news.ycombinator.com/item?id=49257876",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T15:23:10.713000Z"
-        },
-        {
-          "id": "84989693e09fe4ffbfc0ce46fdfb97e9020b2916",
-          "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
-          "url": "https://news.ycombinator.com/item?id=49258581",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T15:23:10.713000Z"
-        },
-        {
-          "id": "a36627ac4ceb72e67f8b64ee3a84ab32713ad4be",
-          "title": "How to organize Claude Code for product work",
-          "url": "https://news.ycombinator.com/item?id=49256258",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T13:52:59.867000Z"
-        },
-        {
-          "id": "2d9b62395143cb97064bac915efe75dc0dee4ce8",
-          "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-          "url": "https://news.ycombinator.com/item?id=49256057",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T13:52:59.867000Z"
-        },
-        {
-          "id": "97ce4d6b87f9907e99e499b543a6d6be12c54774",
-          "title": "The Water Footprint of AI",
-          "url": "https://news.ycombinator.com/item?id=49254351",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T09:52:39.139000Z"
-        }
-      ],
-      "item_count": 15,
-      "score": 7
-    },
-    {
       "story_id": "story_23be05c6",
       "title": "当人工智能泡沫破裂时会发生什么？",
       "url": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
@@ -4140,28 +4438,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-08-12T02:27:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_afd61944",
-      "title": "Grok Bot",
-      "url": "https://x.ai/bot",
-      "primary_url": "https://x.ai/bot",
-      "source_count": 1,
-      "source_names": [
-        "x.ai"
-      ],
-      "sources": [
-        {
-          "id": "0f14eb3cbdf27916d4410a47c4764424ddd16eb8",
-          "title": "Grok Bot",
-          "url": "https://x.ai/bot",
-          "source": "x.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T00:07:15.172000Z"
         }
       ],
       "item_count": 1,
@@ -4240,15 +4516,15 @@
       "primary_url": "https://twitter.com/_can1357/status/2087228354399265125",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "8f19d4703a48993e67f8ccceb866f5224a085699",
+          "id": "aec55027c299cbb672feecc3db040b86bb0713dc",
           "title": "OpenAI and Anthropic hidden CoT leaks when given deep_think tool.",
           "url": "https://twitter.com/_can1357/status/2087228354399265125",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-11T22:06:14Z"
         }
       ],
@@ -4350,15 +4626,15 @@
       "primary_url": "https://www.suzanne3d.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "bb1d4ba5d00510cda07a81d7f0787dbd4300c0ed",
+          "id": "5e181f5853713700e446c53517730ec645f044f7",
           "title": "Suzanne: AI tool for designing and manufacturing physical products",
           "url": "https://www.suzanne3d.com",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-11T21:28:26Z"
         }
       ],
@@ -4372,15 +4648,15 @@
       "primary_url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "1a9552556128a048e781c222eb15746bf0fd6db4",
+          "id": "21e8f601a055a857d4ade62d9b9a3ad45f15b613",
           "title": "AI Is Solving CTF Challenges in Minutes",
           "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-11T21:13:44Z"
         }
       ],
@@ -4429,6 +4705,36 @@
         }
       ],
       "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9b23bdca",
+      "title": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+      "primary_url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "1a0525eeee2daf7f847e7ec4fd80bb01b18935e5",
+          "title": "OpenAI launches ChatGPT desktop app for Linux",
+          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-11T20:54:25Z"
+        },
+        {
+          "id": "8f46ec7555afdf4abe3f08017b2fa8f30d2c3016",
+          "title": "ChatGPT Desktop App for Linux",
+          "url": "https://twitter.com/OpenAI/status/2087231350134980830",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-11T18:03:56Z"
+        }
+      ],
+      "item_count": 2,
       "score": 7
     },
     {
@@ -4520,28 +4826,6 @@
       "score": 7
     },
     {
-      "story_id": "story_26ccdc1d",
-      "title": "Uber 出售其全部股份，令机器人公司 Serve 感到惊讶",
-      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
-      "primary_url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "72ef5b3cbbeacc915a3be628cad3f7a37898a794",
-          "title": "Uber surprised robotics company Serve by selling its entire stake",
-          "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T20:02:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_8b07a84e",
       "title": "前特勤局特工：特朗普的秘密飞机交换不寻常，并非史无前例",
       "url": "https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One",
@@ -4558,6 +4842,28 @@
           "source": "TIME Magazine",
           "site_id": "techurls",
           "published_at": "2026-08-11T19:54:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9ad3e088",
+      "title": "Gemini 成为 Google 有史以来增长最快的产品，用户数量达到 1B",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product",
+      "primary_url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "ce52613cbc26532cf222690e1de266eb0433c93e",
+          "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+          "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T19:48:12Z"
         }
       ],
       "item_count": 1,
@@ -4762,6 +5068,28 @@
       "score": 7
     },
     {
+      "story_id": "story_baee0d63",
+      "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "primary_url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "source_count": 1,
+      "source_names": [
+        "www.lighthousenewsletter.com"
+      ],
+      "sources": [
+        {
+          "id": "215f6251468a1bfa096c8427e139fc9db004dc0e",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "www.lighthousenewsletter.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T18:32:57.961000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_eff1c023",
       "title": "Sources: David Sacks' Craft Ventures is targeting around $1B for a new fund, its first since Sacks stepped down as the White House AI and crypto czar (The Information)",
       "url": "https://www.techmeme.com/260811/p30",
@@ -4894,6 +5222,28 @@
       "score": 7
     },
     {
+      "story_id": "story_afd61944",
+      "title": "Grok Bot",
+      "url": "https://x.ai/bot",
+      "primary_url": "https://x.ai/bot",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "7287fa956618692aedf2b7b57c956aaf8d6a1360",
+          "title": "Grok Bot",
+          "url": "https://x.ai/bot",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T17:23:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_04c85ca9",
       "title": "Sundar Pichai says Gemini has hit 1B+ MAUs, the company's fastest-growing product ever and its 14th product to hit the 1B-user mark (Sundar Pichai/@sundarpichai)",
       "url": "https://www.techmeme.com/260811/p27",
@@ -4998,6 +5348,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-11T16:31:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_680cc3f5",
+      "title": "未发布的Anthropic模型在数学中最大的未解决问题之一上取得了进展",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "primary_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "09e967d024fe79054644754b92a897b3ef82bdc4",
+          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T16:25:20Z"
         }
       ],
       "item_count": 1,
@@ -5180,28 +5552,6 @@
       "score": 7
     },
     {
-      "story_id": "story_fa830ce9",
-      "title": "使用不到 20 个人工智能提示就发现了“Zoomsday”黑客攻击",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "2f8b880c59ca43de32dc0b6b1ac6dd8cc3fd386b",
-          "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T14:45:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_9966590b",
       "title": "极端风暴临近，中国押注人工智能天气预报",
       "url": "https://thenextweb.com/news/china-ai-weather-forecasting-extreme-weather",
@@ -5274,15 +5624,15 @@
       "primary_url": "https://github.com/anthropics/claude-code/issues/78431",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "e379caf8a363db6ccde2d6f99194bd664440b9df",
+          "id": "ff0f2a1c41d03b69c58ed1e4d2e5eac4dd791d10",
           "title": "Claude Code is leaking real email address as a User-Agent string in curl command",
           "url": "https://github.com/anthropics/claude-code/issues/78431",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-11T14:21:47Z"
         }
       ],
@@ -5296,15 +5646,15 @@
       "primary_url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "3cfeeba390fa495b8555c372df85285113bc23eb",
+          "id": "95da8822b273efaa766cfe3bf4038b7997fafc65",
           "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
           "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-11T14:03:18Z"
         }
       ],
@@ -5626,16 +5976,38 @@
       "primary_url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "bd7dba0e61a8f59f85ea8f577f8b37b5de304615",
+          "id": "e36a4a646501f7a721c34f2ea83c316591f2432b",
           "title": "OpenAI's Only Ethicist Reportedly Left Last Month",
           "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-11T12:23:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cc3159d6",
+      "title": "Claude将在人工智能文本和图像上应用隐形水印",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "ee97bd2b05d60ff78f443465207ad21831799dcd",
+          "title": "Claude will apply invisible watermarks to AI text and images",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T12:22:20Z"
         }
       ],
       "item_count": 1,
@@ -5890,15 +6262,15 @@
       "primary_url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "cf56a65d87b6ae654a782025fffd646f8175aac5",
+          "id": "a6b559030fd7a34b44c2182fb74b8ba1993e8635",
           "title": "How to organize Claude Code for product work",
           "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T11:02:34Z"
         }
       ],
@@ -5958,396 +6330,44 @@
       "score": 7
     },
     {
-      "story_id": "story_f3bf4ec8",
-      "title": "AI时代正在催生新的CTO",
-      "url": "https://www.techradar.com/pro/the-ai-era-is-creating-a-new-cto",
-      "primary_url": "https://www.techradar.com/pro/the-ai-era-is-creating-a-new-cto",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "8518880cdab127ffe850c4e2523ac9ca0e6f8327",
-          "title": "The AI era is creating a new CTO",
-          "url": "https://www.techradar.com/pro/the-ai-era-is-creating-a-new-cto",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T10:52:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d1bfb9e4",
-      "title": "How India's IT services sector, which employs 6M people, contributes ~7% of GDP, and generates $300B+ annually, is shedding jobs as AI automates formulaic work (Financial Times)",
-      "url": "https://www.techmeme.com/260811/p10",
-      "primary_url": "https://www.techmeme.com/260811/p10",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "4aa7792d8e0c431db773704b545d4da05eef28cd",
-          "title": "How India's IT services sector, which employs 6M people, contributes ~7% of GDP, and generates $300B+ annually, is shedding jobs as AI automates formulaic work (Financial Times)",
-          "url": "https://www.techmeme.com/260811/p10",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T10:50:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a1876652",
-      "title": "中小企业如何将人工智能转化为持久的商业价值",
-      "url": "https://www.techradar.com/pro/how-smbs-turn-ai-into-lasting-business-value",
-      "primary_url": "https://www.techradar.com/pro/how-smbs-turn-ai-into-lasting-business-value",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "99230f15bffbf161e9b902c8f939f5338ea7fcb6",
-          "title": "How SMBs turn AI into lasting business value",
-          "url": "https://www.techradar.com/pro/how-smbs-turn-ai-into-lasting-business-value",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T10:41:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f68950fa",
-      "title": "OpenAI is hiring a power-trading lead to manage commodity hedging across its expanding data center power portfolio, as tech companies seek reliable electricity (Julian Hast/Bloomberg)",
-      "url": "https://www.techmeme.com/260811/p9",
-      "primary_url": "https://www.techmeme.com/260811/p9",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "81ce4fca1efe44e9725f0a8609ac1e68d9ab6029",
-          "title": "OpenAI is hiring a power-trading lead to manage commodity hedging across its expanding data center power portfolio, as tech companies seek reliable electricity (Julian Hast/Bloomberg)",
-          "url": "https://www.techmeme.com/260811/p9",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T10:30:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e97b7675",
-      "title": "FORGE教练人工智能",
-      "url": "https://www.producthunt.com/products/forge-coach-ai",
-      "primary_url": "https://www.producthunt.com/products/forge-coach-ai",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "1c2048531487ee9f1f4b26594f535e2848475b9a",
-          "title": "FORGE Coach AI",
-          "url": "https://www.producthunt.com/products/forge-coach-ai",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T10:22:29.276000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ffc1fe5f",
-      "title": "德国 Uniper 斥资 50 亿欧元转向数据中心，推动人工智能热潮",
-      "url": "https://thenextweb.com/news/uniper-5bn-data-centre-push",
-      "primary_url": "https://thenextweb.com/news/uniper-5bn-data-centre-push",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "1801f2ca50ac21202007937538417806c8cf1020",
-          "title": "Germany’s Uniper pivots to data centres with a €5bn plan to power the AI boom",
-          "url": "https://thenextweb.com/news/uniper-5bn-data-centre-push",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T10:21:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fbef879e",
-      "title": "ChatGPT 可以让您在聊天中预订餐桌",
-      "url": "https://mashable.com/tech/chatgpt-yelp-restaurant-booking-reservations",
-      "primary_url": "https://mashable.com/tech/chatgpt-yelp-restaurant-booking-reservations",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "1d04a5238fc8c7c721b48a150c2bad0d983da8f1",
-          "title": "ChatGPT will let you book a table mid-chat",
-          "url": "https://mashable.com/tech/chatgpt-yelp-restaurant-booking-reservations",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T10:06:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ae8a1212",
-      "title": "Anthropic 与比特币矿商 Riot Platforms 签署价值 91 亿美元、为期 20 年的云协议",
-      "url": "https://thenextweb.com/news/anthropic-riot-9bn-data-centre-deal",
-      "primary_url": "https://thenextweb.com/news/anthropic-riot-9bn-data-centre-deal",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "0c9487f9e03d3188a9f9ae133fa1b9a022e7dbbd",
-          "title": "Anthropic signs a $9.1bn, 20-year cloud deal with bitcoin miner Riot Platforms",
-          "url": "https://thenextweb.com/news/anthropic-riot-9bn-data-centre-deal",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T10:01:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_02df43e6",
-      "title": "人工智能已死。类器官是活的",
-      "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
-      "primary_url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
+      "story_id": "story_c2331795",
+      "title": "揭示人工智能模型内心想法的新技巧",
+      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
+      "primary_url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
       "source_count": 1,
       "source_names": [
         "Wired"
       ],
       "sources": [
         {
-          "id": "6661c4f66a6fb582a4152764b0bda729d65afb45",
-          "title": "AI Is Dead. Organoids Are Alive",
-          "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
+          "id": "b95f5505aa7182f15bf50c66fda88c7a804a5d02",
+          "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+          "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
           "source": "Wired",
           "site_id": "techurls",
-          "published_at": "2026-08-11T10:00:00Z"
+          "published_at": "2026-08-11T11:00:00Z"
         }
       ],
       "item_count": 1,
       "score": 7
     },
     {
-      "story_id": "story_4aefd585",
-      "title": "Cursor 的人才主管表示，公司在工作试验中犯了一个关键错误",
-      "url": "https://www.businessinsider.com/cursor-work-trials-tips-candidate-hiring-head-talent-2026-8",
-      "primary_url": "https://www.businessinsider.com/cursor-work-trials-tips-candidate-hiring-head-talent-2026-8",
+      "story_id": "story_8a7d5b39",
+      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
       "source_count": 1,
       "source_names": [
-        "Business Insider"
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "0178070eb7a1ce28158e39ab7798bfc746c1c39f",
-          "title": "Cursor’s head of talent says companies get one crucial thing wrong with work trials",
-          "url": "https://www.businessinsider.com/cursor-work-trials-tips-candidate-hiring-head-talent-2026-8",
-          "source": "Business Insider",
+          "id": "27c9b3d8a69b021dcee3698f63f71e148e1ca5cf",
+          "title": "The AI takeover of mathematics has begun",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+          "source": "The Verge",
           "site_id": "techurls",
-          "published_at": "2026-08-11T09:59:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ed644910",
-      "title": "Show HN: Ungate – 在 Cursor 中使用 Claude 和 GPT 订阅，无需 API 成本",
-      "url": "https://github.com/orchidfiles/ungate",
-      "primary_url": "https://github.com/orchidfiles/ungate",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "f0203a44947609302749b88622cbbdb970248224",
-          "title": "Show HN: Ungate – use Claude and GPT subscriptions in Cursor without API costs",
-          "url": "https://github.com/orchidfiles/ungate",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-11T09:55:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d47c1951",
-      "title": "A look at London-based AI startup Cosine, which is building a frontier model with UK government backing, as some question if it has the talent and resources (Financial Times)",
-      "url": "https://www.techmeme.com/260811/p7",
-      "primary_url": "https://www.techmeme.com/260811/p7",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "1e3b9ff99848eb97a7557ad470028af0c4a27051",
-          "title": "A look at London-based AI startup Cosine, which is building a frontier model with UK government backing, as some question if it has the talent and resources (Financial Times)",
-          "url": "https://www.techmeme.com/260811/p7",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T09:55:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_db1d3cea",
-      "title": "ApiHub：领先 AI 模型的一个 API",
-      "url": "https://www.producthunt.com/products/ai-video-factory-sora-2-veo-video",
-      "primary_url": "https://www.producthunt.com/products/ai-video-factory-sora-2-veo-video",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "97bc38a9c581201a3ffbad240ee25652102ece00",
-          "title": "ApiHub: One API for Leading AI Models",
-          "url": "https://www.producthunt.com/products/ai-video-factory-sora-2-veo-video",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T09:52:39.139000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8c6a9189",
-      "title": "Claude Market",
-      "url": "https://www.producthunt.com/products/claude-market",
-      "primary_url": "https://www.producthunt.com/products/claude-market",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "995a9316830e034fd11e860a3ccbaf60f00a7281",
-          "title": "Claude Market",
-          "url": "https://www.producthunt.com/products/claude-market",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T09:52:39.139000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dbcb21c8",
-      "title": "Vizard Agent",
-      "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
-      "primary_url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "da20651bd566d144c8b5c841d96fd7f371f7ffe9",
-          "title": "Vizard Agent",
-          "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T09:52:39.139000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bbfd9e9f",
-      "title": "众议院民主党人希望 OpenAI 和 Anthropic 就他们的流氓人工智能代理问题给出答案",
-      "url": "https://thenextweb.com/news/house-democrats-press-anthropic-openai-rogue-agents",
-      "primary_url": "https://thenextweb.com/news/house-democrats-press-anthropic-openai-rogue-agents",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "3f431bf1c65af5187769a3f51150501900d9ac78",
-          "title": "House Democrats want answers from OpenAI and Anthropic on their rogue AI agents",
-          "url": "https://thenextweb.com/news/house-democrats-press-anthropic-openai-rogue-agents",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T09:48:52Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d521cb87",
-      "title": "OpenAI 为 Daybreak 合作伙伴提供了更强大的网络安全模型",
-      "url": "https://www.engadget.com/2234335/openai-daybreak-model-less-likely-to-refuse-higher-risk-tasks",
-      "primary_url": "https://www.engadget.com/2234335/openai-daybreak-model-less-likely-to-refuse-higher-risk-tasks",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "f7a3be15c3ce786833d2459b973b4d4e99a84da0",
-          "title": "OpenAI gives Daybreak partners access to a more powerful cybersecurity model",
-          "url": "https://www.engadget.com/2234335/openai-daybreak-model-less-likely-to-refuse-higher-risk-tasks",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T09:40:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5d2f0a09",
-      "title": "'AI has the potential to fundamentally reshape the role of procurement': Amazon Business tells us why AI could supercharge procurement like never before",
-      "url": "https://www.techradar.com/pro/ai-has-the-potential-to-fundamentally-reshape-the-role-of-procurement-amazon-business-tells-us-why-ai-could-supercharge-procurement-like-never-before",
-      "primary_url": "https://www.techradar.com/pro/ai-has-the-potential-to-fundamentally-reshape-the-role-of-procurement-amazon-business-tells-us-why-ai-could-supercharge-procurement-like-never-before",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "fc71cef9ff38e6617b66d2473e9c10912f75316b",
-          "title": "'AI has the potential to fundamentally reshape the role of procurement': Amazon Business tells us why AI could supercharge procurement like never before",
-          "url": "https://www.techradar.com/pro/ai-has-the-potential-to-fundamentally-reshape-the-role-of-procurement-amazon-business-tells-us-why-ai-could-supercharge-procurement-like-never-before",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T09:28:17Z"
+          "published_at": "2026-08-11T11:00:00Z"
         }
       ],
       "item_count": 1,
