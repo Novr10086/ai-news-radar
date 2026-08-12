@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T01:10:48.665206Z",
+  "generated_at": "2026-08-12T03:58:03.816113Z",
   "window_hours": 24,
-  "total_stories": 272,
+  "total_stories": 268,
   "stories": [
     {
       "story_id": "story_e55e02c2",
@@ -92,55 +92,6 @@
       "score": 10020
     },
     {
-      "story_id": "story_b9b0f04d",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "source_count": 4,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "Hacker News (黑客新闻)",
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "bf9c6365003c8af46a4fc9e19b733c22378a6a89",
-          "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-11T14:50:33Z"
-        },
-        {
-          "id": "6ca440ed062c77bedec85633388c418286b8b615",
-          "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-11T14:50:33Z"
-        }
-      ],
-      "item_count": 4,
-      "score": 9990
-    },
-    {
       "story_id": "story_4eaf1682",
       "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
       "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
@@ -181,6 +132,85 @@
       "score": 9980
     },
     {
+      "story_id": "story_b9b0f04d",
+      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "source_count": 3,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "github.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "bf9c6365003c8af46a4fc9e19b733c22378a6a89",
+          "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-11T14:50:33Z"
+        },
+        {
+          "id": "13f4c60667f8b4b32f567dee9d8502109afc97d3",
+          "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-11T14:50:33Z"
+        }
+      ],
+      "item_count": 4,
+      "score": 9980
+    },
+    {
+      "story_id": "story_3a5eefa7",
+      "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
+      "url": "https://www.aibase.com/news/30271",
+      "primary_url": "https://www.aibase.com/news/30271",
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Google Blog：AI（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "bb106316ad2c12f0c281a97e25e6431fbd8d6573",
+          "title": "医疗AI迎来重大突破：研究型系统AMIE首次展示实时临床视频问诊能力",
+          "url": "https://www.aibase.com/news/30271",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        },
+        {
+          "id": "ed80cc76f03944ad704e39a7ee20e3275fa1411c",
+          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google Blog：AI（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T17:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
       "story_id": "story_baee0d63",
       "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
       "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
@@ -188,7 +218,7 @@
       "source_count": 2,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -200,16 +230,258 @@
           "published_at": "2026-08-11T18:32:57.961000Z"
         },
         {
-          "id": "a9acabb07c0465534b0ff0e2cd88c9ef6390ca8b",
+          "id": "9bddce4bc9f699394f32e704cf96de7c106147d3",
           "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
           "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-11T10:40:47Z"
         }
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_65dab51d",
+      "title": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
+      "url": "https://www.aibase.com/news/30265",
+      "primary_url": "https://www.aibase.com/news/30265",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "abfc2f25c7ea2a579260a1aca3776945a7e4a441",
+          "title": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
+          "url": "https://www.aibase.com/news/30265",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_392645c4",
+      "title": "64卡互联800GB/s:阿里云M890超节点正式开售",
+      "url": "https://www.aibase.com/news/30269",
+      "primary_url": "https://www.aibase.com/news/30269",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "3e4b2fbb5d5ca5d021991205bf36b65d9d043877",
+          "title": "64卡互联800GB/s:阿里云M890超节点正式开售",
+          "url": "https://www.aibase.com/news/30269",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_0a85ede1",
+      "title": "AI 代订健身课反成黑客：自主踢掉排队第一名，澳洲首例智能体网络攻击",
+      "url": "https://www.aibase.com/news/30263",
+      "primary_url": "https://www.aibase.com/news/30263",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "6632f29c306cbbb847df823c0b9f5020b8d66c1e",
+          "title": "AI 代订健身课反成黑客：自主踢掉排队第一名，澳洲首例智能体网络攻击",
+          "url": "https://www.aibase.com/news/30263",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_bae7c386",
+      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户：AI 聊天机器人竞赛进入新阶段",
+      "url": "https://www.aibase.com/news/30264",
+      "primary_url": "https://www.aibase.com/news/30264",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "18995d23d4a0e2eba56d5e3bc942717e092d07d1",
+          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户：AI 聊天机器人竞赛进入新阶段",
+          "url": "https://www.aibase.com/news/30264",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_df7ac45f",
+      "title": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+      "url": "https://www.aibase.com/news/30268",
+      "primary_url": "https://www.aibase.com/news/30268",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "0836ca274e0fa2df55ee13aa50cd515e2b20cd17",
+          "title": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+          "url": "https://www.aibase.com/news/30268",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_84aefea8",
+      "title": "《林离》上线不到一个月宣布停运，米哈游AI陪伴探索暂告一段落",
+      "url": "https://www.aibase.com/news/30267",
+      "primary_url": "https://www.aibase.com/news/30267",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "1ff01df981d88e477cb580d0548dd3a10c14ff52",
+          "title": "《林离》上线不到一个月宣布停运，米哈游AI陪伴探索暂告一段落",
+          "url": "https://www.aibase.com/news/30267",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_94e1d00f",
+      "title": "继Seed、Flow后，字节再设AI一级部门，核心瞄准模型数据",
+      "url": "https://www.aibase.com/news/30266",
+      "primary_url": "https://www.aibase.com/news/30266",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "2d18c1c262ad7b313de386f3447787696713950e",
+          "title": "继Seed、Flow后，字节再设AI一级部门，核心瞄准模型数据",
+          "url": "https://www.aibase.com/news/30266",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_91aa7ef8",
+      "title": "迈入 10 亿俱乐部：Google的Gemini应用迎来高速增长",
+      "url": "https://www.aibase.com/news/30272",
+      "primary_url": "https://www.aibase.com/news/30272",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "d8ddb35b52bc2c4a516258cce37d720164bba117",
+          "title": "迈入 10 亿俱乐部：Google的Gemini应用迎来高速增长",
+          "url": "https://www.aibase.com/news/30272",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_c5885184",
+      "title": "迈向万亿规模：英伟达被曝正加码开发新一代开源 AI 模型",
+      "url": "https://www.aibase.com/news/30262",
+      "primary_url": "https://www.aibase.com/news/30262",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "7448109ae7b0c9ec08395e6b9429c16da40a6f28",
+          "title": "迈向万亿规模：英伟达被曝正加码开发新一代开源 AI 模型",
+          "url": "https://www.aibase.com/news/30262",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_24f9ff53",
+      "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
+      "url": "https://www.aibase.com/news/30273",
+      "primary_url": "https://www.aibase.com/news/30273",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "6296e14ad778412341ccc1dfd27d4c4acb045a57",
+          "title": "量子计算首次入驻云巨头数据中心：Quantinuum 将 98 量子比特 Helios 装进 Oracle AI 数据中心",
+          "url": "https://www.aibase.com/news/30273",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_93b27292",
+      "title": "阿福医生版来了！百万医生迎来AI助手，在线问诊、患者管理、科研一个App搞定",
+      "url": "https://www.aibase.com/news/30270",
+      "primary_url": "https://www.aibase.com/news/30270",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "5bac2fba2a98d1eb0dcb003e8735010e1ffdc436",
+          "title": "阿福医生版来了！百万医生迎来AI助手，在线问诊、患者管理、科研一个App搞定",
+          "url": "https://www.aibase.com/news/30270",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T03:57:16.729210Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_8002cca6",
@@ -454,28 +726,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_3422fa38",
-      "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "source_count": 1,
-      "source_names": [
-        "Google Blog：AI（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "ed80cc76f03944ad704e39a7ee20e3275fa1411c",
-          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-          "source": "Google Blog：AI（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_12cdb251",
       "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
       "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
@@ -602,6 +852,28 @@
           "source": "NVIDIA Blog（RSS）",
           "site_id": "aihot",
           "published_at": "2026-08-11T13:00:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_8a7d5b39",
+      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "079cd24c1c86473636689d6b518f7737f7c0d59c",
+          "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+          "source": "The Verge：AI（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T11:00:00Z"
         }
       ],
       "item_count": 1,
@@ -960,248 +1232,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_5ea730d2",
-      "title": "Claude开始给所有输出偷偷盖章：Anthropic上线文本水印，AI生成内容将无处遁形",
-      "url": "https://www.aibase.com/news/30237",
-      "primary_url": "https://www.aibase.com/news/30237",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "4a418ccce4c0cc8afa03dde9c9a4b5b8dfbfd367",
-          "title": "Claude开始给所有输出偷偷盖章：Anthropic上线文本水印，AI生成内容将无处遁形",
-          "url": "https://www.aibase.com/news/30237",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_9c7f42e4",
-      "title": "DeepSeek回应“深度思考模式偷偷取外号”:实际为临时标签，不会存储用户信息",
-      "url": "https://www.aibase.com/news/30235",
-      "primary_url": "https://www.aibase.com/news/30235",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "cc7a7dd140a2e2fd6e3a3595364bb9c514448538",
-          "title": "DeepSeek回应“深度思考模式偷偷取外号”:实际为临时标签，不会存储用户信息",
-          "url": "https://www.aibase.com/news/30235",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_51348466",
-      "title": "Meta开源30B参数Muse Glimmer，瞄准消费级硬件本地AI Agent",
-      "url": "https://www.aibase.com/news/30231",
-      "primary_url": "https://www.aibase.com/news/30231",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "413f45efaaa9244e22b76a54a6dc6272886c1365",
-          "title": "Meta开源30B参数Muse Glimmer，瞄准消费级硬件本地AI Agent",
-          "url": "https://www.aibase.com/news/30231",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_92df2fe7",
-      "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-      "url": "https://www.aibase.com/news/30236",
-      "primary_url": "https://www.aibase.com/news/30236",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
-          "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-          "url": "https://www.aibase.com/news/30236",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_920ff3bf",
-      "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-      "url": "https://www.aibase.com/news/30230",
-      "primary_url": "https://www.aibase.com/news/30230",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-          "url": "https://www.aibase.com/news/30230",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_61c717f5",
-      "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-      "url": "https://www.aibase.com/news/30239",
-      "primary_url": "https://www.aibase.com/news/30239",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
-          "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "url": "https://www.aibase.com/news/30239",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_c9ac52a9",
-      "title": "算力版图再扩张：Anthropic携手Riot达成 91 亿美元长期合作协议",
-      "url": "https://www.aibase.com/news/30234",
-      "primary_url": "https://www.aibase.com/news/30234",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "9ffb9c06657d5bed99eae30dd36bf69420740f14",
-          "title": "算力版图再扩张：Anthropic携手Riot达成 91 亿美元长期合作协议",
-          "url": "https://www.aibase.com/news/30234",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_ea62fda1",
-      "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
-      "url": "https://www.aibase.com/news/30229",
-      "primary_url": "https://www.aibase.com/news/30229",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "708744e6436c7906ee4bfb6fb488b68177ddbf0c",
-          "title": "维珍航空借 ChatGPT Work 重塑客户旅程：数周调研压缩为数小时，AI 成企业运营标配",
-          "url": "https://www.aibase.com/news/30229",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_82acc164",
-      "title": "腾讯开源全新浏览器自动化工具 BrowserSkill：让 AI 智能体拥有独立干活的双手",
-      "url": "https://www.aibase.com/news/30233",
-      "primary_url": "https://www.aibase.com/news/30233",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "f97cf2d8d7bfd9652e1fc3b470877d92563d53cb",
-          "title": "腾讯开源全新浏览器自动化工具 BrowserSkill：让 AI 智能体拥有独立干活的双手",
-          "url": "https://www.aibase.com/news/30233",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_68385c65",
-      "title": "英伟达联合六大金融机构筹集超5000亿美元，建设AI算力融资平台",
-      "url": "https://www.aibase.com/news/30232",
-      "primary_url": "https://www.aibase.com/news/30232",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "e64c1b23eea00ca6819d5bc1849d69f9989f5d9c",
-          "title": "英伟达联合六大金融机构筹集超5000亿美元，建设AI算力融资平台",
-          "url": "https://www.aibase.com/news/30232",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_27ee1cef",
-      "title": "英伟达让AI学会\"抄作业\"：KV缓存可跨模型迁移，推理速度暴增25倍",
-      "url": "https://www.aibase.com/news/30238",
-      "primary_url": "https://www.aibase.com/news/30238",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "9fe99e338fca94bce036ee0949ab100cc72274f2",
-          "title": "英伟达让AI学会\"抄作业\"：KV缓存可跨模型迁移，推理速度暴增25倍",
-          "url": "https://www.aibase.com/news/30238",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:26:52.306215Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_85477b6d",
       "title": "AI 工程师必备的 7 条自改进智能体循环规则",
       "url": "https://waytoagi.feishu.cn/wiki/ENInwjmnViH3I4knMO2cmO1PnVg?from=from_copylink",
@@ -1334,48 +1364,35 @@
       "score": 9820
     },
     {
-      "story_id": "story_8c94f52f",
-      "title": "If you told someone 3 months ago that a model released by a US company with frontier-class capability would be available as open weights they wouldn’t believe it. This is very important because it opens up AI adoption...",
-      "url": "https://x.com/levie/status/2087009941806797206",
-      "primary_url": "https://x.com/levie/status/2087009941806797206",
-      "source_count": 1,
+      "story_id": "story_1ea76a18",
+      "title": "10万亿参数大模型还没影，字节先造了个一级部门",
+      "url": "https://www.tmtpost.com/8099914.html",
+      "primary_url": "https://www.tmtpost.com/8099914.html",
+      "source_count": 2,
       "source_names": [
-        "Follow Builders · X · Aaron Levie"
+        "钛媒体 TMTPost",
+        "虎嗅"
       ],
       "sources": [
         {
-          "id": "15606007d4244b661079e668737d930051e0c9e3",
-          "title": "If you told someone 3 months ago that a model released by a US company with frontier-class capability would be available as open weights they wouldn’t believe it. This is very important because it opens up AI adoption...",
-          "url": "https://x.com/levie/status/2087009941806797206",
-          "source": "Follow Builders · X · Aaron Levie",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-11T02:55:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_865c646c",
-      "title": "Funny how that headline is about OpenClaw and not Claude. As if the harness could meaningfully prevent a determined user. https://t.co/aMbeif6Bhy",
-      "url": "https://x.com/steipete/status/2087006417509405084",
-      "primary_url": "https://x.com/steipete/status/2087006417509405084",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Steinberger"
-      ],
-      "sources": [
+          "id": "8dab97e3973539ad8f05a61b05e0bc2128cd9f64",
+          "title": "10万亿参数大模型还没影，字节先造了个一级部门",
+          "url": "https://www.tmtpost.com/8099914.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T03:02:55Z"
+        },
         {
-          "id": "9b9b8d2ea896267cb759b4a37abe7c647ee96a0a",
-          "title": "Funny how that headline is about OpenClaw and not Claude. As if the harness could meaningfully prevent a determined user. https://t.co/aMbeif6Bhy",
-          "url": "https://x.com/steipete/status/2087006417509405084",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-11T02:41:19Z"
+          "id": "56d6170fbbf6e03caffa25a25144e897673b224f",
+          "title": "10万亿参数大模型还没影，字节先造了个一级部门",
+          "url": "https://www.huxiu.com/article/4882462.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T02:18:24Z"
         }
       ],
-      "item_count": 1,
-      "score": 9820
+      "item_count": 2,
+      "score": 9770
     },
     {
       "story_id": "story_a74e8a8c",
@@ -1440,35 +1457,180 @@
       "score": 9770
     },
     {
-      "story_id": "story_58a4ce83",
-      "title": "戚薇授权AI数字分身，演员开始批量生产自己",
-      "url": "https://www.tmtpost.com/8098760.html",
-      "primary_url": "https://www.tmtpost.com/8098760.html",
-      "source_count": 2,
+      "story_id": "story_e9f89937",
+      "title": "人工智能怎么能做广告？",
+      "url": "https://www.tmtpost.com/8100002.html",
+      "primary_url": "https://www.tmtpost.com/8100002.html",
+      "source_count": 1,
       "source_names": [
-        "钛媒体 TMTPost",
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "cbeb55166120a29e3eab436c1485abc236ce54e5",
+          "title": "人工智能怎么能做广告？",
+          "url": "https://www.tmtpost.com/8100002.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T03:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_84009fef",
+      "title": "170亿砸下去，100万小时采回来，具身智能最有价值的数据长什么样？",
+      "url": "https://www.huxiu.com/article/4882474.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882474.html?f=rss",
+      "source_count": 1,
+      "source_names": [
         "虎嗅"
       ],
       "sources": [
         {
-          "id": "dc4d400215f1de01c08399a91b63f4c45de147ff",
-          "title": "戚薇授权AI数字分身，演员开始批量生产自己",
-          "url": "https://www.tmtpost.com/8098760.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T08:55:58Z"
-        },
-        {
-          "id": "c02e8553096da1535f076c5a1f7f7f1005c8df59",
-          "title": "戚薇授权AI数字分身，演员开始批量生产自己",
-          "url": "https://www.huxiu.com/article/4882145.html?f=rss",
+          "id": "78c4bebf522f83d549c2ca49d9a2d45c34fcc126",
+          "title": "170亿砸下去，100万小时采回来，具身智能最有价值的数据长什么样？",
+          "url": "https://www.huxiu.com/article/4882474.html?f=rss",
           "source": "虎嗅",
           "site_id": "opmlrss",
-          "published_at": "2026-08-11T01:47:25Z"
+          "published_at": "2026-08-12T03:25:49Z"
         }
       ],
-      "item_count": 2,
-      "score": 9770
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_dafa690b",
+      "title": "桌面办公Agent卡位战：谁先占领你的电脑？",
+      "url": "https://www.tmtpost.com/8099969.html",
+      "primary_url": "https://www.tmtpost.com/8099969.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "a761a49d7f46932864ad9715315c063c2d2a9e20",
+          "title": "桌面办公Agent卡位战：谁先占领你的电脑？",
+          "url": "https://www.tmtpost.com/8099969.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T03:24:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_8f2032c3",
+      "title": "医疗AI的下一道门槛，不是准确率",
+      "url": "https://www.tmtpost.com/8099916.html",
+      "primary_url": "https://www.tmtpost.com/8099916.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "af32454fa654b9b8c179e65f53caab0ada6ac51a",
+          "title": "医疗AI的下一道门槛，不是准确率",
+          "url": "https://www.tmtpost.com/8099916.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T03:13:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_27902627",
+      "title": "算力即资产，还是算力即生产力，中美AI路径分岔",
+      "url": "https://www.tmtpost.com/8098622.html",
+      "primary_url": "https://www.tmtpost.com/8098622.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "ca00ad0d650471c9a1aee8f953ed4d0f9787b178",
+          "title": "算力即资产，还是算力即生产力，中美AI路径分岔",
+          "url": "https://www.tmtpost.com/8098622.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T03:09:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_b1bb6a7e",
+      "title": "天猫请AI顶流段宴拍广告，配音演员先找上门了",
+      "url": "https://www.tmtpost.com/8099890.html",
+      "primary_url": "https://www.tmtpost.com/8099890.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "4b939a41708391e426b7ff5d141d7c9613fdfc2c",
+          "title": "天猫请AI顶流段宴拍广告，配音演员先找上门了",
+          "url": "https://www.tmtpost.com/8099890.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T02:56:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_427d750c",
+      "title": "困住人类167年，Claude刷新”黎曼猜想“百年纪录",
+      "url": "https://www.huxiu.com/article/4882389.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882389.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "f2f86d0754dba304512319bfcef33edd3940a70f",
+          "title": "困住人类167年，Claude刷新”黎曼猜想“百年纪录",
+          "url": "https://www.huxiu.com/article/4882389.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T02:22:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_257ee880",
+      "title": "中国互联网的二十年，和办公Agent 的这个夏天",
+      "url": "https://www.huxiu.com/article/4882436.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882436.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "604cf27cce06e00aa46511bc081837e408fa411d",
+          "title": "中国互联网的二十年，和办公Agent 的这个夏天",
+          "url": "https://www.huxiu.com/article/4882436.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T01:06:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_2a4bce56",
@@ -1487,6 +1649,50 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-08-12T00:57:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_912df47a",
+      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
+      "url": "https://sspai.com/post/113343",
+      "primary_url": "https://sspai.com/post/113343",
+      "source_count": 1,
+      "source_names": [
+        "少数派"
+      ],
+      "sources": [
+        {
+          "id": "297c72cb89a23e0b93785e0e22a58aa5474ee7ba",
+          "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
+          "url": "https://sspai.com/post/113343",
+          "source": "少数派",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T00:44:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f57385f0",
+      "title": "AI，正在抢走导游饭碗",
+      "url": "https://www.huxiu.com/article/4882418.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4882418.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "3ae48a672b1eeaf8937184504ef5458e4e5fcf09",
+          "title": "AI，正在抢走导游饭碗",
+          "url": "https://www.huxiu.com/article/4882418.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-12T00:40:57Z"
         }
       ],
       "item_count": 1,
@@ -1625,28 +1831,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_26ccdc1d",
-      "title": "Uber 出售其全部股份，令机器人公司 Serve 感到惊讶",
-      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
-      "primary_url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "ba79f8066f36ab4d986fb71e5e4e0be4188597a7",
-          "title": "Uber surprised robotics company Serve by selling its entire stake",
-          "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T20:02:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_9ad3e088",
       "title": "Gemini 成为 Google 有史以来增长最快的产品，用户数量达到 1B",
       "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product",
@@ -1663,28 +1847,6 @@
           "source": "ArsTechnica",
           "site_id": "opmlrss",
           "published_at": "2026-08-11T19:48:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7cea1086",
-      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "c409f615937bf6726a81b71aa738da48f9cc2585",
-          "title": "ChatGPT and Gemini both just passed 1 billion users",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T19:41:42Z"
         }
       ],
       "item_count": 1,
@@ -1743,44 +1905,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_66ee6305",
-      "title": "OpenAI 的长期首席运营官 Brad Lightcap 即将离职，“开始新的事情”",
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
-      "primary_url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+      "story_id": "story_70e57aa3",
+      "title": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+      "primary_url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "243bb41ef9fe09fcd72b6a7fac1a29f262a5d504",
-          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+          "id": "18a9d205c4f6d596a949495c6f0f0470a8233fe1",
+          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-11T17:41:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_680cc3f5",
-      "title": "未发布的Anthropic模型在数学中最大的未解决问题之一上取得了进展",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-      "primary_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "e574f8bd09ccabb18682fa2e1380ad1029b538fc",
-          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T16:25:20Z"
+          "published_at": "2026-08-11T17:41:22Z"
         }
       ],
       "item_count": 1,
@@ -1809,28 +1949,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_fa830ce9",
-      "title": "使用不到 20 个人工智能提示就发现了“Zoomsday”黑客攻击",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "f8bd4b16f846be676d24d87b51b35c0aaa408bfb",
-          "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T14:45:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_af33437a",
       "title": "周濂：把当下交给兴趣、把未来交给命运：人工智能时代的“成人”教育",
       "url": "https://www.huxiu.com/article/4882388.html?f=rss",
@@ -1847,6 +1965,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-11T14:09:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7b9682b4",
+      "title": "人工智能可以帮助化石燃料公司产生更多排放",
+      "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
+      "primary_url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "1b46910046d04ed7ec13602a9bff0a7738e7aba9",
+          "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
+          "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-11T13:45:02Z"
         }
       ],
       "item_count": 1,
@@ -1891,28 +2031,6 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-08-11T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a9c9fd31",
-      "title": "Anthropic 表示将为人工智能模型生成的文本添加水印",
-      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
-      "primary_url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "d99b5cc2d1d5c105746c12fe5917b48b62f0eb56",
-          "title": "Anthropic says it will watermark text generated by its AI models",
-          "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T12:13:47Z"
         }
       ],
       "item_count": 1,
@@ -2161,28 +2279,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_02df43e6",
-      "title": "人工智能已死。类器官是活的",
-      "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
-      "primary_url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "b8a1fea2bbe199ccf8ccdb77c5be8b1f19bbe338",
-          "title": "AI Is Dead. Organoids Are Alive",
-          "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_ca816138",
       "title": "Daybreak 模型现已在 AWS 上提供",
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
@@ -2287,6 +2383,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-11T09:03:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_58a4ce83",
+      "title": "戚薇授权AI数字分身，演员开始批量生产自己",
+      "url": "https://www.tmtpost.com/8098760.html",
+      "primary_url": "https://www.tmtpost.com/8098760.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "dc4d400215f1de01c08399a91b63f4c45de147ff",
+          "title": "戚薇授权AI数字分身，演员开始批量生产自己",
+          "url": "https://www.tmtpost.com/8098760.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-11T08:55:58Z"
         }
       ],
       "item_count": 1,
@@ -2653,204 +2771,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_d19c7418",
-      "title": "对话复旦大学李银胜：AI会带来“文化人”的黄金时代",
-      "url": "https://m.thepaper.cn/detail/33757463",
-      "primary_url": "https://m.thepaper.cn/detail/33757463",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "e345c4c2a6c74fbceaa8000c5e9c5fd7d44daab5",
-          "title": "对话复旦大学李银胜：AI会带来“文化人”的黄金时代",
-          "url": "https://m.thepaper.cn/detail/33757463",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T03:27:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d707ee12",
-      "title": "豆包多收 4% 佣金：AI 流量贵在哪？",
-      "url": "https://www.tmtpost.com/8098474.html",
-      "primary_url": "https://www.tmtpost.com/8098474.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "60ee87196d0158dbc5f851a1ce3885e849deacfe",
-          "title": "豆包多收 4% 佣金：AI 流量贵在哪？",
-          "url": "https://www.tmtpost.com/8098474.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T03:03:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_dcdb2f0e",
-      "title": "轻量化正在成为AI眼镜的一场价值压力测试",
-      "url": "https://www.huxiu.com/article/4882166.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4882166.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "595390c94e5833867d62cdcd9f6a90c8f31e5aab",
-          "title": "轻量化正在成为AI眼镜的一场价值压力测试",
-          "url": "https://www.huxiu.com/article/4882166.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T03:00:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_bc4777ca",
-      "title": "扎克伯格发长文定义Meta的AI路线图：要做“个人超级智能”",
-      "url": "https://www.huxiu.com/article/4882137.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4882137.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "740066bfa6550d569cf7b3c40998364e724920cf",
-          "title": "扎克伯格发长文定义Meta的AI路线图：要做“个人超级智能”",
-          "url": "https://www.huxiu.com/article/4882137.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T02:31:52Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e71c8252",
-      "title": "只失业了一秒钟！离开谷歌后，“AI教父”创业了",
-      "url": "https://www.tmtpost.com/8098009.html",
-      "primary_url": "https://www.tmtpost.com/8098009.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "4af701a450ed261814999d3fabb0c04dc5de2d58",
-          "title": "只失业了一秒钟！离开谷歌后，“AI教父”创业了",
-          "url": "https://www.tmtpost.com/8098009.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T02:31:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_cfddd00c",
-      "title": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？",
-      "url": "https://www.huxiu.com/article/4881951.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4881951.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "7e5f425705915d8bae89bfecb09ee947f7672ccf",
-          "title": "算力厂商都在抢“超节点”，谁最可能坐上铁王座？",
-          "url": "https://www.huxiu.com/article/4881951.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T02:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f89e9f18",
-      "title": "2026，跨境电商奔向“Agent 2 Agent”时刻",
-      "url": "https://www.tmtpost.com/8098002.html",
-      "primary_url": "https://www.tmtpost.com/8098002.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "08445c6797128e28eb50779295e20dc86831dbc8",
-          "title": "2026，跨境电商奔向“Agent 2 Agent”时刻",
-          "url": "https://www.tmtpost.com/8098002.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T02:09:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_19d7605b",
-      "title": "AI吃掉SaaS利润后：Zoho为什么自研服务器",
-      "url": "https://www.tmtpost.com/8098550.html",
-      "primary_url": "https://www.tmtpost.com/8098550.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "72739866494c2f264156e419dc63dcfb7fbd40db",
-          "title": "AI吃掉SaaS利润后：Zoho为什么自研服务器",
-          "url": "https://www.tmtpost.com/8098550.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T01:54:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_4adac202",
-      "title": "扎克伯格在人工智能宣言中为每个人设想“超级智能”",
-      "url": "https://www.france24.com/en/technology/20260811-zuckerberg-envisions-superintelligence-for-everyone-in-ai-manifesto",
-      "primary_url": "https://www.france24.com/en/technology/20260811-zuckerberg-envisions-superintelligence-for-everyone-in-ai-manifesto",
-      "source_count": 1,
-      "source_names": [
-        "France24 English"
-      ],
-      "sources": [
-        {
-          "id": "606e2f880a66844c64cdae3d87da5f85e66d4ad4",
-          "title": "Zuckerberg envisions 'superintelligence' for everyone in AI manifesto",
-          "url": "https://www.france24.com/en/technology/20260811-zuckerberg-envisions-superintelligence-for-everyone-in-ai-manifesto",
-          "source": "France24 English",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-11T01:42:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_a62ae484",
       "title": "为什么Go是人工智能辅助软件工程的理想语言",
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
@@ -2858,8 +2778,8 @@
       "source_count": 3,
       "source_names": [
         "developers.googleblog.com",
-        "Hacker News (黑客新闻)",
-        "Hacker News"
+        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2871,55 +2791,24 @@
           "published_at": "2026-08-11T19:04:09.281000Z"
         },
         {
-          "id": "fa16cc1cfabdc66e8da4e1d5fa0617f5da284f36",
+          "id": "7ad51be2a38faac0f194d6e954debb521ebf10ca",
           "title": "Go is an ideal language for AI-assisted software engineering",
           "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-11T16:57:09Z"
         },
         {
-          "id": "dd1fb03befc2fcd20a8a5fa7e45139a9be001879",
+          "id": "1a71d2c6c1e9d0494e6e229038a5230562ce1e3a",
           "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
           "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T16:57:09Z"
         }
       ],
       "item_count": 3,
       "score": 9580
-    },
-    {
-      "story_id": "story_0a49571a",
-      "title": "WorldClaw Agentic 大规模3D开放世界生成",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
-      "primary_url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
-      "source_count": 2,
-      "source_names": [
-        "tencent-hunyuan.github.io",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "ed2cdb63d95269e5ff34fd1a80da67b6d3db3215",
-          "title": "WorldClaw Agentic 大规模3D开放世界生成",
-          "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
-          "source": "tencent-hunyuan.github.io",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T00:54:23.266000Z"
-        },
-        {
-          "id": "4acee263bbe97bb10b59931a9bdd326467dda02a",
-          "title": "WorldClaw Agentic 3D open-world generation at scale",
-          "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T21:56:18Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
     },
     {
       "story_id": "story_60170ce4",
@@ -2932,6 +2821,14 @@
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "ccd39c0c5d6e3430ab3dd3919f7083c28a3db0ce",
+          "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "url": "https://news.ycombinator.com/item?id=49267057",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-12T03:32:27.767000Z"
+        },
         {
           "id": "568933c637b099a5b71d1fdb6a0d13b798f665bb",
           "title": "Grok Bot",
@@ -3101,7 +2998,38 @@
           "published_at": "2026-08-11T05:36:37.205000Z"
         }
       ],
-      "item_count": 21,
+      "item_count": 22,
+      "score": 9570
+    },
+    {
+      "story_id": "story_0a49571a",
+      "title": "WorldClaw Agentic 大规模3D开放世界生成",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
+      "primary_url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
+      "source_count": 2,
+      "source_names": [
+        "tencent-hunyuan.github.io",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "ed2cdb63d95269e5ff34fd1a80da67b6d3db3215",
+          "title": "WorldClaw Agentic 大规模3D开放世界生成",
+          "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
+          "source": "tencent-hunyuan.github.io",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T00:54:23.266000Z"
+        },
+        {
+          "id": "518baeb484eb72ffb12a16aa117aaee8406cd8aa",
+          "title": "WorldClaw Agentic 3D open-world generation at scale",
+          "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-11T21:56:18Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9570
     },
     {
@@ -3112,7 +3040,7 @@
       "source_count": 2,
       "source_names": [
         "www.ft.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3124,11 +3052,11 @@
           "published_at": "2026-08-11T20:08:13.762000Z"
         },
         {
-          "id": "4171f3ad9fd2b221ee7ecdc976b86729d614ff40",
+          "id": "fa7c303e6bba2692eb4e634e75903ce6f2068f57",
           "title": "OpenAI’s head of ethics leaves less than a year after joining",
           "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T12:23:07Z"
         }
       ],
@@ -3167,6 +3095,37 @@
       "score": 9570
     },
     {
+      "story_id": "story_9b23bdca",
+      "title": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+      "primary_url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "9e7d867a5ad8cc9d4b845adde37715c240600f45",
+          "title": "OpenAI launches ChatGPT desktop app for Linux",
+          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T19:15:35Z"
+        },
+        {
+          "id": "8f46ec7555afdf4abe3f08017b2fa8f30d2c3016",
+          "title": "ChatGPT Desktop App for Linux",
+          "url": "https://twitter.com/OpenAI/status/2087231350134980830",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-11T18:03:56Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_dd194206",
       "title": "英伟达 Nemotron 3.5 Lightning",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
@@ -3174,7 +3133,7 @@
       "source_count": 2,
       "source_names": [
         "huggingface.co",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3186,11 +3145,11 @@
           "published_at": "2026-08-11T18:48:07.517000Z"
         },
         {
-          "id": "9f63f0b509c0593e4855495f9076f2b5a1cd18ba",
+          "id": "815d7f03b529e36a17d4a33027c8416e502f4fc2",
           "title": "Nvidia Nemotron 3.5 Lightning",
           "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-11T13:26:02Z"
         }
       ],
@@ -3204,16 +3163,16 @@
       "primary_url": "https://www.openssh.org/releasenotes.html",
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News"
       ],
       "sources": [
         {
-          "id": "d88dc0073202b9f3c33d4741e62201d345e234cb",
+          "id": "cd902405a1f172da0a9867781f39286109ad3ac9",
           "title": "OpenSSH 10.5 released, AI assistance now welcome",
           "url": "https://www.openssh.org/releasenotes.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-11T17:49:37Z"
         },
         {
@@ -3258,6 +3217,50 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_9e2dee01",
+      "title": "用时1.5天，Claude突破了黎曼猜想的新纪录",
+      "url": "https://juejin.cn/post/7672283918334001198",
+      "primary_url": "https://juejin.cn/post/7672283918334001198",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "09a5b20d977fd722257643b26903d72136562958",
+          "title": "用时1.5天，Claude突破了黎曼猜想的新纪录",
+          "url": "https://juejin.cn/post/7672283918334001198",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-12T03:57:42.851000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0aa15ef6",
+      "title": "公司提供“100% 人工编写，绝不人工智能” 医学研究是 100% 人工智能",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+      "primary_url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "5ac6339b8cf43e440b8cd4f03e239fc3171ab396",
+          "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-12T02:05:42Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_af8b1a15",
@@ -3464,15 +3467,15 @@
       "primary_url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "1a9552556128a048e781c222eb15746bf0fd6db4",
+          "id": "b78baf151798ac0188adbdfdf2518ea9934aea8b",
           "title": "AI Is Solving CTF Challenges in Minutes",
           "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T21:13:44Z"
         }
       ],
@@ -3590,6 +3593,28 @@
       "score": 7
     },
     {
+      "story_id": "story_26ccdc1d",
+      "title": "Uber 出售其全部股份，令机器人公司 Serve 感到惊讶",
+      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
+      "primary_url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "72ef5b3cbbeacc915a3be628cad3f7a37898a794",
+          "title": "Uber surprised robotics company Serve by selling its entire stake",
+          "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T20:02:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_8b07a84e",
       "title": "前特勤局特工：特朗普的秘密飞机交换不寻常，并非史无前例",
       "url": "https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One",
@@ -3606,6 +3631,28 @@
           "source": "TIME Magazine",
           "site_id": "techurls",
           "published_at": "2026-08-11T19:54:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7cea1086",
+      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "15d7049b9863fb45f07cff91aa40fbe9e0249511",
+          "title": "ChatGPT and Gemini both just passed 1 billion users",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T19:41:42Z"
         }
       ],
       "item_count": 1,
@@ -3656,43 +3703,21 @@
       "score": 7
     },
     {
-      "story_id": "story_9b23bdca",
-      "title": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
-      "primary_url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9e7d867a5ad8cc9d4b845adde37715c240600f45",
-          "title": "OpenAI launches ChatGPT desktop app for Linux",
-          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T19:15:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_46da4583",
       "title": "整个 PyTorch 都在一页上",
       "url": "https://tensor.khalilli.ai/blog/part-0-the-map",
       "primary_url": "https://tensor.khalilli.ai/blog/part-0-the-map",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "5223582a1349151331242625d2a7991a87ac6a5e",
+          "id": "d6fefdb0e8a6df1b2c31158c37d23d51ae702023",
           "title": "The whole of PyTorch on one page",
           "url": "https://tensor.khalilli.ai/blog/part-0-the-map",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-11T19:05:10Z"
         }
       ],
@@ -3920,22 +3945,22 @@
       "score": 7
     },
     {
-      "story_id": "story_70e57aa3",
-      "title": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
-      "primary_url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+      "story_id": "story_66ee6305",
+      "title": "OpenAI 的长期首席运营官 Brad Lightcap 即将离职，“开始新的事情”",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+      "primary_url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "aee8dd7b03c56f6b9e850277c4fc14b5f3b18ea7",
-          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+          "id": "83db2240a3eeb9f67057ca7193fb83e3a3ff7337",
+          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
           "source": "TechCrunch",
           "site_id": "techurls",
-          "published_at": "2026-08-11T17:41:22Z"
+          "published_at": "2026-08-11T17:41:34Z"
         }
       ],
       "item_count": 1,
@@ -3992,15 +4017,15 @@
       "primary_url": "https://x.ai/bot",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "7287fa956618692aedf2b7b57c956aaf8d6a1360",
+          "id": "b3642177c2e8a1e49497e33c08e3f51055bb7ea6",
           "title": "Grok Bot",
           "url": "https://x.ai/bot",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T17:23:09Z"
         }
       ],
@@ -4112,6 +4137,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-11T16:31:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_680cc3f5",
+      "title": "未发布的Anthropic模型在数学中最大的未解决问题之一上取得了进展",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "primary_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "09e967d024fe79054644754b92a897b3ef82bdc4",
+          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T16:25:20Z"
         }
       ],
       "item_count": 1,
@@ -4294,6 +4341,28 @@
       "score": 7
     },
     {
+      "story_id": "story_fa830ce9",
+      "title": "使用不到 20 个人工智能提示就发现了“Zoomsday”黑客攻击",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "2f8b880c59ca43de32dc0b6b1ac6dd8cc3fd386b",
+          "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T14:45:44Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_9966590b",
       "title": "极端风暴临近，中国押注人工智能天气预报",
       "url": "https://thenextweb.com/news/china-ai-weather-forecasting-extreme-weather",
@@ -4388,15 +4457,15 @@
       "primary_url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "3cfeeba390fa495b8555c372df85285113bc23eb",
+          "id": "95da8822b273efaa766cfe3bf4038b7997fafc65",
           "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
           "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-11T14:03:18Z"
         }
       ],
@@ -4464,28 +4533,6 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-08-11T13:48:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7b9682b4",
-      "title": "人工智能可以帮助化石燃料公司产生更多排放",
-      "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
-      "primary_url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "2c28a7fa85d1b2ce262f47f2c4cda07e5056f3ec",
-          "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
-          "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T13:45:02Z"
         }
       ],
       "item_count": 1,
@@ -4800,6 +4847,28 @@
       "score": 7
     },
     {
+      "story_id": "story_a9c9fd31",
+      "title": "Anthropic 表示将为人工智能模型生成的文本添加水印",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
+      "primary_url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "5b4b3fa867e2135a741488d334e1624ee854ac0b",
+          "title": "Anthropic says it will watermark text generated by its AI models",
+          "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T12:13:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_65b0eff9",
       "title": "AI特工入侵健身房，为其主人获取普拉提课程名额",
       "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
@@ -5004,15 +5073,15 @@
       "primary_url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "cf56a65d87b6ae654a782025fffd646f8175aac5",
+          "id": "a6b559030fd7a34b44c2182fb74b8ba1993e8635",
           "title": "How to organize Claude Code for product work",
           "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-11T11:02:34Z"
         }
       ],
@@ -5086,28 +5155,6 @@
           "title": "A New Trick Reveals AI Models’ Inner Thoughts",
           "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts",
           "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8a7d5b39",
-      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "27c9b3d8a69b021dcee3698f63f71e148e1ca5cf",
-          "title": "The AI takeover of mathematics has begun",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-          "source": "The Verge",
           "site_id": "techurls",
           "published_at": "2026-08-11T11:00:00Z"
         }
@@ -5286,6 +5333,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-11T10:01:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_02df43e6",
+      "title": "人工智能已死。类器官是活的",
+      "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
+      "primary_url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "6661c4f66a6fb582a4152764b0bda729d65afb45",
+          "title": "AI Is Dead. Organoids Are Alive",
+          "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-11T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -5628,15 +5697,15 @@
       "primary_url": "https://quesma.com/blog/claude-code-pricing-for-enterprise",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "aa4aeb73411fb230726cf37258d7cfd12808a1db",
+          "id": "ab482c8d0625801dcdfe6569c067dfe7a20adafd",
           "title": "Claude Code pricing: same tokens, same model, up to 40x the price",
           "url": "https://quesma.com/blog/claude-code-pricing-for-enterprise",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-11T08:34:54Z"
         }
       ],
@@ -6196,138 +6265,6 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-11T04:09:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f3cbf7e1",
-      "title": "前端转Java+AI全栈？那我推荐几个实战开源项目给你",
-      "url": "https://juejin.cn/post/7671992319080431631",
-      "primary_url": "https://juejin.cn/post/7671992319080431631",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "c6edac07051ec65d4390218f3c8e19aa6c1b9fd4",
-          "title": "前端转Java+AI全栈？那我推荐几个实战开源项目给你",
-          "url": "https://juejin.cn/post/7671992319080431631",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T03:09:07.598000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_17ed172f",
-      "title": "浅析大模型推理十二篇之KV Cache",
-      "url": "https://juejin.cn/post/7672215917044858943",
-      "primary_url": "https://juejin.cn/post/7672215917044858943",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "90bf45e8c4dc430b833b741c4c2509236e48a7b2",
-          "title": "浅析大模型推理十二篇之KV Cache",
-          "url": "https://juejin.cn/post/7672215917044858943",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T03:09:07.598000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c330af9b",
-      "title": "用 WorkBuddy / Codex + Obsidian 搭建自生长的个人知识库实战",
-      "url": "https://juejin.cn/post/7671867883983896618",
-      "primary_url": "https://juejin.cn/post/7671867883983896618",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "ec293c6d9e753e5010bf49aff4012e6681e939a6",
-          "title": "用 WorkBuddy / Codex + Obsidian 搭建自生长的个人知识库实战",
-          "url": "https://juejin.cn/post/7671867883983896618",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T03:09:07.598000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d3921a85",
-      "title": "Sources: Anthropic agreed to a 20-year, $9.1B compute deal with Riot Platforms for 191 MW of capacity at a Rockdale, TX campus; RIOT jumps ~25% after hours (Shirin Ghaffary/Bloomberg)",
-      "url": "https://www.techmeme.com/260810/p48",
-      "primary_url": "https://www.techmeme.com/260810/p48",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "038aa3b591cbd4fc011b8a55191929d18154478d",
-          "title": "Sources: Anthropic agreed to a 20-year, $9.1B compute deal with Riot Platforms for 191 MW of capacity at a Rockdale, TX campus; RIOT jumps ~25% after hours (Shirin Ghaffary/Bloomberg)",
-          "url": "https://www.techmeme.com/260810/p48",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-11T02:31:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6613b8ab",
-      "title": "探讨Claude/GPT的知识截止点和预训练时间线",
-      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "primary_url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "source_count": 1,
-      "source_names": [
-        "blog.sshh.io"
-      ],
-      "sources": [
-        {
-          "id": "1d83cb3bbebaf15a2b1c22131e9f834f7003f477",
-          "title": "探讨Claude/GPT的知识截止点和预训练时间线",
-          "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-          "source": "blog.sshh.io",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T01:46:22.259000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3029ba66",
-      "title": "新的Claude模型改进了与雷曼假设相关的问题的下限",
-      "url": "https://marqr.codes/u3bno",
-      "primary_url": "https://marqr.codes/u3bno",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "6a76ef84debc1c7e49191d7bf72f22ee37a7ca0c",
-          "title": "New Claude model improves lower bound on problem linked to Reimann hypothesis",
-          "url": "https://marqr.codes/u3bno",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-11T01:37:00Z"
         }
       ],
       "item_count": 1,
