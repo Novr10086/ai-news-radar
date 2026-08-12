@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-08-12T14:43:29.222817Z",
+  "generated_at": "2026-08-12T18:07:22.378791Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face Blog",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-12T16:14:36Z",
+      "ai_is_related": true,
+      "ai_score": 0.95
+    },
     {
       "title": "Putting sign language AI into users’ hands",
       "title_zh": "将手语人工智能交到用户手中",
@@ -24,6 +35,28 @@
       "published_at": "2026-08-12T14:00:51Z",
       "ai_is_related": true,
       "ai_score": 0.98
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "title_zh": "从协助到执行：企业如何让AI发挥作用",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-12T06:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.91
+    },
+    {
+      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+      "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+      "source": "Google Research：Blog（网页）",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-12T17:57:36.369000Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
     },
     {
       "title": "Runway Seedance 2.5 上线，支持50角色参考",
@@ -48,6 +81,28 @@
       "ai_score": 1.0
     },
     {
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "title_zh": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "url": "https://www.ithome.com/0/989/001.htm",
+      "source": "IT之家（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-12T16:10:01Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "微软首发自研推理模型MAI-Thinking-1",
+      "title_zh": "微软首发自研推理模型MAI-Thinking-1",
+      "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-12T16:00:59Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
       "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
       "title_zh": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
       "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
@@ -59,59 +114,15 @@
       "ai_score": 1.0
     },
     {
-      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-      "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-      "url": "https://x.com/OpenRouter/status/2087509478480765218",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-12T12:00:18Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
-      "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
-      "url": "https://www.aibase.com/news/30289",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-12T09:16:24.198492Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "OpenAI 发布 ChatGPT Linux 桌面版：补齐最后一块拼图，与 Anthropic 正面争夺开发者",
-      "title_zh": "OpenAI 发布 ChatGPT Linux 桌面版：补齐最后一块拼图，与 Anthropic 正面争夺开发者",
-      "url": "https://www.aibase.com/news/30280",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-12T09:03:13.356632Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "OpenAI 悄悄上线 ChatGPT Plus 付费重置额度功能 8美元可立即恢复使用额度",
-      "title_zh": "OpenAI 悄悄上线 ChatGPT Plus 付费重置额度功能 8美元可立即恢复使用额度",
-      "url": "https://www.aibase.com/news/30282",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-12T09:03:13.356632Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-      "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-      "url": "https://www.ithome.com/0/988/766.htm",
-      "source": "IT之家（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-12T06:46:51Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
+      "title": "ICE wants to give agents electrified gloves that shock people into compliance",
+      "title_zh": "ICE 希望为特工提供带电手套，让人们遵守规定",
+      "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
+      "source": "The Verge",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-08-12T16:58:29Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
     },
     {
       "title": "Manus独立了，却错过了Agent窗口期",
@@ -158,6 +169,17 @@
       "ai_score": 0.47
     },
     {
+      "title": "Hax – a minimalist, terminal-native coding agent written in C",
+      "title_zh": "Hax – 用 C 语言编写的极简、终端原生编码代理",
+      "url": "https://news.ycombinator.com/item?id=49273175",
+      "source": "hackernews",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-08-12T18:06:53.169000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
       "title": "My Agent Setup",
       "title_zh": null,
       "url": "https://news.ycombinator.com/item?id=49272484",
@@ -198,28 +220,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-08-12T14:30:23.726000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "WorldClaw Agentic 大规模3D开放世界生成",
-      "title_zh": "WorldClaw Agentic 大规模3D开放世界生成",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw",
-      "source": "tencent-hunyuan.github.io",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-08-12T00:54:23.266000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "title_zh": "WorldClaw Agentic 3D 大规模开放世界生成",
-      "url": "https://news.ycombinator.com/item?id=49265051",
-      "source": "hackernews",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-08-11T22:33:08.663000Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
