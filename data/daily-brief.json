@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T18:08:21.572526Z",
+  "generated_at": "2026-08-13T21:30:00.250545Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -15,6 +15,17 @@
       "ai_score": 0.98
     },
     {
+      "title": "Computer History",
+      "title_zh": null,
+      "url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-13T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.98
+    },
+    {
       "title": "What We Learned by Reproducing 2,200 papers from ICML",
       "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
       "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
@@ -24,6 +35,17 @@
       "published_at": "2026-08-13T00:00:00Z",
       "ai_is_related": true,
       "ai_score": 0.95
+    },
+    {
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+      "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-13T11:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
     },
     {
       "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
@@ -70,6 +92,17 @@
       "ai_score": 1.0
     },
     {
+      "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+      "title_zh": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+      "url": "https://cursor.com/blog/builds",
+      "source": "Cursor Blog",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-13T12:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
       "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
       "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
       "url": "https://api-docs.deepseek.com/zh-cn/updates",
@@ -77,39 +110,6 @@
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
       "published_at": "2026-08-13T11:16:42.199000Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-      "title_zh": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-      "url": "https://www.aibase.com/news/30317",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-13T10:42:16.941825Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-      "title_zh": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-      "url": "https://www.aibase.com/news/30320",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-13T10:42:16.941825Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-      "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
-      "url": "https://www.aibase.com/news/30318",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-13T10:42:16.941825Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -169,6 +169,17 @@
       "ai_score": 0.47
     },
     {
+      "title": "Show HN: Pixy, visual editor for coding agents, like Figma on your live site",
+      "title_zh": "在您的实时网站上显示 HN：Pixy，编码代理的可视化编辑器，例如 Figma",
+      "url": "https://pixydesignapp.com",
+      "source": "Hacker News",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-08-13T19:15:10Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
       "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
       "title_zh": "推出 HN: Bullet (YC S26) – 更快的编码代理",
       "url": "https://news.ycombinator.com/item?id=49283063",
@@ -209,17 +220,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-08-13T09:13:49Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Mistral got a US patent on tool calls in 118 days. Without prior public notice",
-      "title_zh": "Mistral 在 118 天内获得了工具调用的美国专利。未经事先公告",
-      "url": "https://agent-wars.com/news/2026-08-11-mistral-code-tool-calls-patent-b1",
-      "source": "Hacker News · 24h最热",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-08-13T09:02:02Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
