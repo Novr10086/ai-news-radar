@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T21:30:00.250545Z",
+  "generated_at": "2026-08-14T00:08:25.441972Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -15,28 +15,6 @@
       "ai_score": 0.98
     },
     {
-      "title": "Computer History",
-      "title_zh": null,
-      "url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-08-13T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.98
-    },
-    {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "source": "Hugging Face Blog",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-08-13T00:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.95
-    },
-    {
       "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
       "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -44,6 +22,28 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-08-13T11:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "从0到1带你速通DeepSeek Harness。",
+      "title_zh": "从0到1带你速通DeepSeek Harness。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
+      "source": "公众号：数字生命卡兹克",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-13T23:58:00Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Claude 接管应用日常维护：388 个 PR 的实践",
+      "title_zh": "Claude 接管应用日常维护：388 个 PR 的实践",
+      "url": "https://x.com/bcherny/status/2088014489438621990",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-13T21:27:02Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -158,17 +158,6 @@
       "ai_score": 0.47
     },
     {
-      "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
-      "title_zh": "ICE 计划为特工配备可进行电击的手套",
-      "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_tier_rank": 3,
-      "source_tier_label": "RSS/OPML",
-      "published_at": "2026-08-12T21:53:26Z",
-      "ai_is_related": false,
-      "ai_score": 0.47
-    },
-    {
       "title": "Show HN: Pixy, visual editor for coding agents, like Figma on your live site",
       "title_zh": "在您的实时网站上显示 HN：Pixy，编码代理的可视化编辑器，例如 Figma",
       "url": "https://pixydesignapp.com",
@@ -220,6 +209,17 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-08-13T09:13:49Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
+    },
+    {
+      "title": "Mistral got a US patent on tool calls in 118 days. Without prior public notice",
+      "title_zh": "Mistral 在 118 天内获得了工具调用的美国专利。未经事先公告",
+      "url": "https://agent-wars.com/news/2026-08-11-mistral-code-tool-calls-patent-b1",
+      "source": "Hacker News",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-08-13T09:02:02Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
