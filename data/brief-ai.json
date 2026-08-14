@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T18:06:20.422382Z",
+  "generated_at": "2026-08-14T20:18:21.543439Z",
   "category": "ai",
-  "total": 310,
+  "total": 291,
   "items": [
     {
       "title": "State of Open Models: Summer 2026 Observations",
@@ -22,6 +22,26 @@
       "tier": 0,
       "ai": true,
       "ts": "2026-08-14T00:00:00Z"
+    },
+    {
+      "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
+      "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face：Blog（RSS）",
+      "_site": "AI HOT",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-08-14T00:00:00Z"
+    },
+    {
+      "title": "Claude 文本水印机制如何运作",
+      "title_zh": "Claude 文本水印机制如何运作",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Anthropic：Newsroom（网页）",
+      "_site": "AI HOT",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-08-14T19:22:48.546000Z"
     },
     {
       "title": "Claude 接管应用日常维护：388 个 PR 的实践",
@@ -454,54 +474,14 @@
       "ts": "2026-08-14T15:02:48Z"
     },
     {
-      "title": "DeepSeek-V4-Pro 正式版上线",
-      "title_zh": "DeepSeek-V4-Pro 正式版上线",
-      "url": "https://waytoagi.feishu.cn/wiki/CXAGwKXMLi4XNOkE8vSc6vpDnGb?from=from_copylink",
-      "source": "社区更新 · 2026-08-13",
-      "_site": "WaytoAGI",
-      "tier": 2,
+      "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+      "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+      "url": "https://x.com/GeminiApp/status/2088326407730692538",
+      "source": "X：Gemini (@GeminiApp)",
+      "_site": "AI HOT",
+      "tier": 1,
       "ai": true,
-      "ts": "2026-08-13T18:07:36.586801Z"
-    },
-    {
-      "title": "Right now, you're either: * an AI-native rocketship, which sounds fun until you realize it means being in a permanent fundraising situation at ever more scary valuations to hoover up capital and talent, and in a const...",
-      "title_zh": "Right now, you're either: * an AI-native rocketship, which sounds fun until you realize it means being in a permanent fundraising situation at ever more scary valuations to hoover up capital and talent, and in a const...",
-      "url": "https://x.com/mattturck/status/2087978386195103916",
-      "source": "Follow Builders · X · Matt Turck",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-08-13T19:03:34Z"
-    },
-    {
-      "title": "Try https://t.co/L9YIua3HSf with 🆓 GLM 5.2 @ up to 500TPS from @blackboxai https://t.co/A6TgFHSIlR",
-      "title_zh": "Try https://t.co/L9YIua3HSf with 🆓 GLM 5.2 @ up to 500TPS from @blackboxai https://t.co/A6TgFHSIlR",
-      "url": "https://x.com/rauchg/status/2087982033499042205",
-      "source": "Follow Builders · X · Guillermo Rauch",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": false,
-      "ts": "2026-08-13T19:18:04Z"
-    },
-    {
-      "title": "matic is the first robot i’ve owned that actually feels like it gets smarter with every update https://t.co/2Giw0IgRlr",
-      "title_zh": "matic is the first robot i’ve owned that actually feels like it gets smarter with every update https://t.co/2Giw0IgRlr",
-      "url": "https://x.com/ryolu_/status/2087992867918864668",
-      "source": "Follow Builders · X · Ryo Lu",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-08-13T20:01:07Z"
-    },
-    {
-      "title": "Averaging 2 applications per minute from: Citadel OpenAI Red Bull Microsoft Profound Alpha School NASDAQ Google Pinnacle Cohete Bessemer Lenovo PwC Square You should apply! https://t.co/9huAwWNnzz",
-      "title_zh": "Averaging 2 applications per minute from: Citadel OpenAI Red Bull Microsoft Profound Alpha School NASDAQ Google Pinnacle Cohete Bessemer Lenovo PwC Square You should apply! https://t.co/9huAwWNnzz",
-      "url": "https://x.com/danshipper/status/2087995350745244083",
-      "source": "Follow Builders · X · Dan Shipper",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-08-13T20:10:59Z"
+      "ts": "2026-08-14T18:06:29Z"
     },
     {
       "title": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Sla...",
@@ -622,56 +602,6 @@
       "tier": 2,
       "ai": true,
       "ts": "2026-08-14T05:21:13Z"
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "title_zh": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-13T18:28:14Z"
-    },
-    {
-      "title": "I finally found a robot lawnmower I’d trust with my yard",
-      "title_zh": "I finally found a robot lawnmower I’d trust with my yard",
-      "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
-      "source": "The Verge",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-13T18:30:00Z"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "title_zh": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-13T19:19:49Z"
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "title_zh": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-      "source": "TechCrunch",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-13T19:22:40Z"
-    },
-    {
-      "title": "OpenAI is losing its second executive this week",
-      "title_zh": "OpenAI is losing its second executive this week",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "source": "The Verge",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-13T19:28:39Z"
     },
     {
       "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
@@ -1244,304 +1174,24 @@
       "ts": "2026-08-14T16:48:40Z"
     },
     {
-      "title": "Gemini 3.7 Flash",
-      "title_zh": "Gemini 3.7 Flash",
-      "url": "https://news.ycombinator.com/item?id=49289112",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "title_zh": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+      "source": "ArsTechnica",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-08-13T18:07:56.091000Z"
+      "ts": "2026-08-14T17:26:53Z"
     },
     {
-      "title": "DeepSeek Harness developer preview",
-      "title_zh": "DeepSeek Harness developer preview",
-      "url": "https://news.ycombinator.com/item?id=49285244",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:07:56.091000Z"
-    },
-    {
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "title_zh": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://news.ycombinator.com/item?id=49288293",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:07:56.091000Z"
-    },
-    {
-      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "title_zh": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "url": "https://news.ycombinator.com/item?id=49283063",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-08-13T18:07:56.091000Z"
-    },
-    {
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "title_zh": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://news.ycombinator.com/item?id=49281916",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:07:56.091000Z"
-    },
-    {
-      "title": "Show HN: OJCP – an open protocol for agent-consumable job data",
-      "title_zh": "Show HN: OJCP – an open protocol for agent-consumable job data",
-      "url": "https://news.ycombinator.com/item?id=49273922",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-08-13T18:07:56.091000Z"
-    },
-    {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "title_zh": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:10:02Z"
-    },
-    {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "title_zh": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:10:02Z"
-    },
-    {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "title_zh": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:10:02Z"
-    },
-    {
-      "title": "3 major ways creators are getting burned by AI",
-      "title_zh": "3 major ways creators are getting burned by AI",
-      "url": "https://www.businessinsider.com/ways-creators-getting-burned-by-ai-brand-deals-2026-8",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:24:29Z"
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "title_zh": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "title_zh": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
       "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-08-13T18:28:14Z"
-    },
-    {
-      "title": "AI Is Threatening Natural Resources for Billions",
-      "title_zh": "AI Is Threatening Natural Resources for Billions",
-      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:28:20Z"
-    },
-    {
-      "title": "AI Is Threatening Natural Resources for Billions",
-      "title_zh": "AI Is Threatening Natural Resources for Billions",
-      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:28:20Z"
-    },
-    {
-      "title": "I finally found a robot lawnmower I’d trust with my yard",
-      "title_zh": "I finally found a robot lawnmower I’d trust with my yard",
-      "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
-      "source": "The Verge",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:30:00Z"
-    },
-    {
-      "title": "US-based robot vacuum maker Matic rolls out a firmware update that lets users control its $1,245 vacuum with voice commands in more than 70 languages (Chris Welch/Bloomberg)",
-      "title_zh": "US-based robot vacuum maker Matic rolls out a firmware update that lets users control its $1,245 vacuum with voice commands in more than 70 languages (Chris Welch/Bloomberg)",
-      "url": "https://www.techmeme.com/260813/p40",
-      "source": "Techmeme",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:30:42Z"
-    },
-    {
-      "title": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up",
-      "title_zh": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up",
-      "url": "https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html",
-      "source": "New York Times",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:35:06Z"
-    },
-    {
-      "title": "What Is Kimi K3? A Complete Developer Guide for 2026",
-      "title_zh": "What Is Kimi K3? A Complete Developer Guide for 2026",
-      "url": "https://www.firecrawl.dev/blog/kimi-k3",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-08-13T18:39:52Z"
-    },
-    {
-      "title": "Linus Torvalds says 'huge' Linux kernel updates are now the status quo — and it's all thanks to AI",
-      "title_zh": "Linus Torvalds says 'huge' Linux kernel updates are now the status quo — and it's all thanks to AI",
-      "url": "https://www.techradar.com/pro/linus-torvalds-says-huge-linux-kernel-updates-are-now-the-status-quo-and-its-all-thanks-to-ai",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T18:50:00Z"
-    },
-    {
-      "title": "Anthropic Could Be Worth $2 Trillion When It Goes Public",
-      "title_zh": "Anthropic Could Be Worth $2 Trillion When It Goes Public",
-      "url": "https://slashdot.org/story/26/08/13/1846256/anthropic-could-be-worth-2-trillion-when-it-goes-public",
-      "source": "Slashdot",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T19:00:00Z"
-    },
-    {
-      "title": "Mistral OCR 4.1",
-      "title_zh": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "source": "docs.mistral.ai",
-      "_site": "Buzzing",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T19:00:10.506000Z"
-    },
-    {
-      "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-      "title_zh": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-      "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T19:04:52Z"
-    },
-    {
-      "title": "How do I permanently disable Google Photos pop-up prompt to backup my photos?",
-      "title_zh": "How do I permanently disable Google Photos pop-up prompt to backup my photos?",
-      "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T19:07:34Z"
-    },
-    {
-      "title": "Show HN: Pixy, visual editor for coding agents, like Figma on your live site",
-      "title_zh": "Show HN: Pixy, visual editor for coding agents, like Figma on your live site",
-      "url": "https://pixydesignapp.com",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-08-13T19:15:10Z"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "title_zh": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push",
-      "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T19:19:49Z"
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
-      "title_zh": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-      "source": "TechCrunch",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T19:22:40Z"
-    },
-    {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "title_zh": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T19:25:38Z"
-    },
-    {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "title_zh": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T19:25:38Z"
-    },
-    {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "title_zh": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T19:25:38Z"
-    },
-    {
-      "title": "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
-      "title_zh": "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
-      "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": false,
-      "ts": "2026-08-13T19:26:58Z"
-    },
-    {
-      "title": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade",
-      "title_zh": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade",
-      "url": "https://www.businessinsider.com/anthropic-openai-ipo-ai-tech-stocks-china-kimik3-steve-eisman-2026-8",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-13T19:28:53Z"
+      "ts": "2026-08-14T19:33:00Z"
     },
     {
       "title": "Anthropic details multiagent experiments showing Claude agents can wage a \"turf war\" over incompatible goals, fail to coordinate, collude on prices, and more (Rebecca Bellan/TechCrunch)",
@@ -1924,16 +1574,6 @@
       "ts": "2026-08-14T05:08:06.537000Z"
     },
     {
-      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
-      "title_zh": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
-      "url": "https://z.ai/blog/glm-5.3",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-14T05:19:59Z"
-    },
-    {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "title_zh": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
@@ -1949,6 +1589,16 @@
       "url": "https://z.ai/blog/glm-5.3",
       "source": "Hacker News · 24h最热",
       "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T05:19:59Z"
+    },
+    {
+      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "title_zh": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "source": "Hacker News",
+      "_site": "TechURLs",
       "tier": 5,
       "ai": true,
       "ts": "2026-08-14T05:19:59Z"
@@ -2227,8 +1877,8 @@
       "title": "DeepSeek peak/off-peak pricing update",
       "title_zh": "DeepSeek peak/off-peak pricing update",
       "url": "https://api-docs.deepseek.com/news/news260813",
-      "source": "Hacker News",
-      "_site": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
       "tier": 5,
       "ai": true,
       "ts": "2026-08-14T09:55:33Z"
@@ -2237,8 +1887,8 @@
       "title": "DeepSeek peak/off-peak pricing update",
       "title_zh": "DeepSeek peak/off-peak pricing update",
       "url": "https://api-docs.deepseek.com/news/news260813",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
+      "source": "Hacker News",
+      "_site": "TechURLs",
       "tier": 5,
       "ai": true,
       "ts": "2026-08-14T09:55:33Z"
@@ -2974,6 +2624,16 @@
       "ts": "2026-08-14T16:52:46Z"
     },
     {
+      "title": "Discrete Fourier Transform by Hand",
+      "title_zh": "Discrete Fourier Transform by Hand",
+      "url": "https://www.byhand.ai/p/28-discrete-fourier-transform",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T16:52:46Z"
+    },
+    {
       "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
       "title_zh": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
       "url": "https://arxiv.org/abs/2608.12700",
@@ -3102,6 +2762,156 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-08-14T18:05:58.285000Z"
+    },
+    {
+      "title": "Tech analyst Ben Thompson dismisses the 'clearly absurd' concept embedded in AI watermarking",
+      "title_zh": "Tech analyst Ben Thompson dismisses the 'clearly absurd' concept embedded in AI watermarking",
+      "url": "https://www.businessinsider.com/ben-thompson-ai-watermarking-anthropic-claude-2026-8",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T18:12:01Z"
+    },
+    {
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "title_zh": "Show HN: Mole – Deep research agent for your terminal",
+      "url": "https://github.com/lajosdeme/mole",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-08-14T18:52:48Z"
+    },
+    {
+      "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
+      "title_zh": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
+      "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
+      "source": "New York Times",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T18:54:35Z"
+    },
+    {
+      "title": "Ukraine Finds Nvidia AI Chip In New Russian Missile",
+      "title_zh": "Ukraine Finds Nvidia AI Chip In New Russian Missile",
+      "url": "https://tech.slashdot.org/story/26/08/14/1736254/ukraine-finds-nvidia-ai-chip-in-new-russian-missile",
+      "source": "Slashdot",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T19:00:00Z"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermarks from AI content",
+      "title_zh": "Google will now allow users to remove visible watermarks from AI content",
+      "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
+      "source": "Engadget",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T19:04:42Z"
+    },
+    {
+      "title": "How Claude's text watermarking works",
+      "title_zh": "How Claude's text watermarking works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T19:15:51Z"
+    },
+    {
+      "title": "How Claude's text watermarking works",
+      "title_zh": "How Claude's text watermarking works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T19:15:51Z"
+    },
+    {
+      "title": "Z.ai Security Disclosure",
+      "title_zh": "Z.ai Security Disclosure",
+      "url": "https://cvd.z.ai",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T19:22:00Z"
+    },
+    {
+      "title": "谷歌正借助同态加密让私有化人工智能成为现实",
+      "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+      "source": "blog.google",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T19:22:21.717000Z"
+    },
+    {
+      "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+      "title_zh": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+      "url": "https://www.aletheionagi.com",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T19:28:17Z"
+    },
+    {
+      "title": "Anthropic Risk August 2026 [pdf]",
+      "title_zh": "Anthropic Risk August 2026 [pdf]",
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "source": "Hacker News (黑客新闻)",
+      "_site": "Info Flow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T19:32:15Z"
+    },
+    {
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "title_zh": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
+      "source": "TechCrunch",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T19:33:00Z"
+    },
+    {
+      "title": "How Claude's text watermarking works",
+      "title_zh": "How Claude's text watermarking works",
+      "url": "https://news.ycombinator.com/item?id=49303350",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T20:06:21.921000Z"
+    },
+    {
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "title_zh": "Show HN: Mole – Deep research agent for your terminal",
+      "url": "https://news.ycombinator.com/item?id=49303046",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": false,
+      "ts": "2026-08-14T20:06:21.921000Z"
+    },
+    {
+      "title": "Z.ai Security Disclosure",
+      "title_zh": "Z.ai Security Disclosure",
+      "url": "https://news.ycombinator.com/item?id=49303433",
+      "source": "hackernews",
+      "_site": "NewsNow",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-14T20:06:21.921000Z"
     }
   ]
 }
