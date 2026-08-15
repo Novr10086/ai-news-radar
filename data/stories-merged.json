@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T17:42:19.996142Z",
+  "generated_at": "2026-08-15T19:01:13.785155Z",
   "window_hours": 24,
-  "total_stories": 146,
+  "total_stories": 145,
   "stories": [
     {
       "story_id": "story_1b334bce",
@@ -11,7 +11,7 @@
       "source_count": 2,
       "source_names": [
         "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -23,11 +23,11 @@
           "published_at": "2026-08-14T19:22:48.546000Z"
         },
         {
-          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
+          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
           "title": "How Claude's text watermarking works",
           "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-14T19:15:51Z"
         }
       ],
@@ -51,28 +51,6 @@
           "source": "The Decoder：AI News（RSS）",
           "site_id": "aihot",
           "published_at": "2026-08-15T11:00:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_b30bc6bb",
-      "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
-      "url": "https://x.com/GeminiApp/status/2088326407730692538",
-      "primary_url": "https://x.com/GeminiApp/status/2088326407730692538",
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "sources": [
-        {
-          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
-          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
-          "url": "https://x.com/GeminiApp/status/2088326407730692538",
-          "source": "X：Gemini (@GeminiApp)",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T18:06:29Z"
         }
       ],
       "item_count": 1,
@@ -277,72 +255,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_7665a820",
-      "title": "AI is not \"jagged\" it is just AI-shaped. That's like saying dogs are \"jagged\" because they are similar, superior, or inferior compared to humans when it comes to specific tasks.",
-      "url": "https://x.com/thenanyu/status/2088335744909619230",
-      "primary_url": "https://x.com/thenanyu/status/2088335744909619230",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Nan Yu"
-      ],
-      "sources": [
-        {
-          "id": "df926c42d819110cdb640ee4c42d910e53359d3a",
-          "title": "AI is not \"jagged\" it is just AI-shaped. That's like saying dogs are \"jagged\" because they are similar, superior, or inferior compared to humans when it comes to specific tasks.",
-          "url": "https://x.com/thenanyu/status/2088335744909619230",
-          "source": "Follow Builders · X · Nan Yu",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-14T18:43:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_0882c407",
-      "title": "Vercel 是世界上最快的 [AI 网关] 基础设施 https://t.co/AdxxRBdgvt",
-      "url": "https://x.com/rauchg/status/2088323451132199338",
-      "primary_url": "https://x.com/rauchg/status/2088323451132199338",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Guillermo Rauch"
-      ],
-      "sources": [
-        {
-          "id": "68dff7bf306d796253f6a450f2d354aa22afbed0",
-          "title": "Vercel is the fastest [AI Gateway] infrastructure in the world https://t.co/AdxxRBdgvt",
-          "url": "https://x.com/rauchg/status/2088323451132199338",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-14T17:54:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_6c7f1f9e",
-      "title": "The evolution of a workday: Before AI: [decision] [process] [process] [decision] [process] [process] [process] 10pm: still going With AI: [decision] [decision] [decision] [decision] [decision] 3pm: [brain empty] [need...",
-      "url": "https://x.com/mattturck/status/2088323186819539041",
-      "primary_url": "https://x.com/mattturck/status/2088323186819539041",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Matt Turck"
-      ],
-      "sources": [
-        {
-          "id": "668b2363eff572fd6cbe1ffac8f0ef10b8e547fe",
-          "title": "The evolution of a workday: Before AI: [decision] [process] [process] [decision] [process] [process] [process] 10pm: still going With AI: [decision] [decision] [decision] [decision] [decision] 3pm: [brain empty] [need...",
-          "url": "https://x.com/mattturck/status/2088323186819539041",
-          "source": "Follow Builders · X · Matt Turck",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-14T17:53:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_c8846a39",
       "title": "AI正在批量制造“幽灵”",
       "url": "https://www.tmtpost.com/8104535.html",
@@ -368,6 +280,37 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-15T04:42:46Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
+      "story_id": "story_092488ee",
+      "title": "二手书销售蓬勃发展。是因为人工智能吗？",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "source_count": 2,
+      "source_names": [
+        "BBC World",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "5d6ddb8398c7e4f719c308988703a0fe6e710ca1",
+          "title": "Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T11:25:32Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
         }
       ],
       "item_count": 2,
@@ -405,22 +348,22 @@
       "score": 9770
     },
     {
-      "story_id": "story_27ac3051",
-      "title": "SpaceX 正式完成 Cursor 收购",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
-      "primary_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+      "story_id": "story_5f7dfdea",
+      "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "20555a3f7d21899a36da686a572c55260fb1b9e5",
-          "title": "SpaceX officially closes its Cursor acquisition",
-          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+          "id": "839696a3512b0edd1469aebbde1a3ea717d12523",
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T16:30:00Z"
+          "published_at": "2026-08-15T18:58:39Z"
         }
       ],
       "item_count": 1,
@@ -575,28 +518,6 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-08-15T09:31:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_465a24ed",
-      "title": "亚马逊可以使用您的 Twitch 内容来训练其人工智能 - 除非您选择退出",
-      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out",
-      "primary_url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "616ee7f96fdec6878bc867bff9d37d6f699d2487",
-          "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-          "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T09:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1094,7 +1015,7 @@
       "source_count": 2,
       "source_names": [
         "allen.bargi.org",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1106,43 +1027,12 @@
           "published_at": "2026-08-15T16:38:01.653000Z"
         },
         {
-          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
+          "id": "7424ad1f591f93f7da2d5fe2e48a56f5fd4dab7d",
           "title": "Working with AI Feels More Like Leadership Than Coding",
           "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T10:39:41Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_a7045b4a",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "BBC News"
-      ],
-      "sources": [
-        {
-          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
-          "title": "Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:55Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
+          "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
+          "published_at": "2026-08-15T10:39:41Z"
         }
       ],
       "item_count": 2,
@@ -1180,26 +1070,35 @@
       "score": 9570
     },
     {
-      "story_id": "story_9e71ecbe",
-      "title": "A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online (Washington Post)",
-      "url": "https://www.techmeme.com/260815/p12",
-      "primary_url": "https://www.techmeme.com/260815/p12",
-      "source_count": 1,
+      "story_id": "story_f48c1da6",
+      "title": "显示 HN：Deltix – AI 驱动测试",
+      "url": "https://app.deltix.ai",
+      "primary_url": "https://app.deltix.ai",
+      "source_count": 2,
       "source_names": [
-        "Techmeme"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "b351d9d84019222c247c8f1f475c70e37fc73e66",
-          "title": "A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online (Washington Post)",
-          "url": "https://www.techmeme.com/260815/p12",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T16:40:01Z"
+          "id": "2a0ac0e7c21aaa3e31ce1f3114d793fccd3cc02d",
+          "title": "AI Driven Testing",
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-15T02:42:14Z"
+        },
+        {
+          "id": "e205e722bde4dc4eca5649c78b23bcab4873c0e7",
+          "title": "Show HN: Deltix – AI Driven Testing",
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T02:42:14Z"
         }
       ],
-      "item_count": 1,
-      "score": 7
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_c177f603",
@@ -1211,6 +1110,14 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        },
         {
           "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
           "title": "AI Can Now Design Functional Viruses. Should We Worry?",
@@ -1346,49 +1253,229 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-14T20:06:21.921000Z"
-        },
-        {
-          "id": "02aea13b6c790485d065938d4fcb5807c087c520",
-          "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "url": "https://news.ycombinator.com/item?id=49301417",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:58.285000Z"
-        },
-        {
-          "id": "cd0ecd4d995372e4d5b675dadd932d6404c3b76e",
-          "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-          "url": "https://news.ycombinator.com/item?id=49299102",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:58.285000Z"
-        },
-        {
-          "id": "52f5be5ebc15031afaecf9697aa1585b598ab6be",
-          "title": "AI by Hand",
-          "url": "https://news.ycombinator.com/item?id=49300568",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:58.285000Z"
-        },
-        {
-          "id": "424699eea9fa4bc93cac2c0562150cb75326158d",
-          "title": "Google is making private AI practical with homomorphic encryption",
-          "url": "https://news.ycombinator.com/item?id=49300314",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:58.285000Z"
-        },
-        {
-          "id": "102f1dd730b5a437e3a775e4302021a489092a36",
-          "title": "Maximizing the value of your Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49300800",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:58.285000Z"
         }
       ],
-      "item_count": 22,
+      "item_count": 18,
+      "score": 7
+    },
+    {
+      "story_id": "story_5be0a8f4",
+      "title": "人工智能研究大师",
+      "url": "https://www.producthunt.com/products/researchmaster-ai",
+      "primary_url": "https://www.producthunt.com/products/researchmaster-ai",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "6aaf54c3dd1fdc429b6e9521b4cb8379178faf03",
+          "title": "ResearchMaster AI",
+          "url": "https://www.producthunt.com/products/researchmaster-ai",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:16.619000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_61f60a66",
+      "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "primary_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "86a97aef82e57275ddd7ac6ec5667c62712c9c3a",
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c190d356",
+      "title": "Anthropic 是 Claude 为遵守欧盟法律而生成的水印文本",
+      "url": "https://www.engadget.com/2237691/anthropic-watermarking-text-generated-by-claude",
+      "primary_url": "https://www.engadget.com/2237691/anthropic-watermarking-text-generated-by-claude",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "0bf2b357f27f2d10672049422deaa22b71204bdc",
+          "title": "Anthropic is watermarking text generated by Claude to comply with EU law",
+          "url": "https://www.engadget.com/2237691/anthropic-watermarking-text-generated-by-claude",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T18:08:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5a70733e",
+      "title": "Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)",
+      "url": "https://www.techmeme.com/260815/p13",
+      "primary_url": "https://www.techmeme.com/260815/p13",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "625fdad80602d3feb51b0f4ff5a0a8b5ec703b3d",
+          "title": "Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)",
+          "url": "https://www.techmeme.com/260815/p13",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T18:00:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c42c0984",
+      "title": "Anthropic 季度收入超过 115 亿美元，增长逾 14 倍",
+      "url": "https://thenextweb.com/news/anthropic-q2-2026-revenue-11-5-billion-operating-income",
+      "primary_url": "https://thenextweb.com/news/anthropic-q2-2026-revenue-11-5-billion-operating-income",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "89654cad66805636aadc6af314fd7b03e9909f15",
+          "title": "Anthropic’s quarterly revenue passed $11.5bn, up more than 14-fold",
+          "url": "https://thenextweb.com/news/anthropic-q2-2026-revenue-11-5-billion-operating-income",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T17:34:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2cb07cbc",
+      "title": "LG 的人形机器人将于 2027 年上市，运行 Nvidia 的 Isaac GR00T",
+      "url": "https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot",
+      "primary_url": "https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "5b14423c268decc784d944e678212ff932f3e57b",
+          "title": "LG’s humanoid robot arrives in 2027, running Nvidia’s Isaac GR00T",
+          "url": "https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T17:28:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9c25b313",
+      "title": "Anthropic 成为“人工智能界的苹果”，因为尽管价格最贵，但它却获得了最多的收入",
+      "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
+      "primary_url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "6236de37e2d73f7dff796094f9d4c1cf47b4bbc0",
+          "title": "Anthropic becomes the 'Apple of AI' as it grabs most revenue despite being the most expensive",
+          "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T17:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0a7738cd",
+      "title": "‘The Qualcomm chipset offers very good performance for still image processing, but for video, it’s not good enough’: Honor explains why it created a dedicated imaging chipset for its gimbal-equipped Robot Phone",
+      "url": "https://www.techradar.com/phones/honor-phones/the-qualcomm-chipset-offers-very-good-performance-for-still-image-processing-but-for-video-its-not-good-enough-honor-explains-why-it-created-a-dedicated-imaging-chipset-for-its-gimbal-equipped-robot-phone",
+      "primary_url": "https://www.techradar.com/phones/honor-phones/the-qualcomm-chipset-offers-very-good-performance-for-still-image-processing-but-for-video-its-not-good-enough-honor-explains-why-it-created-a-dedicated-imaging-chipset-for-its-gimbal-equipped-robot-phone",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "09307a85c7762f2851c99d45503eee96d20bd6e3",
+          "title": "‘The Qualcomm chipset offers very good performance for still image processing, but for video, it’s not good enough’: Honor explains why it created a dedicated imaging chipset for its gimbal-equipped Robot Phone",
+          "url": "https://www.techradar.com/phones/honor-phones/the-qualcomm-chipset-offers-very-good-performance-for-still-image-processing-but-for-video-its-not-good-enough-honor-explains-why-it-created-a-dedicated-imaging-chipset-for-its-gimbal-equipped-robot-phone",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9e71ecbe",
+      "title": "A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online (Washington Post)",
+      "url": "https://www.techmeme.com/260815/p12",
+      "primary_url": "https://www.techmeme.com/260815/p12",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "b351d9d84019222c247c8f1f475c70e37fc73e66",
+          "title": "A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online (Washington Post)",
+          "url": "https://www.techmeme.com/260815/p12",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T16:40:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_27ac3051",
+      "title": "SpaceX 正式完成 Cursor 收购",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+      "primary_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "8ff3b270399513eca0115e4145ea62aa46774a9c",
+          "title": "SpaceX officially closes its Cursor acquisition",
+          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T16:30:00Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -1502,6 +1589,28 @@
       "score": 7
     },
     {
+      "story_id": "story_609dc7e3",
+      "title": "OpenAI 人才外流在 IPO 前引发“巨大危险信号”",
+      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "primary_url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "ace8a4a01f6176207ab200bcfad288e75da56b54",
+          "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+          "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T15:25:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_42846e18",
       "title": "Anthropic details Claude's text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite (Anthropic)",
       "url": "https://www.techmeme.com/260815/p11",
@@ -1596,15 +1705,15 @@
       "primary_url": "https://srikanth.ch/posts/the-ai-situation",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "06598c31e6ef82c5c5359fadef65d1dd415a2f4a",
+          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
           "title": "The AI Situation in Software Development",
           "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-15T14:12:27Z"
         }
       ],
@@ -1640,15 +1749,15 @@
       "primary_url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "1f8ae1aef3db19d43c0f47ec3f690e670ae9f436",
+          "id": "6798338c29b45497deb2f55f717a29ab9fe91ec2",
           "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
           "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-15T13:43:46Z"
         }
       ],
@@ -1684,15 +1793,15 @@
       "primary_url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "90bef29fc3181ec0a0101f98c9e54595646a22eb",
+          "id": "eda64ecf67fe9cd31fd002d272b7efab29a59b91",
           "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
           "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-15T12:56:56Z"
         }
       ],
@@ -2080,15 +2189,15 @@
       "primary_url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "6d0b897897483914c3e12234f6b9757a33d2c3ae",
+          "id": "5d40b0e4ac8c0a943027a8c463233c402307a69e",
           "title": "Debian has begun voting on the future of AI/LLM contributions",
           "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-15T09:20:07Z"
         }
       ],
@@ -2178,6 +2287,28 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-08-15T09:00:28.215000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_465a24ed",
+      "title": "亚马逊可以使用您的 Twitch 内容来训练其人工智能 - 除非您选择退出",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out",
+      "primary_url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "ed6c0e739eba4fc1d8e266aae1769aab13d906f4",
+          "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+          "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T09:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2278,15 +2409,15 @@
       "primary_url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "746f65b1b53a40031d538378c3f8722ba1fecaa6",
+          "id": "62898d884feb1e92e6098d4e2970a33b66410c56",
           "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
           "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-15T07:31:46Z"
         }
       ],
@@ -2709,36 +2840,6 @@
         }
       ],
       "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f48c1da6",
-      "title": "显示 HN：Deltix – AI 驱动测试",
-      "url": "https://app.deltix.ai",
-      "primary_url": "https://app.deltix.ai",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "2a0ac0e7c21aaa3e31ce1f3114d793fccd3cc02d",
-          "title": "AI Driven Testing",
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-15T02:42:14Z"
-        },
-        {
-          "id": "8b505a81e3065b1d92b7679c3db0826cae05db8a",
-          "title": "Show HN: Deltix – AI Driven Testing",
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-15T02:42:14Z"
-        }
-      ],
-      "item_count": 2,
       "score": 7
     },
     {
@@ -3286,160 +3387,6 @@
           "source": "Engadget",
           "site_id": "techurls",
           "published_at": "2026-08-14T19:04:42Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_40fed001",
-      "title": "乌克兰在俄罗斯新型导弹中发现 Nvidia 人工智能芯片",
-      "url": "https://tech.slashdot.org/story/26/08/14/1736254/ukraine-finds-nvidia-ai-chip-in-new-russian-missile",
-      "primary_url": "https://tech.slashdot.org/story/26/08/14/1736254/ukraine-finds-nvidia-ai-chip-in-new-russian-missile",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "42b68367a0bcd5fe6d1f53e39125df2134168eb9",
-          "title": "Ukraine Finds Nvidia AI Chip In New Russian Missile",
-          "url": "https://tech.slashdot.org/story/26/08/14/1736254/ukraine-finds-nvidia-ai-chip-in-new-russian-missile",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b7f5c01e",
-      "title": "谷歌启用 Gemini A.I.对于使用其课堂应用程序的学生",
-      "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-      "primary_url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-      "source_count": 1,
-      "source_names": [
-        "New York Times"
-      ],
-      "sources": [
-        {
-          "id": "ed8369336c8e506e2bde769cf3f359df3602bac5",
-          "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-          "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T18:54:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5b74c90e",
-      "title": "显示 HN：Mole – 为您的终端进行深度研究代理",
-      "url": "https://github.com/lajosdeme/mole",
-      "primary_url": "https://github.com/lajosdeme/mole",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "480f66d758d40cd2a1672e5cd29440b617a207f2",
-          "title": "Show HN: Mole – Deep research agent for your terminal",
-          "url": "https://github.com/lajosdeme/mole",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-14T18:52:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_09be2c96",
-      "title": "反对LLM就是反对牙线精神",
-      "url": "https://joarvarndt.se/free-vibes-2",
-      "primary_url": "https://joarvarndt.se/free-vibes-2",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "ac6282d8263c02eea22f31a53e0efbb02b1c2186",
-          "title": "Being Against LLMs Is Against the Spirit of Floss",
-          "url": "https://joarvarndt.se/free-vibes-2",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T18:52:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_54009e61",
-      "title": "Claude 用户正在取消订阅，理由是 Anthropic 的新 AI 水印",
-      "url": "https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8",
-      "primary_url": "https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "800c6f230c8ad8003a705e9189c66723e79d9e43",
-          "title": "Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark",
-          "url": "https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T18:48:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_57f56c99",
-      "title": "技术分析师 Ben Thompson 驳斥了人工智能水印中嵌入的“明显荒谬”的概念",
-      "url": "https://www.businessinsider.com/ben-thompson-ai-watermarking-anthropic-claude-2026-8",
-      "primary_url": "https://www.businessinsider.com/ben-thompson-ai-watermarking-anthropic-claude-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "cb1c758a994cd32804e62a27352072ac2f5560c8",
-          "title": "Tech analyst Ben Thompson dismisses the 'clearly absurd' concept embedded in AI watermarking",
-          "url": "https://www.businessinsider.com/ben-thompson-ai-watermarking-anthropic-claude-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T18:12:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_129e47c5",
-      "title": "DeepSeek Harness 速览：“一切皆插件”意味着什么",
-      "url": "https://juejin.cn/post/7673436957741039631",
-      "primary_url": "https://juejin.cn/post/7673436957741039631",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "7475d4660249a5face4b3a76011207d25b40cc4f",
-          "title": "DeepSeek Harness 速览：“一切皆插件”意味着什么",
-          "url": "https://juejin.cn/post/7673436957741039631",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:58.285000Z"
         }
       ],
       "item_count": 1,
