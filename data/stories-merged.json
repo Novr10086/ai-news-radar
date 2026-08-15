@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T11:40:20.839994Z",
+  "generated_at": "2026-08-15T13:21:08.478573Z",
   "window_hours": 24,
-  "total_stories": 163,
+  "total_stories": 168,
   "stories": [
     {
       "story_id": "story_1b334bce",
@@ -36,7 +36,7 @@
     },
     {
       "story_id": "story_7f889842",
-      "title": "人工智能生成的书籍充斥亚马逊，人类作家的销量大幅下降",
+      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
       "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
       "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
       "source_count": 1,
@@ -45,8 +45,8 @@
       ],
       "sources": [
         {
-          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
-          "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "id": "237f5929662e76d04e6158b8f564028e5c415071",
+          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
           "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
           "source": "The Decoder：AI News（RSS）",
           "site_id": "aihot",
@@ -95,50 +95,6 @@
           "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "site_id": "aihot",
           "published_at": "2026-08-14T15:02:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_f577e8f9",
-      "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
-      "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-      "primary_url": "https://x.com/SpaceXAI/status/2088250109188608289",
-      "source_count": 1,
-      "source_names": [
-        "X：SpaceXAI (@SpaceXAI)"
-      ],
-      "sources": [
-        {
-          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
-          "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
-          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-          "source": "X：SpaceXAI (@SpaceXAI)",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T13:03:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_10f04b19",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "sources": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -497,6 +453,37 @@
       "score": 9820
     },
     {
+      "story_id": "story_c8846a39",
+      "title": "AI正在批量制造“幽灵”",
+      "url": "https://www.tmtpost.com/8104535.html",
+      "primary_url": "https://www.tmtpost.com/8104535.html",
+      "source_count": 2,
+      "source_names": [
+        "钛媒体 TMTPost",
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "5de276b1a27718feced932498f9cc597036cce7d",
+          "title": "AI正在批量制造“幽灵”",
+          "url": "https://www.tmtpost.com/8104535.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T12:28:16Z"
+        },
+        {
+          "id": "374be764d0155a7d8dab03fe43a2420da49ea30a",
+          "title": "AI正在批量制造“幽灵”",
+          "url": "https://www.huxiu.com/article/4883331.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T04:42:46Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
       "story_id": "story_966da941",
       "title": "DeepSeek Harness，“杀死”Agent黑箱",
       "url": "https://www.huxiu.com/article/4883287.html?f=rss",
@@ -526,6 +513,125 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_b4dcca41",
+      "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+      "primary_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "0b409262952bddc9e2629c05fc4b0aa73ea98a5e",
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-14T16:13:40Z"
+        },
+        {
+          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
+          "title": "Google will now allow users to remove visible watermarks from AI content",
+          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T19:04:42Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
+      "story_id": "story_4e95292f",
+      "title": "字节AI，先慢后快？",
+      "url": "https://www.tmtpost.com/8104642.html",
+      "primary_url": "https://www.tmtpost.com/8104642.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "f96fdbf21fe78d199d92cd7dabf47254bdee8481",
+          "title": "字节AI，先慢后快？",
+          "url": "https://www.tmtpost.com/8104642.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T12:31:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_31b2b008",
+      "title": "AI 满篇的“不是……而是……”，我开始不敢写了",
+      "url": "https://www.huxiu.com/article/4883379.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4883379.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "acd572b91663e8e00eaa1bfedf91bf5a086abf22",
+          "title": "AI 满篇的“不是……而是……”，我开始不敢写了",
+          "url": "https://www.huxiu.com/article/4883379.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T12:06:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_6f2dd602",
+      "title": "兴锋作浪，大模型和机器人抢着“联姻”",
+      "url": "https://www.tmtpost.com/8104508.html",
+      "primary_url": "https://www.tmtpost.com/8104508.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "8a604f388f854e5d54e5296110bb2b5cb8131d70",
+          "title": "兴锋作浪，大模型和机器人抢着“联姻”",
+          "url": "https://www.tmtpost.com/8104508.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T12:04:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_261dcb1f",
+      "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
+      "url": "https://www.tmtpost.com/8104597.html",
+      "primary_url": "https://www.tmtpost.com/8104597.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "63cd1469f4e5bb5e30b9cd8b75039304b3882bd4",
+          "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
+          "url": "https://www.tmtpost.com/8104597.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T12:04:21Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_4b17d7a6",
@@ -698,28 +804,6 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-08-15T06:38:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_064cf960",
-      "title": "AI正在批量制造“幽灵”",
-      "url": "https://www.huxiu.com/article/4883331.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883331.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "374be764d0155a7d8dab03fe43a2420da49ea30a",
-          "title": "AI正在批量制造“幽灵”",
-          "url": "https://www.huxiu.com/article/4883331.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T04:42:46Z"
         }
       ],
       "item_count": 1,
@@ -1122,50 +1206,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_04b1b689",
-      "title": "Thrive 的约书亚·库什纳 (Joshua Kushner) 斥责硅谷风投公司对人工智能的狂热",
-      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
-      "primary_url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "fe7f83b844432cf8f54d08c94edeb850b95068e5",
-          "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-          "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-14T19:33:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f4fea0da",
-      "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "a58ccc2bca0643a1e74bbe66c83b88edfc349aee",
-          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-14T17:26:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_c2b98e16",
       "title": "AI时代，重看历史上的那些泡沫",
       "url": "https://www.huxiu.com/article/4883299.html?f=rss",
@@ -1262,6 +1302,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_399063a0",
+      "title": "科技远见者表示大型人工智能实验室无法满足人们的需求",
+      "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want",
+      "primary_url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "76abab49c3c43cd978dbcc3c1f469af7eea01080",
+          "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+          "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-14T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_afac3d50",
       "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
@@ -1306,28 +1368,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_c332d923",
-      "title": "从超级个体到组织收益，AI卡在哪？",
-      "url": "https://www.huxiu.com/article/4883140.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883140.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "3ad2536cd43bf33b71833e21514b1002225b4759",
-          "title": "从超级个体到组织收益，AI卡在哪？",
-          "url": "https://www.huxiu.com/article/4883140.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-14T12:00:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_f48c1da6",
       "title": "显示 HN：Deltix – AI 驱动测试",
       "url": "https://app.deltix.ai",
@@ -1335,7 +1375,7 @@
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1347,11 +1387,11 @@
           "published_at": "2026-08-15T02:42:14Z"
         },
         {
-          "id": "8b505a81e3065b1d92b7679c3db0826cae05db8a",
+          "id": "e205e722bde4dc4eca5649c78b23bcab4873c0e7",
           "title": "Show HN: Deltix – AI Driven Testing",
           "url": "https://app.deltix.ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-15T02:42:14Z"
         }
       ],
@@ -1421,37 +1461,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_b4dcca41",
-      "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-      "primary_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-      "source_count": 2,
-      "source_names": [
-        "Engadget",
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "Google will now allow users to remove visible watermarks from AI content",
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
-        },
-        {
-          "id": "76006f08c86e9a4efb15f3ef290db361af8a797c",
-          "title": "Google will now allow users to remove visible watermark from its AI generations",
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:13:40Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_3c6993de",
       "title": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
@@ -1490,7 +1499,7 @@
       "source_count": 2,
       "source_names": [
         "weightythoughts.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1502,38 +1511,16 @@
           "published_at": "2026-08-14T16:10:19.001000Z"
         },
         {
-          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
+          "id": "3fe8dc0174266168b6b69e301466aa364e57f9ab",
           "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
           "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-14T14:34:49Z"
         }
       ],
       "item_count": 2,
       "score": 9570
-    },
-    {
-      "story_id": "story_4c874ad5",
-      "title": "Agent Orchestrator",
-      "url": "https://www.producthunt.com/products/agent-orchestrator",
-      "primary_url": "https://www.producthunt.com/products/agent-orchestrator",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "382cad82eab4782fa5997837060ffe5cf5c33e94",
-          "title": "Agent Orchestrator",
-          "url": "https://www.producthunt.com/products/agent-orchestrator",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T11:39:58.067000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
     },
     {
       "story_id": "story_5b92b2f6",
@@ -1545,6 +1532,14 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "346274b22b37e9694636fa708f056faa34061988",
+          "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://news.ycombinator.com/item?id=49309549",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T13:08:10.206000Z"
+        },
         {
           "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
           "title": "Debian has begun voting on the future of AI/LLM contributions",
@@ -1682,7 +1677,51 @@
           "published_at": "2026-08-14T14:06:41.426000Z"
         }
       ],
-      "item_count": 17,
+      "item_count": 18,
+      "score": 7
+    },
+    {
+      "story_id": "story_6a6683ef",
+      "title": "最新的 Google Health 更新让您可以隐藏 AI Coach - 我很乐意暂时摆脱它的建议",
+      "url": "https://www.techradar.com/health-fitness/fitness-apps/the-latest-google-health-update-lets-you-hide-the-ai-coach-and-ill-be-glad-to-take-a-break-from-its-advice",
+      "primary_url": "https://www.techradar.com/health-fitness/fitness-apps/the-latest-google-health-update-lets-you-hide-the-ai-coach-and-ill-be-glad-to-take-a-break-from-its-advice",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "df30a2ee570bd7416697a5d326d16564da0763e2",
+          "title": "The latest Google Health update lets you hide the AI Coach — and I'll be glad to take a break from its advice",
+          "url": "https://www.techradar.com/health-fitness/fitness-apps/the-latest-google-health-update-lets-you-hide-the-ai-coach-and-ill-be-glad-to-take-a-break-from-its-advice",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T12:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4c874ad5",
+      "title": "Agent Orchestrator",
+      "url": "https://www.producthunt.com/products/agent-orchestrator",
+      "primary_url": "https://www.producthunt.com/products/agent-orchestrator",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "382cad82eab4782fa5997837060ffe5cf5c33e94",
+          "title": "Agent Orchestrator",
+          "url": "https://www.producthunt.com/products/agent-orchestrator",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T11:39:58.067000Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -1752,6 +1791,94 @@
       "score": 7
     },
     {
+      "story_id": "story_092488ee",
+      "title": "二手书销售蓬勃发展。是因为人工智能吗？",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC News"
+      ],
+      "sources": [
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9be3084f",
+      "title": "人工智能商店经理解雇了第一个人。必须首先提醒它自己的规则",
+      "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
+      "primary_url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "e48da9c5272fe6fd1b54f45acc9f7519543d54aa",
+          "title": "The AI store manager fired its first human. It had to be reminded of its own rules first",
+          "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:04:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a8d1244d",
+      "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核",
+      "url": "https://sankalp.bearblog.dev/autoresearch",
+      "primary_url": "https://sankalp.bearblog.dev/autoresearch",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "a5ee76eaf4ec5911f1db8b4202d06a7f854c5040",
+          "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T11:00:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9bacaaa7",
+      "title": "与人工智能一起工作感觉更像是领导而不是编码",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+      "primary_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "title": "Working with AI Feels More Like Leadership Than Coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:39:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_9c23d27e",
       "title": "Michael AI",
       "url": "https://www.producthunt.com/products/michael-ai-2",
@@ -1790,6 +1917,72 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-08-15T10:37:49.163000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_21907514",
+      "title": "安永正在创建一个“价值实现”办公室，以确保其人工智能支出得到回报",
+      "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+      "primary_url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
+          "title": "EY is creating a 'value realization' office to make sure its AI spending pays off",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:32:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1b42387b",
+      "title": "我们所知道的有关华尔街最大银行如何使用人工智能的一切",
+      "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+      "primary_url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
+          "title": "Everything we know about how biggest Wall Street banks are using AI",
+          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:25:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7d935d25",
+      "title": "我深入研究了 LinkedIn 人工智能令人畏惧的本质。达克妮丝（和订婚）也回以凝视。",
+      "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+      "primary_url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
+          "title": "I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:02:01Z"
         }
       ],
       "item_count": 1,
@@ -1856,6 +2049,28 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-08-15T09:53:00.403000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_81367da2",
+      "title": "Peter Tuchman has been on the NYSE floor for every crash since Black Monday. He weighs in on the market's AI mania.",
+      "url": "https://www.businessinsider.com/stock-market-ai-crash-peter-tuchman-investing-advice-bubble-peak-2026-8",
+      "primary_url": "https://www.businessinsider.com/stock-market-ai-crash-peter-tuchman-investing-advice-bubble-peak-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "cbcf78e1cade8fb8253b8d8c211e399851065de3",
+          "title": "Peter Tuchman has been on the NYSE floor for every crash since Black Monday. He weighs in on the market's AI mania.",
+          "url": "https://www.businessinsider.com/stock-market-ai-crash-peter-tuchman-investing-advice-bubble-peak-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T09:45:01Z"
         }
       ],
       "item_count": 1,
@@ -2054,6 +2269,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-15T08:11:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f4fea0da",
+      "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "62898d884feb1e92e6098d4e2970a33b66410c56",
+          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T07:31:46Z"
         }
       ],
       "item_count": 1,
@@ -2852,6 +3089,28 @@
       "score": 7
     },
     {
+      "story_id": "story_04b1b689",
+      "title": "Thrive 的约书亚·库什纳 (Joshua Kushner) 斥责硅谷风投公司对人工智能的狂热",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
+      "primary_url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "e32e83d2bb72fd8454afa5a1bb0209eb0fd2165c",
+          "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+          "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T19:33:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_bce22d97",
       "title": "人为风险 2026 年 8 月 [pdf]",
       "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
@@ -2968,15 +3227,15 @@
       "primary_url": "https://github.com/lajosdeme/mole",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "f06b2a4bde4698a04db256e036a5414bd3c89ae8",
+          "id": "f462bee2e7d3183e5829bcf1a50f90078a71b629",
           "title": "Show HN: Mole – Deep research agent for your terminal",
           "url": "https://github.com/lajosdeme/mole",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-14T18:52:48Z"
         }
       ],
@@ -3232,15 +3491,15 @@
       "primary_url": "https://github.com/NanoNets/Graft",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "bc5179b2213e87b1a8eb164212ee0551eab14c80",
+          "id": "551ce5d10fc3732740838726227382c7adb25ece",
           "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
           "url": "https://github.com/NanoNets/Graft",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-14T15:22:02Z"
         }
       ],
@@ -3306,28 +3565,6 @@
           "title": "Person Hides Prompt Injection In Legal Filing Telling AI To Side With Them",
           "url": "https://yro.slashdot.org/story/26/08/14/0941240/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them",
           "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_399063a0",
-      "title": "科技远见者表示大型人工智能实验室无法满足人们的需求",
-      "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want",
-      "primary_url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "2fa4e10db7d4de5a2c3e033eeacf96263dd1d3d7",
-          "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-          "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want",
-          "source": "Wired",
           "site_id": "techurls",
           "published_at": "2026-08-14T15:00:00Z"
         }
@@ -3452,15 +3689,15 @@
       "primary_url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "de4b6ab42496d67510eec0b37c8950e537279ec2",
+          "id": "4aac186713706feb87f24409af620863e0494e1b",
           "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
           "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-14T14:22:39Z"
         }
       ],
@@ -3682,116 +3919,6 @@
           "source": "api-docs.deepseek.com",
           "site_id": "buzzing",
           "published_at": "2026-08-14T13:32:02.381000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_50742054",
-      "title": "人工智能正在加速网络威胁，但信任将决定哪些企业能够生存",
-      "url": "https://www.techradar.com/pro/ai-is-making-cyber-threats-faster-but-trust-will-define-which-businesses-survive",
-      "primary_url": "https://www.techradar.com/pro/ai-is-making-cyber-threats-faster-but-trust-will-define-which-businesses-survive",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "77a3dc3a6090fab45a31bf50e619b703f14c61f4",
-          "title": "AI is making cyber threats faster, but trust will define which businesses survive",
-          "url": "https://www.techradar.com/pro/ai-is-making-cyber-threats-faster-but-trust-will-define-which-businesses-survive",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T13:04:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_92c1c7d1",
-      "title": "HashAgent – 将 AI 代理共享为 URL，通过 WebGPU 在本地运行",
-      "url": "https://hashagent.pages.dev",
-      "primary_url": "https://hashagent.pages.dev",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "66848b041a6bb701bf6cdecec78e2eec0b203316",
-          "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-          "url": "https://hashagent.pages.dev",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-14T12:57:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_48faca03",
-      "title": "我直接在 Android 手机上运行本地 LLM，跳过了 AI 云订阅",
-      "url": "https://www.androidpolice.com/skipped-ai-cloud-subscription-by-running-local-llm-on-android-phone",
-      "primary_url": "https://www.androidpolice.com/skipped-ai-cloud-subscription-by-running-local-llm-on-android-phone",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "f85693d3ff9c4a80d0e63e75007b221cfe01a1d8",
-          "title": "I skipped the AI cloud subscription by running a local LLM directly on my Android phone",
-          "url": "https://www.androidpolice.com/skipped-ai-cloud-subscription-by-running-local-llm-on-android-phone",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T12:15:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fdcb30ea",
-      "title": "Airbnb 的首席执行官表示，没有人为普通人构建人工智能。他是 Y Combinator 董事会成员",
-      "url": "https://thenextweb.com/news/consumer-ai-gap-brian-chesky-y-combinator-enterprise",
-      "primary_url": "https://thenextweb.com/news/consumer-ai-gap-brian-chesky-y-combinator-enterprise",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "ab2e8184dd5fe3784c57f0af232d45ed0ba54bc1",
-          "title": "Airbnb’s CEO says nobody builds AI for normal people. He is on Y Combinator’s board",
-          "url": "https://thenextweb.com/news/consumer-ai-gap-brian-chesky-y-combinator-enterprise",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T12:13:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_456efe80",
-      "title": "微软正在杀死其人工智能吉祥物，十个月后",
-      "url": "https://thenextweb.com/news/microsoft-copilot-mico-retired-features-killed-app-merge",
-      "primary_url": "https://thenextweb.com/news/microsoft-copilot-mico-retired-features-killed-app-merge",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "ee6349828e81cb0cc95fe11d762505c71bc67455",
-          "title": "Microsoft is killing its AI mascot, ten months after building it",
-          "url": "https://thenextweb.com/news/microsoft-copilot-mico-retired-features-killed-app-merge",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T11:59:56Z"
         }
       ],
       "item_count": 1,
