@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T16:54:49.335123Z",
+  "generated_at": "2026-08-15T17:42:19.996142Z",
   "window_hours": 24,
-  "total_stories": 151,
+  "total_stories": 146,
   "stories": [
     {
       "story_id": "story_1b334bce",
@@ -11,7 +11,7 @@
       "source_count": 2,
       "source_names": [
         "Anthropic：Newsroom（网页）",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -23,11 +23,11 @@
           "published_at": "2026-08-14T19:22:48.546000Z"
         },
         {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
+          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
           "title": "How Claude's text watermarking works",
           "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-14T19:15:51Z"
         }
       ],
@@ -45,8 +45,8 @@
       ],
       "sources": [
         {
-          "id": "237f5929662e76d04e6158b8f564028e5c415071",
-          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
           "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
           "source": "The Decoder：AI News（RSS）",
           "site_id": "aihot",
@@ -374,37 +374,6 @@
       "score": 9770
     },
     {
-      "story_id": "story_092488ee",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-      "source_count": 2,
-      "source_names": [
-        "BBC World",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "5d6ddb8398c7e4f719c308988703a0fe6e710ca1",
-          "title": "Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T11:25:32Z"
-        },
-        {
-          "id": "fb298e71a21de056b737cb1400f65f0be73dfa0f",
-          "title": "Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-15T14:08:55Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
-    },
-    {
       "story_id": "story_966da941",
       "title": "DeepSeek Harness，“杀死”Agent黑箱",
       "url": "https://www.huxiu.com/article/4883287.html?f=rss",
@@ -434,6 +403,28 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_27ac3051",
+      "title": "SpaceX 正式完成 Cursor 收购",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+      "primary_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "20555a3f7d21899a36da686a572c55260fb1b9e5",
+          "title": "SpaceX officially closes its Cursor acquisition",
+          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T16:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_30428830",
@@ -1096,72 +1087,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_4dca7df0",
-      "title": "下一个大影响者是这个来自中国的 4 英尺高机器人",
-      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china",
-      "primary_url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "02920966fc2249216e72f181a52444b3761ea4a9",
-          "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-          "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-14T20:59:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_04b1b689",
-      "title": "Thrive 的约书亚·库什纳 (Joshua Kushner) 斥责硅谷风投公司对人工智能的狂热",
-      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
-      "primary_url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "fe7f83b844432cf8f54d08c94edeb850b95068e5",
-          "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-          "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-14T19:33:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f4fea0da",
-      "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "a58ccc2bca0643a1e74bbe66c83b88edfc349aee",
-          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-14T17:26:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_9bacaaa7",
       "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
@@ -1193,6 +1118,37 @@
       "score": 9570
     },
     {
+      "story_id": "story_a7045b4a",
+      "title": "二手书销售蓬勃发展。是因为人工智能吗？",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "BBC News"
+      ],
+      "sources": [
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_a8d1244d",
       "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
       "url": "https://sankalp.bearblog.dev/autoresearch",
@@ -1200,7 +1156,7 @@
       "source_count": 2,
       "source_names": [
         "sankalp.bearblog.dev",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1212,43 +1168,12 @@
           "published_at": "2026-08-15T13:58:02.713000Z"
         },
         {
-          "id": "a5ee76eaf4ec5911f1db8b4202d06a7f854c5040",
+          "id": "5a1c3f74be042d50ee3fda39cc577a12635ca5bc",
           "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
           "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T11:00:02Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_f48c1da6",
-      "title": "显示 HN：Deltix – AI 驱动测试",
-      "url": "https://app.deltix.ai",
-      "primary_url": "https://app.deltix.ai",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "0a7b10cb17b8d4acad23f6140e6218be614c2da6",
-          "title": "AI Driven Testing",
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T02:42:14Z"
-        },
-        {
-          "id": "8b505a81e3065b1d92b7679c3db0826cae05db8a",
-          "title": "Show HN: Deltix – AI Driven Testing",
-          "url": "https://app.deltix.ai",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-08-15T02:42:14Z"
+          "published_at": "2026-08-15T11:00:02Z"
         }
       ],
       "item_count": 2,
@@ -1467,28 +1392,6 @@
       "score": 7
     },
     {
-      "story_id": "story_27ac3051",
-      "title": "SpaceX 正式完成 Cursor 收购",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
-      "primary_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "8ff3b270399513eca0115e4145ea62aa46774a9c",
-          "title": "SpaceX officially closes its Cursor acquisition",
-          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T16:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_37a40f39",
       "title": "如何判断您的人工智能平台的帐户是否被黑客入侵",
       "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked",
@@ -1693,15 +1596,15 @@
       "primary_url": "https://srikanth.ch/posts/the-ai-situation",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
+          "id": "06598c31e6ef82c5c5359fadef65d1dd415a2f4a",
           "title": "The AI Situation in Software Development",
           "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-15T14:12:27Z"
         }
       ],
@@ -1715,15 +1618,15 @@
       "primary_url": "https://opensauce.it/cloudflare-ai-psychosis",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "73064ab685015f002a9069e852cddb22d433140d",
+          "id": "fe382c3fbfc045b074356e5dd29309fa1ec74f5a",
           "title": "Cloudflare's AI Psychosis",
           "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-15T14:08:40Z"
         }
       ],
@@ -1737,15 +1640,15 @@
       "primary_url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "6798338c29b45497deb2f55f717a29ab9fe91ec2",
+          "id": "1f8ae1aef3db19d43c0f47ec3f690e670ae9f436",
           "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
           "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-15T13:43:46Z"
         }
       ],
@@ -1781,15 +1684,15 @@
       "primary_url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "eda64ecf67fe9cd31fd002d272b7efab29a59b91",
+          "id": "90bef29fc3181ec0a0101f98c9e54595646a22eb",
           "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
           "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-15T12:56:56Z"
         }
       ],
@@ -2177,15 +2080,15 @@
       "primary_url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "5d40b0e4ac8c0a943027a8c463233c402307a69e",
+          "id": "6d0b897897483914c3e12234f6b9757a33d2c3ae",
           "title": "Debian has begun voting on the future of AI/LLM contributions",
           "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-15T09:20:07Z"
         }
       ],
@@ -2363,6 +2266,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-15T08:11:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f4fea0da",
+      "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "746f65b1b53a40031d538378c3f8722ba1fecaa6",
+          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-15T07:31:46Z"
         }
       ],
       "item_count": 1,
@@ -2787,6 +2712,36 @@
       "score": 7
     },
     {
+      "story_id": "story_f48c1da6",
+      "title": "显示 HN：Deltix – AI 驱动测试",
+      "url": "https://app.deltix.ai",
+      "primary_url": "https://app.deltix.ai",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "2a0ac0e7c21aaa3e31ce1f3114d793fccd3cc02d",
+          "title": "AI Driven Testing",
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-15T02:42:14Z"
+        },
+        {
+          "id": "8b505a81e3065b1d92b7679c3db0826cae05db8a",
+          "title": "Show HN: Deltix – AI Driven Testing",
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-15T02:42:14Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 7
+    },
+    {
       "story_id": "story_a2d5e159",
       "title": "TIL that in the 1990s, the founder of Match.com asked his girlfriend to join the site to test it out—she promptly met someone else and left him.",
       "url": "https://www.reddit.com/r/todayilearned/comments/1voqamd/til_that_in_the_1990s_the_founder_of_matchcom",
@@ -3073,6 +3028,28 @@
       "score": 7
     },
     {
+      "story_id": "story_4dca7df0",
+      "title": "下一个大影响者是这个来自中国的 4 英尺高机器人",
+      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china",
+      "primary_url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "d8636dce56469f90b48a768938e7bb4a14a29e74",
+          "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+          "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T20:59:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_ac7d66b0",
       "title": "Investor letter: Thrive's 2022 early-stage $516M fund that invested in OpenAI and SpaceX was worth $3.7B+ as of the end of June, net of fees and other charges (Natasha Mascarenhas/Bloomberg)",
       "url": "https://www.techmeme.com/260814/p23",
@@ -3183,21 +3160,43 @@
       "score": 7
     },
     {
+      "story_id": "story_04b1b689",
+      "title": "Thrive 的约书亚·库什纳 (Joshua Kushner) 斥责硅谷风投公司对人工智能的狂热",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
+      "primary_url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "e32e83d2bb72fd8454afa5a1bb0209eb0fd2165c",
+          "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+          "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T19:33:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_bce22d97",
       "title": "人为风险 2026 年 8 月 [pdf]",
       "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
       "primary_url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "b1371fb2e556503b2ce599e21a43d4af5154feb3",
+          "id": "378c735d3601a77441e870207b8a4a61ffdf0d5a",
           "title": "Anthropic Risk August 2026 [pdf]",
           "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-14T19:32:15Z"
         }
       ],
@@ -3343,15 +3342,15 @@
       "primary_url": "https://github.com/lajosdeme/mole",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "f06b2a4bde4698a04db256e036a5414bd3c89ae8",
+          "id": "480f66d758d40cd2a1672e5cd29440b617a207f2",
           "title": "Show HN: Mole – Deep research agent for your terminal",
           "url": "https://github.com/lajosdeme/mole",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-14T18:52:48Z"
         }
       ],
@@ -3441,116 +3440,6 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-08-14T18:05:58.285000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4f9bfad3",
-      "title": "Young people increasingly don't trust AI - or the billionaires that keep telling us we should all love AI, survey finds",
-      "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
-      "primary_url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "db98746aed0b1cf26fecbed9f5311a066cf338ea",
-          "title": "Young people increasingly don't trust AI - or the billionaires that keep telling us we should all love AI, survey finds",
-          "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T17:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_078e1e94",
-      "title": "Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)",
-      "url": "https://www.techmeme.com/260814/p18",
-      "primary_url": "https://www.techmeme.com/260814/p18",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "48872b198b77c848906e43b27bcc999285fd2ec7",
-          "title": "Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)",
-          "url": "https://www.techmeme.com/260814/p18",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T17:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1f83070d",
-      "title": "I gave Gemini Spark an impossible Airbnb brief before bed; I woke up to a perfect shortlist",
-      "url": "https://www.androidpolice.com/gemini-spark-impossible-airbnb-brief-perfect-shortlist",
-      "primary_url": "https://www.androidpolice.com/gemini-spark-impossible-airbnb-brief-perfect-shortlist",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "fd728c2ba18494b23720e7b5a3b0e0ddebd8d36a",
-          "title": "I gave Gemini Spark an impossible Airbnb brief before bed; I woke up to a perfect shortlist",
-          "url": "https://www.androidpolice.com/gemini-spark-impossible-airbnb-brief-perfect-shortlist",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T17:00:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3c6993de",
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "source_count": 1,
-      "source_names": [
-        "huggingface.co"
-      ],
-      "sources": [
-        {
-          "id": "7f94c9571ef00d749f312a2c3ed54a75481f41ba",
-          "title": "Qwen 3.8 27B",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "source": "huggingface.co",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T16:57:54.561000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7b488677",
-      "title": "LLM 生成的 GPU 内核的合同级验证器",
-      "url": "https://arxiv.org/abs/2608.12700",
-      "primary_url": "https://arxiv.org/abs/2608.12700",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "b1271d964bd74835298defc6c9b6c351230f171f",
-          "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "url": "https://arxiv.org/abs/2608.12700",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T16:57:14Z"
         }
       ],
       "item_count": 1,
