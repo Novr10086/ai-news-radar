@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T19:42:01.637282Z",
+  "generated_at": "2026-08-16T20:49:54.327885Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 19,
   "items": [
     {
       "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
@@ -11,17 +11,6 @@
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
       "published_at": "2026-08-16T03:15:09Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Cursor 正式被 SpaceX 收购",
-      "title_zh": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-15T20:05:54.703000Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -70,28 +59,6 @@
       "ai_score": 0.77
     },
     {
-      "title": "Incredible things are happening at OpenAI right now. Energy is high.",
-      "title_zh": "OpenAI 现在正在发生令人难以置信的事情。能量很高。",
-      "url": "https://x.com/thsottiaux/status/2088725514542575903",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-08-15T20:32:23Z",
-      "ai_is_related": true,
-      "ai_score": 0.81
-    },
-    {
-      "title": "Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work. I made this artifact with Claude to help me understand how it works, sharing in case it's helpful. https://t.co/ALReoOH6tB http...",
-      "title_zh": null,
-      "url": "https://x.com/trq212/status/2088721023223132213",
-      "source": "Follow Builders · X · Thariq",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-08-15T20:14:33Z",
-      "ai_is_related": true,
-      "ai_score": 0.81
-    },
-    {
       "title": "Why are sandwiches more regulated than AI?",
       "title_zh": "为什么三明治比人工智能受到更多监管？",
       "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
@@ -114,6 +81,39 @@
       "ai_score": 0.71
     },
     {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "title_zh": "ChatGPT 的计算机历史记录跟踪您的点击和击键",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "source": "The Verge",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-08-16T14:56:40Z",
+      "ai_is_related": true,
+      "ai_score": 0.71
+    },
+    {
+      "title": "AI时代，我们需要的不是“人管AI”，而是人与AI共同治理",
+      "title_zh": "AI时代，我们需要的不是“人管AI”，而是人与AI共同治理",
+      "url": "https://www.huxiu.com/article/4883506.html?f=rss",
+      "source": "虎嗅",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-08-16T14:46:30Z",
+      "ai_is_related": true,
+      "ai_score": 0.67
+    },
+    {
+      "title": "24小时极限创作，AI短片黑客松探索全民阅读推广新玩法",
+      "title_zh": "24小时极限创作，AI短片黑客松探索全民阅读推广新玩法",
+      "url": "https://m.thepaper.cn/detail/33795111",
+      "source": "澎湃新闻",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-08-16T14:29:10Z",
+      "ai_is_related": true,
+      "ai_score": 0.67
+    },
+    {
       "title": "This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software. https://t.co/V9SzxqFEnL",
       "title_zh": null,
       "url": "https://x.com/thenanyu/status/2088810666958196988",
@@ -134,6 +134,17 @@
       "published_at": "2026-08-16T01:13:19Z",
       "ai_is_related": false,
       "ai_score": 0.47
+    },
+    {
+      "title": "模型正在故意变得更“笨”",
+      "title_zh": "模型正在故意变得更“笨”",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "source": "w4g1.dev",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-08-16T20:40:55.381000Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
     },
     {
       "title": "MathCode, Mathematical Coding Agent",
@@ -194,7 +205,7 @@
       "title": "Show HN: Grafana agent observability for Hermes Agent",
       "title_zh": "显示 HN：Grafana 代理对 Hermes 代理的可观察性",
       "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
-      "source": "Hacker News · 24h最热",
+      "source": "Hacker News",
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-08-16T08:40:50Z",
