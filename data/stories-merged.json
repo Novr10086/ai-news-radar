@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-08-16T13:42:41.053690Z",
+  "generated_at": "2026-08-16T14:53:27.098857Z",
   "window_hours": 24,
-  "total_stories": 110,
+  "total_stories": 106,
   "stories": [
+    {
+      "story_id": "story_aedafec4",
+      "title": "新兴多智能体系统的模式与问题",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T11:17:57.393000Z"
+        },
+        {
+          "id": "27b9f4089f8085a15aae2a3d357f5462459861f1",
+          "title": "Patterns and problems in emerging multi-agent systems",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T02:12:53Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
     {
       "story_id": "story_10f04b19",
       "title": "Cursor 正式被 SpaceX 收购",
@@ -255,28 +286,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_fb53e185",
-      "title": "Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business. I particularly loved watching him demo how he creates YouTube thumbnails with AI: 1. He use...",
-      "url": "https://x.com/petergyang/status/2088626815166464507",
-      "primary_url": "https://x.com/petergyang/status/2088626815166464507",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Yang"
-      ],
-      "sources": [
-        {
-          "id": "d7a672ea1bef72dbf98ceb6acf6aa55b207bccfd",
-          "title": "Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business. I particularly loved watching him demo how he creates YouTube thumbnails with AI: 1. He use...",
-          "url": "https://x.com/petergyang/status/2088626815166464507",
-          "source": "Follow Builders · X · Peter Yang",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-15T14:00:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_2ef29bce",
       "title": "星链之后，马斯克为什么又盯上了太空算力？",
       "url": "https://www.tmtpost.com/8105159.html",
@@ -327,6 +336,14 @@
           "published_at": "2026-08-15T18:58:39Z"
         },
         {
+          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+          "title": "Anthropic shares more details about how Claude's new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T10:03:27Z"
+        },
+        {
           "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
           "title": "Anthropic shares details about how Claude's new watermarks will work",
           "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
@@ -335,8 +352,30 @@
           "published_at": "2026-08-15T22:07:08Z"
         }
       ],
-      "item_count": 2,
+      "item_count": 3,
       "score": 9770
+    },
+    {
+      "story_id": "story_30adabb8",
+      "title": "24小时极限创作，AI短片黑客松探索全民阅读推广新玩法",
+      "url": "https://m.thepaper.cn/detail/33795111",
+      "primary_url": "https://m.thepaper.cn/detail/33795111",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "25e3bbef92b16a2890ec3819ec919932fda51a10",
+          "title": "24小时极限创作，AI短片黑客松探索全民阅读推广新玩法",
+          "url": "https://m.thepaper.cn/detail/33795111",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-16T14:29:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_5844ddca",
@@ -830,7 +869,7 @@
       "source_count": 3,
       "source_names": [
         "www.science.org",
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "Hacker News"
       ],
       "sources": [
@@ -843,11 +882,11 @@
           "published_at": "2026-08-16T02:46:42.706000Z"
         },
         {
-          "id": "43fc07649ac561e5b54ef1763a62334624cc015e",
+          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
           "title": "AI in drug discovery – what it is, where we stand and the path forward",
           "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-15T19:12:53Z"
         },
         {
@@ -863,107 +902,15 @@
       "score": 9580
     },
     {
-      "story_id": "story_aedafec4",
-      "title": "新兴多智能体系统的模式与问题",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
-      "source_count": 2,
-      "source_names": [
-        "www.anthropic.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "832048e4912be301837a545ebb902051b16dbe65",
-          "title": "新兴多智能体系统的模式与问题",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "www.anthropic.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T11:17:57.393000Z"
-        },
-        {
-          "id": "27b9f4089f8085a15aae2a3d357f5462459861f1",
-          "title": "Patterns and problems in emerging multi-agent systems",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T02:12:53Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_14b581e2",
-      "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-      "url": "https://littlelearner-ll.github.io",
-      "primary_url": "https://littlelearner-ll.github.io",
-      "source_count": 2,
-      "source_names": [
-        "littlelearner-ll.github.io",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
-          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-          "url": "https://littlelearner-ll.github.io",
-          "source": "littlelearner-ll.github.io",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T09:42:02.137000Z"
-        },
-        {
-          "id": "2a46358db60bc8aeb50bbfce0c3c4935799a9325",
-          "title": "What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://littlelearner-ll.github.io",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T07:37:53Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_4052b144",
-      "title": "Cloudflare的AI精神错乱",
-      "url": "https://opensauce.it/cloudflare-ai-psychosis",
-      "primary_url": "https://opensauce.it/cloudflare-ai-psychosis",
-      "source_count": 2,
-      "source_names": [
-        "opensauce.it",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
-          "title": "Cloudflare的AI精神错乱",
-          "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "opensauce.it",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:37:59.382000Z"
-        },
-        {
-          "id": "fe382c3fbfc045b074356e5dd29309fa1ec74f5a",
-          "title": "Cloudflare's AI Psychosis",
-          "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:40Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_61f60a66",
       "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "primary_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "davidepiffer.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -983,38 +930,78 @@
           "published_at": "2026-08-15T18:13:02Z"
         },
         {
-          "id": "fd40ff95706cefac27949aa572fb7dbdef1e8880",
+          "id": "36448c907ce297119b821688039431f89ac64912",
           "title": "AI has access to a vastly larger working memory than the human brain",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-15T18:13:02Z"
         }
       ],
       "item_count": 3,
-      "score": 9570
+      "score": 9580
     },
     {
-      "story_id": "story_d5fd9d14",
-      "title": "Tasklet (YC P26) 正在招聘设计工程主管",
-      "url": "https://tasklet.ai/careers/head-of-design-engineering",
-      "primary_url": "https://tasklet.ai/careers/head-of-design-engineering",
-      "source_count": 1,
+      "story_id": "story_cf930f9f",
+      "title": "Claude：系统提示",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source_count": 2,
       "source_names": [
+        "platform.claude.com",
         "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "42a33881e9bbfa24407fe1068de235e19dff82f4",
-          "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-          "url": "https://tasklet.ai/careers/head-of-design-engineering",
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        },
+        {
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
+          "title": "Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-08-16T13:30:27Z"
+          "published_at": "2026-08-16T12:48:21Z"
         }
       ],
-      "item_count": 1,
-      "score": 7
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_14b581e2",
+      "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+      "url": "https://littlelearner-ll.github.io",
+      "primary_url": "https://littlelearner-ll.github.io",
+      "source_count": 2,
+      "source_names": [
+        "littlelearner-ll.github.io",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "littlelearner-ll.github.io",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T09:42:02.137000Z"
+        },
+        {
+          "id": "ab4d7fd4d10f46e1fd135490112c3e62f61b2774",
+          "title": "What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T07:37:53Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_c4556bf3",
@@ -1026,6 +1013,22 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+          "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://news.ycombinator.com/item?id=49320144",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:42:33.661000Z"
+        },
+        {
+          "id": "aeb1cd321a029dfb0ef86f8baff7e5c7001085bc",
+          "title": "Claude: System Prompts",
+          "url": "https://news.ycombinator.com/item?id=49319556",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:42:33.661000Z"
+        },
         {
           "id": "1560c27245799262bd56b462e236a0f6cda0c30a",
           "title": "Show HN: Grafana agent observability for Hermes Agent",
@@ -1137,60 +1140,94 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-15T16:38:51.605000Z"
-        },
-        {
-          "id": "484a170c650aec649118825a0b2ddb94364d864a",
-          "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-          "url": "https://news.ycombinator.com/item?id=49310177",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:38:30.053000Z"
-        },
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:38:30.053000Z"
-        },
-        {
-          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-          "title": "Working with AI feels more like leadership than coding",
-          "url": "https://news.ycombinator.com/item?id=49309451",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:38:30.053000Z"
-        },
-        {
-          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
-          "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "url": "https://news.ycombinator.com/item?id=49310495",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:38:30.053000Z"
         }
       ],
-      "item_count": 18,
+      "item_count": 16,
       "score": 7
     },
     {
-      "story_id": "story_cf930f9f",
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "story_id": "story_6477d795",
+      "title": "我的 Kindle 上的 Gemini 解决了平板电脑无法解决的一个问题",
+      "url": "https://www.androidpolice.com/gemini-on-my-kindle-solved-the-one-problem-tablets-couldnt-fix",
+      "primary_url": "https://www.androidpolice.com/gemini-on-my-kindle-solved-the-one-problem-tablets-couldnt-fix",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "76c7af0d2a22e462b9ac94a5da117e5ee6e08b61",
+          "title": "Gemini on my Kindle solved the one problem tablets couldn't fix",
+          "url": "https://www.androidpolice.com/gemini-on-my-kindle-solved-the-one-problem-tablets-couldnt-fix",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T14:15:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_84f9dbe8",
+      "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B",
+      "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+      "primary_url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
       "source_count": 1,
       "source_names": [
         "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
-          "title": "Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "id": "cb2b2d9b9bd159491e81661eb7eb6d0218f7d48f",
+          "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-08-16T12:48:21Z"
+          "published_at": "2026-08-16T13:58:17Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d5fd9d14",
+      "title": "Tasklet (YC P26) 正在招聘设计工程主管",
+      "url": "https://tasklet.ai/careers/head-of-design-engineering",
+      "primary_url": "https://tasklet.ai/careers/head-of-design-engineering",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "e2ecf3f368f637c24e202b989cc101394142efc5",
+          "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+          "url": "https://tasklet.ai/careers/head-of-design-engineering",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T13:30:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_50eedd51",
+      "title": "在 Claude 代码中测试 Moonshot AI 的 Kimi K3",
+      "url": "https://philippdubach.com/posts/kimi-k3-inside-claude-code",
+      "primary_url": "https://philippdubach.com/posts/kimi-k3-inside-claude-code",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "56476ef1165d502efa46b38577f4382918ed50c4",
+          "title": "Testing Moonshot AI's Kimi K3 Inside Claude Code",
+          "url": "https://philippdubach.com/posts/kimi-k3-inside-claude-code",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T12:54:31Z"
         }
       ],
       "item_count": 1,
@@ -1783,15 +1820,15 @@
       "primary_url": "https://waku.sh",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
+          "id": "956ccc83a910809c81048f8b2ac91fdb97bf5117",
           "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
           "url": "https://waku.sh",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-16T00:38:44Z"
         }
       ],
@@ -1893,15 +1930,15 @@
       "primary_url": "https://arxiv.org/abs/2608.13122",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "10b946531e584a81d49b142e3dd9bc46c792b460",
+          "id": "2713b3286640bc0d1328925207c5e5ec1bff3bae",
           "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
           "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-15T22:41:51Z"
         }
       ],
@@ -1969,6 +2006,28 @@
           "source": "chenxiachan.github.io",
           "site_id": "buzzing",
           "published_at": "2026-08-15T21:09:54.519000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4052b144",
+      "title": "Cloudflare的AI精神错乱",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis",
+      "primary_url": "https://opensauce.it/cloudflare-ai-psychosis",
+      "source_count": 1,
+      "source_names": [
+        "opensauce.it"
+      ],
+      "sources": [
+        {
+          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
+          "title": "Cloudflare的AI精神错乱",
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "opensauce.it",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:37:59.382000Z"
         }
       ],
       "item_count": 1,
@@ -2113,15 +2172,15 @@
       "primary_url": "https://www.nature.com/articles/s41573-026-01496-2",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "709724ec6bc438d27235005cc372f11138b684ea",
+          "id": "27bdad6646bdd01e6c3dd7fbbc37fdf837d9b10a",
           "title": "AI in drug discovery — what it is, where we stand and the path forward",
           "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-15T19:12:53Z"
         }
       ],
@@ -2443,15 +2502,15 @@
       "primary_url": "https://spectrum.ieee.org/ai-designed-virus",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "b55c5b939bdf5d3bda12e41c757031f76dc3656e",
+          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
           "title": "AI Can Now Design Functional Viruses. Should We Worry?",
           "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-15T15:32:25Z"
         }
       ],
@@ -2497,160 +2556,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-15T15:05:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_380faa20",
-      "title": "美国即将告诉35个国家在人工智能问题上在美国和中国之间做出选择",
-      "url": "https://thenextweb.com/news/pax-silica-us-letter-35-countries-china-ai-coalition",
-      "primary_url": "https://thenextweb.com/news/pax-silica-us-letter-35-countries-china-ai-coalition",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "27a744a777a9a1719f184b6dc155ec6d4fd9c472",
-          "title": "The US is about to tell 35 countries to choose between it and China on AI",
-          "url": "https://thenextweb.com/news/pax-silica-us-letter-35-countries-china-ai-coalition",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T14:49:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e23efeb1",
-      "title": "Alibaba's open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 (Saritha Rai/Bloomberg)",
-      "url": "https://www.techmeme.com/260815/p10",
-      "primary_url": "https://www.techmeme.com/260815/p10",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "3dd1a2980bf13a1843e6645cabfca5ed8a3ed48a",
-          "title": "Alibaba's open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 (Saritha Rai/Bloomberg)",
-          "url": "https://www.techmeme.com/260815/p10",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T14:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c644c580",
-      "title": "Anthropic 在关闭生物武器过滤器的情况下进行了 1.33 亿次承包商聊天",
-      "url": "https://thenextweb.com/news/anthropic-risk-report-bio-classifiers-human-feedback-gap",
-      "primary_url": "https://thenextweb.com/news/anthropic-risk-report-bio-classifiers-human-feedback-gap",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "290fdd82d873356210782750a026f6b4be537bad",
-          "title": "Anthropic ran 133 million contractor chats with its bioweapon filters off",
-          "url": "https://thenextweb.com/news/anthropic-risk-report-bio-classifiers-human-feedback-gap",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T14:14:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a39d2a94",
-      "title": "软件开发中的人工智能现状",
-      "url": "https://srikanth.ch/posts/the-ai-situation",
-      "primary_url": "https://srikanth.ch/posts/the-ai-situation",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
-          "title": "The AI Situation in Software Development",
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a7045b4a",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
-          "title": "Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a8d1244d",
-      "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-      "url": "https://sankalp.bearblog.dev/autoresearch",
-      "primary_url": "https://sankalp.bearblog.dev/autoresearch",
-      "source_count": 1,
-      "source_names": [
-        "sankalp.bearblog.dev"
-      ],
-      "sources": [
-        {
-          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
-          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "sankalp.bearblog.dev",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T13:58:02.713000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_61d30013",
-      "title": "Yadda 3.0.0：人工智能代理时代的 BDD",
-      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-      "primary_url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "5c60d5b19f8d353ed7bfdd462519174bd52f5c82",
-          "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T13:43:46Z"
         }
       ],
       "item_count": 1,
