@@ -1,8 +1,61 @@
 {
-  "generated_at": "2026-08-16T22:46:22.283957Z",
+  "generated_at": "2026-08-16T23:39:32.859602Z",
   "window_hours": 24,
-  "total_stories": 102,
+  "total_stories": 105,
   "stories": [
+    {
+      "story_id": "story_aedafec4",
+      "title": "新兴多智能体系统的模式与问题",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T11:17:57.393000Z"
+        },
+        {
+          "id": "27b9f4089f8085a15aae2a3d357f5462459861f1",
+          "title": "Patterns and problems in emerging multi-agent systems",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T02:12:53Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
+      "story_id": "story_59985fb7",
+      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+      "primary_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "sources": [
+        {
+          "id": "e37a636db32579233e4e64ee024855a5030f5857",
+          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+          "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+          "source": "Simon Willison 博客",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T22:00:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
     {
       "story_id": "story_884b3ac9",
       "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
@@ -167,22 +220,88 @@
       "score": 9770
     },
     {
-      "story_id": "story_59dc8d0c",
-      "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
-      "primary_url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+      "story_id": "story_ca44bed4",
+      "title": "央媒关注AI客服成投诉新热点：本应助力高效服务，为何逼走消费者",
+      "url": "https://m.thepaper.cn/detail/33797196",
+      "primary_url": "https://m.thepaper.cn/detail/33797196",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "feb865f83e10b54428897aed8f9a1de31ea7bf03",
+          "title": "央媒关注AI客服成投诉新热点：本应助力高效服务，为何逼走消费者",
+          "url": "https://m.thepaper.cn/detail/33797196",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-16T23:35:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_48b4974d",
+      "title": "新书经眼｜AI时代的批判理论与虚拟偶像",
+      "url": "https://m.thepaper.cn/detail/33789882",
+      "primary_url": "https://m.thepaper.cn/detail/33789882",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "acf3ae0123e895858cdf6880d198ad73b995c14a",
+          "title": "新书经眼｜AI时代的批判理论与虚拟偶像",
+          "url": "https://m.thepaper.cn/detail/33789882",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-16T23:31:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_8c421ffb",
+      "title": "明查｜UFO“实锤”三连？网传视频分别为AI、CGI、科幻片",
+      "url": "https://m.thepaper.cn/detail/33793385",
+      "primary_url": "https://m.thepaper.cn/detail/33793385",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "9da7b15d320c5ce4f2bbb5bd03d5a584e1b97784",
+          "title": "明查｜UFO“实锤”三连？网传视频分别为AI、CGI、科幻片",
+          "url": "https://m.thepaper.cn/detail/33793385",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-16T23:21:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_ec908331",
+      "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+      "primary_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "4d38801bdf16c8f9f8dc2f1edb8cf2b86d446462",
-          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+          "id": "62a11feeef42fc0dfdc02739c05786209f54f9be",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-16T20:32:01Z"
+          "published_at": "2026-08-16T20:57:04Z"
         }
       ],
       "item_count": 1,
@@ -651,155 +770,31 @@
       "score": 9720
     },
     {
-      "story_id": "story_70e3a85a",
-      "title": "★ Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "primary_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "story_id": "story_a4791095",
+      "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Daring Fireball"
-      ],
-      "sources": [
-        {
-          "id": "f87ec54de342fd6f1595037476aaf413449cdbfe",
-          "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-16T21:53:43Z"
-        },
-        {
-          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Daring Fireball",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T19:26:33Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_41f2fc10",
-      "title": "人工智能信用转售经济",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "primary_url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "source_count": 2,
-      "source_names": [
-        "vectoral.com",
+        "www.bloomberg.com",
         "Hacker News"
       ],
       "sources": [
         {
-          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
-          "title": "人工智能信用转售经济",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "vectoral.com",
+          "id": "606e2da905768ff4c91e5705070cb5ae9b37d3b4",
+          "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "www.bloomberg.com",
           "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:39.701000Z"
+          "published_at": "2026-08-16T23:17:59.746000Z"
         },
         {
-          "id": "de7b60bb1f976ee72065e14379287244706e9c3b",
-          "title": "The AI Credit Resale Economy",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "id": "21a2bd2a4327a70b3b3598592e144cfa00cd0675",
+          "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
           "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-08-16T14:44:55Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_cf930f9f",
-      "title": "Claude：系统提示",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "source_count": 2,
-      "source_names": [
-        "platform.claude.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-          "title": "克劳德：系统提示",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "platform.claude.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T14:30:18.432000Z"
-        },
-        {
-          "id": "2765b35593980a231dd842e6a90c3e8584923b72",
-          "title": "Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T12:48:21Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_aedafec4",
-      "title": "新兴多智能体系统的模式与问题",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
-      "source_count": 2,
-      "source_names": [
-        "www.anthropic.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "832048e4912be301837a545ebb902051b16dbe65",
-          "title": "新兴多智能体系统的模式与问题",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "www.anthropic.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T11:17:57.393000Z"
-        },
-        {
-          "id": "7220c05a173166ccb0abeca98bc421dc3d0fb02b",
-          "title": "Patterns and problems in emerging multi-agent systems",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T02:12:53Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_14b581e2",
-      "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-      "url": "https://littlelearner-ll.github.io",
-      "primary_url": "https://littlelearner-ll.github.io",
-      "source_count": 2,
-      "source_names": [
-        "littlelearner-ll.github.io",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
-          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-          "url": "https://littlelearner-ll.github.io",
-          "source": "littlelearner-ll.github.io",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T09:42:02.137000Z"
-        },
-        {
-          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
-          "title": "What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://littlelearner-ll.github.io",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-16T07:37:53Z"
+          "published_at": "2026-08-16T20:31:16Z"
         }
       ],
       "item_count": 2,
@@ -810,9 +805,10 @@
       "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测",
       "url": "https://news.ycombinator.com/item?id=49323620",
       "primary_url": "https://news.ycombinator.com/item?id=49323620",
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "hackernews"
+        "hackernews",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -832,14 +828,6 @@
           "published_at": "2026-08-16T22:46:01.583000Z"
         },
         {
-          "id": "bf8847ee7127dcd4581bc0c2054409f625996448",
-          "title": "Claude Seems Down",
-          "url": "https://news.ycombinator.com/item?id=49324078",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
-        },
-        {
           "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
           "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
           "url": "https://news.ycombinator.com/item?id=49323686",
@@ -854,6 +842,14 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-16T22:46:01.583000Z"
+        },
+        {
+          "id": "1a17afa16e6e0644a8882c7f8f888301d2052c0b",
+          "title": "Claude Seems Down",
+          "url": "https://news.ycombinator.com/item?id=49324078",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-16T21:52:59Z"
         },
         {
           "id": "346161818116422bcfb29c8e94075ad65d0274b2",
@@ -969,7 +965,162 @@
         }
       ],
       "item_count": 19,
-      "score": 7
+      "score": 9570
+    },
+    {
+      "story_id": "story_70e3a85a",
+      "title": "★ Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "primary_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Daring Fireball"
+      ],
+      "sources": [
+        {
+          "id": "6840463191a79050c64d67a58ee4410b17afe424",
+          "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T21:53:43Z"
+        },
+        {
+          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
+          "title": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "Daring Fireball",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T19:26:33Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_31f17eba",
+      "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+      "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
+      "primary_url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
+      "source_count": 2,
+      "source_names": [
+        "Reddit (热门)",
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "4b4fdc768257e83bb3fecdbb54a3c9651d99720f",
+          "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+          "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
+          "source": "Reddit (热门)",
+          "site_id": "iris",
+          "published_at": "2026-08-16T17:41:11Z"
+        },
+        {
+          "id": "b3f6977b46a76bd87884fd151cb205504f398853",
+          "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T16:30:38Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_41f2fc10",
+      "title": "人工智能信用转售经济",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "primary_url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source_count": 2,
+      "source_names": [
+        "vectoral.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+          "title": "人工智能信用转售经济",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "vectoral.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:39.701000Z"
+        },
+        {
+          "id": "81c6e847f4ccdc00f0f6b88992252c152abcb2de",
+          "title": "The AI Credit Resale Economy",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T14:44:55Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_cf930f9f",
+      "title": "Claude：系统提示",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source_count": 2,
+      "source_names": [
+        "platform.claude.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        },
+        {
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
+          "title": "Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-16T12:48:21Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_14b581e2",
+      "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+      "url": "https://littlelearner-ll.github.io",
+      "primary_url": "https://littlelearner-ll.github.io",
+      "source_count": 2,
+      "source_names": [
+        "littlelearner-ll.github.io",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "littlelearner-ll.github.io",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T09:42:02.137000Z"
+        },
+        {
+          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
+          "title": "What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-16T07:37:53Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_abd44681",
@@ -1088,15 +1239,15 @@
       "primary_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "b8511558fba8135ac68f2b06e5d67ab3611f4eb6",
+          "id": "66192e399f7ec43fd18731703906a2938362c087",
           "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
           "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-16T21:07:10Z"
         }
       ],
@@ -1132,38 +1283,16 @@
       "primary_url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "817b9095f29d769e5a726d6d1bbf6f9ba8a878b8",
+          "id": "216c7ae686b6ed275ac6d38453019a626829ad7b",
           "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
           "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-16T21:00:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ec908331",
-      "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-      "primary_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "bd2c9ce71d2e4356baceedaabfd799dd2dc2d4e4",
-          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T20:57:04Z"
         }
       ],
       "item_count": 1,
@@ -1214,22 +1343,22 @@
       "score": 7
     },
     {
-      "story_id": "story_a4791095",
-      "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "story_id": "story_59dc8d0c",
+      "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+      "primary_url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
-          "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-16T20:31:16Z"
+          "id": "a5a132a5bc2203050a99414b6a13a2e4a111b11a",
+          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T20:32:01Z"
         }
       ],
       "item_count": 1,
@@ -1286,15 +1415,15 @@
       "primary_url": "https://math-ai-org.github.io/mathcode",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "94ba1d06854a30f0b2933918dd421418881390cc",
+          "id": "c19f223266ea5a4f029577c74140a3c58a248a79",
           "title": "MathCode, Mathematical Coding Agent",
           "url": "https://math-ai-org.github.io/mathcode",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-16T18:17:10Z"
         }
       ],
@@ -1434,28 +1563,6 @@
       "score": 7
     },
     {
-      "story_id": "story_9933b2aa",
-      "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "b3f6977b46a76bd87884fd151cb205504f398853",
-          "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T16:30:38Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_3cbdc20f",
       "title": "我在 Android 上同时使用 Gemini 和 Grok 一个月了；一个明显占主导地位的",
       "url": "https://www.androidpolice.com/used-gemini-and-grok-side-by-side-for-month-on-android-one-clearly-dominated",
@@ -1572,15 +1679,15 @@
       "primary_url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "cb2b2d9b9bd159491e81661eb7eb6d0218f7d48f",
+          "id": "9e06c7fd63ff348cef640034ab1593ab62b167bf",
           "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
           "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-16T13:58:17Z"
         }
       ],
@@ -1594,15 +1701,15 @@
       "primary_url": "https://tasklet.ai/careers/head-of-design-engineering",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "e2ecf3f368f637c24e202b989cc101394142efc5",
+          "id": "42a33881e9bbfa24407fe1068de235e19dff82f4",
           "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
           "url": "https://tasklet.ai/careers/head-of-design-engineering",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-16T13:30:27Z"
         }
       ],
@@ -1836,15 +1943,15 @@
       "primary_url": "https://peterbloem.nl/blog/craft-coding",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
+          "id": "7047a7d3f024068ad0e570dfecf36db9c4b95ae1",
           "title": "AI Coding Without the Vibes",
           "url": "https://peterbloem.nl/blog/craft-coding",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-16T10:31:36Z"
         }
       ],
@@ -2012,15 +2119,15 @@
       "primary_url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "2d51a8887718c78a85175ef7a18480314e4f05dd",
+          "id": "021d43aedc72903fd3fc3a6e297d943c75b578b2",
           "title": "Show HN: Grafana agent observability for Hermes Agent",
           "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-16T08:40:50Z"
         }
       ],
@@ -2342,15 +2449,15 @@
       "primary_url": "https://waku.sh",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "956ccc83a910809c81048f8b2ac91fdb97bf5117",
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
           "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
           "url": "https://waku.sh",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-16T00:38:44Z"
         }
       ],
@@ -2418,28 +2525,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-15T23:40:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bcacae18",
-      "title": "人类首席执行官妻子向爱泼斯坦寻求色情业务",
-      "url": "https://www.forbes.com/sites/alisondurkee/2026/08/14/who-is-cami-clark-anthropic-ceos-wife-asked-epstein-to-invest-in-porn-business",
-      "primary_url": "https://www.forbes.com/sites/alisondurkee/2026/08/14/who-is-cami-clark-anthropic-ceos-wife-asked-epstein-to-invest-in-porn-business",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "f652da987794deb7bb331bc2845aef837adb2844",
-          "title": "Anthropic CEO wife asked Epstein for porn business",
-          "url": "https://www.forbes.com/sites/alisondurkee/2026/08/14/who-is-cami-clark-anthropic-ceos-wife-asked-epstein-to-invest-in-porn-business",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T22:54:41Z"
         }
       ],
       "item_count": 1,
