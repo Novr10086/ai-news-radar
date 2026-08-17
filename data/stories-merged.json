@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T13:56:36.356784Z",
+  "generated_at": "2026-08-17T14:57:30.683709Z",
   "window_hours": 24,
-  "total_stories": 201,
+  "total_stories": 207,
   "stories": [
     {
       "story_id": "story_699d10e1",
@@ -10,18 +10,10 @@
       "primary_url": "https://openai.com/index/the-defenders-window",
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "OpenAI News"
       ],
       "sources": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "The Defender’s Window",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
         {
           "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
           "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
@@ -29,32 +21,18 @@
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "site_id": "aihot",
           "published_at": "2026-08-17T05:30:00Z"
+        },
+        {
+          "id": "8a914b2fa508d7be0b1a65c25f070708a8e21cc2",
+          "title": "The Defender’s Window",
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T05:30:00Z"
         }
       ],
       "item_count": 2,
       "score": 10070
-    },
-    {
-      "story_id": "story_a7860c43",
-      "title": "OpenAI 加入 PORTS-Pike 项目",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI joins PORTS-Pike project",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
     },
     {
       "story_id": "story_029fa688",
@@ -1157,28 +1135,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_d95b1eef",
-      "title": "AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general...",
-      "url": "https://x.com/levie/status/2088995821056659901",
-      "primary_url": "https://x.com/levie/status/2088995821056659901",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "sources": [
-        {
-          "id": "b6b9625c00e7df38c77afb6016f37076f952219f",
-          "title": "AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general...",
-          "url": "https://x.com/levie/status/2088995821056659901",
-          "source": "Follow Builders · X · Aaron Levie",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-16T14:26:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_d9f44f45",
       "title": "AI为主人插队踢飞第一名，千万别让黄牛知道",
       "url": "https://www.tmtpost.com/8105869.html",
@@ -1270,6 +1226,28 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_392bf734",
+      "title": "英伟达联手OpenAI锁定12吉瓦算力基建，黄仁勋：即便OpenAI不续租，还可以给其他客户",
+      "url": "https://m.thepaper.cn/detail/33800441",
+      "primary_url": "https://m.thepaper.cn/detail/33800441",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "8169728e6e3ee606a78d58d8dcbf8c7c5bec91df",
+          "title": "英伟达联手OpenAI锁定12吉瓦算力基建，黄仁勋：即便OpenAI不续租，还可以给其他客户",
+          "url": "https://m.thepaper.cn/detail/33800441",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T14:38:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_0fc80578",
@@ -1464,28 +1442,6 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-08-17T11:04:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_46539d6c",
-      "title": "Whisker 的人工智能垃圾机器人认为我的猫交换了身体",
-      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "primary_url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "04e45475c68c5457a156e1b2f18e59b4e4e7ec5b",
-          "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-          "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T11:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1918,6 +1874,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_a7860c43",
+      "title": "OpenAI 加入 PORTS-Pike 项目",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "5877f92555b1a3da51b0934b638fec6e2052ca40",
+          "title": "OpenAI joins PORTS-Pike project",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T05:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_d712e5d9",
       "title": "英伟达入局引爆AI债务担忧，700亿美元“表外幽灵”正环伺",
       "url": "https://www.huxiu.com/article/4883607.html?f=rss",
@@ -2336,28 +2314,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_ec908331",
-      "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-      "primary_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "62a11feeef42fc0dfdc02739c05786209f54f9be",
-          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T20:57:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_59dc8d0c",
       "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
       "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
@@ -2424,72 +2380,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_4a493f27",
-      "title": "ChatGPT 的计算机历史记录跟踪您的点击和击键",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "fe3f83caea96ba519b50161f20cd0f09235c99a3",
-          "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T14:56:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_cc90e3c4",
-      "title": "AI时代，我们需要的不是“人管AI”，而是人与AI共同治理",
-      "url": "https://www.huxiu.com/article/4883506.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883506.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "fb30786e82be9e03c46e2cbd41ce4cf72bcfaca8",
-          "title": "AI时代，我们需要的不是“人管AI”，而是人与AI共同治理",
-          "url": "https://www.huxiu.com/article/4883506.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T14:46:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_30adabb8",
-      "title": "24小时极限创作，AI短片黑客松探索全民阅读推广新玩法",
-      "url": "https://m.thepaper.cn/detail/33795111",
-      "primary_url": "https://m.thepaper.cn/detail/33795111",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "25e3bbef92b16a2890ec3819ec919932fda51a10",
-          "title": "24小时极限创作，AI短片黑客松探索全民阅读推广新玩法",
-          "url": "https://m.thepaper.cn/detail/33795111",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T14:29:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_70e3a85a",
       "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
@@ -2497,7 +2387,7 @@
       "source_count": 3,
       "source_names": [
         "daringfireball.net",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Daring Fireball"
       ],
       "sources": [
@@ -2510,11 +2400,11 @@
           "published_at": "2026-08-17T00:06:02.469000Z"
         },
         {
-          "id": "f87ec54de342fd6f1595037476aaf413449cdbfe",
+          "id": "6840463191a79050c64d67a58ee4410b17afe424",
           "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-16T21:53:43Z"
         },
         {
@@ -2530,16 +2420,40 @@
       "score": 9580
     },
     {
-      "story_id": "story_494b61d6",
-      "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测",
-      "url": "https://news.ycombinator.com/item?id=49323620",
-      "primary_url": "https://news.ycombinator.com/item?id=49323620",
+      "story_id": "story_de2502fc",
+      "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
+      "url": "https://news.ycombinator.com/item?id=49331423",
+      "primary_url": "https://news.ycombinator.com/item?id=49331423",
       "source_count": 2,
       "source_names": [
         "hackernews",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
+        {
+          "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
+          "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "url": "https://news.ycombinator.com/item?id=49331423",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T14:40:27.207000Z"
+        },
+        {
+          "id": "fdd2dc3e40dbcf4f45e6164d68cffd144a5fd7bd",
+          "title": "How to disable or avoid intrusive AI",
+          "url": "https://news.ycombinator.com/item?id=49331220",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T14:40:27.207000Z"
+        },
+        {
+          "id": "65b4a7d63485ddbf1baf05958425c7cc90ddbd2e",
+          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "url": "https://news.ycombinator.com/item?id=49330742",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T14:40:27.207000Z"
+        },
         {
           "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
           "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
@@ -2621,11 +2535,11 @@
           "published_at": "2026-08-16T22:46:01.583000Z"
         },
         {
-          "id": "1a17afa16e6e0644a8882c7f8f888301d2052c0b",
+          "id": "93913f5b8fddf3ba18cd06abdc5ed414064656a9",
           "title": "Claude Seems Down",
           "url": "https://news.ycombinator.com/item?id=49324078",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-16T21:52:59Z"
         },
         {
@@ -2683,25 +2597,40 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-16T15:45:06.432000Z"
-        },
-        {
-          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-          "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://news.ycombinator.com/item?id=49320144",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T14:42:33.661000Z"
-        },
-        {
-          "id": "aeb1cd321a029dfb0ef86f8baff7e5c7001085bc",
-          "title": "Claude: System Prompts",
-          "url": "https://news.ycombinator.com/item?id=49319556",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T14:42:33.661000Z"
         }
       ],
-      "item_count": 20,
+      "item_count": 21,
+      "score": 9570
+    },
+    {
+      "story_id": "story_433b516a",
+      "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "primary_url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "source_count": 2,
+      "source_names": [
+        "blog.roboflow.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
+          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "source": "blog.roboflow.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T14:29:55.280000Z"
+        },
+        {
+          "id": "d13527a92c0eaa7930a99046899cc689150a9af9",
+          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T12:09:42Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9570
     },
     {
@@ -2712,7 +2641,7 @@
       "source_count": 2,
       "source_names": [
         "math-ai-org.github.io",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2724,11 +2653,11 @@
           "published_at": "2026-08-17T11:33:59.048000Z"
         },
         {
-          "id": "c19f223266ea5a4f029577c74140a3c58a248a79",
+          "id": "94ba1d06854a30f0b2933918dd421418881390cc",
           "title": "MathCode, Mathematical Coding Agent",
           "url": "https://math-ai-org.github.io/mathcode",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-16T18:17:10Z"
         }
       ],
@@ -2805,7 +2734,7 @@
       "source_count": 2,
       "source_names": [
         "www.reuters.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2817,11 +2746,11 @@
           "published_at": "2026-08-17T01:58:00.413000Z"
         },
         {
-          "id": "0837e7d724f4085da9208064d0ff8722042bce6d",
+          "id": "66192e399f7ec43fd18731703906a2938362c087",
           "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
           "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-16T21:07:10Z"
         }
       ],
@@ -2836,7 +2765,7 @@
       "source_count": 2,
       "source_names": [
         "www.bloomberg.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2848,11 +2777,11 @@
           "published_at": "2026-08-16T23:17:59.746000Z"
         },
         {
-          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "id": "21a2bd2a4327a70b3b3598592e144cfa00cd0675",
           "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
           "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-16T20:31:16Z"
         }
       ],
@@ -2891,35 +2820,224 @@
       "score": 9570
     },
     {
-      "story_id": "story_41f2fc10",
-      "title": "人工智能信用转售经济",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "primary_url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "source_count": 2,
+      "story_id": "story_4b56a10e",
+      "title": "Nvidia 不支持 OpenAI 的租金。它支撑着建筑物",
+      "url": "https://thenextweb.com/news/nvidia-openai-ports-pike-105bn-residual-value-guarantee",
+      "primary_url": "https://thenextweb.com/news/nvidia-openai-ports-pike-105bn-residual-value-guarantee",
+      "source_count": 1,
       "source_names": [
-        "vectoral.com",
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "41ebc7d54e7760b58f4e4054dc388c5cf8a62241",
+          "title": "Nvidia is not backing OpenAI’s rent. It is backing the buildings",
+          "url": "https://thenextweb.com/news/nvidia-openai-ports-pike-105bn-residual-value-guarantee",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:31:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_05a68ef3",
+      "title": "Filing: Nvidia agrees to spend up to $105B to support SB Energy's new data center campus in Ohio set to be leased by OpenAI; Nvidia invests $1.5B in SB Energy (Bloomberg)",
+      "url": "https://www.techmeme.com/260817/p21",
+      "primary_url": "https://www.techmeme.com/260817/p21",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "fce0785b959e5cdea25b7daefedf2431705a3f4b",
+          "title": "Filing: Nvidia agrees to spend up to $105B to support SB Energy's new data center campus in Ohio set to be leased by OpenAI; Nvidia invests $1.5B in SB Energy (Bloomberg)",
+          "url": "https://www.techmeme.com/260817/p21",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cae21afb",
+      "title": "人工智能正在改变安全测试，但并非所有漏洞都是一样的",
+      "url": "https://www.techradar.com/pro/ai-is-changing-security-testing-but-not-all-vulnerabilities-are-created-equal",
+      "primary_url": "https://www.techradar.com/pro/ai-is-changing-security-testing-but-not-all-vulnerabilities-are-created-equal",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "b312ce8da24b8d104eec4595b2eccf12b87928b9",
+          "title": "AI is changing security testing, but not all vulnerabilities are created equal",
+          "url": "https://www.techradar.com/pro/ai-is-changing-security-testing-but-not-all-vulnerabilities-are-created-equal",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:24:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_64d3338b",
+      "title": "AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "primary_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source_count": 1,
+      "source_names": [
         "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
-          "title": "人工智能信用转售经济",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "vectoral.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:39.701000Z"
-        },
-        {
-          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
-          "title": "The AI Credit Resale Economy",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "id": "b36fe63b0c53572ac668e8f5df85aa4d37f82b31",
+          "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-08-16T14:44:55Z"
+          "published_at": "2026-08-17T14:18:38Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ade3ba32",
+      "title": "Gravis Robotics 获得由软银领投的 2 亿美元 A 轮融资",
+      "url": "https://thenextweb.com/news/gravis-robotics-200m-series-a-softbank-autonomous-construction",
+      "primary_url": "https://thenextweb.com/news/gravis-robotics-200m-series-a-softbank-autonomous-construction",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "8997ad6d4efe644e989e4ea33bd5f10513b5a59b",
+          "title": "Gravis Robotics has raised a $200M Series A led by SoftBank",
+          "url": "https://thenextweb.com/news/gravis-robotics-200m-series-a-softbank-autonomous-construction",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:15:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cd53ba94",
+      "title": "Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility (Emanuel Maiberg/404 Media)",
+      "url": "https://www.techmeme.com/260817/p20",
+      "primary_url": "https://www.techmeme.com/260817/p20",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "c8ecc531971f009bff37c386144c949c379c77c4",
+          "title": "Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility (Emanuel Maiberg/404 Media)",
+          "url": "https://www.techmeme.com/260817/p20",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1c53e95c",
+      "title": "如何禁用或避免侵入性人工智能",
+      "url": "https://www.librarian.net/notoai",
+      "primary_url": "https://www.librarian.net/notoai",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
+          "title": "How to disable or avoid intrusive AI",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T14:07:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_dd5798c3",
+      "title": "ETH Zurich spinout Gravis Robotics raised a $200M Series A from SoftBank to scale Gravis Rack, a retrofit autonomous control appliance that mounts on excavators (Mike Wheatley/SiliconANGLE)",
+      "url": "https://www.techmeme.com/260817/p19",
+      "primary_url": "https://www.techmeme.com/260817/p19",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "d8e4bd09e48fe58282f06906e61b13a8f887b998",
+          "title": "ETH Zurich spinout Gravis Robotics raised a $200M Series A from SoftBank to scale Gravis Rack, a retrofit autonomous control appliance that mounts on excavators (Mike Wheatley/SiliconANGLE)",
+          "url": "https://www.techmeme.com/260817/p19",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:00:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e14d7bd0",
+      "title": "Trump-backed WLF is collaborating with Hong Kong-based AI platform WorldClaw; 43 of its 90 AI models are developed by Chinese entities flagged as security risks (Lawrence Delevingne/Reuters)",
+      "url": "https://www.techmeme.com/260817/p18",
+      "primary_url": "https://www.techmeme.com/260817/p18",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "45d5abee49b178a79319facfe461367937ec85ad",
+          "title": "Trump-backed WLF is collaborating with Hong Kong-based AI platform WorldClaw; 43 of its 90 AI models are developed by Chinese entities flagged as security risks (Lawrence Delevingne/Reuters)",
+          "url": "https://www.techmeme.com/260817/p18",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T13:50:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0ce71894",
+      "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+      "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
+          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T13:44:23Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_a782567b",
@@ -2928,16 +3046,38 @@
       "primary_url": "https://1667.ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "d5fb0f8dc8b6221d1ce5a1d99ab26b7044121fc5",
+          "id": "e86e6ea6ca9b0d35b56faa26130557106f3d7ee4",
           "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
           "url": "https://1667.ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T13:35:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6dbcbf94",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+      "url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at",
+      "primary_url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at",
+      "source_count": 1,
+      "source_names": [
+        "Reddit (热门)"
+      ],
+      "sources": [
+        {
+          "id": "46c43460c3f8ab1c4ffaaa1e0cd5b34d34efebfe",
+          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at",
+          "source": "Reddit (热门)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T13:19:25Z"
         }
       ],
       "item_count": 1,
@@ -3010,6 +3150,28 @@
       "score": 7
     },
     {
+      "story_id": "story_55f13d07",
+      "title": "随着人工智能改变入门级工作，安永正在将实习变成为期一年的实习",
+      "url": "https://www.businessinsider.com/ey-internship-residency-career-ai-skills-2026-8",
+      "primary_url": "https://www.businessinsider.com/ey-internship-residency-career-ai-skills-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "de19524a1dd0994ce16eb69022cf14508930b019",
+          "title": "EY is turning its internships into yearlong residencies as AI changes entry-level work",
+          "url": "https://www.businessinsider.com/ey-internship-residency-career-ai-skills-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T13:01:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_92bdeaf4",
       "title": "OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)",
       "url": "https://www.techmeme.com/260817/p15",
@@ -3032,6 +3194,28 @@
       "score": 7
     },
     {
+      "story_id": "story_b543d398",
+      "title": "人们正在寻找一种减缓人工智能竞赛的方法",
+      "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification",
+      "primary_url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification",
+      "source_count": 1,
+      "source_names": [
+        "TIME Magazine"
+      ],
+      "sources": [
+        {
+          "id": "981691da4d294b58f74126507ec7ce877d1f6522",
+          "title": "The People Building a Way to Slow Down the AI Race",
+          "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification",
+          "source": "TIME Magazine",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T12:30:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_2f897df4",
       "title": "Serve Robotics 与 Grubhub 合作，成为美国食品配送的共享机器人层",
       "url": "https://thenextweb.com/news/serve-robotics-grubhub-wonder-delivery-2000-robots",
@@ -3048,28 +3232,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-17T12:17:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_433b516a",
-      "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "primary_url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "d13527a92c0eaa7930a99046899cc689150a9af9",
-          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T12:09:42Z"
         }
       ],
       "item_count": 1,
@@ -3246,6 +3408,28 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-17T11:13:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_46539d6c",
+      "title": "Whisker 的人工智能垃圾机器人认为我的猫交换了身体",
+      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "primary_url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "e780cf5a44144ea064abc62fdc9298a6eeb716f7",
+          "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+          "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T11:00:00Z"
         }
       ],
       "item_count": 1,
@@ -3632,15 +3816,15 @@
       "primary_url": "https://github.com/earendil-works/pi/issues/534",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "87dcbc4fa5764556762d4ee62905546e2a89811d",
+          "id": "3f538b711fb70dd6fb75b4175cfde3439ea74832",
           "title": "Pi coding agent: config folder is out of place on Linux",
           "url": "https://github.com/earendil-works/pi/issues/534",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T09:11:17Z"
         }
       ],
@@ -4116,15 +4300,15 @@
       "primary_url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "07b5e69439177a9b131983bcde2606d4a3eee6e1",
+          "id": "d8fb9e9d3f62c1e5f5b6278359c81fbf324c5da0",
           "title": "On A.I. regulation and messaging",
           "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T01:59:56Z"
         }
       ],
@@ -4264,6 +4448,28 @@
       "score": 7
     },
     {
+      "story_id": "story_ec908331",
+      "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+      "primary_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "bd2c9ce71d2e4356baceedaabfd799dd2dc2d4e4",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T20:57:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_547ded5f",
       "title": "模型正在故意变得更“笨”",
       "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
@@ -4336,15 +4542,15 @@
       "primary_url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "e65ff95c4c70f4ac352d14e5cb1db191859800fd",
+          "id": "73e4bc77656a32557a0bd41d1ab512461a4be85a",
           "title": "Red queen hypothesis – A new way forward for self-improving AI",
           "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-16T20:01:13Z"
         }
       ],
@@ -4484,6 +4690,28 @@
       "score": 7
     },
     {
+      "story_id": "story_41f2fc10",
+      "title": "人工智能信用转售经济",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "primary_url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source_count": 1,
+      "source_names": [
+        "vectoral.com"
+      ],
+      "sources": [
+        {
+          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+          "title": "人工智能信用转售经济",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "vectoral.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:39.701000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_325e679b",
       "title": "Show HN：我将 DeepSeek V4 Flash 缩小到 57GB，它在我的 Mac 上编写了一个编译器",
       "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
@@ -4610,94 +4838,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-16T15:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cf930f9f",
-      "title": "克劳德：系统提示",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "source_count": 1,
-      "source_names": [
-        "platform.claude.com"
-      ],
-      "sources": [
-        {
-          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-          "title": "克劳德：系统提示",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "platform.claude.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T14:30:18.432000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6477d795",
-      "title": "我的 Kindle 上的 Gemini 解决了平板电脑无法解决的一个问题",
-      "url": "https://www.androidpolice.com/gemini-on-my-kindle-solved-the-one-problem-tablets-couldnt-fix",
-      "primary_url": "https://www.androidpolice.com/gemini-on-my-kindle-solved-the-one-problem-tablets-couldnt-fix",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "76c7af0d2a22e462b9ac94a5da117e5ee6e08b61",
-          "title": "Gemini on my Kindle solved the one problem tablets couldn't fix",
-          "url": "https://www.androidpolice.com/gemini-on-my-kindle-solved-the-one-problem-tablets-couldnt-fix",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T14:15:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4a58d4df",
-      "title": "Rimworld Discord 官方服务器禁止所有人工智能生成的内容",
-      "url": "https://www.reddit.com/r/RimWorld/comments/1vpxw0i/official_rimworld_discord_server_bans_all_ai",
-      "primary_url": "https://www.reddit.com/r/RimWorld/comments/1vpxw0i/official_rimworld_discord_server_bans_all_ai",
-      "source_count": 1,
-      "source_names": [
-        "Reddit (热门)"
-      ],
-      "sources": [
-        {
-          "id": "5841fc268fcbe2323035fe97f6edadec80d02bbb",
-          "title": "Official Rimworld Discord Server bans ALL AI generated content",
-          "url": "https://www.reddit.com/r/RimWorld/comments/1vpxw0i/official_rimworld_discord_server_bans_all_ai",
-          "source": "Reddit (热门)",
-          "site_id": "iris",
-          "published_at": "2026-08-16T14:03:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_84f9dbe8",
-      "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B",
-      "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-      "primary_url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "9e06c7fd63ff348cef640034ab1593ab62b167bf",
-          "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T13:58:17Z"
         }
       ],
       "item_count": 1,
