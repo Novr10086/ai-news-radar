@@ -1,29 +1,104 @@
 {
-  "generated_at": "2026-08-17T11:53:31.798895Z",
+  "generated_at": "2026-08-17T13:56:36.356784Z",
   "window_hours": 24,
-  "total_stories": 190,
+  "total_stories": 201,
   "stories": [
     {
-      "story_id": "story_e5221d6f",
-      "title": "情报时代的新政策理念",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "primary_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "story_id": "story_699d10e1",
+      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "primary_url": "https://openai.com/index/the-defenders-window",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "sources": [
+        {
+          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+          "title": "The Defender’s Window",
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:30:00Z"
+        },
+        {
+          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T05:30:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
+    },
+    {
+      "story_id": "story_a7860c43",
+      "title": "OpenAI 加入 PORTS-Pike 项目",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
       "source_count": 1,
       "source_names": [
         "OpenAI News"
       ],
       "sources": [
         {
-          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-          "title": "New policy ideas for the Intelligence Age",
-          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
+          "title": "OpenAI joins PORTS-Pike project",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
           "source": "OpenAI News",
           "site_id": "official_ai",
-          "published_at": "2026-08-17T03:15:00Z"
+          "published_at": "2026-08-17T05:00:00Z"
         }
       ],
       "item_count": 1,
       "score": 10020
+    },
+    {
+      "story_id": "story_029fa688",
+      "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+      "primary_url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
+          "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+          "source": "NVIDIA Blog（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:34:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_837a4cac",
+      "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+      "url": "https://www.ithome.com/0/990/812.htm",
+      "primary_url": "https://www.ithome.com/0/990/812.htm",
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
+          "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "url": "https://www.ithome.com/0/990/812.htm",
+          "source": "IT之家（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:25:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_0fe2d0f9",
@@ -818,6 +893,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_aa1f5dcb",
+      "title": "OpenRouter 推出 Activity 仪表盘与 Analytics API：按智能体、模型、请求追踪 AI 使用成本",
+      "url": "https://openrouter.ai/blog/announcements/activity-dashboard",
+      "primary_url": "https://openrouter.ai/blog/announcements/activity-dashboard",
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "011d5d260b10c669884b6ea1bc9c9e78c8a9fbdb",
+          "title": "OpenRouter 推出 Activity 仪表盘与 Analytics API：按智能体、模型、请求追踪 AI 使用成本",
+          "url": "https://openrouter.ai/blog/announcements/activity-dashboard",
+          "source": "OpenRouter：Announcements（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_59985fb7",
       "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
@@ -1175,35 +1272,70 @@
       "score": 9770
     },
     {
-      "story_id": "story_2ef29bce",
-      "title": "星链之后，马斯克为什么又盯上了太空算力？",
-      "url": "https://www.tmtpost.com/8105159.html",
-      "primary_url": "https://www.tmtpost.com/8105159.html",
-      "source_count": 2,
+      "story_id": "story_0fc80578",
+      "title": "新华解码丨如何培育国家级零碳工厂、零碳算力设施",
+      "url": "http://www.news.cn/20260817/26972aa900cb4711ab4d74ac64a1ed9d/c.html",
+      "primary_url": "http://www.news.cn/20260817/26972aa900cb4711ab4d74ac64a1ed9d/c.html",
+      "source_count": 1,
       "source_names": [
-        "钛媒体 TMTPost",
+        "新华网 / 新华社新闻"
+      ],
+      "sources": [
+        {
+          "id": "be1d363c5b67d615b93141e01468f8f9f60ed4a5",
+          "title": "新华解码丨如何培育国家级零碳工厂、零碳算力设施",
+          "url": "http://www.news.cn/20260817/26972aa900cb4711ab4d74ac64a1ed9d/c.html",
+          "source": "新华网 / 新华社新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:14:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9e54f512",
+      "title": "新华时评丨莫让人工智能“偷声”击穿社会信任",
+      "url": "http://www.news.cn/20260817/8b8f44225dc142ce9936c2ff37bc90f3/c.html",
+      "primary_url": "http://www.news.cn/20260817/8b8f44225dc142ce9936c2ff37bc90f3/c.html",
+      "source_count": 1,
+      "source_names": [
+        "新华网 / 新华社新闻"
+      ],
+      "sources": [
+        {
+          "id": "8461f9448c8f7f0f2ea3193f2652131522c79999",
+          "title": "新华时评丨莫让人工智能“偷声”击穿社会信任",
+          "url": "http://www.news.cn/20260817/8b8f44225dc142ce9936c2ff37bc90f3/c.html",
+          "source": "新华网 / 新华社新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:58:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c870527a",
+      "title": "追逐通用人工智能，世界模型多头并进",
+      "url": "https://www.huxiu.com/article/4883742.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4883742.html?f=rss",
+      "source_count": 1,
+      "source_names": [
         "虎嗅"
       ],
       "sources": [
         {
-          "id": "b9b860625cd4f8a7d2f568485dd450c0cc232b53",
-          "title": "星链之后，马斯克为什么又盯上了太空算力？",
-          "url": "https://www.tmtpost.com/8105159.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T13:18:17Z"
-        },
-        {
-          "id": "bcb2884523729a6a91142e57a51f082527614520",
-          "title": "星链之后，马斯克为什么又盯上了太空算力？",
-          "url": "https://www.huxiu.com/article/4883486.html?f=rss",
+          "id": "cb95b6d4a26a54da4cddcc4e7e373831449fecea",
+          "title": "追逐通用人工智能，世界模型多头并进",
+          "url": "https://www.huxiu.com/article/4883742.html?f=rss",
           "source": "虎嗅",
           "site_id": "opmlrss",
-          "published_at": "2026-08-16T12:13:52Z"
+          "published_at": "2026-08-17T11:38:52Z"
         }
       ],
-      "item_count": 2,
-      "score": 9770
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_c5169443",
@@ -1222,6 +1354,50 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-08-17T11:10:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_51e2d83d",
+      "title": "人类不需要一座新的巴别塔：当诗歌网站引入DeepSeek点评",
+      "url": "https://www.huxiu.com/article/4883733.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4883733.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "e5d40900262e51043775fd53ffa002cbcb43c090",
+          "title": "人类不需要一座新的巴别塔：当诗歌网站引入DeepSeek点评",
+          "url": "https://www.huxiu.com/article/4883733.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:09:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_1ad90a66",
+      "title": "人越多越亏钱，AI把C端SaaS，逼成了健身房生意",
+      "url": "https://www.huxiu.com/article/4883732.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4883732.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "230ea9ea90a72ad5f376df78600e9f75935c4bd1",
+          "title": "人越多越亏钱，AI把C端SaaS，逼成了健身房生意",
+          "url": "https://www.huxiu.com/article/4883732.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:08:31Z"
         }
       ],
       "item_count": 1,
@@ -1808,6 +1984,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_e5221d6f",
+      "title": "情报时代的新政策理念",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "primary_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "8a9697314d0aac5cb48104f41015f6eb21b6f56e",
+          "title": "New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T03:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_377ddf13",
       "title": "推进“人工智能+教育”的五点思考",
       "url": "https://www.huxiu.com/article/4883592.html?f=rss",
@@ -2138,22 +2336,44 @@
       "score": 9720
     },
     {
-      "story_id": "story_eb794a2f",
-      "title": "据报道 OpenAI 解散了其准备团队",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "story_id": "story_ec908331",
+      "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+      "primary_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
       "source_count": 1,
       "source_names": [
-        "The Verge"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "3f2c303879876e494251a44138563a96602cce30",
-          "title": "OpenAI reportedly disbanded its preparedness team",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-          "source": "The Verge",
+          "id": "62a11feeef42fc0dfdc02739c05786209f54f9be",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+          "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-16T21:32:56Z"
+          "published_at": "2026-08-16T20:57:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_59dc8d0c",
+      "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+      "primary_url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "4d38801bdf16c8f9f8dc2f1edb8cf2b86d446462",
+          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-16T20:32:01Z"
         }
       ],
       "item_count": 1,
@@ -2176,28 +2396,6 @@
           "source": "Al Jazeera English",
           "site_id": "opmlrss",
           "published_at": "2026-08-16T17:36:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_92b2f709",
-      "title": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
-      "primary_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "c2fc912902c16cdbb64a5740a06d8232151899ea",
-          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T16:53:51Z"
         }
       ],
       "item_count": 1,
@@ -2292,94 +2490,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_5844ddca",
-      "title": "超节点绕行英伟达：国产算力换了一条赛道",
-      "url": "https://www.tmtpost.com/8104729.html",
-      "primary_url": "https://www.tmtpost.com/8104729.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "b7de094204b898edd612d63e8f48c5044ac8b1a6",
-          "title": "超节点绕行英伟达：国产算力换了一条赛道",
-          "url": "https://www.tmtpost.com/8104729.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T13:18:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_38ad3bd0",
-      "title": "改名“库库AI”背后：百度的AI办公，为什么绕不开网盘与文库？",
-      "url": "https://www.huxiu.com/article/4883487.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883487.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "c256286c4cec63a5c05acbc0fe6f081ce7c3ccd7",
-          "title": "改名“库库AI”背后：百度的AI办公，为什么绕不开网盘与文库？",
-          "url": "https://www.huxiu.com/article/4883487.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T12:15:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_51d707a3",
-      "title": "【数智周报】  华为云OfficeClaw升级为OfficeAce；Meta发布轻量化AI模型，单张显卡即可运行；千问办公助理收费；智谱宣布ZCode全面升级",
-      "url": "https://www.tmtpost.com/8104888.html",
-      "primary_url": "https://www.tmtpost.com/8104888.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "ec172eb0f6c22f407a7a61b617583add560289b5",
-          "title": "【数智周报】  华为云OfficeClaw升级为OfficeAce；Meta发布轻量化AI模型，单张显卡即可运行；千问办公助理收费；智谱宣布ZCode全面升级",
-          "url": "https://www.tmtpost.com/8104888.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T12:08:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_1fc865a6",
-      "title": "流氓人工智能不再是科幻小说",
-      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "primary_url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "beb2153004738cb724176d93d4a07c7498b75c16",
-          "title": "Rogue AI aren’t science fiction anymore",
-          "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_70e3a85a",
       "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
@@ -2418,6 +2528,181 @@
       ],
       "item_count": 3,
       "score": 9580
+    },
+    {
+      "story_id": "story_494b61d6",
+      "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测",
+      "url": "https://news.ycombinator.com/item?id=49323620",
+      "primary_url": "https://news.ycombinator.com/item?id=49323620",
+      "source_count": 2,
+      "source_names": [
+        "hackernews",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
+          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "url": "https://news.ycombinator.com/item?id=49329575",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T13:40:22.397000Z"
+        },
+        {
+          "id": "ffbf4a782fff8d6166b98ffd561fae2006ec0545",
+          "title": "Pi coding agent: config folder is out of place on Linux",
+          "url": "https://news.ycombinator.com/item?id=49328206",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T13:40:22.397000Z"
+        },
+        {
+          "id": "d6b2168bb794c09ed0dbabb229d44036b43b46a8",
+          "title": "Show HN: Sokoban AI Solver",
+          "url": "https://news.ycombinator.com/item?id=49330215",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T13:40:22.397000Z"
+        },
+        {
+          "id": "e2a76d57c2d72419762f948df06399647f95a81f",
+          "title": "HackEurope 2026: A short rant on AI and hackathons",
+          "url": "https://news.ycombinator.com/item?id=49327490",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T10:17:36.310000Z"
+        },
+        {
+          "id": "28b340bd5ee6063b01db16d40db777dd9c2b9113",
+          "title": "On A.I. regulation and messaging",
+          "url": "https://news.ycombinator.com/item?id=49325789",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T10:17:36.310000Z"
+        },
+        {
+          "id": "5185cec364d42b8d8fdb81877d2d7a9f09ff9571",
+          "title": "Red queen hypothesis – A new way forward for self-improving AI",
+          "url": "https://news.ycombinator.com/item?id=49323136",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T03:15:53.181000Z"
+        },
+        {
+          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
+          "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "url": "https://news.ycombinator.com/item?id=49323620",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:46:01.583000Z"
+        },
+        {
+          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
+          "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+          "url": "https://news.ycombinator.com/item?id=49324087",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:46:01.583000Z"
+        },
+        {
+          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
+          "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "url": "https://news.ycombinator.com/item?id=49323686",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:46:01.583000Z"
+        },
+        {
+          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
+          "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://news.ycombinator.com/item?id=49323932",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:46:01.583000Z"
+        },
+        {
+          "id": "1a17afa16e6e0644a8882c7f8f888301d2052c0b",
+          "title": "Claude Seems Down",
+          "url": "https://news.ycombinator.com/item?id=49324078",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-16T21:52:59Z"
+        },
+        {
+          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
+          "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "url": "https://news.ycombinator.com/item?id=49323381",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:14:49.799000Z"
+        },
+        {
+          "id": "9cb3347d4bcf855c5c0cf96453678e61a0a24dba",
+          "title": "MathCode, Mathematical Coding Agent",
+          "url": "https://news.ycombinator.com/item?id=49322330",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T19:14:41.319000Z"
+        },
+        {
+          "id": "cc79e0c0199347879042ce87174ef3c7edf9b5b5",
+          "title": "I've built a free, open-source local and remote memory system for agentw and CL",
+          "url": "https://news.ycombinator.com/item?id=49322206",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T18:44:37.184000Z"
+        },
+        {
+          "id": "22ec75fce8c6ca13d35a1e2469be1ded51dd07b5",
+          "title": "Kimi Work attaches raw agent sessions to feedback reports",
+          "url": "https://news.ycombinator.com/item?id=49313711",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T17:12:43.169000Z"
+        },
+        {
+          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+          "title": "AI Coding Without the Vibes",
+          "url": "https://news.ycombinator.com/item?id=49318735",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T16:42:40Z"
+        },
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN: A public AI whose memory is shared across all users",
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:45:06.432000Z"
+        },
+        {
+          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
+          "title": "The AI Credit Resale Economy",
+          "url": "https://news.ycombinator.com/item?id=49320611",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:45:06.432000Z"
+        },
+        {
+          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+          "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://news.ycombinator.com/item?id=49320144",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:42:33.661000Z"
+        },
+        {
+          "id": "aeb1cd321a029dfb0ef86f8baff7e5c7001085bc",
+          "title": "Claude: System Prompts",
+          "url": "https://news.ycombinator.com/item?id=49319556",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:42:33.661000Z"
+        }
+      ],
+      "item_count": 20,
+      "score": 9570
     },
     {
       "story_id": "story_043b2044",
@@ -2489,7 +2774,7 @@
       "source_count": 2,
       "source_names": [
         "futurism.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2501,11 +2786,11 @@
           "published_at": "2026-08-17T03:34:12.479000Z"
         },
         {
-          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
+          "id": "fb3aff81886c46f144c2b18e40f262795b2a1808",
           "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
           "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-16T21:34:06Z"
         }
       ],
@@ -2551,7 +2836,7 @@
       "source_count": 2,
       "source_names": [
         "www.bloomberg.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2563,11 +2848,11 @@
           "published_at": "2026-08-16T23:17:59.746000Z"
         },
         {
-          "id": "769234db27af93a9849ccc490d3f20365e629591",
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
           "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
           "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-16T20:31:16Z"
         }
       ],
@@ -2637,35 +2922,180 @@
       "score": 9570
     },
     {
-      "story_id": "story_cf930f9f",
-      "title": "Claude：系统提示",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "source_count": 2,
+      "story_id": "story_a782567b",
+      "title": "显示 HN: 1667，用于使用语言模型编写小说的终端 UI",
+      "url": "https://1667.ai",
+      "primary_url": "https://1667.ai",
+      "source_count": 1,
       "source_names": [
-        "platform.claude.com",
         "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-          "title": "克劳德：系统提示",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "platform.claude.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T14:30:18.432000Z"
-        },
-        {
-          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
-          "title": "Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "id": "d5fb0f8dc8b6221d1ce5a1d99ab26b7044121fc5",
+          "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
+          "url": "https://1667.ai",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-08-16T12:48:21Z"
+          "published_at": "2026-08-17T13:35:31Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c7ee692b",
+      "title": "The internet is becoming more stressful and unlikeable — with AI slop and data leaks to blame",
+      "url": "https://www.techradar.com/pro/security/the-internet-is-becoming-more-stressful-and-unlikeable-with-ai-slop-and-data-leaks-to-blame",
+      "primary_url": "https://www.techradar.com/pro/security/the-internet-is-becoming-more-stressful-and-unlikeable-with-ai-slop-and-data-leaks-to-blame",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "f9df057e98d0c9ea54b19e8c09e67aecf25ded92",
+          "title": "The internet is becoming more stressful and unlikeable — with AI slop and data leaks to blame",
+          "url": "https://www.techradar.com/pro/security/the-internet-is-becoming-more-stressful-and-unlikeable-with-ai-slop-and-data-leaks-to-blame",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T13:08:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_50f6a102",
+      "title": "显示 HN：推箱子 AI 求解器",
+      "url": "https://mkornreich.me/projects/sokoban",
+      "primary_url": "https://mkornreich.me/projects/sokoban",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "fc9a13104de8b2a99f9c4bdc9c2e48975eff76d7",
+          "title": "Show HN: Sokoban AI Solver",
+          "url": "https://mkornreich.me/projects/sokoban",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T13:07:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4d3f0134",
+      "title": "Greg Brockman calls the OpenAI-Hugging Face incident \"a watershed moment\" and discusses how OpenAI and other organizations can use AI to improve cyber defenses (Greg Brockman)",
+      "url": "https://www.techmeme.com/260817/p16",
+      "primary_url": "https://www.techmeme.com/260817/p16",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "9d2ecf0dca64660873d71419e12470cd0b1dcb23",
+          "title": "Greg Brockman calls the OpenAI-Hugging Face incident \"a watershed moment\" and discusses how OpenAI and other organizations can use AI to improve cyber defenses (Greg Brockman)",
+          "url": "https://www.techmeme.com/260817/p16",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T13:05:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_92bdeaf4",
+      "title": "OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260817/p15",
+      "primary_url": "https://www.techmeme.com/260817/p15",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "1627848c5eeccbe9e0a4f906bd09d770e4a66c4f",
+          "title": "OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)",
+          "url": "https://www.techmeme.com/260817/p15",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T13:00:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2f897df4",
+      "title": "Serve Robotics 与 Grubhub 合作，成为美国食品配送的共享机器人层",
+      "url": "https://thenextweb.com/news/serve-robotics-grubhub-wonder-delivery-2000-robots",
+      "primary_url": "https://thenextweb.com/news/serve-robotics-grubhub-wonder-delivery-2000-robots",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "344872687f81464d16c55150df8858bff698d07f",
+          "title": "Serve Robotics partners with Grubhub, becoming the shared robot layer for US food delivery",
+          "url": "https://thenextweb.com/news/serve-robotics-grubhub-wonder-delivery-2000-robots",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T12:17:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_433b516a",
+      "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "primary_url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "d13527a92c0eaa7930a99046899cc689150a9af9",
+          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T12:09:42Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_afa71459",
+      "title": "一家特朗普支持的加密货币公司正在帮助出售他的政府试图阻止的中国人工智能",
+      "url": "https://thenextweb.com/news/trump-world-liberty-worldclaw-chinese-ai-reseller",
+      "primary_url": "https://thenextweb.com/news/trump-world-liberty-worldclaw-chinese-ai-reseller",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "568626de1dbd816e7f74bcb0182ce487c1d74062",
+          "title": "A Trump-backed crypto firm is helping sell the very Chinese AI his government is trying to block",
+          "url": "https://thenextweb.com/news/trump-world-liberty-worldclaw-chinese-ai-reseller",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T11:57:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_c80b3ac1",
@@ -2932,164 +3362,6 @@
       "score": 7
     },
     {
-      "story_id": "story_494b61d6",
-      "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测",
-      "url": "https://news.ycombinator.com/item?id=49323620",
-      "primary_url": "https://news.ycombinator.com/item?id=49323620",
-      "source_count": 1,
-      "source_names": [
-        "hackernews"
-      ],
-      "sources": [
-        {
-          "id": "e2a76d57c2d72419762f948df06399647f95a81f",
-          "title": "HackEurope 2026: A short rant on AI and hackathons",
-          "url": "https://news.ycombinator.com/item?id=49327490",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T10:17:36.310000Z"
-        },
-        {
-          "id": "28b340bd5ee6063b01db16d40db777dd9c2b9113",
-          "title": "On A.I. regulation and messaging",
-          "url": "https://news.ycombinator.com/item?id=49325789",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T10:17:36.310000Z"
-        },
-        {
-          "id": "5185cec364d42b8d8fdb81877d2d7a9f09ff9571",
-          "title": "Red queen hypothesis – A new way forward for self-improving AI",
-          "url": "https://news.ycombinator.com/item?id=49323136",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T03:15:53.181000Z"
-        },
-        {
-          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
-          "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-          "url": "https://news.ycombinator.com/item?id=49323620",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
-        },
-        {
-          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-          "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
-        },
-        {
-          "id": "bf8847ee7127dcd4581bc0c2054409f625996448",
-          "title": "Claude Seems Down",
-          "url": "https://news.ycombinator.com/item?id=49324078",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
-        },
-        {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://news.ycombinator.com/item?id=49323686",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
-        },
-        {
-          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-          "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://news.ycombinator.com/item?id=49323932",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
-        },
-        {
-          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
-          "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "url": "https://news.ycombinator.com/item?id=49323381",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T21:14:49.799000Z"
-        },
-        {
-          "id": "9cb3347d4bcf855c5c0cf96453678e61a0a24dba",
-          "title": "MathCode, Mathematical Coding Agent",
-          "url": "https://news.ycombinator.com/item?id=49322330",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T19:14:41.319000Z"
-        },
-        {
-          "id": "cc79e0c0199347879042ce87174ef3c7edf9b5b5",
-          "title": "I've built a free, open-source local and remote memory system for agentw and CL",
-          "url": "https://news.ycombinator.com/item?id=49322206",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T18:44:37.184000Z"
-        },
-        {
-          "id": "22ec75fce8c6ca13d35a1e2469be1ded51dd07b5",
-          "title": "Kimi Work attaches raw agent sessions to feedback reports",
-          "url": "https://news.ycombinator.com/item?id=49313711",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T17:12:43.169000Z"
-        },
-        {
-          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-          "title": "AI Coding Without the Vibes",
-          "url": "https://news.ycombinator.com/item?id=49318735",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T16:42:40Z"
-        },
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN: A public AI whose memory is shared across all users",
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:45:06.432000Z"
-        },
-        {
-          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-          "title": "The AI Credit Resale Economy",
-          "url": "https://news.ycombinator.com/item?id=49320611",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:45:06.432000Z"
-        },
-        {
-          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-          "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://news.ycombinator.com/item?id=49320144",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T14:42:33.661000Z"
-        },
-        {
-          "id": "aeb1cd321a029dfb0ef86f8baff7e5c7001085bc",
-          "title": "Claude: System Prompts",
-          "url": "https://news.ycombinator.com/item?id=49319556",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T14:42:33.661000Z"
-        },
-        {
-          "id": "1560c27245799262bd56b462e236a0f6cda0c30a",
-          "title": "Show HN: Grafana agent observability for Hermes Agent",
-          "url": "https://news.ycombinator.com/item?id=49318128",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T13:12:12.152000Z"
-        }
-      ],
-      "item_count": 18,
-      "score": 7
-    },
-    {
       "story_id": "story_17e7f1ec",
       "title": "LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高",
       "url": "https://juejin.cn/post/7674145872716513280",
@@ -3348,6 +3620,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-17T09:15:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fa8045c4",
+      "title": "Pi 编码代理：config 文件夹在 Linux 上不合适",
+      "url": "https://github.com/earendil-works/pi/issues/534",
+      "primary_url": "https://github.com/earendil-works/pi/issues/534",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "87dcbc4fa5764556762d4ee62905546e2a89811d",
+          "title": "Pi coding agent: config folder is out of place on Linux",
+          "url": "https://github.com/earendil-works/pi/issues/534",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T09:11:17Z"
         }
       ],
       "item_count": 1,
@@ -3822,15 +4116,15 @@
       "primary_url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "ab9a88196af7face3b3f3b331a8de937749978a2",
+          "id": "07b5e69439177a9b131983bcde2606d4a3eee6e1",
           "title": "On A.I. regulation and messaging",
           "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T01:59:56Z"
         }
       ],
@@ -3926,6 +4220,28 @@
       "score": 7
     },
     {
+      "story_id": "story_eb794a2f",
+      "title": "据报道 OpenAI 解散了其准备团队",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "12ef98650f52bdbd180b1ae783de24bd666effb9",
+          "title": "OpenAI reportedly disbanded its preparedness team",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T21:32:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_e83fed5f",
       "title": "达里奥·阿莫代 (Dario Amodei) 承认人工智能公司尚未兑现承诺",
       "url": "https://thenextweb.com/news/dario-amodei-ai-public-trust-cure-cancer-ipo",
@@ -3942,28 +4258,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-16T21:01:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ec908331",
-      "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-      "primary_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "bd2c9ce71d2e4356baceedaabfd799dd2dc2d4e4",
-          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T20:57:04Z"
         }
       ],
       "item_count": 1,
@@ -4014,28 +4308,6 @@
       "score": 7
     },
     {
-      "story_id": "story_59dc8d0c",
-      "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
-      "primary_url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "a5a132a5bc2203050a99414b6a13a2e4a111b11a",
-          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T20:32:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_543844cf",
       "title": "Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May (Bloomberg)",
       "url": "https://www.techmeme.com/260816/p9",
@@ -4064,15 +4336,15 @@
       "primary_url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "73e4bc77656a32557a0bd41d1ab512461a4be85a",
+          "id": "e65ff95c4c70f4ac352d14e5cb1db191859800fd",
           "title": "Red queen hypothesis – A new way forward for self-improving AI",
           "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-16T20:01:13Z"
         }
       ],
@@ -4212,6 +4484,28 @@
       "score": 7
     },
     {
+      "story_id": "story_325e679b",
+      "title": "Show HN：我将 DeepSeek V4 Flash 缩小到 57GB，它在我的 Mac 上编写了一个编译器",
+      "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+      "primary_url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "d1a2bb7da732344f4e52c948e70fb557627d13a3",
+          "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
+          "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T17:13:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_306e0566",
       "title": "“人类的弱水印安抚了弱法律”",
       "url": "https://daringfireball.net/linked/2026/08/16/padolsey-anthropic-eu-weak-law",
@@ -4228,6 +4522,28 @@
           "source": "Daring Fireball",
           "site_id": "techurls",
           "published_at": "2026-08-16T17:07:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_92b2f709",
+      "title": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+      "primary_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "bd4120f5e9c89c54c51ace2efbdd7cc92e3d17a9",
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T16:53:51Z"
         }
       ],
       "item_count": 1,
@@ -4300,6 +4616,28 @@
       "score": 7
     },
     {
+      "story_id": "story_cf930f9f",
+      "title": "克劳德：系统提示",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source_count": 1,
+      "source_names": [
+        "platform.claude.com"
+      ],
+      "sources": [
+        {
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_6477d795",
       "title": "我的 Kindle 上的 Gemini 解决了平板电脑无法解决的一个问题",
       "url": "https://www.androidpolice.com/gemini-on-my-kindle-solved-the-one-problem-tablets-couldnt-fix",
@@ -4350,104 +4688,16 @@
       "primary_url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "cb2b2d9b9bd159491e81661eb7eb6d0218f7d48f",
+          "id": "9e06c7fd63ff348cef640034ab1593ab62b167bf",
           "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
           "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-16T13:58:17Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d5fd9d14",
-      "title": "Tasklet (YC P26) 正在招聘设计工程主管",
-      "url": "https://tasklet.ai/careers/head-of-design-engineering",
-      "primary_url": "https://tasklet.ai/careers/head-of-design-engineering",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "42a33881e9bbfa24407fe1068de235e19dff82f4",
-          "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-          "url": "https://tasklet.ai/careers/head-of-design-engineering",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-16T13:30:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ae646956",
-      "title": "Show HN：所有用户共享内存的公共人工智能",
-      "url": "https://wildstatic.com",
-      "primary_url": "https://wildstatic.com",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN: A public AI whose memory is shared across all users",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_50eedd51",
-      "title": "在 Claude 代码中测试 Moonshot AI 的 Kimi K3",
-      "url": "https://philippdubach.com/posts/kimi-k3-inside-claude-code",
-      "primary_url": "https://philippdubach.com/posts/kimi-k3-inside-claude-code",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "56476ef1165d502efa46b38577f4382918ed50c4",
-          "title": "Testing Moonshot AI's Kimi K3 Inside Claude Code",
-          "url": "https://philippdubach.com/posts/kimi-k3-inside-claude-code",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T12:54:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_62b8f02f",
-      "title": "Gemini now lets you turn off the visible watermark on your AI creations — here's how to do it, and how your content is still flagged as AI",
-      "url": "https://www.techradar.com/ai-platforms-assistants/gemini/gemini-now-lets-you-turn-off-the-visible-watermark-on-your-ai-creations-heres-how-to-do-it-and-how-your-content-is-still-flagged-as-ai",
-      "primary_url": "https://www.techradar.com/ai-platforms-assistants/gemini/gemini-now-lets-you-turn-off-the-visible-watermark-on-your-ai-creations-heres-how-to-do-it-and-how-your-content-is-still-flagged-as-ai",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "6b532af77e5d92791e39db98f44ac3f775e135a7",
-          "title": "Gemini now lets you turn off the visible watermark on your AI creations — here's how to do it, and how your content is still flagged as AI",
-          "url": "https://www.techradar.com/ai-platforms-assistants/gemini/gemini-now-lets-you-turn-off-the-visible-watermark-on-your-ai-creations-heres-how-to-do-it-and-how-your-content-is-still-flagged-as-ai",
-          "source": "TechRadar",
+          "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-08-16T12:30:00Z"
+          "published_at": "2026-08-16T13:58:17Z"
         }
       ],
       "item_count": 1,
