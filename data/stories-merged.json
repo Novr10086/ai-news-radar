@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T21:55:15.864530Z",
+  "generated_at": "2026-08-17T22:54:20.840573Z",
   "window_hours": 24,
-  "total_stories": 244,
+  "total_stories": 240,
   "stories": [
     {
       "story_id": "story_699d10e1",
@@ -10,24 +10,24 @@
       "primary_url": "https://openai.com/index/the-defenders-window",
       "source_count": 2,
       "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "OpenAI News"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "sources": [
+        {
+          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+          "title": "The Defender’s Window",
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:30:00Z"
+        },
         {
           "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
           "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
           "url": "https://openai.com/index/the-defenders-window",
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "8a914b2fa508d7be0b1a65c25f070708a8e21cc2",
-          "title": "The Defender’s Window",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
           "published_at": "2026-08-17T05:30:00Z"
         }
       ],
@@ -79,26 +79,44 @@
       "score": 10020
     },
     {
-      "story_id": "story_e5221d6f",
-      "title": "情报时代的新政策理念",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "primary_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source_count": 1,
+      "story_id": "story_1f3e2dbb",
+      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "primary_url": "https://cursor.com/changelog/origin-code-hosting",
+      "source_count": 3,
       "source_names": [
-        "OpenAI News"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-          "title": "New policy ideas for the Intelligence Age",
-          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T03:15:00Z"
+          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
+          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T22:14:00.748000Z"
+        },
+        {
+          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
+          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "cursor.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T22:14:00.748000Z"
+        },
+        {
+          "id": "345cc14fb9cfd9ae6495b04a5e73fdfb013a58d7",
+          "title": "Cursor launches Origin, GitHub alternative",
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T17:02:44Z"
         }
       ],
-      "item_count": 1,
-      "score": 10020
+      "item_count": 3,
+      "score": 9980
     },
     {
       "story_id": "story_0ce71894",
@@ -109,7 +127,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.404media.co",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -129,11 +147,11 @@
           "published_at": "2026-08-17T18:46:04.518000Z"
         },
         {
-          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
+          "id": "2279eec4b3c2bb26ffae18b432e33a12fa48005f",
           "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T13:44:23Z"
         }
       ],
@@ -149,7 +167,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.librarian.net",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -169,11 +187,11 @@
           "published_at": "2026-08-17T17:58:12.144000Z"
         },
         {
-          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
+          "id": "f292beecfc162081155e99e248d44a0870cc414f",
           "title": "How to disable or avoid intrusive AI",
           "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T14:07:56Z"
         }
       ],
@@ -191,8 +209,8 @@
       ],
       "sources": [
         {
-          "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-          "title": "https://x.com/i/article/2089330332369588224",
+          "id": "6e0f761a2146032889914220920c023472e7a342",
+          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
           "url": "https://x.com/JensenHuang/status/2089331487342829862",
           "source": "X：Jensen Huang (@JensenHuang)",
           "site_id": "aihot",
@@ -1061,28 +1079,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_59985fb7",
-      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-      "primary_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "sources": [
-        {
-          "id": "e37a636db32579233e4e64ee024855a5030f5857",
-          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
-          "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-          "source": "Simon Willison 博客",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T22:00:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_5f4cd6e0",
       "title": "AI PPT全场景、多维度实用测评（打工人实测，早下班有救！）",
       "url": "https://waytoagi.feishu.cn/wiki/YFszwFAM5ikgVRkKoQecKlG5nyd?from=from_copylink",
@@ -1377,7 +1373,7 @@
       "source_names": [
         "ArsTechnica",
         "arstechnica.com",
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -1398,11 +1394,11 @@
           "published_at": "2026-08-17T20:38:17.125000Z"
         },
         {
-          "id": "9e47fe23fdef28ea9a0b451c3b1b89293ce40511",
+          "id": "d504eef197236cd4aea58c164b22d368a97a5768",
           "title": "AirTag reveals Amazon is trashing rare books to train AI",
           "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T19:06:11Z"
         },
         {
@@ -1511,6 +1507,28 @@
       "score": 9770
     },
     {
+      "story_id": "story_3f9dd72d",
+      "title": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
+      "primary_url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "b73772261499678ca40e16a8f27769b033804b65",
+          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T21:27:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_a25d7b2a",
       "title": "AI时代，我们可能正在创造一种“没有人类观众的互联网”",
       "url": "https://www.huxiu.com/article/4883799.html?f=rss",
@@ -1533,22 +1551,52 @@
       "score": 9720
     },
     {
-      "story_id": "story_99a12df6",
-      "title": "Feedly 将长达一周的放缓归因于 bug，而不是其 AI 支柱",
-      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
-      "primary_url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+      "story_id": "story_f0c0df73",
+      "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+      "primary_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "db93a7ca212e736a5756773b34b83916308051e6",
-          "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-          "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+          "id": "a4ffa897d6971c655cec46ac0acff6185d3e76fe",
+          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T17:10:59Z"
+          "published_at": "2026-08-17T16:38:44Z"
+        },
+        {
+          "id": "028bc6f232377abf8a6d6288df14f4cfd604ce76",
+          "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T16:38:44Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9720
+    },
+    {
+      "story_id": "story_431f1e88",
+      "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+      "primary_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "411426eff9ac4abd8dbd99488baec7b73a02a844",
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T15:16:24Z"
         }
       ],
       "item_count": 1,
@@ -2267,6 +2315,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_e5221d6f",
+      "title": "情报时代的新政策理念",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "primary_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "8a9697314d0aac5cb48104f41015f6eb21b6f56e",
+          "title": "New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T03:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_377ddf13",
       "title": "推进“人工智能+教育”的五点思考",
       "url": "https://www.huxiu.com/article/4883592.html?f=rss",
@@ -2604,8 +2674,8 @@
       "source_count": 3,
       "source_names": [
         "www.wiz.io",
-        "Hacker News · 24h最热",
-        "Hacker News (黑客新闻)"
+        "Hacker News",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2617,19 +2687,19 @@
           "published_at": "2026-08-17T16:38:11.073000Z"
         },
         {
-          "id": "bf81286c69bc0aa5f244dece4c537a69eee643b9",
+          "id": "9dd07b53fea512d3aee489453a2f6c29c8920dac",
           "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
           "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T14:18:38Z"
         },
         {
-          "id": "cf7a87e812c53e264434957b442f968288cf3d7c",
+          "id": "2b9d086668657f64e6af46c35269fbf2a19b57f3",
           "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
           "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T14:18:38Z"
         }
       ],
@@ -2637,14 +2707,190 @@
       "score": 9580
     },
     {
+      "story_id": "story_ad020c91",
+      "title": "AI;DR（AI；没读）",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "primary_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source_count": 2,
+      "source_names": [
+        "www.rickmanelius.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "45ea62484878f8b3ce9fde538538b8a2885359c2",
+          "title": "AI;DR（AI；没读）",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "source": "www.rickmanelius.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T20:22:04.245000Z"
+        },
+        {
+          "id": "dcc85f9f0d1f99aa27432c5aeea18798a82d1f9e",
+          "title": "AI;DR (AI; Didn't Read)",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T19:47:15Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_12fa0ec4",
+      "title": "Anthropic对开源AI的战争",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "primary_url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "source_count": 2,
+      "source_names": [
+        "twitter.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "0181fd5a3a0f8a74e0f6a2cee43ba1132af2c270",
+          "title": "Anthropic对开源AI的战争",
+          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+          "source": "twitter.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T19:17:55.343000Z"
+        },
+        {
+          "id": "aa0538acb6809492d4c88a3302a038fb72295ea6",
+          "title": "Anthropic's War on open source AI",
+          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T15:24:34Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_f6bec906",
+      "title": "Qwen3.8 27B 在人工分析中获得52分",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "primary_url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "source_count": 2,
+      "source_names": [
+        "artificialanalysis.ai",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "415ac536bd812718075ca18345db6cd96014e560",
+          "title": "Qwen3.8 27B 在人工分析中获得52分",
+          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+          "source": "artificialanalysis.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T19:01:59.352000Z"
+        },
+        {
+          "id": "99ff4deaa159bc8b9b7e939fd3c112544a705535",
+          "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:25:17Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_433b516a",
+      "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "primary_url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "source_count": 2,
+      "source_names": [
+        "blog.roboflow.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
+          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "source": "blog.roboflow.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T14:29:55.280000Z"
+        },
+        {
+          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
+          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T12:09:42Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_cb747b4c",
+      "title": "关于人工智能监管和消息传递",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "primary_url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "07b5e69439177a9b131983bcde2606d4a3eee6e1",
+          "title": "On A.I. regulation and messaging",
+          "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T01:59:56Z"
+        },
+        {
+          "id": "a415972894f947e9e5e73ece6921ecea0e559052",
+          "title": "On AI regulation and messaging",
+          "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T01:59:56Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_047967ce",
+      "title": "自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息",
+      "url": "https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever",
+      "primary_url": "https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever",
+      "source_count": 1,
+      "source_names": [
+        "Daring Fireball"
+      ],
+      "sources": [
+        {
+          "id": "e7fc41ee1d071543dbd599641db88454d5eccdd9",
+          "title": "No Update Since Early July Regarding Siri AI Coming to the EU, Ever",
+          "url": "https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever",
+          "source": "Daring Fireball",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T21:43:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_de2502fc",
       "title": "AI 生成的 GitHub Copilot “Autofix” 允许 Snowflake 的 Jira 受到损害",
       "url": "https://news.ycombinator.com/item?id=49331423",
       "primary_url": "https://news.ycombinator.com/item?id=49331423",
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "hackernews",
-        "Hacker News (黑客新闻)"
+        "hackernews"
       ],
       "sources": [
         {
@@ -2728,12 +2974,12 @@
           "published_at": "2026-08-17T16:40:52.501000Z"
         },
         {
-          "id": "31b17bb04086b991636dd25b5f05860409d1b736",
+          "id": "0f4ef408c494eb185f2be330728e3e3d4f757964",
           "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
           "url": "https://news.ycombinator.com/item?id=49332751",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-17T15:36:18Z"
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T15:40:40.813000Z"
         },
         {
           "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
@@ -2806,279 +3052,9 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-17T03:15:53.181000Z"
-        },
-        {
-          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
-          "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-          "url": "https://news.ycombinator.com/item?id=49323620",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
-        },
-        {
-          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-          "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
-        },
-        {
-          "id": "bf8847ee7127dcd4581bc0c2054409f625996448",
-          "title": "Claude Seems Down",
-          "url": "https://news.ycombinator.com/item?id=49324078",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
-        },
-        {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://news.ycombinator.com/item?id=49323686",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
-        },
-        {
-          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-          "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://news.ycombinator.com/item?id=49323932",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:46:01.583000Z"
         }
       ],
-      "item_count": 25,
-      "score": 9570
-    },
-    {
-      "story_id": "story_ad020c91",
-      "title": "AI;DR（AI；没读）",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "primary_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "source_count": 2,
-      "source_names": [
-        "www.rickmanelius.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "45ea62484878f8b3ce9fde538538b8a2885359c2",
-          "title": "AI;DR（AI；没读）",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "www.rickmanelius.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T20:22:04.245000Z"
-        },
-        {
-          "id": "03167f81bc912d33de87bb93ddd870c72d96f3ab",
-          "title": "AI;DR (AI; Didn't Read)",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T19:47:15Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_12fa0ec4",
-      "title": "Anthropic对开源AI的战争",
-      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "primary_url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "source_count": 2,
-      "source_names": [
-        "twitter.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "0181fd5a3a0f8a74e0f6a2cee43ba1132af2c270",
-          "title": "Anthropic对开源AI的战争",
-          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-          "source": "twitter.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T19:17:55.343000Z"
-        },
-        {
-          "id": "9fd56fda5c95f91f91a10050bd45ca6d4b0ea15b",
-          "title": "Anthropic's War on open source AI",
-          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T15:24:34Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_f6bec906",
-      "title": "Qwen3.8 27B 在人工分析中获得52分",
-      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "primary_url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "source_count": 2,
-      "source_names": [
-        "artificialanalysis.ai",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "415ac536bd812718075ca18345db6cd96014e560",
-          "title": "Qwen3.8 27B 在人工分析中获得52分",
-          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-          "source": "artificialanalysis.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T19:01:59.352000Z"
-        },
-        {
-          "id": "bd0c30ebb20d11e4a1e69ddfb11b6414013523df",
-          "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T17:25:17Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_f0c0df73",
-      "title": "曾经是在线书商的亚马逊正在销毁善本书籍来训练人工智能模型",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-      "primary_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "37e4307619a3df4c4b25ba533a018c1d43ac2898",
-          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-17T18:10:16Z"
-        },
-        {
-          "id": "028bc6f232377abf8a6d6288df14f4cfd604ce76",
-          "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T16:38:44Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_433b516a",
-      "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "primary_url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "source_count": 2,
-      "source_names": [
-        "blog.roboflow.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
-          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "blog.roboflow.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T14:29:55.280000Z"
-        },
-        {
-          "id": "594bd1c6c1adfc4e9ed51889c66d5dab5584930d",
-          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T12:09:42Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_cb747b4c",
-      "title": "关于人工智能监管和消息传递",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "primary_url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "d8fb9e9d3f62c1e5f5b6278359c81fbf324c5da0",
-          "title": "On A.I. regulation and messaging",
-          "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-17T01:59:56Z"
-        },
-        {
-          "id": "3cc43fb499e5044ad162498817f98b15525fd106",
-          "title": "On AI regulation and messaging",
-          "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T01:59:56Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_047967ce",
-      "title": "自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息",
-      "url": "https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever",
-      "primary_url": "https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever",
-      "source_count": 1,
-      "source_names": [
-        "Daring Fireball"
-      ],
-      "sources": [
-        {
-          "id": "e7fc41ee1d071543dbd599641db88454d5eccdd9",
-          "title": "No Update Since Early July Regarding Siri AI Coming to the EU, Ever",
-          "url": "https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever",
-          "source": "Daring Fireball",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T21:43:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3f9dd72d",
-      "title": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
-      "primary_url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "0073b3b74715b91ff32daf93d6d647e9da3964b7",
-          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T21:27:05Z"
-        }
-      ],
-      "item_count": 1,
+      "item_count": 20,
       "score": 7
     },
     {
@@ -3478,6 +3454,28 @@
       "score": 7
     },
     {
+      "story_id": "story_99a12df6",
+      "title": "Feedly 将长达一周的放缓归因于 bug，而不是其 AI 支柱",
+      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+      "primary_url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "208e84213a7c3bf3452e027f9c92d7722e457530",
+          "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+          "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T17:10:59Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_f8c20aed",
       "title": "微软明天将删除三个 Copilot 功能 - 立即备份你的文件",
       "url": "https://www.makeuseof.com/microsoft-deleting-3-copilot-features",
@@ -3494,28 +3492,6 @@
           "source": "MakeUseOf",
           "site_id": "techurls",
           "published_at": "2026-08-17T17:03:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1f3e2dbb",
-      "title": "Cursor 推出 Origin、GitHub 替代品",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "primary_url": "https://cursor.com/changelog/origin-code-hosting",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
-          "title": "Cursor launches Origin, GitHub alternative",
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:02:44Z"
         }
       ],
       "item_count": 1,
@@ -3874,28 +3850,6 @@
       "score": 7
     },
     {
-      "story_id": "story_431f1e88",
-      "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-      "primary_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "d64b26ffb31e56b96078782e1c11e642f693b78b",
-          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T15:16:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_863458d8",
       "title": "中国仿人机器人冠军优树于8月19日在上海上市，需求创纪录",
       "url": "https://thenextweb.com/news/unitree-humanoid-robot-shanghai-ipo",
@@ -4056,15 +4010,15 @@
       "primary_url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "0029a11a59ffbd8b7f22c43b65f38a3b184f2a50",
+          "id": "649c21add1014fac35209561bedd059fe33e1d25",
           "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
           "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T14:30:09Z"
         }
       ],
@@ -4210,15 +4164,15 @@
       "primary_url": "https://1667.ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "d5fb0f8dc8b6221d1ce5a1d99ab26b7044121fc5",
+          "id": "e86e6ea6ca9b0d35b56faa26130557106f3d7ee4",
           "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
           "url": "https://1667.ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T13:35:31Z"
         }
       ],
@@ -4298,15 +4252,15 @@
       "primary_url": "https://mkornreich.me/projects/sokoban",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "016e9735620b0ac726d8192caecbf9d943b645ac",
+          "id": "976b477ece8bd3ee6121ab2ddd79d79a6ef67ffb",
           "title": "Show HN: Sokoban AI Solver",
           "url": "https://mkornreich.me/projects/sokoban",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T13:07:00Z"
         }
       ],
@@ -5068,15 +5022,15 @@
       "primary_url": "https://github.com/earendil-works/pi/issues/534",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "3f538b711fb70dd6fb75b4175cfde3439ea74832",
+          "id": "87dcbc4fa5764556762d4ee62905546e2a89811d",
           "title": "Pi coding agent: config folder is out of place on Linux",
           "url": "https://github.com/earendil-works/pi/issues/534",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T09:11:17Z"
         }
       ],
@@ -5672,72 +5626,6 @@
           "source": "www.bloomberg.com",
           "site_id": "buzzing",
           "published_at": "2026-08-16T23:17:59.746000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9933b2aa",
-      "title": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症",
-      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "6268ff9620c08a5d516fcf2a63fe7c8e8047a6e3",
-          "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T22:50:38Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_abd44681",
-      "title": "美国空军希望人工智能帮助其民兵 III 核武器保持运转直至 66 岁甚至 80 岁",
-      "url": "https://www.techradar.com/pro/us-air-force-wants-ai-help-to-keep-its-minuteman-iii-nukes-ticking-until-theyre-66-or-maybe-80",
-      "primary_url": "https://www.techradar.com/pro/us-air-force-wants-ai-help-to-keep-its-minuteman-iii-nukes-ticking-until-theyre-66-or-maybe-80",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "7c20b9ec9b5f9f6a4a37d612f3f7c0a9a83d4d94",
-          "title": "US Air Force wants AI help to keep its Minuteman III nukes ticking until they're 66, or maybe 80",
-          "url": "https://www.techradar.com/pro/us-air-force-wants-ai-help-to-keep-its-minuteman-iii-nukes-ticking-until-theyre-66-or-maybe-80",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T22:40:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3d527f16",
-      "title": "How a Claude model made a math breakthrough during its unsuccessful 54-hour attempt to solve the Riemann hypothesis after a user repeatedly encouraged it (Ben Cohen/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260816/p11",
-      "primary_url": "https://www.techmeme.com/260816/p11",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "53c41ea83c9b84422b1e45c262cb3d45f1315bc5",
-          "title": "How a Claude model made a math breakthrough during its unsuccessful 54-hour attempt to solve the Riemann hypothesis after a user repeatedly encouraged it (Ben Cohen/Wall Street Journal)",
-          "url": "https://www.techmeme.com/260816/p11",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T22:35:01Z"
         }
       ],
       "item_count": 1,
