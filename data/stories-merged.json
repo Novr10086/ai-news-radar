@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T14:57:30.683709Z",
+  "generated_at": "2026-08-17T15:53:38.426301Z",
   "window_hours": 24,
-  "total_stories": 207,
+  "total_stories": 216,
   "stories": [
     {
       "story_id": "story_699d10e1",
@@ -10,10 +10,18 @@
       "primary_url": "https://openai.com/index/the-defenders-window",
       "source_count": 2,
       "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "OpenAI News"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "sources": [
+        {
+          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+          "title": "The Defender’s Window",
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:30:00Z"
+        },
         {
           "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
           "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
@@ -21,18 +29,32 @@
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "site_id": "aihot",
           "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "8a914b2fa508d7be0b1a65c25f070708a8e21cc2",
-          "title": "The Defender’s Window",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T05:30:00Z"
         }
       ],
       "item_count": 2,
       "score": 10070
+    },
+    {
+      "story_id": "story_a7860c43",
+      "title": "OpenAI 加入 PORTS-Pike 项目",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
+          "title": "OpenAI joins PORTS-Pike project",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
     },
     {
       "story_id": "story_029fa688",
@@ -1874,28 +1896,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_a7860c43",
-      "title": "OpenAI 加入 PORTS-Pike 项目",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "5877f92555b1a3da51b0934b638fec6e2052ca40",
-          "title": "OpenAI joins PORTS-Pike project",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_d712e5d9",
       "title": "英伟达入局引爆AI债务担忧，700亿美元“表外幽灵”正环伺",
       "url": "https://www.huxiu.com/article/4883607.html?f=rss",
@@ -2314,28 +2314,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_59dc8d0c",
-      "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
-      "primary_url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "4d38801bdf16c8f9f8dc2f1edb8cf2b86d446462",
-          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T20:32:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_8dd6a51f",
       "title": "为什么三明治比人工智能受到更多监管？",
       "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
@@ -2426,10 +2404,18 @@
       "primary_url": "https://news.ycombinator.com/item?id=49331423",
       "source_count": 2,
       "source_names": [
-        "hackernews",
-        "Hacker News"
+        "Hacker News",
+        "hackernews"
       ],
       "sources": [
+        {
+          "id": "9f35c44dc95f718a468f3aad5b3873ec6df8d5a4",
+          "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+          "url": "https://news.ycombinator.com/item?id=49332751",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:36:18Z"
+        },
         {
           "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
           "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
@@ -2581,25 +2567,9 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-16T16:42:40Z"
-        },
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN: A public AI whose memory is shared across all users",
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:45:06.432000Z"
-        },
-        {
-          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-          "title": "The AI Credit Resale Economy",
-          "url": "https://news.ycombinator.com/item?id=49320611",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:45:06.432000Z"
         }
       ],
-      "item_count": 21,
+      "item_count": 20,
       "score": 9570
     },
     {
@@ -2641,7 +2611,7 @@
       "source_count": 2,
       "source_names": [
         "math-ai-org.github.io",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2653,11 +2623,11 @@
           "published_at": "2026-08-17T11:33:59.048000Z"
         },
         {
-          "id": "94ba1d06854a30f0b2933918dd421418881390cc",
+          "id": "f51ad3c5ff7fbd03b2b82e3ac2faab088f288cff",
           "title": "MathCode, Mathematical Coding Agent",
           "url": "https://math-ai-org.github.io/mathcode",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-16T18:17:10Z"
         }
       ],
@@ -2672,7 +2642,7 @@
       "source_count": 2,
       "source_names": [
         "The Next Web",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2684,11 +2654,11 @@
           "published_at": "2026-08-17T06:59:39Z"
         },
         {
-          "id": "2f43a5313ed0a40a14815edf8d40f7bb186012ea",
+          "id": "216c7ae686b6ed275ac6d38453019a626829ad7b",
           "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
           "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-16T21:00:25Z"
         }
       ],
@@ -2703,7 +2673,7 @@
       "source_count": 2,
       "source_names": [
         "futurism.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2715,11 +2685,11 @@
           "published_at": "2026-08-17T03:34:12.479000Z"
         },
         {
-          "id": "fb3aff81886c46f144c2b18e40f262795b2a1808",
+          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
           "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
           "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-16T21:34:06Z"
         }
       ],
@@ -2820,6 +2790,248 @@
       "score": 9570
     },
     {
+      "story_id": "story_6f7c678b",
+      "title": "‘Once the right balance between cloud and local AI is found, organisations will find the sweet spot between cost, performance and security’: The future of AI strategy and how businesses can get the best results",
+      "url": "https://www.techradar.com/pro/once-the-right-balance-between-cloud-and-local-ai-is-found-organisations-will-find-the-sweet-spot-between-cost-performance-and-security-the-future-of-ai-strategy-and-how-businesses-can-get-the-best-results",
+      "primary_url": "https://www.techradar.com/pro/once-the-right-balance-between-cloud-and-local-ai-is-found-organisations-will-find-the-sweet-spot-between-cost-performance-and-security-the-future-of-ai-strategy-and-how-businesses-can-get-the-best-results",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "73f43792732d700bbd92a912755439dbf146a6da",
+          "title": "‘Once the right balance between cloud and local AI is found, organisations will find the sweet spot between cost, performance and security’: The future of AI strategy and how businesses can get the best results",
+          "url": "https://www.techradar.com/pro/once-the-right-balance-between-cloud-and-local-ai-is-found-organisations-will-find-the-sweet-spot-between-cost-performance-and-security-the-future-of-ai-strategy-and-how-businesses-can-get-the-best-results",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:43:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8a6e635d",
+      "title": "Alphabet 推出首张澳元债券，掀起人工智能债务热潮",
+      "url": "https://thenextweb.com/news/alphabet-first-australian-bond-sale",
+      "primary_url": "https://thenextweb.com/news/alphabet-first-australian-bond-sale",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "91f315afed2b4acd3dfba0b31101d6404e0619d4",
+          "title": "Alphabet takes its AI debt spree Down Under with a first Australian dollar bond",
+          "url": "https://thenextweb.com/news/alphabet-first-australian-bond-sale",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:38:59Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c43e287c",
+      "title": "AI 溢出无处不在。 Spotify、LinkedIn 和其他公司已经受够了。",
+      "url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+      "primary_url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "478c979694474cc455cda41325784813eeedfa43",
+          "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+          "url": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:36:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b8080570",
+      "title": "A German regulator says Apple will make changes to ATT after finding it gave Apple's apps more favorable consent prompts than those of third-party developers (Reuters)",
+      "url": "https://www.techmeme.com/260817/p23",
+      "primary_url": "https://www.techmeme.com/260817/p23",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "ff83db3db00256abe2dd461d2d1d69781a559b97",
+          "title": "A German regulator says Apple will make changes to ATT after finding it gave Apple's apps more favorable consent prompts than those of third-party developers (Reuters)",
+          "url": "https://www.techmeme.com/260817/p23",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_431f1e88",
+      "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+      "primary_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "d64b26ffb31e56b96078782e1c11e642f693b78b",
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:16:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_863458d8",
+      "title": "中国仿人机器人冠军优树于8月19日在上海上市，需求创纪录",
+      "url": "https://thenextweb.com/news/unitree-humanoid-robot-shanghai-ipo",
+      "primary_url": "https://thenextweb.com/news/unitree-humanoid-robot-shanghai-ipo",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "4a92c25d92f641c0d6e1568033aa19384bb31454",
+          "title": "Unitree, China’s humanoid robot champion, lists in Shanghai on 19 August after record demand",
+          "url": "https://thenextweb.com/news/unitree-humanoid-robot-shanghai-ipo",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:11:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a1c6d48f",
+      "title": "首先是自动驾驶汽车。现在，Waymo 的资深人士正在建造自主施工设备。",
+      "url": "https://www.businessinsider.com/bedrock-robotics-construction-ai-excavators-2026-8",
+      "primary_url": "https://www.businessinsider.com/bedrock-robotics-construction-ai-excavators-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "5e964009b76b620c9ae914e88aeacafd36e8f95e",
+          "title": "First came self-driving cars. Now, Waymo veterans are building autonomous construction equipment.",
+          "url": "https://www.businessinsider.com/bedrock-robotics-construction-ai-excavators-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:00:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c4b23303",
+      "title": "我给了 ChatGPT 我的 Google Drive“数字垃圾抽屉”——它挖出了我几年前忘记的东西",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-gave-chatgpt-my-google-drive-digital-junk-drawer-it-dug-up-things-id-forgotten-about-years-ago",
+      "primary_url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-gave-chatgpt-my-google-drive-digital-junk-drawer-it-dug-up-things-id-forgotten-about-years-ago",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "f8930bf369c3a16538d00c733578a30e8a468928",
+          "title": "I gave ChatGPT my Google Drive ‘digital junk drawer’ — it dug up things I’d forgotten about years ago",
+          "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-gave-chatgpt-my-google-drive-digital-junk-drawer-it-dug-up-things-id-forgotten-about-years-ago",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b2f13ab3",
+      "title": "OpenAI 放弃召回式屏幕截图监控，转而进行友好的键盘记录",
+      "url": "https://yro.slashdot.org/story/26/08/17/0454255/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging",
+      "primary_url": "https://yro.slashdot.org/story/26/08/17/0454255/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "513d6e2abb2a9803be59986f72fb36122a7b9d71",
+          "title": "OpenAI Ditches Recall-Style Screenshot Surveillance For Friendly Keylogging",
+          "url": "https://yro.slashdot.org/story/26/08/17/0454255/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0236af5c",
+      "title": "每个人引用的人工智能数学突破都是反例，而不是证明",
+      "url": "https://thenextweb.com/news/gowers-llm-maths-counterexamples-not-proofs",
+      "primary_url": "https://thenextweb.com/news/gowers-llm-maths-counterexamples-not-proofs",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "7841961fdbafff22b0f4787d488fa52a967cde99",
+          "title": "The AI maths breakthroughs everyone quotes are counterexamples, not proofs",
+          "url": "https://thenextweb.com/news/gowers-llm-maths-counterexamples-not-proofs",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:58:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3a1b8a95",
+      "title": "Billionaire investor Jeff Gundlach warns of a market top as AI chips become a 'new asset class'",
+      "url": "https://www.businessinsider.com/jeff-gundlach-warns-ai-chip-strategy-may-signal-market-peak-2026-8",
+      "primary_url": "https://www.businessinsider.com/jeff-gundlach-warns-ai-chip-strategy-may-signal-market-peak-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "ad7fe7bda1cdf41c1effe3c2e585fec33c82c1b9",
+          "title": "Billionaire investor Jeff Gundlach warns of a market top as AI chips become a 'new asset class'",
+          "url": "https://www.businessinsider.com/jeff-gundlach-warns-ai-chip-strategy-may-signal-market-peak-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T14:50:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_4b56a10e",
       "title": "Nvidia 不支持 OpenAI 的租金。它支撑着建筑物",
       "url": "https://thenextweb.com/news/nvidia-openai-ports-pike-105bn-residual-value-guarantee",
@@ -2892,15 +3104,15 @@
       "primary_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "b36fe63b0c53572ac668e8f5df85aa4d37f82b31",
+          "id": "bf81286c69bc0aa5f244dece4c537a69eee643b9",
           "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
           "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T14:18:38Z"
         }
       ],
@@ -2958,15 +3170,15 @@
       "primary_url": "https://www.librarian.net/notoai",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
+          "id": "36b91575aaf7f3ce3aa20fde98e51e4c26eb5d41",
           "title": "How to disable or avoid intrusive AI",
           "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T14:07:56Z"
         }
       ],
@@ -3024,15 +3236,15 @@
       "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
+          "id": "2279eec4b3c2bb26ffae18b432e33a12fa48005f",
           "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T13:44:23Z"
         }
       ],
@@ -3112,15 +3324,15 @@
       "primary_url": "https://mkornreich.me/projects/sokoban",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "fc9a13104de8b2a99f9c4bdc9c2e48975eff76d7",
+          "id": "976b477ece8bd3ee6121ab2ddd79d79a6ef67ffb",
           "title": "Show HN: Sokoban AI Solver",
           "url": "https://mkornreich.me/projects/sokoban",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T13:07:00Z"
         }
       ],
@@ -4300,15 +4512,15 @@
       "primary_url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "d8fb9e9d3f62c1e5f5b6278359c81fbf324c5da0",
+          "id": "ab9a88196af7face3b3f3b331a8de937749978a2",
           "title": "On A.I. regulation and messaging",
           "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T01:59:56Z"
         }
       ],
@@ -4514,6 +4726,28 @@
       "score": 7
     },
     {
+      "story_id": "story_59dc8d0c",
+      "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+      "primary_url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "a5a132a5bc2203050a99414b6a13a2e4a111b11a",
+          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T20:32:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_543844cf",
       "title": "Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May (Bloomberg)",
       "url": "https://www.techmeme.com/260816/p9",
@@ -4542,15 +4776,15 @@
       "primary_url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "73e4bc77656a32557a0bd41d1ab512461a4be85a",
+          "id": "e65ff95c4c70f4ac352d14e5cb1db191859800fd",
           "title": "Red queen hypothesis – A new way forward for self-improving AI",
           "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-16T20:01:13Z"
         }
       ],
@@ -4794,50 +5028,6 @@
           "source": "Android Police",
           "site_id": "techurls",
           "published_at": "2026-08-16T16:15:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_261c3966",
-      "title": "OpenAI 的新 ChatGPT 功能会记录您的击键并以纯文本形式存储它们",
-      "url": "https://thenextweb.com/news/openai-chatgpt-computer-history-mac-keystrokes",
-      "primary_url": "https://thenextweb.com/news/openai-chatgpt-computer-history-mac-keystrokes",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "a1045e97ee42bab74dee24544189c14442474d84",
-          "title": "OpenAI’s new ChatGPT feature logs your keystrokes and stores them in plain text",
-          "url": "https://thenextweb.com/news/openai-chatgpt-computer-history-mac-keystrokes",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T15:35:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ec9c488c",
-      "title": "How concerns about AI became an important midterms issue, with candidates adding AI and data center policies to their websites in ~40% of races across the US (Washington Post)",
-      "url": "https://www.techmeme.com/260816/p7",
-      "primary_url": "https://www.techmeme.com/260816/p7",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "76c2c3879877e4cf9b35b54fb450d4d304763915",
-          "title": "How concerns about AI became an important midterms issue, with candidates adding AI and data center policies to their websites in ~40% of races across the US (Washington Post)",
-          "url": "https://www.techmeme.com/260816/p7",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T15:20:00Z"
         }
       ],
       "item_count": 1,
