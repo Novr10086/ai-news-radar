@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-08-18T22:55:35.911943Z",
+  "generated_at": "2026-08-18T23:48:26.841184Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Strengthening democratic oversight in national security",
+      "title_zh": "加强国家安全民主监督",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-18T19:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.91
+    },
     {
       "title": "How Much Memory Does Your Agent Actually Need?",
       "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
@@ -15,15 +26,15 @@
       "ai_score": 0.95
     },
     {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "title_zh": "与 CodeAI 合作，准备第一代 AI",
-      "url": "https://openai.com/index/partnering-with-codeai",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+      "url": "https://openai.com/index/asana",
       "source": "OpenAI News",
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
-      "published_at": "2026-08-18T11:00:00Z",
+      "published_at": "2026-08-18T07:00:00Z",
       "ai_is_related": true,
-      "ai_score": 0.91
+      "ai_score": 0.95
     },
     {
       "title": "Codex CLI 0.148.0",
@@ -35,6 +46,17 @@
       "published_at": "2026-08-18T00:00:00Z",
       "ai_is_related": true,
       "ai_score": 0.98
+    },
+    {
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "title_zh": "NVIDIA 如何通过 ChatGPT Work 扩展专业知识",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-18T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.95
     },
     {
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
@@ -55,17 +77,6 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-08-18T11:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-      "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-      "source": "Google Developers Blog（RSS）",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-08-17T23:22:25.902000Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -103,15 +114,15 @@
       "ai_score": 1.0
     },
     {
-      "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-      "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-      "url": "https://claude.com/blog/ai-ci-cd-on-call",
-      "source": "Claude：Blog（网页）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-18T19:26:08.389000Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
+      "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
+      "title_zh": "明尼苏达州官员起诉德克萨斯州州长，强制引渡 ICE 特工",
+      "url": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-08-18T22:55:50Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
     },
     {
       "title": "fx :Tiny, open, native coding agent.",
