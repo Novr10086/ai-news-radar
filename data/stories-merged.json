@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T11:57:17.110506Z",
+  "generated_at": "2026-08-18T14:06:07.220126Z",
   "window_hours": 24,
-  "total_stories": 206,
+  "total_stories": 205,
   "stories": [
     {
       "story_id": "story_48f9d5cf",
@@ -10,10 +10,18 @@
       "primary_url": "https://openai.com/index/chatgpt-for-teens",
       "source_count": 2,
       "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "OpenAI News"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "sources": [
+        {
+          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
+          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        },
         {
           "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
           "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
@@ -21,36 +29,28 @@
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "site_id": "aihot",
           "published_at": "2026-08-18T11:00:00Z"
-        },
-        {
-          "id": "692a167fd81547ff1b5e3f7fb198fd113b07c507",
-          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T11:00:00Z"
         }
       ],
       "item_count": 2,
       "score": 10070
     },
     {
-      "story_id": "story_f7788bfa",
-      "title": "与 CodeAI 合作，准备第一代 AI",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "story_id": "story_7550eaf8",
+      "title": "带有句子变压器的多向量（后期交互）嵌入模型",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Hugging Face Blog"
       ],
       "sources": [
         {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "Partnering with CodeAI to prepare the first AI generation",
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
+          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
+          "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face Blog",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
       "item_count": 1,
@@ -109,7 +109,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "cursor.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -129,52 +129,12 @@
           "published_at": "2026-08-17T22:14:00.748000Z"
         },
         {
-          "id": "345cc14fb9cfd9ae6495b04a5e73fdfb013a58d7",
+          "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
           "title": "Cursor launches Origin, GitHub alternative",
           "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T17:02:44Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9980
-    },
-    {
-      "story_id": "story_0ce71894",
-      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "source_count": 3,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.404media.co",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "e93451a4241de1ea3225f404c98bc7301751b7e6",
-          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "www.404media.co",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "2279eec4b3c2bb26ffae18b432e33a12fa48005f",
-          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T13:44:23Z"
         }
       ],
       "item_count": 3,
@@ -189,7 +149,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.librarian.net",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -209,11 +169,11 @@
           "published_at": "2026-08-17T17:58:12.144000Z"
         },
         {
-          "id": "36b91575aaf7f3ce3aa20fde98e51e4c26eb5d41",
+          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
           "title": "How to disable or avoid intrusive AI",
           "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T14:07:56Z"
         }
       ],
@@ -291,37 +251,6 @@
       "score": 9970
     },
     {
-      "story_id": "story_837a4cac",
-      "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-      "url": "https://www.ithome.com/0/990/812.htm",
-      "primary_url": "https://www.ithome.com/0/990/812.htm",
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "313e3c5c80e0e0e1161e042133ea29610c986f9d",
-          "title": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
-          "url": "https://www.aibase.com/news/30414",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T03:09:23.576863Z"
-        },
-        {
-          "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
-          "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-          "url": "https://www.ithome.com/0/990/812.htm",
-          "source": "IT之家（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:25:27Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9970
-    },
-    {
       "story_id": "story_023fd01a",
       "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
@@ -347,6 +276,37 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-18T00:09:42Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
+      "story_id": "story_0ce71894",
+      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+      "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.404media.co"
+      ],
+      "sources": [
+        {
+          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
+          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T18:46:04.518000Z"
+        },
+        {
+          "id": "e93451a4241de1ea3225f404c98bc7301751b7e6",
+          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
+          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+          "source": "www.404media.co",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T18:46:04.518000Z"
         }
       ],
       "item_count": 2,
@@ -867,6 +827,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_f36b6d9f",
+      "title": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+      "url": "https://www.aibase.com/news/30414",
+      "primary_url": "https://www.aibase.com/news/30414",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "313e3c5c80e0e0e1161e042133ea29610c986f9d",
+          "title": "A股“人形机器人第一股”宇树科技8月19日上市，发行市值约610亿元",
+          "url": "https://www.aibase.com/news/30414",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T03:09:23.576863Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_45f1a014",
       "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
       "url": "https://www.aibase.com/news/30421",
@@ -1103,50 +1085,6 @@
           "source": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-18T03:09:23.576863Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_a4cec937",
-      "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
-      "url": "https://x.com/JensenHuang/status/2089331487342829862",
-      "primary_url": "https://x.com/JensenHuang/status/2089331487342829862",
-      "source_count": 1,
-      "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
-      ],
-      "sources": [
-        {
-          "id": "6e0f761a2146032889914220920c023472e7a342",
-          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
-          "url": "https://x.com/JensenHuang/status/2089331487342829862",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:40:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_029fa688",
-      "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
-      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-      "primary_url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
-          "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
-          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-          "source": "NVIDIA Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:34:51Z"
         }
       ],
       "item_count": 1,
@@ -1549,6 +1487,54 @@
       "score": 9820
     },
     {
+      "story_id": "story_5031a899",
+      "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+      "source_count": 3,
+      "source_names": [
+        "ArsTechnica",
+        "arstechnica.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "8e9173d0c78a9dce30379b91189ed829a4b21408",
+          "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T18:13:47Z"
+        },
+        {
+          "id": "68e9f5a422134ebac3f7a6493ac8448eeb747673",
+          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
+          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+          "source": "arstechnica.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T20:38:17.125000Z"
+        },
+        {
+          "id": "ec43f26b1278c0cbd2c8f32b6c2e619e7f53a31f",
+          "title": "AirTag reveals Amazon is trashing rare books to train AI",
+          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T19:06:11Z"
+        },
+        {
+          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
+          "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:55:50Z"
+        }
+      ],
+      "item_count": 4,
+      "score": 9780
+    },
+    {
       "story_id": "story_c06a21f9",
       "title": "AI做电影，远比想象中难",
       "url": "https://www.tmtpost.com/8107015.html",
@@ -1649,7 +1635,7 @@
       "source_count": 2,
       "source_names": [
         "TechCrunch",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1661,16 +1647,214 @@
           "published_at": "2026-08-17T16:38:44Z"
         },
         {
-          "id": "052f75375b2a8b93f95eb5bacb27e5a43bee4202",
+          "id": "9f94c7411e3874f54ce0503dae48741446115b59",
           "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
           "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T18:10:16Z"
         }
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_8f8ce876",
+      "title": "Warp 的新系统是一个用于人工智能开发的开箱即用的软件工厂",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
+      "primary_url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "4688268fa7c3a6eef389b0427f14676955c85cbb",
+          "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+          "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_935cf3d7",
+      "title": "OpenAI 为青少年推出了更安全的 ChatGPT——在青少年开始使用几年后",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+      "primary_url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "a0954047ac1895f48885f2e19eeae77cf0cda3b9",
+          "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+          "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T13:50:30Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_36a75748",
+      "title": "Perplexity 的免费人工智能服务使其在印度拥有数百万用户",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
+      "primary_url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "4b456107e1fa96b2246162cc82b193ac90bee646",
+          "title": "Perplexity’s free AI offer left it with millions more users in India",
+          "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T13:45:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7ea6f8c5",
+      "title": "AI收入连续两个季度过半，百度换了一张估值表",
+      "url": "https://www.tmtpost.com/8107731.html",
+      "primary_url": "https://www.tmtpost.com/8107731.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "97de4a8c969bed1c58bb8ebdf72956b57ed33326",
+          "title": "AI收入连续两个季度过半，百度换了一张估值表",
+          "url": "https://www.tmtpost.com/8107731.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T13:01:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f3276f9b",
+      "title": "微软Copilot揭示了导致其被黑客攻击的秘密输入",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked",
+      "primary_url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "a7465e1b032eb67889549b3cf7d654ff78177058",
+          "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+          "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T13:00:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c99c4fc9",
+      "title": "Firefox 的智能窗口有望打造更好的人工智能浏览器",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "f9798c245c50b27eb8bae7c25459c6c2d93c4013",
+          "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_d0695a78",
+      "title": "马斯克反常动作曝光：人类与AI的决战，其实已经打响了？",
+      "url": "https://www.huxiu.com/article/4883555.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4883555.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "900fe6bac17d5c3c471027b1405a8c590d31675f",
+          "title": "马斯克反常动作曝光：人类与AI的决战，其实已经打响了？",
+          "url": "https://www.huxiu.com/article/4883555.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_1de575d6",
+      "title": "黄仁勋亲自抢货，AI又缺一种材料，迎来史上最大涨价潮",
+      "url": "https://www.huxiu.com/article/4884037.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4884037.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "d42e76ae41751609929f00974b2b5beddbb87499",
+          "title": "黄仁勋亲自抢货，AI又缺一种材料，迎来史上最大涨价潮",
+          "url": "https://www.huxiu.com/article/4884037.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T12:58:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c8894258",
+      "title": "通用AI助手，难逃互联网老路？",
+      "url": "https://www.huxiu.com/article/4884010.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4884010.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "b29b520e11352b6c5c42423d7c51ec2d59442771",
+          "title": "通用AI助手，难逃互联网老路？",
+          "url": "https://www.huxiu.com/article/4884010.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T11:10:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_beb2473c",
@@ -1687,6 +1871,50 @@
           "title": "ChatGPT is getting a dedicated mode for teens",
           "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
           "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9a5a5202",
+      "title": "OpenAI 推出针对青少年的 ChatGPT，承诺推出更适合年龄的聊天机器人 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "74701ba6899090e527a60848eaa6ee3f0fadf740",
+          "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f7788bfa",
+      "title": "与 CodeAI 合作，准备第一代 AI",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "1afba5b123c7543c0787adf7f2ba30fdb5aed165",
+          "title": "Partnering with CodeAI to prepare the first AI generation",
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
           "site_id": "opmlrss",
           "published_at": "2026-08-18T11:00:00Z"
         }
@@ -2583,6 +2811,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_99a12df6",
+      "title": "Feedly 将长达一周的放缓归因于 bug，而不是其 AI 支柱",
+      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+      "primary_url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "db93a7ca212e736a5756773b34b83916308051e6",
+          "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+          "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T17:10:59Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_f0758141",
       "title": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud",
       "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
@@ -2599,6 +2849,28 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-08-17T16:15:12Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_431f1e88",
+      "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+      "primary_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "411426eff9ac4abd8dbd99488baec7b73a02a844",
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T15:16:24Z"
         }
       ],
       "item_count": 1,
@@ -2627,107 +2899,230 @@
       "score": 9720
     },
     {
-      "story_id": "story_0fc80578",
-      "title": "新华解码丨如何培育国家级零碳工厂、零碳算力设施",
-      "url": "http://www.news.cn/20260817/26972aa900cb4711ab4d74ac64a1ed9d/c.html",
-      "primary_url": "http://www.news.cn/20260817/26972aa900cb4711ab4d74ac64a1ed9d/c.html",
-      "source_count": 1,
+      "story_id": "story_ca719eb7",
+      "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "primary_url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "source_count": 2,
       "source_names": [
-        "新华网 / 新华社新闻"
+        "www.theregister.com",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "be1d363c5b67d615b93141e01468f8f9f60ed4a5",
-          "title": "新华解码丨如何培育国家级零碳工厂、零碳算力设施",
-          "url": "http://www.news.cn/20260817/26972aa900cb4711ab4d74ac64a1ed9d/c.html",
-          "source": "新华网 / 新华社新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T12:14:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_9e54f512",
-      "title": "新华时评丨莫让人工智能“偷声”击穿社会信任",
-      "url": "http://www.news.cn/20260817/8b8f44225dc142ce9936c2ff37bc90f3/c.html",
-      "primary_url": "http://www.news.cn/20260817/8b8f44225dc142ce9936c2ff37bc90f3/c.html",
-      "source_count": 1,
-      "source_names": [
-        "新华网 / 新华社新闻"
-      ],
-      "sources": [
+          "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "www.theregister.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T12:06:14.267000Z"
+        },
         {
-          "id": "8461f9448c8f7f0f2ea3193f2652131522c79999",
-          "title": "新华时评丨莫让人工智能“偷声”击穿社会信任",
-          "url": "http://www.news.cn/20260817/8b8f44225dc142ce9936c2ff37bc90f3/c.html",
-          "source": "新华网 / 新华社新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T11:58:00Z"
+          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
+          "title": "Google buys crashed airline Spirit's data at auction, because AI",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-18T10:13:28Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
-      "story_id": "story_0c73e3ed",
-      "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
-      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-      "primary_url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-      "source_count": 4,
+      "story_id": "story_3e4bebdd",
+      "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
+      "url": "https://speko.ai",
+      "primary_url": "https://speko.ai",
+      "source_count": 2,
       "source_names": [
-        "arstechnica.com",
-        "Hacker News",
-        "Ars Technica",
+        "speko.ai",
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "68e9f5a422134ebac3f7a6493ac8448eeb747673",
-          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "arstechnica.com",
+          "id": "0e03b723143f533f1c7972c6ef73bc20907a74c9",
+          "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
+          "url": "https://speko.ai",
+          "source": "speko.ai",
           "site_id": "buzzing",
-          "published_at": "2026-08-17T20:38:17.125000Z"
+          "published_at": "2026-08-18T07:02:07.067000Z"
         },
         {
-          "id": "d504eef197236cd4aea58c164b22d368a97a5768",
-          "title": "AirTag reveals Amazon is trashing rare books to train AI",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T19:06:11Z"
-        },
-        {
-          "id": "e8f91dc18f01368b9b3e041c7d265795aa022011",
-          "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T18:13:47Z"
-        },
-        {
-          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
-          "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "id": "36fc23b4b0f1e89b76cc808498e4dbde52ac88f5",
+          "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+          "url": "https://speko.ai",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-08-17T17:55:50Z"
+          "published_at": "2026-08-17T15:36:18Z"
         }
       ],
-      "item_count": 4,
-      "score": 9590
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_728ec8fd",
+      "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+      "primary_url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+      "source_count": 2,
+      "source_names": [
+        "responsiblestatecraft.org",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
+          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "responsiblestatecraft.org",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T02:30:02.549000Z"
+        },
+        {
+          "id": "29238fb7a9b0754218933360ccd6b3cd19477b13",
+          "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T20:46:10Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_f9c5e49c",
+      "title": "GPT-5.6 Sol 价格下调 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "primary_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "source_count": 2,
+      "source_names": [
+        "openrouter.ai",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "b84a2c553b2e04dedf7030449b5ce55e8ffaa426",
+          "title": "GPT-5.6 Sol 价格下调 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "openrouter.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T01:42:08.453000Z"
+        },
+        {
+          "id": "0879a46a5ca46121852bfb9ebcd2e4e6b4e2b8a5",
+          "title": "GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T21:03:18Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_ad020c91",
+      "title": "AI;DR（AI；没读）",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "primary_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source_count": 2,
+      "source_names": [
+        "www.rickmanelius.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "45ea62484878f8b3ce9fde538538b8a2885359c2",
+          "title": "AI;DR（AI；没读）",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "source": "www.rickmanelius.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T20:22:04.245000Z"
+        },
+        {
+          "id": "dcc85f9f0d1f99aa27432c5aeea18798a82d1f9e",
+          "title": "AI;DR (AI; Didn't Read)",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T19:47:15Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_12fa0ec4",
+      "title": "Anthropic对开源AI的战争",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "primary_url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "source_count": 2,
+      "source_names": [
+        "twitter.com",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "0181fd5a3a0f8a74e0f6a2cee43ba1132af2c270",
+          "title": "Anthropic对开源AI的战争",
+          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+          "source": "twitter.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T19:17:55.343000Z"
+        },
+        {
+          "id": "9fd56fda5c95f91f91a10050bd45ca6d4b0ea15b",
+          "title": "Anthropic's War on open source AI",
+          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T15:24:34Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_f6bec906",
+      "title": "Qwen3.8 27B 在人工分析中获得52分",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "primary_url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "source_count": 2,
+      "source_names": [
+        "artificialanalysis.ai",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "415ac536bd812718075ca18345db6cd96014e560",
+          "title": "Qwen3.8 27B 在人工分析中获得52分",
+          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+          "source": "artificialanalysis.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T19:01:59.352000Z"
+        },
+        {
+          "id": "5b1e5334a5b929cec65b048f7f3354e23070562b",
+          "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T17:25:17Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_64d3338b",
       "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "primary_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "www.wiz.io",
-        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -2740,11 +3135,11 @@
           "published_at": "2026-08-17T16:38:11.073000Z"
         },
         {
-          "id": "9dd07b53fea512d3aee489453a2f6c29c8920dac",
+          "id": "bf81286c69bc0aa5f244dece4c537a69eee643b9",
           "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
           "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T14:18:38Z"
         },
         {
@@ -2757,19 +3152,50 @@
         }
       ],
       "item_count": 3,
-      "score": 9580
+      "score": 9570
     },
     {
       "story_id": "story_de2502fc",
       "title": "AI 生成的 GitHub Copilot “Autofix” 允许 Snowflake 的 Jira 受到损害",
       "url": "https://news.ycombinator.com/item?id=49331423",
       "primary_url": "https://news.ycombinator.com/item?id=49331423",
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "hackernews",
-        "Hacker News (黑客新闻)"
+        "hackernews"
       ],
       "sources": [
+        {
+          "id": "3a6e4970dbc931aa7cb11cd88707b6c13d0d0bd5",
+          "title": "Baking a Model: A Metaphor for LLM Training",
+          "url": "https://news.ycombinator.com/item?id=49305969",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T14:05:45.341000Z"
+        },
+        {
+          "id": "98bec71bfe6aaa7d6da33c242be744ab1ef84dff",
+          "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "url": "https://news.ycombinator.com/item?id=49344643",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T14:05:45.341000Z"
+        },
+        {
+          "id": "d965066ddfa4512d416ee37b8e0a13f321b90002",
+          "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "url": "https://news.ycombinator.com/item?id=49345320",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T14:05:45.341000Z"
+        },
+        {
+          "id": "b0d6c458d87619ecd70433063c4f32faa9a49bda",
+          "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+          "url": "https://news.ycombinator.com/item?id=49345154",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T14:05:45.341000Z"
+        },
         {
           "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
           "title": "Google buys crashed airline Spirit's data at auction, because AI",
@@ -2891,12 +3317,12 @@
           "published_at": "2026-08-17T16:40:52.501000Z"
         },
         {
-          "id": "31b17bb04086b991636dd25b5f05860409d1b736",
+          "id": "0f4ef408c494eb185f2be330728e3e3d4f757964",
           "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
           "url": "https://news.ycombinator.com/item?id=49332751",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-17T15:36:18Z"
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T15:40:40.813000Z"
         },
         {
           "id": "cf855ac10fc0a2d3263df64917e87e3dcced1961",
@@ -2921,251 +3347,98 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-17T14:40:27.207000Z"
-        },
-        {
-          "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
-          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "url": "https://news.ycombinator.com/item?id=49329575",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T13:40:22.397000Z"
-        },
-        {
-          "id": "ffbf4a782fff8d6166b98ffd561fae2006ec0545",
-          "title": "Pi coding agent: config folder is out of place on Linux",
-          "url": "https://news.ycombinator.com/item?id=49328206",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T13:40:22.397000Z"
-        },
-        {
-          "id": "d6b2168bb794c09ed0dbabb229d44036b43b46a8",
-          "title": "Show HN: Sokoban AI Solver",
-          "url": "https://news.ycombinator.com/item?id=49330215",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T13:40:22.397000Z"
         }
       ],
-      "item_count": 22,
-      "score": 9570
+      "item_count": 23,
+      "score": 7
     },
     {
-      "story_id": "story_3e4bebdd",
-      "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
-      "url": "https://speko.ai",
-      "primary_url": "https://speko.ai",
-      "source_count": 2,
+      "story_id": "story_284107b3",
+      "title": "我让 AI Agent 先别改代码，它怎么还是动手了？",
+      "url": "https://juejin.cn/post/7675005880885461038",
+      "primary_url": "https://juejin.cn/post/7675005880885461038",
+      "source_count": 1,
       "source_names": [
-        "speko.ai",
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "76cd33dfd6039ff89fef903b5959248027ffe9cf",
+          "title": "我让 AI Agent 先别改代码，它怎么还是动手了？",
+          "url": "https://juejin.cn/post/7675005880885461038",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T14:05:45.341000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_db4b2a6d",
+      "title": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome",
+      "url": "https://github.com/pitiflautico/neobrowser",
+      "primary_url": "https://github.com/pitiflautico/neobrowser",
+      "source_count": 1,
+      "source_names": [
         "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "0e03b723143f533f1c7972c6ef73bc20907a74c9",
-          "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
-          "url": "https://speko.ai",
-          "source": "speko.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T07:02:07.067000Z"
-        },
-        {
-          "id": "98d0e4d1d46454f0fece7b315b039e412f0e7736",
-          "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-          "url": "https://speko.ai",
+          "id": "1ffc42f8d3edc472934a413fc7247a57b26a0f71",
+          "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "url": "https://github.com/pitiflautico/neobrowser",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-08-17T15:36:18Z"
+          "published_at": "2026-08-18T13:25:54Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
     },
     {
-      "story_id": "story_728ec8fd",
-      "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-      "primary_url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-      "source_count": 2,
+      "story_id": "story_51bbf749",
+      "title": "Show HN：我取消了 AI 代码审查器并编写了一个免费的本地代码审查器",
+      "url": "https://github.com/mukundzha/avouch",
+      "primary_url": "https://github.com/mukundzha/avouch",
+      "source_count": 1,
       "source_names": [
-        "responsiblestatecraft.org",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
-          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-          "source": "responsiblestatecraft.org",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T02:30:02.549000Z"
-        },
-        {
-          "id": "29238fb7a9b0754218933360ccd6b3cd19477b13",
-          "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T20:46:10Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_f9c5e49c",
-      "title": "GPT-5.6 Sol 价格下调 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "primary_url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "source_count": 2,
-      "source_names": [
-        "openrouter.ai",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "b84a2c553b2e04dedf7030449b5ce55e8ffaa426",
-          "title": "GPT-5.6 Sol 价格下调 50%",
-          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-          "source": "openrouter.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T01:42:08.453000Z"
-        },
-        {
-          "id": "4e5e6474029a6efbc69952e2798ab177209b6927",
-          "title": "GPT-5.6 Sol Pricing Cut by 50%",
-          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T21:03:18Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_ad020c91",
-      "title": "AI;DR（AI；没读）",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "primary_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "source_count": 2,
-      "source_names": [
-        "www.rickmanelius.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "45ea62484878f8b3ce9fde538538b8a2885359c2",
-          "title": "AI;DR（AI；没读）",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "www.rickmanelius.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T20:22:04.245000Z"
-        },
-        {
-          "id": "6360d9a0c37f20f0f6bfbede22713980d7868a5a",
-          "title": "AI;DR (AI; Didn't Read)",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T19:47:15Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_12fa0ec4",
-      "title": "Anthropic对开源AI的战争",
-      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "primary_url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "source_count": 2,
-      "source_names": [
-        "twitter.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "0181fd5a3a0f8a74e0f6a2cee43ba1132af2c270",
-          "title": "Anthropic对开源AI的战争",
-          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-          "source": "twitter.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T19:17:55.343000Z"
-        },
-        {
-          "id": "9fd56fda5c95f91f91a10050bd45ca6d4b0ea15b",
-          "title": "Anthropic's War on open source AI",
-          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T15:24:34Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_f6bec906",
-      "title": "Qwen3.8 27B 在人工分析中获得52分",
-      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "primary_url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "source_count": 2,
-      "source_names": [
-        "artificialanalysis.ai",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "415ac536bd812718075ca18345db6cd96014e560",
-          "title": "Qwen3.8 27B 在人工分析中获得52分",
-          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-          "source": "artificialanalysis.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T19:01:59.352000Z"
-        },
-        {
-          "id": "bd0c30ebb20d11e4a1e69ddfb11b6414013523df",
-          "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T17:25:17Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_433b516a",
-      "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "primary_url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "source_count": 2,
-      "source_names": [
-        "blog.roboflow.com",
         "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
-          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "blog.roboflow.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T14:29:55.280000Z"
-        },
-        {
-          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
-          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "id": "ef1336bf4565df83609ef1d8d857d1ce060704ed",
+          "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+          "url": "https://github.com/mukundzha/avouch",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-08-17T12:09:42Z"
+          "published_at": "2026-08-18T13:13:17Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f8337e9a",
+      "title": "Claude 为我专为 Windows 打造的不起眼的 HP 打印机编写 macOS 驱动程序",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "primary_url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "7621eb461e97b5b77effcb26fdb321fa2ab5bba2",
+          "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+          "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T12:22:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_99aaab5b",
@@ -3360,28 +3633,6 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-08-18T11:00:20.853000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ca719eb7",
-      "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "primary_url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
-          "title": "Google buys crashed airline Spirit's data at auction, because AI",
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-18T10:13:28Z"
         }
       ],
       "item_count": 1,
@@ -3894,6 +4145,28 @@
       "score": 7
     },
     {
+      "story_id": "story_c74487f2",
+      "title": "Tim O'Reilly – 为什么开源对人工智能很重要",
+      "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+      "primary_url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "255a32d95f1ebd38a5c0535f2893b80f19a717ef",
+          "title": "Tim O'Reilly – Why Open Source Matters for AI",
+          "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T18:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_a6abcc99",
       "title": "苹果被迫停止在​​个人数据收集提示中偏向自家应用程序",
       "url": "https://www.engadget.com/2238496/apple-is-forced-to-stop-favoring-its-own-apps-in-personal-data-collection-prompts",
@@ -4042,28 +4315,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-17T17:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_99a12df6",
-      "title": "Feedly 将长达一周的放缓归因于 bug，而不是其 AI 支柱",
-      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
-      "primary_url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "208e84213a7c3bf3452e027f9c92d7722e457530",
-          "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-          "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T17:10:59Z"
         }
       ],
       "item_count": 1,
@@ -4400,28 +4651,6 @@
       "score": 7
     },
     {
-      "story_id": "story_431f1e88",
-      "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-      "primary_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "d64b26ffb31e56b96078782e1c11e642f693b78b",
-          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T15:16:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_863458d8",
       "title": "中国仿人机器人冠军优树于8月19日在上海上市，需求创纪录",
       "url": "https://thenextweb.com/news/unitree-humanoid-robot-shanghai-ipo",
@@ -4620,6 +4849,28 @@
       "score": 7
     },
     {
+      "story_id": "story_433b516a",
+      "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "primary_url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "source_count": 1,
+      "source_names": [
+        "blog.roboflow.com"
+      ],
+      "sources": [
+        {
+          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
+          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "source": "blog.roboflow.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T14:29:55.280000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_cae21afb",
       "title": "人工智能正在改变安全测试，但并非所有漏洞都是一样的",
       "url": "https://www.techradar.com/pro/ai-is-changing-security-testing-but-not-all-vulnerabilities-are-created-equal",
@@ -4680,292 +4931,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-17T14:10:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_dd5798c3",
-      "title": "ETH Zurich spinout Gravis Robotics raised a $200M Series A from SoftBank to scale Gravis Rack, a retrofit autonomous control appliance that mounts on excavators (Mike Wheatley/SiliconANGLE)",
-      "url": "https://www.techmeme.com/260817/p19",
-      "primary_url": "https://www.techmeme.com/260817/p19",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "d8e4bd09e48fe58282f06906e61b13a8f887b998",
-          "title": "ETH Zurich spinout Gravis Robotics raised a $200M Series A from SoftBank to scale Gravis Rack, a retrofit autonomous control appliance that mounts on excavators (Mike Wheatley/SiliconANGLE)",
-          "url": "https://www.techmeme.com/260817/p19",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T14:00:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e14d7bd0",
-      "title": "Trump-backed WLF is collaborating with Hong Kong-based AI platform WorldClaw; 43 of its 90 AI models are developed by Chinese entities flagged as security risks (Lawrence Delevingne/Reuters)",
-      "url": "https://www.techmeme.com/260817/p18",
-      "primary_url": "https://www.techmeme.com/260817/p18",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "45d5abee49b178a79319facfe461367937ec85ad",
-          "title": "Trump-backed WLF is collaborating with Hong Kong-based AI platform WorldClaw; 43 of its 90 AI models are developed by Chinese entities flagged as security risks (Lawrence Delevingne/Reuters)",
-          "url": "https://www.techmeme.com/260817/p18",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T13:50:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a782567b",
-      "title": "显示 HN: 1667，用于使用语言模型编写小说的终端 UI",
-      "url": "https://1667.ai",
-      "primary_url": "https://1667.ai",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "2156060bc5262a30816ba76841ba0132faec48b3",
-          "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
-          "url": "https://1667.ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T13:35:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6dbcbf94",
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
-      "url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at",
-      "primary_url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at",
-      "source_count": 1,
-      "source_names": [
-        "Reddit (热门)"
-      ],
-      "sources": [
-        {
-          "id": "46c43460c3f8ab1c4ffaaa1e0cd5b34d34efebfe",
-          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
-          "url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at",
-          "source": "Reddit (热门)",
-          "site_id": "iris",
-          "published_at": "2026-08-17T13:19:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_480ff4f5",
-      "title": "Show HN：Claude代码状态行的社区库",
-      "url": "https://statuslin.es",
-      "primary_url": "https://statuslin.es",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "d6569cf0ba2796bbfa2f3196b6ad0399e7dc59f8",
-          "title": "Show HN: A community library for Claude Code status lines",
-          "url": "https://statuslin.es",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-17T13:12:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c7ee692b",
-      "title": "The internet is becoming more stressful and unlikeable — with AI slop and data leaks to blame",
-      "url": "https://www.techradar.com/pro/security/the-internet-is-becoming-more-stressful-and-unlikeable-with-ai-slop-and-data-leaks-to-blame",
-      "primary_url": "https://www.techradar.com/pro/security/the-internet-is-becoming-more-stressful-and-unlikeable-with-ai-slop-and-data-leaks-to-blame",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "f9df057e98d0c9ea54b19e8c09e67aecf25ded92",
-          "title": "The internet is becoming more stressful and unlikeable — with AI slop and data leaks to blame",
-          "url": "https://www.techradar.com/pro/security/the-internet-is-becoming-more-stressful-and-unlikeable-with-ai-slop-and-data-leaks-to-blame",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T13:08:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_50f6a102",
-      "title": "显示 HN：推箱子 AI 求解器",
-      "url": "https://mkornreich.me/projects/sokoban",
-      "primary_url": "https://mkornreich.me/projects/sokoban",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "976b477ece8bd3ee6121ab2ddd79d79a6ef67ffb",
-          "title": "Show HN: Sokoban AI Solver",
-          "url": "https://mkornreich.me/projects/sokoban",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-17T13:07:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4d3f0134",
-      "title": "Greg Brockman calls the OpenAI-Hugging Face incident \"a watershed moment\" and discusses how OpenAI and other organizations can use AI to improve cyber defenses (Greg Brockman)",
-      "url": "https://www.techmeme.com/260817/p16",
-      "primary_url": "https://www.techmeme.com/260817/p16",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "9d2ecf0dca64660873d71419e12470cd0b1dcb23",
-          "title": "Greg Brockman calls the OpenAI-Hugging Face incident \"a watershed moment\" and discusses how OpenAI and other organizations can use AI to improve cyber defenses (Greg Brockman)",
-          "url": "https://www.techmeme.com/260817/p16",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T13:05:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_55f13d07",
-      "title": "随着人工智能改变入门级工作，安永正在将实习变成为期一年的实习",
-      "url": "https://www.businessinsider.com/ey-internship-residency-career-ai-skills-2026-8",
-      "primary_url": "https://www.businessinsider.com/ey-internship-residency-career-ai-skills-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "de19524a1dd0994ce16eb69022cf14508930b019",
-          "title": "EY is turning its internships into yearlong residencies as AI changes entry-level work",
-          "url": "https://www.businessinsider.com/ey-internship-residency-career-ai-skills-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T13:01:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_92bdeaf4",
-      "title": "OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260817/p15",
-      "primary_url": "https://www.techmeme.com/260817/p15",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "1627848c5eeccbe9e0a4f906bd09d770e4a66c4f",
-          "title": "OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)",
-          "url": "https://www.techmeme.com/260817/p15",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T13:00:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b543d398",
-      "title": "人们正在寻找一种减缓人工智能竞赛的方法",
-      "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification",
-      "primary_url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification",
-      "source_count": 1,
-      "source_names": [
-        "TIME Magazine"
-      ],
-      "sources": [
-        {
-          "id": "981691da4d294b58f74126507ec7ce877d1f6522",
-          "title": "The People Building a Way to Slow Down the AI Race",
-          "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification",
-          "source": "TIME Magazine",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T12:30:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2f897df4",
-      "title": "Serve Robotics 与 Grubhub 合作，成为美国食品配送的共享机器人层",
-      "url": "https://thenextweb.com/news/serve-robotics-grubhub-wonder-delivery-2000-robots",
-      "primary_url": "https://thenextweb.com/news/serve-robotics-grubhub-wonder-delivery-2000-robots",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "344872687f81464d16c55150df8858bff698d07f",
-          "title": "Serve Robotics partners with Grubhub, becoming the shared robot layer for US food delivery",
-          "url": "https://thenextweb.com/news/serve-robotics-grubhub-wonder-delivery-2000-robots",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T12:17:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_afa71459",
-      "title": "一家特朗普支持的加密货币公司正在帮助出售他的政府试图阻止的中国人工智能",
-      "url": "https://thenextweb.com/news/trump-world-liberty-worldclaw-chinese-ai-reseller",
-      "primary_url": "https://thenextweb.com/news/trump-world-liberty-worldclaw-chinese-ai-reseller",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "568626de1dbd816e7f74bcb0182ce487c1d74062",
-          "title": "A Trump-backed crypto firm is helping sell the very Chinese AI his government is trying to block",
-          "url": "https://thenextweb.com/news/trump-world-liberty-worldclaw-chinese-ai-reseller",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T11:57:52Z"
         }
       ],
       "item_count": 1,
