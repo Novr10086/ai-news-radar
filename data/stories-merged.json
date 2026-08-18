@@ -1,11 +1,42 @@
 {
-  "generated_at": "2026-08-18T17:58:35.046410Z",
+  "generated_at": "2026-08-18T19:19:18.488580Z",
   "window_hours": 24,
-  "total_stories": 176,
+  "total_stories": 168,
   "stories": [
     {
+      "story_id": "story_47ea3c6c",
+      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
+    },
+    {
       "story_id": "story_7550eaf8",
-      "title": "带有句子变压器的多向量（后期交互）嵌入模型",
+      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
       "url": "https://huggingface.co/blog/multi-vector-encoder",
       "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
       "source_count": 2,
@@ -66,22 +97,22 @@
       "score": 10070
     },
     {
-      "story_id": "story_f7788bfa",
-      "title": "与 CodeAI 合作，准备第一代 AI",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "story_id": "story_eaf7eab1",
+      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+      "url": "https://openai.com/index/asana",
+      "primary_url": "https://openai.com/index/asana",
       "source_count": 1,
       "source_names": [
         "OpenAI News"
       ],
       "sources": [
         {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "Partnering with CodeAI to prepare the first AI generation",
-          "url": "https://openai.com/index/partnering-with-codeai",
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "url": "https://openai.com/index/asana",
           "source": "OpenAI News",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
+          "published_at": "2026-08-18T07:00:00Z"
         }
       ],
       "item_count": 1,
@@ -267,68 +298,6 @@
           "source": "cursor.com",
           "site_id": "buzzing",
           "published_at": "2026-08-17T22:14:00.748000Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9970
-    },
-    {
-      "story_id": "story_0ce71894",
-      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.404media.co"
-      ],
-      "sources": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "e93451a4241de1ea3225f404c98bc7301751b7e6",
-          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "www.404media.co",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9970
-    },
-    {
-      "story_id": "story_1c53e95c",
-      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-      "url": "https://www.librarian.net/notoai",
-      "primary_url": "https://www.librarian.net/notoai",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.librarian.net"
-      ],
-      "sources": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
         }
       ],
       "item_count": 2,
@@ -1113,6 +1082,50 @@
       "score": 9920
     },
     {
+      "story_id": "story_f5ad53e9",
+      "title": "告别AI视频反复抽卡，Seedance 2.5 + 3D预演台才是正确的打开方式",
+      "url": "https://waytoagi.feishu.cn/wiki/I2LNwEHl8iZ4mQkr56tcGZ9Nnue?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/I2LNwEHl8iZ4mQkr56tcGZ9Nnue?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-08-18"
+      ],
+      "sources": [
+        {
+          "id": "3a4633d51f4b6b81e222920107bc3ab8e8ff59e1",
+          "title": "告别AI视频反复抽卡，Seedance 2.5 + 3D预演台才是正确的打开方式",
+          "url": "https://waytoagi.feishu.cn/wiki/I2LNwEHl8iZ4mQkr56tcGZ9Nnue?from=from_copylink",
+          "source": "社区更新 · 2026-08-18",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-18T19:18:22.934526Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_96815bc1",
+      "title": "大模型本地部署完整指南：搭建自己的 Agent 工作流，实现Token自由「新手友好」",
+      "url": "https://waytoagi.feishu.cn/wiki/CyJrwn8abiUUd9kjjeqcZ25En0g?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/CyJrwn8abiUUd9kjjeqcZ25En0g?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-08-18"
+      ],
+      "sources": [
+        {
+          "id": "4a2bf0c7b86a249c09de3e9b5adf5240278aadb7",
+          "title": "大模型本地部署完整指南：搭建自己的 Agent 工作流，实现Token自由「新手友好」",
+          "url": "https://waytoagi.feishu.cn/wiki/CyJrwn8abiUUd9kjjeqcZ25En0g?from=from_copylink",
+          "source": "社区更新 · 2026-08-18",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-18T19:18:22.934526Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
       "story_id": "story_e8dfec0d",
       "title": "AI视频入门基础——运镜（二）+转场",
       "url": "https://waytoagi.feishu.cn/wiki/NBQUwfPzQimPITkqf3jc7T9Bnke?from=from_copylink",
@@ -1377,90 +1390,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_b7393e9a",
-      "title": "It's free to try and works with your existing Claude Code or Codex subscription right now. Just make a new directory and start Codex or CC (on command line OR on Desktop, slightly better on Desktop) Just paste this im...",
-      "url": "https://x.com/garrytan/status/2089424620764168485",
-      "primary_url": "https://x.com/garrytan/status/2089424620764168485",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Garry Tan"
-      ],
-      "sources": [
-        {
-          "id": "225a480c900a627cd36fde79e67425f0706a232c",
-          "title": "It's free to try and works with your existing Claude Code or Codex subscription right now. Just make a new directory and start Codex or CC (on command line OR on Desktop, slightly better on Desktop) Just paste this im...",
-          "url": "https://x.com/garrytan/status/2089424620764168485",
-          "source": "Follow Builders · X · Garry Tan",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-17T18:50:23Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_df08e789",
-      "title": "all of the recent proc gen art, video editing and 3d game demos recently have made me update towards LLM coding models being better at a lot of creative work than diffusion models",
-      "url": "https://x.com/trq212/status/2089415712007938315",
-      "primary_url": "https://x.com/trq212/status/2089415712007938315",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Thariq"
-      ],
-      "sources": [
-        {
-          "id": "6439446f04eaa5f8c65596a0245888a173448e33",
-          "title": "all of the recent proc gen art, video editing and 3d game demos recently have made me update towards LLM coding models being better at a lot of creative work than diffusion models",
-          "url": "https://x.com/trq212/status/2089415712007938315",
-          "source": "Follow Builders · X · Thariq",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-17T18:14:59Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_5031a899",
-      "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-      "source_count": 3,
-      "source_names": [
-        "ArsTechnica",
-        "arstechnica.com",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "8e9173d0c78a9dce30379b91189ed829a4b21408",
-          "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T18:13:47Z"
-        },
-        {
-          "id": "68e9f5a422134ebac3f7a6493ac8448eeb747673",
-          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "arstechnica.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T20:38:17.125000Z"
-        },
-        {
-          "id": "9e47fe23fdef28ea9a0b451c3b1b89293ce40511",
-          "title": "AirTag reveals Amazon is trashing rare books to train AI",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-17T19:06:11Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9780
-    },
-    {
       "story_id": "story_c06a21f9",
       "title": "AI做电影，远比想象中难",
       "url": "https://www.tmtpost.com/8107015.html",
@@ -1554,6 +1483,50 @@
       "score": 9770
     },
     {
+      "story_id": "story_89281e01",
+      "title": "OpenAI 在其人工智能代理失控后彻底修改了安全协议",
+      "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
+      "primary_url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "068d7321ec98dddf087ae6c2cbb6a291f0b2480e",
+          "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+          "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T18:33:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_da6fd76d",
+      "title": "Hugging Face 泄露后 OpenAI 制定了新的保障措施",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
+      "primary_url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "13601b8d664428423d2dd2a373d52681d54379ad",
+          "title": "OpenAI institutes new safeguards after Hugging Face breach",
+          "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_934a4dd7",
       "title": "人工智能股的下跌使华尔街进一步远离历史记录 - 美联社新闻",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajRMMnNScjR5Tk1jNTZNZ1loMVctaUFVWWtjNHZhRGZzTWNvQWkzalRDZ1pNVjFjRGd5RVZyRTJ5dkVVOVpmVEVlczg0d2NWOTQtYTlyTnBLTlJTZ2FFVnNhTm1BNll2bGRWTGF2c3JCZHNpRlBudFFrNEJlUTVJVVI5b1d6T29pRDNhNEpMYVd6RVRVX3VZ?oc=5",
@@ -1569,7 +1542,7 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajRMMnNScjR5Tk1jNTZNZ1loMVctaUFVWWtjNHZhRGZzTWNvQWkzalRDZ1pNVjFjRGd5RVZyRTJ5dkVVOVpmVEVlczg0d2NWOTQtYTlyTnBLTlJTZ2FFVnNhTm1BNll2bGRWTGF2c3JCZHNpRlBudFFrNEJlUTVJVVI5b1d6T29pRDNhNEpMYVd6RVRVX3VZ?oc=5",
           "source": "AP World News",
           "site_id": "opmlrss",
-          "published_at": "2026-08-18T14:56:36Z"
+          "published_at": "2026-08-18T16:31:00Z"
         }
       ],
       "item_count": 1,
@@ -1832,6 +1805,50 @@
           "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - AP News",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
           "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_1204bd54",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "d62b8deba20d4a00bdbce1f8587a69ff0e70c449",
+          "title": "Pacing model development in an era of cyber-critical capabilities",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f7788bfa",
+      "title": "与 CodeAI 合作，准备第一代 AI",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "1afba5b123c7543c0787adf7f2ba30fdb5aed165",
+          "title": "Partnering with CodeAI to prepare the first AI generation",
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
           "site_id": "opmlrss",
           "published_at": "2026-08-18T11:00:00Z"
         }
@@ -2332,28 +2349,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_eaf7eab1",
-      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
-      "url": "https://openai.com/index/asana",
-      "primary_url": "https://openai.com/index/asana",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "6947127b93685514cecdb1bb758d09c71f48ef4f",
-          "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_80f024e5",
       "title": "为啥AI测算总说得很准？真相没你想的神奇",
       "url": "https://www.huxiu.com/article/4883220.html?f=rss",
@@ -2728,26 +2723,106 @@
       "score": 9720
     },
     {
-      "story_id": "story_a25d7b2a",
-      "title": "AI时代，我们可能正在创造一种“没有人类观众的互联网”",
-      "url": "https://www.huxiu.com/article/4883799.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883799.html?f=rss",
+      "story_id": "story_f6415c1d",
+      "title": "这家 R 级电影制片厂想成为人工智能的 HBO",
+      "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai",
+      "primary_url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai",
       "source_count": 1,
       "source_names": [
-        "虎嗅"
+        "Wired"
       ],
       "sources": [
         {
-          "id": "ceb117750c3650792e0634e0ae1c262a7a230be6",
-          "title": "AI时代，我们可能正在创造一种“没有人类观众的互联网”",
-          "url": "https://www.huxiu.com/article/4883799.html?f=rss",
-          "source": "虎嗅",
+          "id": "6dad808af49aee7b21c9a1ff95446432a74ca004",
+          "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
+          "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai",
+          "source": "Wired",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T18:33:04Z"
+          "published_at": "2026-08-17T20:18:17Z"
         }
       ],
       "item_count": 1,
       "score": 9720
+    },
+    {
+      "story_id": "story_6feef439",
+      "title": "Claude·科德的每周限额明天将减少三分之一",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "primary_url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "source_count": 3,
+      "source_names": [
+        "support.claude.com",
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
+          "title": "克劳德·科德的每周限额明天将减少三分之一",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "support.claude.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T18:14:09.002000Z"
+        },
+        {
+          "id": "7aaaabe0cae311488b7690a83cc9766023a00c75",
+          "title": "Claude Code May–August 2026 weekly limits promotion",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-18T17:02:15Z"
+        },
+        {
+          "id": "f89204cd9bc03585cb5d4f33432311d6d9286d35",
+          "title": "Claude Code weekly limits reduce by a third tomorrow",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T17:02:15Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9580
+    },
+    {
+      "story_id": "story_f9c5e49c",
+      "title": "GPT-5.6 Sol 价格下调 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "primary_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "source_count": 3,
+      "source_names": [
+        "openrouter.ai",
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "b84a2c553b2e04dedf7030449b5ce55e8ffaa426",
+          "title": "GPT-5.6 Sol 价格下调 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "openrouter.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T01:42:08.453000Z"
+        },
+        {
+          "id": "0879a46a5ca46121852bfb9ebcd2e4e6b4e2b8a5",
+          "title": "GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T21:03:18Z"
+        },
+        {
+          "id": "4a8d9c4ed4e3cf6d9d41f63c1280d835f974a9ac",
+          "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T21:03:18Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9580
     },
     {
       "story_id": "story_1fb73733",
@@ -2788,7 +2863,7 @@
       "source_count": 2,
       "source_names": [
         "www.theregister.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2800,11 +2875,11 @@
           "published_at": "2026-08-18T12:06:14.267000Z"
         },
         {
-          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
+          "id": "8c84f58eb8d74f84f50c43f9eab6bc5d84e59a1c",
           "title": "Google buys crashed airline Spirit's data at auction, because AI",
           "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T10:13:28Z"
         }
       ],
@@ -2819,7 +2894,7 @@
       "source_count": 2,
       "source_names": [
         "responsiblestatecraft.org",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2831,43 +2906,12 @@
           "published_at": "2026-08-18T02:30:02.549000Z"
         },
         {
-          "id": "29238fb7a9b0754218933360ccd6b3cd19477b13",
+          "id": "78d08bb07f97dae274394f9920e976c5d386ff36",
           "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
           "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T20:46:10Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_f9c5e49c",
-      "title": "GPT-5.6 Sol 价格下调 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "primary_url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "source_count": 2,
-      "source_names": [
-        "openrouter.ai",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "b84a2c553b2e04dedf7030449b5ce55e8ffaa426",
-          "title": "GPT-5.6 Sol 价格下调 50%",
-          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-          "source": "openrouter.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T01:42:08.453000Z"
-        },
-        {
-          "id": "4e5e6474029a6efbc69952e2798ab177209b6927",
-          "title": "GPT-5.6 Sol Pricing Cut by 50%",
-          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T21:03:18Z"
         }
       ],
       "item_count": 2,
@@ -2881,7 +2925,7 @@
       "source_count": 2,
       "source_names": [
         "www.rickmanelius.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2893,11 +2937,11 @@
           "published_at": "2026-08-17T20:22:04.245000Z"
         },
         {
-          "id": "dcc85f9f0d1f99aa27432c5aeea18798a82d1f9e",
+          "id": "6360d9a0c37f20f0f6bfbede22713980d7868a5a",
           "title": "AI;DR (AI; Didn't Read)",
           "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T19:47:15Z"
         }
       ],
@@ -2914,6 +2958,22 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
+          "title": "Claude Code May–August 2026 weekly limits promotion",
+          "url": "https://news.ycombinator.com/item?id=49348751",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T19:18:57.219000Z"
+        },
+        {
+          "id": "dfdc71b92cb9b44f71035344abc811065c7d874d",
+          "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+          "url": "https://news.ycombinator.com/item?id=49350637",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T19:18:57.219000Z"
+        },
         {
           "id": "e417c681890de0c56b1325262545140f0d2f5ce8",
           "title": "Claude Code weekly limits reduce by a third tomorrow",
@@ -3043,26 +3103,26 @@
           "published_at": "2026-08-17T19:41:12.652000Z"
         }
       ],
-      "item_count": 16,
+      "item_count": 18,
       "score": 7
     },
     {
-      "story_id": "story_6feef439",
-      "title": "Claude·科德 (Claude Code) 每周限额明天减少三分之一",
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "primary_url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "story_id": "story_3e2661b9",
+      "title": "显示 HN：PantheonGPU – GPU 运行状况测试和 AI 工作负载基准测试",
+      "url": "https://pantheongpu.com",
+      "primary_url": "https://pantheongpu.com",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "78ba2f3b938a2cee1027f70cccfcf5d926d534bd",
-          "title": "Claude Code weekly limits reduce by a third tomorrow",
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-18T17:02:15Z"
+          "id": "61a827316731ed601f9989ce4e035ef216ab6212",
+          "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+          "url": "https://pantheongpu.com",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-18T18:47:51Z"
         }
       ],
       "item_count": 1,
@@ -3229,15 +3289,15 @@
       "primary_url": "https://github.com/pitiflautico/neobrowser",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "1ffc42f8d3edc472934a413fc7247a57b26a0f71",
+          "id": "cd93dc601c29a963471b30e0ebbde1461d8a5c24",
           "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
           "url": "https://github.com/pitiflautico/neobrowser",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T13:25:54Z"
         }
       ],
@@ -3251,15 +3311,15 @@
       "primary_url": "https://github.com/mukundzha/avouch",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "7e6a2be382c3fbc36427f66c207f9ec875c911fe",
+          "id": "ef1336bf4565df83609ef1d8d857d1ce060704ed",
           "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
           "url": "https://github.com/mukundzha/avouch",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-18T13:13:17Z"
         }
       ],
@@ -3581,15 +3641,15 @@
       "primary_url": "https://thenextweb.com/news/openai-preparedness-team-disbanded-ipo-streamlining",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "9506f61fd95433a4e37d10d39195fed5380d1edb",
+          "id": "755cc89e5d28f9ffba37f82ded41c1e5661682ea",
           "title": "OpenAI disbanded the team that assessed catastrophic model risks",
           "url": "https://thenextweb.com/news/openai-preparedness-team-disbanded-ipo-streamlining",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-18T08:06:58Z"
         }
       ],
@@ -3801,15 +3861,15 @@
       "primary_url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "ba4118a235260bc806af2d60095e3a4f89cf22f7",
+          "id": "347e60b9cd1c024579797c19723d34a82fb33d65",
           "title": "My friends all hate AI; I just joined an AI startup",
           "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T21:47:30Z"
         }
       ],
@@ -3861,6 +3921,28 @@
       "score": 7
     },
     {
+      "story_id": "story_5031a899",
+      "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+      "source_count": 1,
+      "source_names": [
+        "arstechnica.com"
+      ],
+      "sources": [
+        {
+          "id": "68e9f5a422134ebac3f7a6493ac8448eeb747673",
+          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
+          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+          "source": "arstechnica.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T20:38:17.125000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_df1f79fb",
       "title": "OpenAI 将在为期三年的协议中为 13 个 Axios 本地新闻通讯提供资金",
       "url": "https://thenextweb.com/news/axios-openai-local-news-newsletters-three-year-deal",
@@ -3877,28 +3959,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-17T20:29:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f6415c1d",
-      "title": "这家 R 级电影制片厂想成为人工智能的 HBO",
-      "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai",
-      "primary_url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "54d5799dec8fb428e87e2c587d2c13cc1e7e519d",
-          "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
-          "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T20:18:17Z"
         }
       ],
       "item_count": 1,
@@ -3965,226 +4025,6 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-17T19:49:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_12fa0ec4",
-      "title": "Anthropic对开源AI的战争",
-      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "primary_url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "source_count": 1,
-      "source_names": [
-        "twitter.com"
-      ],
-      "sources": [
-        {
-          "id": "0181fd5a3a0f8a74e0f6a2cee43ba1132af2c270",
-          "title": "Anthropic对开源AI的战争",
-          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-          "source": "twitter.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T19:17:55.343000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fdf8255c",
-      "title": "约翰·格鲁伯 (John Gruber) 称Claude的人工智能水印“明显具有攻击性”",
-      "url": "https://www.businessinsider.com/john-gruber-claude-watermark-perversion-offensive-ai-2026-8",
-      "primary_url": "https://www.businessinsider.com/john-gruber-claude-watermark-perversion-offensive-ai-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "3ff2afa6138f7abb51820aa77e6356f82b89e5da",
-          "title": "John Gruber calls Claude's AI watermarking 'patently offensive'",
-          "url": "https://www.businessinsider.com/john-gruber-claude-watermark-perversion-offensive-ai-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T19:09:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e59fb6c5",
-      "title": "Siri AI 和解：苹果要到明年才会开始向客户付款",
-      "url": "https://www.macrumors.com/2026/08/17/siri-ai-settlement-final-approval-in-2027",
-      "primary_url": "https://www.macrumors.com/2026/08/17/siri-ai-settlement-final-approval-in-2027",
-      "source_count": 1,
-      "source_names": [
-        "Mac Rumors"
-      ],
-      "sources": [
-        {
-          "id": "155ab5d194bbdc9a545e5ed5a36a8ed0bffb12e0",
-          "title": "Siri AI Settlement: Apple Won't Begin Paying Customers Until Next Year",
-          "url": "https://www.macrumors.com/2026/08/17/siri-ai-settlement-final-approval-in-2027",
-          "source": "Mac Rumors",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T19:04:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f6bec906",
-      "title": "Qwen3.8 27B 在人工分析中获得52分",
-      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "primary_url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "source_count": 1,
-      "source_names": [
-        "artificialanalysis.ai"
-      ],
-      "sources": [
-        {
-          "id": "415ac536bd812718075ca18345db6cd96014e560",
-          "title": "Qwen3.8 27B 在人工分析中获得52分",
-          "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-          "source": "artificialanalysis.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T19:01:59.352000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_289a5f19",
-      "title": "I built an AI C-suite to help me run my small business. As a creative, I was hesitant to use AI, but it's helpful for certain things.",
-      "url": "https://www.businessinsider.com/how-artist-built-ai-c-suite-help-run-business-2026-8",
-      "primary_url": "https://www.businessinsider.com/how-artist-built-ai-c-suite-help-run-business-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "9bdeb72ed58a12517e16771b554f9a954d244e40",
-          "title": "I built an AI C-suite to help me run my small business. As a creative, I was hesitant to use AI, but it's helpful for certain things.",
-          "url": "https://www.businessinsider.com/how-artist-built-ai-c-suite-help-run-business-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T18:56:38Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d86e7efa",
-      "title": "OpenAI 宣布在俄亥俄州建立大型数据中心，Nvidia 提供 1050 亿美元担保",
-      "url": "https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee",
-      "primary_url": "https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "c00c15f891f955c3da6f442cf4a5f20f4aacd512",
-          "title": "OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee",
-          "url": "https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T18:33:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c74487f2",
-      "title": "Tim O'Reilly – 为什么开源对人工智能很重要",
-      "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
-      "primary_url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "255a32d95f1ebd38a5c0535f2893b80f19a717ef",
-          "title": "Tim O'Reilly – Why Open Source Matters for AI",
-          "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T18:25:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a6abcc99",
-      "title": "苹果被迫停止在​​个人数据收集提示中偏向自家应用程序",
-      "url": "https://www.engadget.com/2238496/apple-is-forced-to-stop-favoring-its-own-apps-in-personal-data-collection-prompts",
-      "primary_url": "https://www.engadget.com/2238496/apple-is-forced-to-stop-favoring-its-own-apps-in-personal-data-collection-prompts",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "2bddd40575055ac4eb9e31a4cd12f58dfafd2eef",
-          "title": "Apple is forced to stop favoring its own apps in personal data collection prompts",
-          "url": "https://www.engadget.com/2238496/apple-is-forced-to-stop-favoring-its-own-apps-in-personal-data-collection-prompts",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T18:12:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f0c0df73",
-      "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-      "primary_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "37e4307619a3df4c4b25ba533a018c1d43ac2898",
-          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-17T18:10:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ce38ba11",
-      "title": "‘Being heard and accepted, even by a machine, can be meaningful’ — I asked a therapist if other countries should restrict AI companions like China",
-      "url": "https://www.techradar.com/ai-platforms-assistants/being-heard-and-accepted-even-by-a-machine-can-be-meaningful-i-asked-a-therapist-if-other-countries-should-restrict-ai-companions-like-china",
-      "primary_url": "https://www.techradar.com/ai-platforms-assistants/being-heard-and-accepted-even-by-a-machine-can-be-meaningful-i-asked-a-therapist-if-other-countries-should-restrict-ai-companions-like-china",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "9c529747ed771b3c66a1f3551e0334f4f33971c8",
-          "title": "‘Being heard and accepted, even by a machine, can be meaningful’ — I asked a therapist if other countries should restrict AI companions like China",
-          "url": "https://www.techradar.com/ai-platforms-assistants/being-heard-and-accepted-even-by-a-machine-can-be-meaningful-i-asked-a-therapist-if-other-countries-should-restrict-ai-companions-like-china",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T18:00:00Z"
         }
       ],
       "item_count": 1,
