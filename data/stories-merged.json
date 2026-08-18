@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T09:19:06.613508Z",
+  "generated_at": "2026-08-18T11:00:43.072088Z",
   "window_hours": 24,
-  "total_stories": 226,
+  "total_stories": 210,
   "stories": [
     {
       "story_id": "story_74fdd9bd",
@@ -56,7 +56,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "cursor.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -76,11 +76,11 @@
           "published_at": "2026-08-17T22:14:00.748000Z"
         },
         {
-          "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
+          "id": "345cc14fb9cfd9ae6495b04a5e73fdfb013a58d7",
           "title": "Cursor launches Origin, GitHub alternative",
           "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T17:02:44Z"
         }
       ],
@@ -136,7 +136,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.librarian.net",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -156,16 +156,47 @@
           "published_at": "2026-08-17T17:58:12.144000Z"
         },
         {
-          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
+          "id": "f292beecfc162081155e99e248d44a0870cc414f",
           "title": "How to disable or avoid intrusive AI",
           "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T14:07:56Z"
         }
       ],
       "item_count": 3,
       "score": 9980
+    },
+    {
+      "story_id": "story_6da86810",
+      "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+      "url": "https://www.aibase.com/news/30443",
+      "primary_url": "https://www.aibase.com/news/30443",
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "url": "https://www.aibase.com/news/30443",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T10:59:52.595236Z"
+        },
+        {
+          "id": "7e1247044249e27091bbf1dad3f53d8862b63efb",
+          "title": "百度二季度营收同比降4%至313亿元，一般性业务收入中AI占比连续两季过半",
+          "url": "https://m.thepaper.cn/detail/33805022",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T10:39:59Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
     },
     {
       "story_id": "story_100004ba",
@@ -267,6 +298,28 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_a5a2c92f",
+      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+      "url": "https://www.aibase.com/news/30444",
+      "primary_url": "https://www.aibase.com/news/30444",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "url": "https://www.aibase.com/news/30444",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T10:59:52.595236Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_d9e310ee",
@@ -1013,8 +1066,8 @@
       ],
       "sources": [
         {
-          "id": "eb6adbb26b1fed965cc82024c6ddc48158de77bc",
-          "title": "https://x.com/i/article/2089330332369588224",
+          "id": "6e0f761a2146032889914220920c023472e7a342",
+          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
           "url": "https://x.com/JensenHuang/status/2089331487342829862",
           "source": "X：Jensen Huang (@JensenHuang)",
           "site_id": "aihot",
@@ -1041,182 +1094,6 @@
           "source": "NVIDIA Blog（RSS）",
           "site_id": "aihot",
           "published_at": "2026-08-17T12:34:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_0fe2d0f9",
-      "title": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
-      "url": "https://www.aibase.com/news/30403",
-      "primary_url": "https://www.aibase.com/news/30403",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "8896675e6169f1699ac10a6295254c1db07825e0",
-          "title": "亚马逊正在被AI生成的书籍彻底“淹没”，人类作者的生存空间正遭到严重挤压",
-          "url": "https://www.aibase.com/news/30403",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T10:17:18.323698Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_f71e199c",
-      "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-      "url": "https://www.aibase.com/news/30404",
-      "primary_url": "https://www.aibase.com/news/30404",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
-          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "url": "https://www.aibase.com/news/30404",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T10:17:18.323698Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_7cc1eab4",
-      "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-      "url": "https://www.aibase.com/news/30398",
-      "primary_url": "https://www.aibase.com/news/30398",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
-          "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "url": "https://www.aibase.com/news/30398",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T10:17:18.323698Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_69b7337b",
-      "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-      "url": "https://www.aibase.com/news/30401",
-      "primary_url": "https://www.aibase.com/news/30401",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "d736d87029511dac5e26a44965814f519559f722",
-          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "url": "https://www.aibase.com/news/30401",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T10:17:18.323698Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_869657de",
-      "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
-      "url": "https://www.aibase.com/news/30406",
-      "primary_url": "https://www.aibase.com/news/30406",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "49e96b46f61f7f8a428459964777fa06252fa7c7",
-          "title": "苹果蓄势待发！正与各大出版商密谋付费引入实时新闻",
-          "url": "https://www.aibase.com/news/30406",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T10:17:18.323698Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_1c40f6a7",
-      "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-      "url": "https://www.aibase.com/news/30402",
-      "primary_url": "https://www.aibase.com/news/30402",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "url": "https://www.aibase.com/news/30402",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T10:17:18.323698Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_c82658bd",
-      "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-      "url": "https://www.aibase.com/news/30399",
-      "primary_url": "https://www.aibase.com/news/30399",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "d373ff73aa86be48d7aaf5866b3a2ed77acf8943",
-          "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-          "url": "https://www.aibase.com/news/30399",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T10:17:18.323698Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_c5af98e1",
-      "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
-      "url": "https://www.aibase.com/news/30405",
-      "primary_url": "https://www.aibase.com/news/30405",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
-          "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
-          "url": "https://www.aibase.com/news/30405",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T10:17:18.323698Z"
         }
       ],
       "item_count": 1,
@@ -1619,77 +1496,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_1d5185c1",
-      "title": "科罗拉多大学教授：当AI替你完成越来越多工作，怎样保住自己的学习能力？丨EO",
-      "url": "https://waytoagi.feishu.cn/wiki/A75Nw8jkmizYBbkXEkOcmyc1nbd?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/A75Nw8jkmizYBbkXEkOcmyc1nbd?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-08-16"
-      ],
-      "sources": [
-        {
-          "id": "1be272f82827b8397f069fdb802a64c3b9e9052a",
-          "title": "科罗拉多大学教授：当AI替你完成越来越多工作，怎样保住自己的学习能力？丨EO",
-          "url": "https://waytoagi.feishu.cn/wiki/A75Nw8jkmizYBbkXEkOcmyc1nbd?from=from_copylink",
-          "source": "社区更新 · 2026-08-16",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-17T10:17:18.323698Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_5031a899",
-      "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-      "source_count": 4,
-      "source_names": [
-        "ArsTechnica",
-        "arstechnica.com",
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "8e9173d0c78a9dce30379b91189ed829a4b21408",
-          "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T18:13:47Z"
-        },
-        {
-          "id": "68e9f5a422134ebac3f7a6493ac8448eeb747673",
-          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "arstechnica.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T20:38:17.125000Z"
-        },
-        {
-          "id": "d504eef197236cd4aea58c164b22d368a97a5768",
-          "title": "AirTag reveals Amazon is trashing rare books to train AI",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T19:06:11Z"
-        },
-        {
-          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
-          "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:55:50Z"
-        }
-      ],
-      "item_count": 4,
-      "score": 9790
-    },
-    {
       "story_id": "story_c06a21f9",
       "title": "AI做电影，远比想象中难",
       "url": "https://www.tmtpost.com/8107015.html",
@@ -1790,7 +1596,7 @@
       "source_count": 2,
       "source_names": [
         "TechCrunch",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1802,16 +1608,148 @@
           "published_at": "2026-08-17T16:38:44Z"
         },
         {
-          "id": "052f75375b2a8b93f95eb5bacb27e5a43bee4202",
+          "id": "37e4307619a3df4c4b25ba533a018c1d43ac2898",
           "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
           "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T18:10:16Z"
         }
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_ed37af5e",
+      "title": "人工智能可以与隐私共存吗？ Proton 的 Andy Yen 表示必须这么做",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton",
+      "primary_url": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "3b39d88f7a8e7c9699d38d2142de1f45088891a9",
+          "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
+          "url": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T10:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_0a6aab23",
+      "title": "关于谁从人工智能音乐中获利的艰苦斗争",
+      "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+      "primary_url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+      "source_count": 1,
+      "source_names": [
+        "NPR Top News"
+      ],
+      "sources": [
+        {
+          "id": "52150add701cf071d5b769f2933a0330740600bd",
+          "title": "The grueling fight over who profits from AI music",
+          "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+          "source": "NPR Top News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T10:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_6a9f791a",
+      "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
+      "url": "https://www.huxiu.com/article/4883967.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4883967.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "67fba364412743c9393e0d1140fcdf92d8ed2966",
+          "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
+          "url": "https://www.huxiu.com/article/4883967.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T09:24:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_dbaa413a",
+      "title": "英伟达开始给电做担保了：1050亿美元押注8GW算力的电力账",
+      "url": "https://www.tmtpost.com/8107418.html",
+      "primary_url": "https://www.tmtpost.com/8107418.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "0fb08b3f2d80782d3cdb261d35296d0dddebd9f3",
+          "title": "英伟达开始给电做担保了：1050亿美元押注8GW算力的电力账",
+          "url": "https://www.tmtpost.com/8107418.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T09:21:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_ee0c015c",
+      "title": "半年融资935亿：具身智能产业的跨越与沟坎",
+      "url": "https://www.huxiu.com/article/4883960.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4883960.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "493ef1babb61d4cccbaef1ee1197280882bbc080",
+          "title": "半年融资935亿：具身智能产业的跨越与沟坎",
+          "url": "https://www.huxiu.com/article/4883960.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T09:14:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_737094ed",
+      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+      "url": "https://sspai.com/post/113593",
+      "primary_url": "https://sspai.com/post/113593",
+      "source_count": 1,
+      "source_names": [
+        "少数派"
+      ],
+      "sources": [
+        {
+          "id": "90e92398aab82566acb91c7dfd89864892da0ecd",
+          "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+          "url": "https://sspai.com/post/113593",
+          "source": "少数派",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T09:01:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_af70616d",
@@ -1852,6 +1790,28 @@
           "source": "NPR Top News",
           "site_id": "opmlrss",
           "published_at": "2026-08-18T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_fa3514bc",
+      "title": "从滴灌棉田到AI找矿 “喀交会”架起合作新桥梁",
+      "url": "http://www.news.cn/20260818/4a5e57fbd73d479a9755dc60aa0cf5ad/c.html",
+      "primary_url": "http://www.news.cn/20260818/4a5e57fbd73d479a9755dc60aa0cf5ad/c.html",
+      "source_count": 1,
+      "source_names": [
+        "新华网 / 新华社新闻"
+      ],
+      "sources": [
+        {
+          "id": "2e4d4f38669db1ecd68cfd55bfc7e52887dc345d",
+          "title": "从滴灌棉田到AI找矿 “喀交会”架起合作新桥梁",
+          "url": "http://www.news.cn/20260818/4a5e57fbd73d479a9755dc60aa0cf5ad/c.html",
+          "source": "新华网 / 新华社新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T08:32:33Z"
         }
       ],
       "item_count": 1,
@@ -2430,28 +2390,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_99a12df6",
-      "title": "Feedly 将长达一周的放缓归因于 bug，而不是其 AI 支柱",
-      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
-      "primary_url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "db93a7ca212e736a5756773b34b83916308051e6",
-          "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-          "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T17:10:59Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_f0758141",
       "title": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud",
       "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
@@ -2468,6 +2406,28 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-08-17T16:15:12Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_431f1e88",
+      "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+      "primary_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "411426eff9ac4abd8dbd99488baec7b73a02a844",
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T15:16:24Z"
         }
       ],
       "item_count": 1,
@@ -2716,215 +2676,75 @@
       "score": 9720
     },
     {
-      "story_id": "story_dd02c006",
-      "title": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "story_id": "story_46539d6c",
+      "title": "Whisker 的人工智能垃圾机器人认为我的猫交换了身体",
+      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "primary_url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
       "source_count": 1,
       "source_names": [
         "The Verge"
       ],
       "sources": [
         {
-          "id": "503e969db12b8a920a5d4a8cfa3b5a3f43ec9305",
-          "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "id": "04e45475c68c5457a156e1b2f18e59b4e4e7ec5b",
+          "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+          "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
           "source": "The Verge",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T10:57:13Z"
-        },
-        {
-          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
-          "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:57:13Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9720
-    },
-    {
-      "story_id": "story_4a4c6fb6",
-      "title": "AI订单涌入，万国数据上调全年业绩指引，今年投100亿元扩建数据中心｜看财报",
-      "url": "https://www.tmtpost.com/8105732.html",
-      "primary_url": "https://www.tmtpost.com/8105732.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "ca78681786a41fbc2d3552750edc4a401286bd28",
-          "title": "AI订单涌入，万国数据上调全年业绩指引，今年投100亿元扩建数据中心｜看财报",
-          "url": "https://www.tmtpost.com/8105732.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T10:29:05Z"
+          "published_at": "2026-08-17T11:00:00Z"
         }
       ],
       "item_count": 1,
       "score": 9720
     },
     {
-      "story_id": "story_d7794df5",
-      "title": "狂飙的AI，成了手机“斩杀线”上涨的新幌子？",
-      "url": "https://www.tmtpost.com/8101636.html",
-      "primary_url": "https://www.tmtpost.com/8101636.html",
-      "source_count": 1,
+      "story_id": "story_0c73e3ed",
+      "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+      "primary_url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+      "source_count": 4,
       "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "94cb2a704418f626f967c03538823c2e76da16bb",
-          "title": "狂飙的AI，成了手机“斩杀线”上涨的新幌子？",
-          "url": "https://www.tmtpost.com/8101636.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T10:12:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c67d029c",
-      "title": "Claude 的文字水印，成功把人类套路了",
-      "url": "https://www.huxiu.com/article/4883713.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883713.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "cfb2a7af4c2d0ec76a92dbb83a32c4404f83456c",
-          "title": "Claude 的文字水印，成功把人类套路了",
-          "url": "https://www.huxiu.com/article/4883713.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T10:11:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_04152d4a",
-      "title": "AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察",
-      "url": "https://www.tmtpost.com/8105860.html",
-      "primary_url": "https://www.tmtpost.com/8105860.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "7038525a063a6b924a153c4af371b6455831667b",
-          "title": "AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察",
-          "url": "https://www.tmtpost.com/8105860.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T09:42:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_993de843",
-      "title": "Anthropic CEO回应质疑：公众对AI持负面看法，本质是一场信任危机",
-      "url": "https://m.thepaper.cn/detail/33799143",
-      "primary_url": "https://m.thepaper.cn/detail/33799143",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "707a8ecb866e687620a16e6321073b9f9b6ca64d",
-          "title": "Anthropic CEO回应质疑：公众对AI持负面看法，本质是一场信任危机",
-          "url": "https://m.thepaper.cn/detail/33799143",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T09:22:52Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_64d3338b",
-      "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "primary_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "source_count": 3,
-      "source_names": [
-        "www.wiz.io",
-        "Hacker News",
+        "arstechnica.com",
+        "Hacker News (黑客新闻)",
+        "Ars Technica",
         "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "38069cf1f4c337ff054f6b19307629efb3dfb33e",
-          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
-          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "source": "www.wiz.io",
+          "id": "68e9f5a422134ebac3f7a6493ac8448eeb747673",
+          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
+          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+          "source": "arstechnica.com",
           "site_id": "buzzing",
-          "published_at": "2026-08-17T16:38:11.073000Z"
+          "published_at": "2026-08-17T20:38:17.125000Z"
         },
         {
-          "id": "9dd07b53fea512d3aee489453a2f6c29c8920dac",
-          "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "source": "Hacker News",
+          "id": "9e47fe23fdef28ea9a0b451c3b1b89293ce40511",
+          "title": "AirTag reveals Amazon is trashing rare books to train AI",
+          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T19:06:11Z"
+        },
+        {
+          "id": "e8f91dc18f01368b9b3e041c7d265795aa022011",
+          "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
+          "source": "Ars Technica",
           "site_id": "techurls",
-          "published_at": "2026-08-17T14:18:38Z"
+          "published_at": "2026-08-17T18:13:47Z"
         },
         {
-          "id": "2b9d086668657f64e6af46c35269fbf2a19b57f3",
-          "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
+          "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
-          "published_at": "2026-08-17T14:18:38Z"
+          "published_at": "2026-08-17T17:55:50Z"
         }
       ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
-      "story_id": "story_3e4bebdd",
-      "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
-      "url": "https://speko.ai",
-      "primary_url": "https://speko.ai",
-      "source_count": 2,
-      "source_names": [
-        "speko.ai",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "0e03b723143f533f1c7972c6ef73bc20907a74c9",
-          "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
-          "url": "https://speko.ai",
-          "source": "speko.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T07:02:07.067000Z"
-        },
-        {
-          "id": "36fc23b4b0f1e89b76cc808498e4dbde52ac88f5",
-          "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-          "url": "https://speko.ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T15:36:18Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 4,
+      "score": 9590
     },
     {
       "story_id": "story_de2502fc",
@@ -2934,9 +2754,17 @@
       "source_count": 2,
       "source_names": [
         "hackernews",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
+        {
+          "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
+          "title": "Google buys crashed airline Spirit's data at auction, because AI",
+          "url": "https://news.ycombinator.com/item?id=49343559",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T11:00:20.853000Z"
+        },
         {
           "id": "e69a223e80019e873bc092d91817d7bbb582168b",
           "title": "GitHub degradation affects Cursor Origin, its new Git platform",
@@ -3050,11 +2878,11 @@
           "published_at": "2026-08-17T16:40:52.501000Z"
         },
         {
-          "id": "9f35c44dc95f718a468f3aad5b3873ec6df8d5a4",
+          "id": "31b17bb04086b991636dd25b5f05860409d1b736",
           "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
           "url": "https://news.ycombinator.com/item?id=49332751",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T15:36:18Z"
         },
         {
@@ -3104,25 +2932,40 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-17T13:40:22.397000Z"
-        },
-        {
-          "id": "e2a76d57c2d72419762f948df06399647f95a81f",
-          "title": "HackEurope 2026: A short rant on AI and hackathons",
-          "url": "https://news.ycombinator.com/item?id=49327490",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T10:17:36.310000Z"
-        },
-        {
-          "id": "28b340bd5ee6063b01db16d40db777dd9c2b9113",
-          "title": "On A.I. regulation and messaging",
-          "url": "https://news.ycombinator.com/item?id=49325789",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T10:17:36.310000Z"
         }
       ],
-      "item_count": 23,
+      "item_count": 22,
+      "score": 9570
+    },
+    {
+      "story_id": "story_3e4bebdd",
+      "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
+      "url": "https://speko.ai",
+      "primary_url": "https://speko.ai",
+      "source_count": 2,
+      "source_names": [
+        "speko.ai",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "0e03b723143f533f1c7972c6ef73bc20907a74c9",
+          "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
+          "url": "https://speko.ai",
+          "source": "speko.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T07:02:07.067000Z"
+        },
+        {
+          "id": "36fc23b4b0f1e89b76cc808498e4dbde52ac88f5",
+          "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+          "url": "https://speko.ai",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T15:36:18Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9570
     },
     {
@@ -3133,7 +2976,7 @@
       "source_count": 2,
       "source_names": [
         "responsiblestatecraft.org",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3145,11 +2988,11 @@
           "published_at": "2026-08-18T02:30:02.549000Z"
         },
         {
-          "id": "78d08bb07f97dae274394f9920e976c5d386ff36",
+          "id": "29238fb7a9b0754218933360ccd6b3cd19477b13",
           "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
           "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T20:46:10Z"
         }
       ],
@@ -3226,7 +3069,7 @@
       "source_count": 2,
       "source_names": [
         "twitter.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3238,11 +3081,11 @@
           "published_at": "2026-08-17T19:17:55.343000Z"
         },
         {
-          "id": "a0bbcaf87bd768cac8cfd2641de674994ded08df",
+          "id": "9fd56fda5c95f91f91a10050bd45ca6d4b0ea15b",
           "title": "Anthropic's War on open source AI",
           "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T15:24:34Z"
         }
       ],
@@ -3281,6 +3124,45 @@
       "score": 9570
     },
     {
+      "story_id": "story_64d3338b",
+      "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "primary_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source_count": 2,
+      "source_names": [
+        "www.wiz.io",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "38069cf1f4c337ff054f6b19307629efb3dfb33e",
+          "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "www.wiz.io",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T16:38:11.073000Z"
+        },
+        {
+          "id": "b36fe63b0c53572ac668e8f5df85aa4d37f82b31",
+          "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T14:18:38Z"
+        },
+        {
+          "id": "cf7a87e812c53e264434957b442f968288cf3d7c",
+          "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-17T14:18:38Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9570
+    },
+    {
       "story_id": "story_433b516a",
       "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
       "url": "https://blog.roboflow.com/openai-gpt-5-6",
@@ -3288,7 +3170,7 @@
       "source_count": 2,
       "source_names": [
         "blog.roboflow.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3300,16 +3182,126 @@
           "published_at": "2026-08-17T14:29:55.280000Z"
         },
         {
-          "id": "d13527a92c0eaa7930a99046899cc689150a9af9",
+          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
           "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
           "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-17T12:09:42Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_85ce92c4",
+      "title": "AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流",
+      "url": "https://juejin.cn/post/7674574367976046655",
+      "primary_url": "https://juejin.cn/post/7674574367976046655",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "932c6f24bbc23fd26c8c8fafd3620c04ed32f41a",
+          "title": "AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流",
+          "url": "https://juejin.cn/post/7674574367976046655",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T11:00:20.853000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5f2c354f",
+      "title": "DeepSeek Harness 发布后，我没急着跑 Demo，先把 `.agents/` 翻了一遍",
+      "url": "https://juejin.cn/post/7674828652658425896",
+      "primary_url": "https://juejin.cn/post/7674828652658425896",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "81978a33ca65316e9870fca1439d70481e30b71e",
+          "title": "DeepSeek Harness 发布后，我没急着跑 Demo，先把 `.agents/` 翻了一遍",
+          "url": "https://juejin.cn/post/7674828652658425896",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T11:00:20.853000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_bcf8b8a8",
+      "title": "Walk the AI",
+      "url": "https://www.producthunt.com/products/walk-the-ai",
+      "primary_url": "https://www.producthunt.com/products/walk-the-ai",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "72a0f97d9954dd8723fcfc51c80ddc729dd940d0",
+          "title": "Walk the AI",
+          "url": "https://www.producthunt.com/products/walk-the-ai",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T11:00:20.853000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_66f3d4c9",
+      "title": "一个 Bug 修了 12 轮，根因只有一句话：AI 编程时代，日志才是唯一的真相",
+      "url": "https://juejin.cn/post/7674101873055399976",
+      "primary_url": "https://juejin.cn/post/7674101873055399976",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "6225a5a689cd96b6841fc553176e3a9bde587a11",
+          "title": "一个 Bug 修了 12 轮，根因只有一句话：AI 编程时代，日志才是唯一的真相",
+          "url": "https://juejin.cn/post/7674101873055399976",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T11:00:20.853000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ca719eb7",
+      "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "primary_url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "8c84f58eb8d74f84f50c43f9eab6bc5d84e59a1c",
+          "title": "Google buys crashed airline Spirit's data at auction, because AI",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T10:13:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_9bc1de39",
@@ -3372,6 +3364,28 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-08-18T07:46:16.660000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4fc67e0b",
+      "title": "Show HN：特工工作簿观看 Claude Code、Codex 写下他们的工作笔记",
+      "url": "https://github.com/softcane/agents-workbook",
+      "primary_url": "https://github.com/softcane/agents-workbook",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "9a1e740ab4faddd11ee1148929a1907c24bc264c",
+          "title": "Show HN: Agents Workbook watch Claude Code, Codex write down their working notes",
+          "url": "https://github.com/softcane/agents-workbook",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-18T06:21:29Z"
         }
       ],
       "item_count": 1,
@@ -3626,15 +3640,15 @@
       "primary_url": "https://status.cursor.com/incidents/l9h9vrd726jv",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "b3ba5e43351cec31582a462f0aceb6c361870ee8",
+          "id": "bb9fd5a0cff6e50c0af41ee076eb8738afe2a1d1",
           "title": "GitHub degradation affects Cursor Origin, its new Git platform",
           "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T20:13:27Z"
         }
       ],
@@ -3922,6 +3936,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-17T17:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_99a12df6",
+      "title": "Feedly 将长达一周的放缓归因于 bug，而不是其 AI 支柱",
+      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+      "primary_url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "208e84213a7c3bf3452e027f9c92d7722e457530",
+          "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+          "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T17:10:59Z"
         }
       ],
       "item_count": 1,
@@ -4258,28 +4294,6 @@
       "score": 7
     },
     {
-      "story_id": "story_431f1e88",
-      "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-      "primary_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "d64b26ffb31e56b96078782e1c11e642f693b78b",
-          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T15:16:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_863458d8",
       "title": "中国仿人机器人冠军优树于8月19日在上海上市，需求创纪录",
       "url": "https://thenextweb.com/news/unitree-humanoid-robot-shanghai-ipo",
@@ -4440,15 +4454,15 @@
       "primary_url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "649c21add1014fac35209561bedd059fe33e1d25",
+          "id": "2525e326e11895e537f081b1dc5131ead092c1df",
           "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
           "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-17T14:30:09Z"
         }
       ],
@@ -4594,15 +4608,15 @@
       "primary_url": "https://1667.ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "2156060bc5262a30816ba76841ba0132faec48b3",
+          "id": "e86e6ea6ca9b0d35b56faa26130557106f3d7ee4",
           "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
           "url": "https://1667.ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-17T13:35:31Z"
         }
       ],
@@ -5022,380 +5036,6 @@
           "source": "New York Times",
           "site_id": "techurls",
           "published_at": "2026-08-17T11:10:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_46539d6c",
-      "title": "Whisker 的人工智能垃圾机器人认为我的猫交换了身体",
-      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "primary_url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "e780cf5a44144ea064abc62fdc9298a6eeb716f7",
-          "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-          "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9c761be3",
-      "title": "'Americans only dream of phones like these' — the Honor Robot Phone is going viral, and commenters are calling it an 'innovation light-years ahead of iPhone'",
-      "url": "https://www.techradar.com/phones/honor-phones/honor-robot-phone-social-media-reactions",
-      "primary_url": "https://www.techradar.com/phones/honor-phones/honor-robot-phone-social-media-reactions",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "fc78513c8d9e4ad04be64b629128384dce0bf45a",
-          "title": "'Americans only dream of phones like these' — the Honor Robot Phone is going viral, and commenters are calling it an 'innovation light-years ahead of iPhone'",
-          "url": "https://www.techradar.com/phones/honor-phones/honor-robot-phone-social-media-reactions",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:58:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9c25b313",
-      "title": "Anthropic 成为“人工智能界的苹果”：尽管价格最贵，但收入却最多",
-      "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
-      "primary_url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "a802861962b9f8e667db100efae7b33fd292fd14",
-          "title": "Anthropic becomes the 'Apple of AI': Most revenue despite being most expensive",
-          "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T10:56:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8b83cbc7",
-      "title": "北京一家酒吧用免费 Wi-Fi 换取免费 DeepSeek 代币",
-      "url": "https://thenextweb.com/news/beijing-agi-bar-deepseek-free-tokens",
-      "primary_url": "https://thenextweb.com/news/beijing-agi-bar-deepseek-free-tokens",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "ca1714a53ada1735e7ec3dd629b689ceba9741f8",
-          "title": "A Beijing bar swapped free Wi-Fi for free DeepSeek tokens",
-          "url": "https://thenextweb.com/news/beijing-agi-bar-deepseek-free-tokens",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:40:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_071974b4",
-      "title": "人工智能垃圾正在吞噬世界。信任是第一个受害者",
-      "url": "https://www.techradar.com/pro/ai-slop-is-eating-the-world-trust-is-the-first-casualty",
-      "primary_url": "https://www.techradar.com/pro/ai-slop-is-eating-the-world-trust-is-the-first-casualty",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "f23e72dbafe83e24ad4f790b51adb43fb671161e",
-          "title": "AI slop is eating the world. Trust is the first casualty",
-          "url": "https://www.techradar.com/pro/ai-slop-is-eating-the-world-trust-is-the-first-casualty",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:29:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a78a966a",
-      "title": "欧洲国防人工智能冠军赫尔辛正在利用乐天打入日本军火市场",
-      "url": "https://thenextweb.com/news/helsing-rakuten-japan-military-drones",
-      "primary_url": "https://thenextweb.com/news/helsing-rakuten-japan-military-drones",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "c9ec12389b940458f577a60e4172ec7f95aedc1d",
-          "title": "Europe’s defence-AI champion Helsing is using Rakuten to break into Japan’s arms market",
-          "url": "https://thenextweb.com/news/helsing-rakuten-japan-military-drones",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:19:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_31d6c550",
-      "title": "DeepSeek Harness必装的10个插件",
-      "url": "https://juejin.cn/post/7674802907378303028",
-      "primary_url": "https://juejin.cn/post/7674802907378303028",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "2c704918be345f5460a21ae863d7a1ea6dae18fa",
-          "title": "DeepSeek Harness必装的10个插件",
-          "url": "https://juejin.cn/post/7674802907378303028",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T10:17:36.310000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_17e7f1ec",
-      "title": "LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高",
-      "url": "https://juejin.cn/post/7674145872716513280",
-      "primary_url": "https://juejin.cn/post/7674145872716513280",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "b05c93fe7b4cfa03ce6c9ca713937d8ce1f9082f",
-          "title": "LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高",
-          "url": "https://juejin.cn/post/7674145872716513280",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T10:17:36.310000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8039cfc6",
-      "title": "我为 DeepSeek Harness 写了一个 dsh-apple-mode 插件",
-      "url": "https://juejin.cn/post/7673417756021080102",
-      "primary_url": "https://juejin.cn/post/7673417756021080102",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "342de149277085fcebce24a807b5173e1989c7fa",
-          "title": "我为 DeepSeek Harness 写了一个 dsh-apple-mode 插件",
-          "url": "https://juejin.cn/post/7673417756021080102",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T10:17:36.310000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_519dc4d6",
-      "title": "仅一年后，微软就放弃了 Excel Copilot 功能，而且从未全面公开发布",
-      "url": "https://www.techradar.com/pro/microsoft-is-dropping-its-excel-copilot-function-after-only-a-year-and-without-ever-getting-a-full-public-launch",
-      "primary_url": "https://www.techradar.com/pro/microsoft-is-dropping-its-excel-copilot-function-after-only-a-year-and-without-ever-getting-a-full-public-launch",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "d683405892cdf74bfb3a8b6e2603c3db955d5997",
-          "title": "Microsoft is dropping its Excel Copilot function after only a year - and without ever getting a full public launch",
-          "url": "https://www.techradar.com/pro/microsoft-is-dropping-its-excel-copilot-function-after-only-a-year-and-without-ever-getting-a-full-public-launch",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cd907caf",
-      "title": "投资者认为 2026 年 25 家最有前途的机器人初创公司",
-      "url": "https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8",
-      "primary_url": "https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "b66a785a7bb23e8fdf05f2d6a34ebdc46119e9a5",
-          "title": "The 25 most promising robotics startups in 2026, according to investors",
-          "url": "https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:00:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_26430ee3",
-      "title": "AI音乐已经登上排行榜，使用它的艺术家已经不再隐藏它",
-      "url": "https://thenextweb.com/news/ai-music-mainstream-tyga-timbaland",
-      "primary_url": "https://thenextweb.com/news/ai-music-mainstream-tyga-timbaland",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "29ae56b749f4d8937e7787da5ef68dc90e89ea9b",
-          "title": "AI music has reached the charts, and the artists using it have stopped hiding it",
-          "url": "https://thenextweb.com/news/ai-music-mainstream-tyga-timbaland",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T09:55:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_63dc20d0",
-      "title": "超越“试点炼狱”：如何构建有效的人工智能？",
-      "url": "https://www.techradar.com/pro/beyond-pilot-purgatory-what-does-it-take-to-build-ai-that-works",
-      "primary_url": "https://www.techradar.com/pro/beyond-pilot-purgatory-what-does-it-take-to-build-ai-that-works",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "c01a2ed7e8d3b1bea68de5f89e2d4aaaf64d694e",
-          "title": "Beyond ‘Pilot Purgatory’: What does it take to build AI that works?",
-          "url": "https://www.techradar.com/pro/beyond-pilot-purgatory-what-does-it-take-to-build-ai-that-works",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T09:49:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f9201bcb",
-      "title": "Tokenmaxxing：为什么AI消费需要控制",
-      "url": "https://www.techradar.com/pro/tokenmaxxing-why-ai-consumption-needs-control",
-      "primary_url": "https://www.techradar.com/pro/tokenmaxxing-why-ai-consumption-needs-control",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "bd6d1dd85b71cf08f15f4848af60212e36724c8e",
-          "title": "Tokenmaxxing: Why AI consumption needs control",
-          "url": "https://www.techradar.com/pro/tokenmaxxing-why-ai-consumption-needs-control",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T09:47:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_80fcefd7",
-      "title": "Analysis: nine top tech companies including Alphabet and Meta had ~$3T of AI-related off-balance-sheet commitments, far exceeding their $600B in reported capex (Wall Street Journal)",
-      "url": "https://www.techmeme.com/260817/p7",
-      "primary_url": "https://www.techmeme.com/260817/p7",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "a01d2449a43587e2617efa9620eace453f02c813",
-          "title": "Analysis: nine top tech companies including Alphabet and Meta had ~$3T of AI-related off-balance-sheet commitments, far exceeding their $600B in reported capex (Wall Street Journal)",
-          "url": "https://www.techmeme.com/260817/p7",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T09:45:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4ac79df1",
-      "title": "Mammotions Luba 3 机器人割草机在亚马逊降至有史以来最优惠价格 - 节省超过 800 美元",
-      "url": "https://mashable.com/tech/aug-17-mammotion-luba-3-robot-lawn-mower-deal",
-      "primary_url": "https://mashable.com/tech/aug-17-mammotion-luba-3-robot-lawn-mower-deal",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "9a82c71e004a4fd5a565edbe0b7b61d56546b04b",
-          "title": "Mammotions Luba 3 robot lawn mower is down to its best-ever price at Amazon — save over $800",
-          "url": "https://mashable.com/tech/aug-17-mammotion-luba-3-robot-lawn-mower-deal",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T09:29:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_415b3b40",
-      "title": "最热门的人工智能模型并不是开发人员实际使用的模型",
-      "url": "https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8",
-      "primary_url": "https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "583c5c6e53828b1e3834cfe92d525f566c721e86",
-          "title": "The hottest AI models aren’t the ones developers actually use",
-          "url": "https://www.businessinsider.com/top-ai-models-usage-data-hugging-face-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T09:19:01Z"
         }
       ],
       "item_count": 1,
