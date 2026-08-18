@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T19:19:18.488580Z",
+  "generated_at": "2026-08-18T20:54:12.399931Z",
   "window_hours": 24,
-  "total_stories": 168,
+  "total_stories": 166,
   "stories": [
     {
       "story_id": "story_47ea3c6c",
@@ -35,6 +35,37 @@
       "score": 10070
     },
     {
+      "story_id": "story_48f9d5cf",
+      "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "primary_url": "https://openai.com/index/chatgpt-for-teens",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "sources": [
+        {
+          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
+          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        },
+        {
+          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
+    },
+    {
       "story_id": "story_7550eaf8",
       "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
       "url": "https://huggingface.co/blog/multi-vector-encoder",
@@ -54,8 +85,8 @@
           "published_at": "2026-08-18T00:00:00Z"
         },
         {
-          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "id": "6ca5c30dbd2e6a9230a0309dbe3c3aba90134770",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "url": "https://huggingface.co/blog/multi-vector-encoder",
           "source": "Hugging Face：Blog（RSS）",
           "site_id": "aihot",
@@ -66,35 +97,26 @@
       "score": 10070
     },
     {
-      "story_id": "story_48f9d5cf",
-      "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "primary_url": "https://openai.com/index/chatgpt-for-teens",
-      "source_count": 2,
+      "story_id": "story_f7788bfa",
+      "title": "与 CodeAI 合作，准备第一代 AI",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "source_count": 1,
       "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "OpenAI News"
       ],
       "sources": [
         {
-          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
-          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T11:00:00Z"
-        },
-        {
-          "id": "692a167fd81547ff1b5e3f7fb198fd113b07c507",
-          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "url": "https://openai.com/index/chatgpt-for-teens",
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "Partnering with CodeAI to prepare the first AI generation",
+          "url": "https://openai.com/index/partnering-with-codeai",
           "source": "OpenAI News",
-          "site_id": "opmlrss",
+          "site_id": "official_ai",
           "published_at": "2026-08-18T11:00:00Z"
         }
       ],
-      "item_count": 2,
-      "score": 10070
+      "item_count": 1,
+      "score": 10020
     },
     {
       "story_id": "story_eaf7eab1",
@@ -113,28 +135,6 @@
           "source": "OpenAI News",
           "site_id": "official_ai",
           "published_at": "2026-08-18T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_74fdd9bd",
-      "title": "相同的集群，利用率增加了 33 个点：改变的是顺序",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "sources": [
-        {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
         }
       ],
       "item_count": 1,
@@ -261,11 +261,11 @@
           "published_at": "2026-08-18T03:09:23.576863Z"
         },
         {
-          "id": "0073b3b74715b91ff32daf93d6d647e9da3964b7",
+          "id": "b73772261499678ca40e16a8f27769b033804b65",
           "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
           "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
           "source": "TechCrunch",
-          "site_id": "techurls",
+          "site_id": "opmlrss",
           "published_at": "2026-08-17T21:27:05Z"
         }
       ],
@@ -302,6 +302,50 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_48c55b02",
+      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+      "url": "https://x.com/claudeai/status/2089806039088517356",
+      "primary_url": "https://x.com/claudeai/status/2089806039088517356",
+      "source_count": 1,
+      "source_names": [
+        "X：Claude (@claudeai)"
+      ],
+      "sources": [
+        {
+          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "X：Claude (@claudeai)",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T20:06:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_a1dc2a8c",
+      "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+      "url": "https://claude.com/blog/ai-ci-cd-on-call",
+      "primary_url": "https://claude.com/blog/ai-ci-cd-on-call",
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "sources": [
+        {
+          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+          "url": "https://claude.com/blog/ai-ci-cd-on-call",
+          "source": "Claude：Blog（网页）",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T19:26:08.389000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_a5a2c92f",
@@ -1483,6 +1527,102 @@
       "score": 9770
     },
     {
+      "story_id": "story_9a5a5202",
+      "title": "OpenAI 推出针对青少年的 ChatGPT，承诺推出更适合年龄的聊天机器人 - 美联社新闻",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "eca04c5f6032b60c3e6f7cfc4f1542f988c45727",
+          "title": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot - AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T20:27:00Z"
+        },
+        {
+          "id": "74701ba6899090e527a60848eaa6ee3f0fadf740",
+          "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9720
+    },
+    {
+      "story_id": "story_024315d8",
+      "title": "罗宾·威廉姆斯 (Robin Williams) 恢复 Instagram 账户以对抗“人工智能滥用”",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "primary_url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "eb2b44d8d3ad08a13d358ff98c6b908bc5bff1bf",
+          "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+          "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T19:48:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_3fe85939",
+      "title": "OpenAI 在 AI 黑客入侵 Hugging Face 后制定了新的安全变更",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "6301513de7b016b2eca6be35b38aecb174701c15",
+          "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T19:28:30Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_da3edf87",
+      "title": "加强国家安全民主监督",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "431a088f08ff972768ca016c68dcef15b88952bd",
+          "title": "Strengthening Democratic Oversight in National Security",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_89281e01",
       "title": "OpenAI 在其人工智能代理失控后彻底修改了安全协议",
       "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
@@ -1542,7 +1682,7 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajRMMnNScjR5Tk1jNTZNZ1loMVctaUFVWWtjNHZhRGZzTWNvQWkzalRDZ1pNVjFjRGd5RVZyRTJ5dkVVOVpmVEVlczg0d2NWOTQtYTlyTnBLTlJTZ2FFVnNhTm1BNll2bGRWTGF2c3JCZHNpRlBudFFrNEJlUTVJVVI5b1d6T29pRDNhNEpMYVd6RVRVX3VZ?oc=5",
           "source": "AP World News",
           "site_id": "opmlrss",
-          "published_at": "2026-08-18T16:31:00Z"
+          "published_at": "2026-08-18T14:56:36Z"
         }
       ],
       "item_count": 1,
@@ -1783,72 +1923,6 @@
           "title": "ChatGPT is getting a dedicated mode for teens",
           "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
           "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_9a5a5202",
-      "title": "OpenAI 推出针对青少年的 ChatGPT，承诺推出更适合年龄的聊天机器人 - 美联社新闻",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "74701ba6899090e527a60848eaa6ee3f0fadf740",
-          "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_1204bd54",
-      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "d62b8deba20d4a00bdbce1f8587a69ff0e70c449",
-          "title": "Pacing model development in an era of cyber-critical capabilities",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f7788bfa",
-      "title": "与 CodeAI 合作，准备第一代 AI",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "primary_url": "https://openai.com/index/partnering-with-codeai",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "1afba5b123c7543c0787adf7f2ba30fdb5aed165",
-          "title": "Partnering with CodeAI to prepare the first AI generation",
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
           "site_id": "opmlrss",
           "published_at": "2026-08-18T11:00:00Z"
         }
@@ -2723,28 +2797,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_f6415c1d",
-      "title": "这家 R 级电影制片厂想成为人工智能的 HBO",
-      "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai",
-      "primary_url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "6dad808af49aee7b21c9a1ff95446432a74ca004",
-          "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
-          "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T20:18:17Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_6feef439",
       "title": "Claude·科德的每周限额明天将减少三分之一",
       "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
@@ -2753,7 +2805,7 @@
       "source_names": [
         "support.claude.com",
         "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2773,11 +2825,11 @@
           "published_at": "2026-08-18T17:02:15Z"
         },
         {
-          "id": "f89204cd9bc03585cb5d4f33432311d6d9286d35",
+          "id": "4cd06ec5d453dbab7504f6cb29fd18bfdfa8bc59",
           "title": "Claude Code weekly limits reduce by a third tomorrow",
           "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-18T17:02:15Z"
         }
       ],
@@ -2825,6 +2877,37 @@
       "score": 9580
     },
     {
+      "story_id": "story_95c5d2c0",
+      "title": "挪威应该收购OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "primary_url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "source_count": 2,
+      "source_names": [
+        "www.onethousandmeans.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
+          "title": "挪威应该收购OpenAI",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "www.onethousandmeans.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T20:22:24.343000Z"
+        },
+        {
+          "id": "755f977396514cc0c78244d8f8e4eae390bc3ee3",
+          "title": "Norway Should Buy OpenAI",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-18T19:30:29Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_1fb73733",
       "title": "克劳德：多种模型的性能下降",
       "url": "https://status.claude.com/incidents/q7txxvbsftgq",
@@ -2832,7 +2915,7 @@
       "source_count": 2,
       "source_names": [
         "status.claude.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2844,11 +2927,11 @@
           "published_at": "2026-08-18T17:09:55.487000Z"
         },
         {
-          "id": "05296aaa97521e43f55b6a6613930b2ff1f9d051",
+          "id": "e2128c6d816fa85a6e417a10d46675dc0316a334",
           "title": "Degraded performance for multiple models",
           "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T16:28:20Z"
         }
       ],
@@ -2863,7 +2946,7 @@
       "source_count": 2,
       "source_names": [
         "www.theregister.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2875,74 +2958,12 @@
           "published_at": "2026-08-18T12:06:14.267000Z"
         },
         {
-          "id": "8c84f58eb8d74f84f50c43f9eab6bc5d84e59a1c",
+          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
           "title": "Google buys crashed airline Spirit's data at auction, because AI",
           "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T10:13:28Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_728ec8fd",
-      "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-      "primary_url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-      "source_count": 2,
-      "source_names": [
-        "responsiblestatecraft.org",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
-          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-          "source": "responsiblestatecraft.org",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T02:30:02.549000Z"
-        },
-        {
-          "id": "78d08bb07f97dae274394f9920e976c5d386ff36",
-          "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-08-17T20:46:10Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_ad020c91",
-      "title": "AI;DR（AI；没读）",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "primary_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "source_count": 2,
-      "source_names": [
-        "www.rickmanelius.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "45ea62484878f8b3ce9fde538538b8a2885359c2",
-          "title": "AI;DR（AI；没读）",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "www.rickmanelius.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T20:22:04.245000Z"
-        },
-        {
-          "id": "6360d9a0c37f20f0f6bfbede22713980d7868a5a",
-          "title": "AI;DR (AI; Didn't Read)",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T19:47:15Z"
+          "published_at": "2026-08-18T10:13:28Z"
         }
       ],
       "item_count": 2,
@@ -2958,6 +2979,22 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "1e73a9714656d6c8fd2bfdf6bcced4fed2c85ae2",
+          "title": "Norway Should Buy OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49351330",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T20:42:08.531000Z"
+        },
+        {
+          "id": "035b25a79070d66a5d5050c07ca1648d8d08fada",
+          "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
+          "url": "https://news.ycombinator.com/item?id=49351232",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T20:42:08.531000Z"
+        },
         {
           "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
           "title": "Claude Code May–August 2026 weekly limits promotion",
@@ -3077,33 +3114,31 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-17T21:41:24.792000Z"
-        },
-        {
-          "id": "1693180253aaaa0059164b4f962e90cc10a4f048",
-          "title": "AI;DR (AI; Didn't Read)",
-          "url": "https://news.ycombinator.com/item?id=49336573",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T20:41:22.625000Z"
-        },
-        {
-          "id": "4596d129432d75c5c057161bd3cea7ac2485d03b",
-          "title": "AirTag reveals Amazon is trashing rare books to train AI",
-          "url": "https://news.ycombinator.com/item?id=49336050",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T19:41:12.652000Z"
-        },
-        {
-          "id": "ac4a81fd1ca647f27ed345b0f1f6ec3f4200214c",
-          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "url": "https://news.ycombinator.com/item?id=49335216",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T19:41:12.652000Z"
         }
       ],
-      "item_count": 18,
+      "item_count": 17,
+      "score": 7
+    },
+    {
+      "story_id": "story_b86a9416",
+      "title": "llms.txt：尚未有主要 AI 平台确认使用的提议标准",
+      "url": "https://geojacker.com/llms-txt",
+      "primary_url": "https://geojacker.com/llms-txt",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "dde83109ce0a76172b4eff2de256720f6f0344c8",
+          "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
+          "url": "https://geojacker.com/llms-txt",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-18T19:24:35Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -3123,6 +3158,28 @@
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
           "published_at": "2026-08-18T18:47:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1204bd54",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "ff4019264eddf3b0d2f110773d4e0bf08c51ea47",
+          "title": "Pacing model development in an era of cyber-critical capabilities",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-18T18:14:59Z"
         }
       ],
       "item_count": 1,
@@ -3179,15 +3236,15 @@
       "primary_url": "https://www.wheresyoured.at/what-happens-if-openai-dies",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "303be1f56a6ce07d299511376bf6dc10b590277f",
+          "id": "267ce4505b389e5ee4e7b584a18a788b033fbd51",
           "title": "What Happens If OpenAI Dies?",
           "url": "https://www.wheresyoured.at/what-happens-if-openai-dies",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T15:32:04Z"
         }
       ],
@@ -3289,15 +3346,15 @@
       "primary_url": "https://github.com/pitiflautico/neobrowser",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "cd93dc601c29a963471b30e0ebbde1461d8a5c24",
+          "id": "1ffc42f8d3edc472934a413fc7247a57b26a0f71",
           "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
           "url": "https://github.com/pitiflautico/neobrowser",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-18T13:25:54Z"
         }
       ],
@@ -3311,15 +3368,15 @@
       "primary_url": "https://github.com/mukundzha/avouch",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "ef1336bf4565df83609ef1d8d857d1ce060704ed",
+          "id": "7e6a2be382c3fbc36427f66c207f9ec875c911fe",
           "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
           "url": "https://github.com/mukundzha/avouch",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T13:13:17Z"
         }
       ],
@@ -3355,15 +3412,15 @@
       "primary_url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "7621eb461e97b5b77effcb26fdb321fa2ab5bba2",
+          "id": "4423e102f3a263f936b8296dbb73650709fa4cec",
           "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
           "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-18T12:22:58Z"
         }
       ],
@@ -3641,15 +3698,15 @@
       "primary_url": "https://thenextweb.com/news/openai-preparedness-team-disbanded-ipo-streamlining",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "755cc89e5d28f9ffba37f82ded41c1e5661682ea",
+          "id": "9506f61fd95433a4e37d10d39195fed5380d1edb",
           "title": "OpenAI disbanded the team that assessed catastrophic model risks",
           "url": "https://thenextweb.com/news/openai-preparedness-team-disbanded-ipo-streamlining",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T08:06:58Z"
         }
       ],
@@ -3811,6 +3868,28 @@
       "score": 7
     },
     {
+      "story_id": "story_728ec8fd",
+      "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+      "primary_url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+      "source_count": 1,
+      "source_names": [
+        "responsiblestatecraft.org"
+      ],
+      "sources": [
+        {
+          "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
+          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "responsiblestatecraft.org",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T02:30:02.549000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_b68feb3c",
       "title": "Cursor Origin",
       "url": "https://cursor.com/docs/origin",
@@ -3893,138 +3972,6 @@
           "source": "Daring Fireball",
           "site_id": "techurls",
           "published_at": "2026-08-17T21:43:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e5204de5",
-      "title": "AI Agent 都在疯狂加功能，它说：我全砍了",
-      "url": "https://juejin.cn/post/7674581715802308658",
-      "primary_url": "https://juejin.cn/post/7674581715802308658",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "0457138eb40484d5e2b530319684009a97116feb",
-          "title": "AI Agent 都在疯狂加功能，它说：我全砍了",
-          "url": "https://juejin.cn/post/7674581715802308658",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T20:48:06.174000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5031a899",
-      "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-      "source_count": 1,
-      "source_names": [
-        "arstechnica.com"
-      ],
-      "sources": [
-        {
-          "id": "68e9f5a422134ebac3f7a6493ac8448eeb747673",
-          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "arstechnica.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T20:38:17.125000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_df1f79fb",
-      "title": "OpenAI 将在为期三年的协议中为 13 个 Axios 本地新闻通讯提供资金",
-      "url": "https://thenextweb.com/news/axios-openai-local-news-newsletters-three-year-deal",
-      "primary_url": "https://thenextweb.com/news/axios-openai-local-news-newsletters-three-year-deal",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "c1f642e885cca19ebd59dbcca1cacb429da10209",
-          "title": "OpenAI is funding 13 Axios local newsletters in a three-year deal",
-          "url": "https://thenextweb.com/news/axios-openai-local-news-newsletters-three-year-deal",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T20:29:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f908dbb7",
-      "title": "GitHub 降级影响其新的 Git 平台 Cursor Origin",
-      "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
-      "primary_url": "https://status.cursor.com/incidents/l9h9vrd726jv",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "b3ba5e43351cec31582a462f0aceb6c361870ee8",
-          "title": "GitHub degradation affects Cursor Origin, its new Git platform",
-          "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-17T20:13:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9ebe6fcc",
-      "title": "Sources: Anthropic's revenue run rate reached $65B by the end of July, up from $47B in May and $9B in late 2025 (Bloomberg)",
-      "url": "https://www.techmeme.com/260817/p31",
-      "primary_url": "https://www.techmeme.com/260817/p31",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "83863175a0b8a2f81b439ed121b0ae23cd33f9b8",
-          "title": "Sources: Anthropic's revenue run rate reached $65B by the end of July, up from $47B in May and $9B in late 2025 (Bloomberg)",
-          "url": "https://www.techmeme.com/260817/p31",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T20:00:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ba5991f0",
-      "title": "谷歌斥资 1000 万美元购买 Spirit Airlines 的旧数据以改进其人工智能",
-      "url": "https://www.businessinsider.com/google-buys-spirit-airlines-data-ai-model-development-2026-8",
-      "primary_url": "https://www.businessinsider.com/google-buys-spirit-airlines-data-ai-model-development-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "c6ab79f5d9cc29d0960b5ccdc6b3b71fd2b5b792",
-          "title": "Google is buying Spirit Airlines' old data for $10 million to improve its AI",
-          "url": "https://www.businessinsider.com/google-buys-spirit-airlines-data-ai-model-development-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T19:49:25Z"
         }
       ],
       "item_count": 1,
