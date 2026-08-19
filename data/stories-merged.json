@@ -1,38 +1,73 @@
 {
-  "generated_at": "2026-08-19T17:54:00.322188Z",
+  "generated_at": "2026-08-19T19:12:26.106239Z",
   "window_hours": 24,
-  "total_stories": 179,
+  "total_stories": 175,
   "stories": [
     {
-      "story_id": "story_47ea3c6c",
-      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source_count": 2,
+      "story_id": "story_b75ccb58",
+      "title": "为前沿模型提供零数据保留",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "primary_url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "source_count": 1,
       "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
+        "OpenAI News"
       ],
       "sources": [
         {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "How Much Memory Does Your Agent Actually Need?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
+          "id": "46965e823de9b7acb79bd178929f626ff0a15306",
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+          "source": "OpenAI News",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        },
-        {
-          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face：Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:09:38Z"
+          "published_at": "2026-08-19T19:00:00Z"
         }
       ],
-      "item_count": 2,
-      "score": 10070
+      "item_count": 1,
+      "score": 10020
+    },
+    {
+      "story_id": "story_34372b36",
+      "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/qad",
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "sources": [
+        {
+          "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
+          "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T13:48:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
+      "story_id": "story_09f9dc1b",
+      "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
+      "url": "https://openai.com/index/replit",
+      "primary_url": "https://openai.com/index/replit",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
     },
     {
       "story_id": "story_40e57b67",
@@ -51,50 +86,6 @@
           "source": "OpenAI News",
           "site_id": "official_ai",
           "published_at": "2026-08-18T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_da3edf87",
-      "title": "加强国家安全民主监督",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "Strengthening democratic oversight in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_34372b36",
-      "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/qad",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face：Blog（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "0025d395dbf80e6df8820e884cf0f6e0aadf8519",
-          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
-          "url": "https://huggingface.co/blog/LiquidAI/qad",
-          "source": "Hugging Face：Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T13:48:49Z"
         }
       ],
       "item_count": 1,
@@ -130,6 +121,28 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_4cc32cdf",
+      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "sources": [
+        {
+          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
+          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:56:13.817000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_1a512869",
@@ -880,28 +893,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_a363f747",
-      "title": "OpenRouter 宣布加入 Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-          "title": "OpenRouter 宣布加入 Stripe",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "OpenRouter：Announcements（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_e93fbe15",
       "title": "Claude 如何加速蛋白质设计与分析化学研究",
       "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
@@ -1298,88 +1289,88 @@
       "score": 9820
     },
     {
-      "story_id": "story_e8dfec0d",
-      "title": "AI视频入门基础——运镜（二）+转场",
-      "url": "https://waytoagi.feishu.cn/wiki/NBQUwfPzQimPITkqf3jc7T9Bnke?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/NBQUwfPzQimPITkqf3jc7T9Bnke?from=from_copylink",
+      "story_id": "story_a90d0262",
+      "title": "人工智能现在应该赢得人们的支持——但事实并非如此",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
+      "primary_url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
       "source_count": 1,
       "source_names": [
-        "社区更新 · 2026-08-18"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "d4472ef4dd5d92447437868b039421878374489b",
-          "title": "AI视频入门基础——运镜（二）+转场",
-          "url": "https://waytoagi.feishu.cn/wiki/NBQUwfPzQimPITkqf3jc7T9Bnke?from=from_copylink",
-          "source": "社区更新 · 2026-08-18",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-18T17:58:00.285627Z"
+          "id": "5de718129773e90afeb4c473137c54e17242f17f",
+          "title": "AI was supposed to win people over by now — it hasn’t",
+          "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T19:11:40Z"
         }
       ],
       "item_count": 1,
-      "score": 9820
+      "score": 9720
     },
     {
-      "story_id": "story_23056aec",
-      "title": "Benchmark 合伙人：为什么下一个爆款AI产品将具备社交功能丨Every",
-      "url": "https://waytoagi.feishu.cn/wiki/PFcywyQoRisrRIkHAtmcVdCMnIg?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/PFcywyQoRisrRIkHAtmcVdCMnIg?from=from_copylink",
+      "story_id": "story_dc3d8179",
+      "title": "谷歌Gemini将建立一个专门的学生中心",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
       "source_count": 1,
       "source_names": [
-        "社区更新 · 2026-08-18"
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "9d5534d041178f21dc9b594ffae07f42884ec6fa",
-          "title": "Benchmark 合伙人：为什么下一个爆款AI产品将具备社交功能丨Every",
-          "url": "https://waytoagi.feishu.cn/wiki/PFcywyQoRisrRIkHAtmcVdCMnIg?from=from_copylink",
-          "source": "社区更新 · 2026-08-18",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-18T17:58:00.285627Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_5a26c5f3",
-      "title": "一个极度实用的深度思考Prompt，帮你挖出最本质的答案。",
-      "url": "https://waytoagi.feishu.cn/wiki/AUAYwSpRBiQZSxk9XtecEHfZn7d?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/AUAYwSpRBiQZSxk9XtecEHfZn7d?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-08-18"
-      ],
-      "sources": [
-        {
-          "id": "72e8ba59591a3afcdccdbeb6a2501aa49959fa2f",
-          "title": "一个极度实用的深度思考Prompt，帮你挖出最本质的答案。",
-          "url": "https://waytoagi.feishu.cn/wiki/AUAYwSpRBiQZSxk9XtecEHfZn7d?from=from_copylink",
-          "source": "社区更新 · 2026-08-18",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-18T17:58:00.285627Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_b75ccb58",
-      "title": "为前沿模型提供零数据保留",
-      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
-      "primary_url": "https://openai.com/index/our-commitment-to-zero-data-retention",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "862992618209436e53217412f347ec72288e64e1",
-          "title": "Offering Zero Data Retention for frontier models",
-          "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
-          "source": "OpenAI News",
+          "id": "2c28faf6f14aa24171a98be9183fafb97f836b2d",
+          "title": "Google Gemini is getting a dedicated student hub",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+          "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c6c41240",
+      "title": "谷歌为搜索和 Gemini 提供新的人工智能研究工具",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
+      "primary_url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "8e09482f2d883cffca2e9c85039e0cf5ef7c2733",
+          "title": "Google packs Search and Gemini with new AI study tools",
+          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_0a937bda",
+      "title": "研究人员称 OpenAI 撤销了他们对有限网络程序的访问权限",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program",
+      "primary_url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "f13686da26894ab4f20f0c9df486b86c4fbf3140",
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T18:46:14Z"
         }
       ],
       "item_count": 1,
@@ -2122,28 +2113,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-19T07:01:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_09f9dc1b",
-      "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
-      "url": "https://openai.com/index/replit",
-      "primary_url": "https://openai.com/index/replit",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "b03990448a4453449e0afb14ff55025cef2a7859",
-          "title": "Replit expands access to software creation with GPT-5.6 Luna",
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T07:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2966,88 +2935,66 @@
       "score": 9720
     },
     {
-      "story_id": "story_89281e01",
-      "title": "OpenAI 在其人工智能代理失控后彻底修改了安全协议",
-      "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
-      "primary_url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
-      "source_count": 1,
+      "story_id": "story_a363f747",
+      "title": "OpenRouter 宣布加入 Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "source_count": 2,
       "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "068d7321ec98dddf087ae6c2cbb6a291f0b2480e",
-          "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-          "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T18:33:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_da6fd76d",
-      "title": "Hugging Face 泄露后 OpenAI 制定了新的保障措施",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
-      "primary_url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "13601b8d664428423d2dd2a373d52681d54379ad",
-          "title": "OpenAI institutes new safeguards after Hugging Face breach",
-          "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_95c5d2c0",
-      "title": "挪威应该收购OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "primary_url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "source_count": 3,
-      "source_names": [
-        "www.onethousandmeans.com",
-        "Hacker News · 24h最热",
+        "openrouter.ai",
         "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
-          "title": "挪威应该收购OpenAI",
-          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-          "source": "www.onethousandmeans.com",
+          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
+          "title": "OpenRouter 将加入 Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "openrouter.ai",
           "site_id": "buzzing",
-          "published_at": "2026-08-18T20:22:24.343000Z"
+          "published_at": "2026-08-19T18:46:11.132000Z"
         },
         {
-          "id": "afe335281448be39faba6168c9352ab5bcf02282",
-          "title": "Norway should buy OpenAI",
-          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T19:30:29Z"
-        },
-        {
-          "id": "5268f547288b18920f2330094f0e4f2943350ac4",
-          "title": "The Norwegian Government Pension Fund Global ought to purchase OpenAI",
-          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "id": "5f828a6b51ecaa737e9be91990d058bb2d54344d",
+          "title": "OpenRouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-08-18T19:30:29Z"
+          "published_at": "2026-08-19T17:32:38Z"
         }
       ],
-      "item_count": 3,
-      "score": 9580
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_3c866db7",
+      "title": "Ornith-1.5：从自我构建到自我优化",
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "primary_url": "https://ornith.ai/ornith_1_5.html",
+      "source_count": 2,
+      "source_names": [
+        "ornith.ai",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "76b183b4b6b56d4cf5b59c4b8453f445ad94b73f",
+          "title": "Ornith-1.5：从自我构建到自我优化",
+          "url": "https://ornith.ai/ornith_1_5.html",
+          "source": "ornith.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:11.128000Z"
+        },
+        {
+          "id": "913db90a4d40530a3471c1adab0d5ed5689675ff",
+          "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+          "url": "https://ornith.ai/ornith_1_5.html",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-19T14:48:39Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_312f31b3",
@@ -3057,7 +3004,7 @@
       "source_count": 2,
       "source_names": [
         "modelmap.cc",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3069,11 +3016,11 @@
           "published_at": "2026-08-19T14:46:17.538000Z"
         },
         {
-          "id": "77586661204ad33bb0ab5f8deb9e3d999743baca",
+          "id": "d721d9e46c122042220d433f88afb0e9d639ce21",
           "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
           "url": "https://modelmap.cc",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T23:57:36Z"
         }
       ],
@@ -3088,7 +3035,7 @@
       "source_count": 2,
       "source_names": [
         "linear.app",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3100,11 +3047,11 @@
           "published_at": "2026-08-19T06:30:17.079000Z"
         },
         {
-          "id": "fcc0bb9aa559222dc9ce7475984097e0092c2c74",
+          "id": "c53520888ed24c045c12593fb6a1cc459c4dd426",
           "title": "AI usage patterns in software teams",
           "url": "https://linear.app/data",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T22:08:07Z"
         }
       ],
@@ -3119,7 +3066,7 @@
       "source_count": 2,
       "source_names": [
         "artificialanalysis.ai",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3131,15 +3078,54 @@
           "published_at": "2026-08-19T04:06:16.009000Z"
         },
         {
-          "id": "e12eb831a6b4dfede1944f02afaf230a24be78d3",
+          "id": "9a6e05ac4f47c5fbf8644cff755bff76272dccd2",
           "title": "GLM-5.3 Artificial Analysis Benchmarks",
           "url": "https://artificialanalysis.ai/models/glm-5-3",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-18T22:06:10Z"
         }
       ],
       "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_95c5d2c0",
+      "title": "挪威应该收购OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "primary_url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "source_count": 2,
+      "source_names": [
+        "www.onethousandmeans.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
+          "title": "挪威应该收购OpenAI",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "www.onethousandmeans.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T20:22:24.343000Z"
+        },
+        {
+          "id": "755f977396514cc0c78244d8f8e4eae390bc3ee3",
+          "title": "Norway should buy OpenAI",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-18T19:30:29Z"
+        },
+        {
+          "id": "5268f547288b18920f2330094f0e4f2943350ac4",
+          "title": "The Norwegian Government Pension Fund Global ought to purchase OpenAI",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-18T19:30:29Z"
+        }
+      ],
+      "item_count": 3,
       "score": 9570
     },
     {
@@ -3152,6 +3138,22 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "a0a9349072ffe0cfbafd33bacbe78e108995fc07",
+          "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+          "url": "https://news.ycombinator.com/item?id=49364223",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T19:02:03.380000Z"
+        },
+        {
+          "id": "5e9bda5d9290ba7331ad1f1ce76bd1a380fd6783",
+          "title": "The A.I. In Google's New Pixel 11 Is Not Helpful",
+          "url": "https://news.ycombinator.com/item?id=49365383",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T19:02:03.380000Z"
+        },
         {
           "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
           "title": "Extensible Software in the Age of LLMs",
@@ -3255,17 +3257,31 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-18T19:18:57.219000Z"
-        },
-        {
-          "id": "e417c681890de0c56b1325262545140f0d2f5ce8",
-          "title": "Claude Code weekly limits reduce by a third tomorrow",
-          "url": "https://news.ycombinator.com/item?id=49348751",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T17:58:14.938000Z"
         }
       ],
-      "item_count": 14,
+      "item_count": 15,
+      "score": 7
+    },
+    {
+      "story_id": "story_fa292fb0",
+      "title": "人工智能在谷歌新推出的 Pixel 11 中没有帮助",
+      "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+      "primary_url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "fe940349674cfadbc7cf99e8628518a505e06014",
+          "title": "The A.I. In Google's New Pixel 11 Is Not Helpful",
+          "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-19T18:32:20Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -3275,15 +3291,15 @@
       "primary_url": "https://demo.frugaltokens.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "5db699f8797e70d9504ac2319688ef6c8c35abc8",
+          "id": "28b00cae3cf870f5ee8f3d196c9ee799d95d3fae",
           "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
           "url": "https://demo.frugaltokens.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-19T17:07:35Z"
         }
       ],
@@ -3297,15 +3313,15 @@
       "primary_url": "https://github.com/onecli/onecli",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "c66b442e5f092966da908ae91a62dc819bf64b7b",
+          "id": "6aaeae847e59478e4d1db8daa0d02de9f3f982a5",
           "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
           "url": "https://github.com/onecli/onecli",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-19T16:29:02Z"
         }
       ],
@@ -3324,7 +3340,7 @@
       "sources": [
         {
           "id": "8fc96d7e0e84a4c1f039c855b3e1715176879a48",
-          "title": "Extensible Software in the Age of LLMs",
+          "title": "Extensible Software in the age of LLMs",
           "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
@@ -3401,28 +3417,6 @@
       "score": 7
     },
     {
-      "story_id": "story_3c866db7",
-      "title": "Ornith-1.5：从自我搭建到自我完善",
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "primary_url": "https://ornith.ai/ornith_1_5.html",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "0f50407d9a77f7abde9df27f57bcea5f71a06a6e",
-          "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-          "url": "https://ornith.ai/ornith_1_5.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-19T14:48:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_a3946e1f",
       "title": "Claude Watermark",
       "url": "https://www.producthunt.com/products/claude-watermark",
@@ -3450,6 +3444,28 @@
         }
       ],
       "item_count": 2,
+      "score": 7
+    },
+    {
+      "story_id": "story_658cf414",
+      "title": "人工智能让图书出版业陷入彻底混乱",
+      "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+      "primary_url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "a94306dd12dcdc5b35793f7833710d185625518f",
+          "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+          "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-19T13:28:44Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -3899,15 +3915,15 @@
       "primary_url": "https://www.cerebras.ai/cs4",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "0d34ed173539715888c2c032528a721b3aa093e5",
+          "id": "1402029b06b9829fc927e738e1873b23fc1c748b",
           "title": "Cerebras CS-4",
           "url": "https://www.cerebras.ai/cs4",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-19T00:28:18Z"
         }
       ],
@@ -3921,15 +3937,15 @@
       "primary_url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "605ee0c1a1a453a793414398b0da4eefd4686531",
+          "id": "fc2d9047528a4e98adf69d9293dc2d40655ac85f",
           "title": "OpenAI's Second-Quarter Sales Show Tepid Growth Compared with Anthropic",
           "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T22:45:43Z"
         }
       ],
@@ -3965,15 +3981,15 @@
       "primary_url": "https://fx.sh",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "9270c113f3e02efed3fd56df8cb9535e8bc6813f",
+          "id": "220c1ea55efedc49878ae4840eb8c2f13b7c46fc",
           "title": "fx :Tiny, open, native coding agent.",
           "url": "https://fx.sh",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-18T22:00:21Z"
         }
       ],
@@ -3987,15 +4003,15 @@
       "primary_url": "https://twitter.com/sama/status/2089787807611195475",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "41fa4f2384fdbce93d5361d10541c6ef3e8bacc0",
+          "id": "e0595958ce9caf1eda4a8f100a326b49c6950383",
           "title": "OpenAI pauses frontier model training",
           "url": "https://twitter.com/sama/status/2089787807611195475",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-18T21:24:35Z"
         }
       ],
@@ -4004,20 +4020,20 @@
     },
     {
       "story_id": "story_03d67884",
-      "title": "Claude Code 教 macOS 本机打印到 HP Laser 1008a",
+      "title": "Claude Code 教 macOS 本地打印到 HP Laser 1008a",
       "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
       "primary_url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "896ab346243c4a88a0aeb976cb1d25082609592b",
-          "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+          "id": "4e8be79881a78c84072bee5820a0a2e432d1ceb9",
+          "title": "Claude Code teaching macOS to natively print to the HP Laser 1008a",
           "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-18T21:14:21Z"
         }
       ],
@@ -4063,94 +4079,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-08-18T19:24:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bcde362f",
-      "title": "如果市场拒绝 OpenAI 和 Anthropic，美国应该将它们国有化",
-      "url": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
-      "primary_url": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "e0508343f5544b7926ec754e8fb749ef275788c0",
-          "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
-          "url": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-18T19:04:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3e2661b9",
-      "title": "显示 HN：PantheonGPU – GPU 运行状况测试和 AI 工作负载基准测试",
-      "url": "https://pantheongpu.com",
-      "primary_url": "https://pantheongpu.com",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "61a827316731ed601f9989ce4e035ef216ab6212",
-          "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
-          "url": "https://pantheongpu.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-18T18:47:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1204bd54",
-      "title": "网络关键能力时代的模型开发节奏",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "ff4019264eddf3b0d2f110773d4e0bf08c51ea47",
-          "title": "Pacing model development in an era of cyber-critical capabilities",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-18T18:14:59Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6feef439",
-      "title": "克劳德·科德的每周限额明天将减少三分之一",
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "primary_url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "source_count": 1,
-      "source_names": [
-        "support.claude.com"
-      ],
-      "sources": [
-        {
-          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
-          "title": "克劳德·科德的每周限额明天将减少三分之一",
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "support.claude.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T18:14:09.002000Z"
         }
       ],
       "item_count": 1,
