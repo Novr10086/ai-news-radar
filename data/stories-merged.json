@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-19T21:55:53.323331Z",
+  "generated_at": "2026-08-19T22:55:08.758028Z",
   "window_hours": 24,
-  "total_stories": 166,
+  "total_stories": 164,
   "stories": [
     {
-      "story_id": "story_7e1debc1",
+      "story_id": "story_b75ccb58",
       "title": "为前沿模型提供零数据保留",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "primary_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "primary_url": "https://openai.com/index/our-commitment-to-zero-data-retention",
       "source_count": 1,
       "source_names": [
         "OpenAI News"
       ],
       "sources": [
         {
-          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
-          "title": "Offering Zero Data Retention for frontier models",
-          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
-        },
-        {
           "id": "46965e823de9b7acb79bd178929f626ff0a15306",
           "title": "Offering Zero Data Retention for frontier models",
           "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
           "source": "OpenAI News",
           "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        },
+        {
+          "id": "22764ea42ce68e7deb27ae12e58896c16f8fac36",
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
           "published_at": "2026-08-19T19:00:00Z"
         }
       ],
@@ -40,15 +40,15 @@
       "primary_url": "https://huggingface.co/blog/LiquidAI/qad",
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face：Blog（RSS）"
       ],
       "sources": [
         {
-          "id": "62faba33f1940cf562ff65cd39d1d90d837fd659",
-          "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "id": "0025d395dbf80e6df8820e884cf0f6e0aadf8519",
+          "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
           "url": "https://huggingface.co/blog/LiquidAI/qad",
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
+          "source": "Hugging Face：Blog（RSS）",
+          "site_id": "aihot",
           "published_at": "2026-08-19T13:48:49Z"
         }
       ],
@@ -56,75 +56,31 @@
       "score": 10020
     },
     {
-      "story_id": "story_09f9dc1b",
-      "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
-      "url": "https://openai.com/index/replit",
-      "primary_url": "https://openai.com/index/replit",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-          "title": "Replit expands access to software creation with GPT-5.6 Luna",
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_40e57b67",
-      "title": "ChatGPT 广告扩展到整个欧洲",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "primary_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
-          "title": "ChatGPT Ads expands across Europe",
-          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_a363f747",
-      "title": "OpenRouter 宣布加入 Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "story_id": "story_1204bd54",
+      "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "source_count": 2,
       "source_names": [
-        "OpenRouter：Announcements（RSS）",
-        "openrouter.ai"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "openai.com"
       ],
       "sources": [
         {
-          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-          "title": "OpenRouter 宣布加入 Stripe",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "OpenRouter：Announcements（RSS）",
+          "id": "ce2c0cdfe4ae069b6dfff67d4b091934d6e3d942",
+          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "site_id": "aihot",
-          "published_at": "2026-08-19T00:00:00Z"
+          "published_at": "2026-08-19T21:42:09.969000Z"
         },
         {
-          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
-          "title": "OpenRouter 将加入 Stripe",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "openrouter.ai",
+          "id": "bb0744309b1a55857451afcd58a4e49b2bbc2f5e",
+          "title": "在网络关键能力时代推进模型开发",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "openai.com",
           "site_id": "buzzing",
-          "published_at": "2026-08-19T18:46:11.132000Z"
+          "published_at": "2026-08-19T21:42:09.969000Z"
         }
       ],
       "item_count": 2,
@@ -923,28 +879,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_e93fbe15",
-      "title": "Claude 如何加速蛋白质设计与分析化学研究",
-      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "primary_url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "sources": [
-        {
-          "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
-          "title": "Claude 如何加速蛋白质设计与分析化学研究",
-          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T22:27:16.191000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_27422e16",
       "title": "DeepSeek harness 必装的 7 个插件，让你的使用体感翻倍",
       "url": "https://waytoagi.feishu.cn/wiki/PpQzwwRV9iwCC6kpSnOcyT95n4b?from=from_copylink",
@@ -1165,26 +1099,26 @@
       "score": 9820
     },
     {
-      "story_id": "story_557295aa",
-      "title": "weird that there's a \"make a lot of money\" button and nobody's pressing it (take your SaaS, make it headless, let agents use it, charge per interaction esp for enterprises)",
-      "url": "https://x.com/trq212/status/2089844723691479333",
-      "primary_url": "https://x.com/trq212/status/2089844723691479333",
+      "story_id": "story_5dd2173c",
+      "title": "OpenAI 寻求通过新的客户隐私保护来超越 Anthropic",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
+      "primary_url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Thariq"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "70477eec8cbb07a1d3b765215753a028751aaa8c",
-          "title": "weird that there's a \"make a lot of money\" button and nobody's pressing it (take your SaaS, make it headless, let agents use it, charge per interaction esp for enterprises)",
-          "url": "https://x.com/trq212/status/2089844723691479333",
-          "source": "Follow Builders · X · Thariq",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-18T22:39:44Z"
+          "id": "cbdec836fe2aaa756cb97c6e25a3805383d0f27a",
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T22:10:46Z"
         }
       ],
       "item_count": 1,
-      "score": 9820
+      "score": 9720
     },
     {
       "story_id": "story_4abacddc",
@@ -2039,6 +1973,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_09f9dc1b",
+      "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
+      "url": "https://openai.com/index/replit",
+      "primary_url": "https://openai.com/index/replit",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "b03990448a4453449e0afb14ff55025cef2a7859",
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_777ef3aa",
       "title": "完蛋，AI 把全世界都变成了《牛来》",
       "url": "https://www.huxiu.com/article/4884233.html?f=rss",
@@ -2729,26 +2685,66 @@
       "score": 9720
     },
     {
-      "story_id": "story_83a56b9d",
-      "title": "Cursor 利用 GitHub 的挫败感推出竞争对手托管平台",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
-      "primary_url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
-      "source_count": 1,
+      "story_id": "story_98bb3649",
+      "title": "Kubernetes 探针的工作原理",
+      "url": "https://ngrok.com/blog/probes",
+      "primary_url": "https://ngrok.com/blog/probes",
+      "source_count": 2,
       "source_names": [
-        "TechCrunch"
+        "ngrok.com",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "f8dadfcfd59c74068524388d1cf8f95e804e3cd8",
-          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-          "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T22:14:25Z"
+          "id": "be60e1c8f35d8934007dd0ccd88fbff75148341f",
+          "title": "Kubernetes 探针的工作原理",
+          "url": "https://ngrok.com/blog/probes",
+          "source": "ngrok.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T22:45:53.740000Z"
+        },
+        {
+          "id": "8edac98ae9b4b65b78cd55e33645df7a50d50191",
+          "title": "How Kubernetes Probes Work",
+          "url": "https://ngrok.com/blog/probes",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-19T16:25:37Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_a363f747",
+      "title": "OpenRouter 宣布加入 Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "source_count": 2,
+      "source_names": [
+        "openrouter.ai",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
+          "title": "OpenRouter 将加入 Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "openrouter.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:11.132000Z"
+        },
+        {
+          "id": "5f828a6b51ecaa737e9be91990d058bb2d54344d",
+          "title": "OpenRouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-19T17:32:38Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_3c866db7",
@@ -2758,7 +2754,7 @@
       "source_count": 2,
       "source_names": [
         "ornith.ai",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2770,11 +2766,11 @@
           "published_at": "2026-08-19T18:46:11.128000Z"
         },
         {
-          "id": "0f50407d9a77f7abde9df27f57bcea5f71a06a6e",
+          "id": "913db90a4d40530a3471c1adab0d5ed5689675ff",
           "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
           "url": "https://ornith.ai/ornith_1_5.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-19T14:48:39Z"
         }
       ],
@@ -2813,156 +2809,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_3b95f2f5",
-      "title": "软件团队中人工智能的使用模式",
-      "url": "https://linear.app/data",
-      "primary_url": "https://linear.app/data",
-      "source_count": 2,
-      "source_names": [
-        "linear.app",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
-          "title": "软件团队中人工智能的使用模式",
-          "url": "https://linear.app/data",
-          "source": "linear.app",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T06:30:17.079000Z"
-        },
-        {
-          "id": "fcc0bb9aa559222dc9ce7475984097e0092c2c74",
-          "title": "AI usage patterns in software teams",
-          "url": "https://linear.app/data",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-18T22:08:07Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_6cff5cb1",
-      "title": "GLM-5.3 人工分析基准测试",
-      "url": "https://artificialanalysis.ai/models/glm-5-3",
-      "primary_url": "https://artificialanalysis.ai/models/glm-5-3",
-      "source_count": 2,
-      "source_names": [
-        "artificialanalysis.ai",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "f989af42a273b740423bdabdd5de6f98cbc3ff66",
-          "title": "GLM-5.3 人工分析基准测试",
-          "url": "https://artificialanalysis.ai/models/glm-5-3",
-          "source": "artificialanalysis.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T04:06:16.009000Z"
-        },
-        {
-          "id": "9a6e05ac4f47c5fbf8644cff755bff76272dccd2",
-          "title": "GLM-5.3 Artificial Analysis Benchmarks",
-          "url": "https://artificialanalysis.ai/models/glm-5-3",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-18T22:06:10Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_1204bd54",
-      "title": "在网络关键能力时代推进模型开发",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source_count": 1,
-      "source_names": [
-        "openai.com"
-      ],
-      "sources": [
-        {
-          "id": "bb0744309b1a55857451afcd58a4e49b2bbc2f5e",
-          "title": "在网络关键能力时代推进模型开发",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T21:42:09.969000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bde94133",
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "primary_url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "source_count": 1,
-      "source_names": [
-        "unsloth.ai"
-      ],
-      "sources": [
-        {
-          "id": "749f7313384f0febed6f010eea4a5d2ae645dd91",
-          "title": "Unsloth Dynamic 3.0 GGUFs",
-          "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-          "source": "unsloth.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T21:26:10.500000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5fb703dd",
-      "title": "纯C语言编写的Microgpt在Apple M5上达到1000万tps",
-      "url": "https://github.com/vixhal-baraiya/microgpt-c",
-      "primary_url": "https://github.com/vixhal-baraiya/microgpt-c",
-      "source_count": 1,
-      "source_names": [
-        "github.com"
-      ],
-      "sources": [
-        {
-          "id": "78cb11fa922576370e41f968a22d4c3ecd9a79e6",
-          "title": "纯C语言编写的Microgpt在Apple M5上达到1000万tps",
-          "url": "https://github.com/vixhal-baraiya/microgpt-c",
-          "source": "github.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T20:38:05.715000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_631dcb2d",
-      "title": "DFlash 2：保持绘图并行",
-      "url": "https://inco.ai/blog/dflash2",
-      "primary_url": "https://inco.ai/blog/dflash2",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "95b285d3b36d2fabf9ee0e427b6697b39d983f85",
-          "title": "DFlash 2: Keep Drafting Parallel",
-          "url": "https://inco.ai/blog/dflash2",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-19T20:28:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_76bf4bdf",
       "title": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具",
       "url": "https://news.ycombinator.com/item?id=49363710",
@@ -2972,6 +2818,14 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "61b5b38e6ca223c7d9ec401fb64d7ae9d23ed534",
+          "title": "Collaborative Human Agent Protocol (CHAP)",
+          "url": "https://news.ycombinator.com/item?id=49367836",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T22:32:19.299000Z"
+        },
         {
           "id": "a0a9349072ffe0cfbafd33bacbe78e108995fc07",
           "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
@@ -3043,17 +2897,141 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-18T23:48:06.050000Z"
-        },
-        {
-          "id": "e3c82ba19c8e29a1ffcaf80023f730204db2b5d9",
-          "title": "fx :Tiny, open, native coding agent.",
-          "url": "https://news.ycombinator.com/item?id=49353339",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T22:42:23.239000Z"
         }
       ],
       "item_count": 10,
+      "score": 7
+    },
+    {
+      "story_id": "story_2c92715d",
+      "title": "协作人工代理协议 (CHAP)",
+      "url": "https://github.com/BrightbeamAI/chap",
+      "primary_url": "https://github.com/BrightbeamAI/chap",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "d4ca96fdeb9283e5fcf43f57998ef7858ba53b5e",
+          "title": "Collaborative Human Agent Protocol (CHAP)",
+          "url": "https://github.com/BrightbeamAI/chap",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-19T22:09:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fce9fd61",
+      "title": "Show HN：将网站转变为 Claude Code 的微型 CLI 以节省代币",
+      "url": "https://github.com/only-cli/oc",
+      "primary_url": "https://github.com/only-cli/oc",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "2912e0b8f7075c9db3be810cc5c2b70a68980759",
+          "title": "Show HN: Turning websites into micro CLIs for Claude Code to save on tokens",
+          "url": "https://github.com/only-cli/oc",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-19T21:26:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7413514b",
+      "title": "人类拒绝支持特工.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "primary_url": "https://github.com/anthropics/claude-code/issues/6235",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "601f7176618efc00f63a4fdced32791fd554b7d7",
+          "title": "Anthropic Refuses to Support Agents.md",
+          "url": "https://github.com/anthropics/claude-code/issues/6235",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-19T21:19:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d2a047ba",
+      "title": "OpenAI 的揭秘已经开始",
+      "url": "https://garymarcus.substack.com/p/breaking-openais-unraveling-has-begun",
+      "primary_url": "https://garymarcus.substack.com/p/breaking-openais-unraveling-has-begun",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "a64c2c2243e44b1d6d8e9b3bd122278251d65a47",
+          "title": "OpenAI's Unraveling Has Begun",
+          "url": "https://garymarcus.substack.com/p/breaking-openais-unraveling-has-begun",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-19T21:00:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5fb703dd",
+      "title": "纯C语言编写的Microgpt在Apple M5上达到1000万tps",
+      "url": "https://github.com/vixhal-baraiya/microgpt-c",
+      "primary_url": "https://github.com/vixhal-baraiya/microgpt-c",
+      "source_count": 1,
+      "source_names": [
+        "github.com"
+      ],
+      "sources": [
+        {
+          "id": "78cb11fa922576370e41f968a22d4c3ecd9a79e6",
+          "title": "纯C语言编写的Microgpt在Apple M5上达到1000万tps",
+          "url": "https://github.com/vixhal-baraiya/microgpt-c",
+          "source": "github.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T20:38:05.715000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_631dcb2d",
+      "title": "DFlash 2：保持绘图并行",
+      "url": "https://inco.ai/blog/dflash2",
+      "primary_url": "https://inco.ai/blog/dflash2",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "e892a6957b51a8a6793451f1c2790220155615e8",
+          "title": "DFlash 2: Keep Drafting Parallel",
+          "url": "https://inco.ai/blog/dflash2",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-19T20:28:43Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -3079,21 +3057,43 @@
       "score": 7
     },
     {
+      "story_id": "story_bde94133",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "primary_url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "fa412042133c0c6a3e38ac7992761be6e08b4b78",
+          "title": "Unsloth Dynamic 3.0 GGUFs",
+          "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-19T18:36:45Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_fa292fb0",
       "title": "人工智能在谷歌新推出的 Pixel 11 中没有帮助",
       "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
       "primary_url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "087446d136454e35cc7c12ef8a7229ab5e557952",
+          "id": "fe940349674cfadbc7cf99e8628518a505e06014",
           "title": "The A.I. In Google's New Pixel 11 Is Not Helpful",
           "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-19T18:32:20Z"
         }
       ],
@@ -3107,15 +3107,15 @@
       "primary_url": "https://demo.frugaltokens.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "5db699f8797e70d9504ac2319688ef6c8c35abc8",
+          "id": "28b00cae3cf870f5ee8f3d196c9ee799d95d3fae",
           "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
           "url": "https://demo.frugaltokens.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-19T17:07:35Z"
         }
       ],
@@ -3129,15 +3129,15 @@
       "primary_url": "https://github.com/onecli/onecli",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "6aaeae847e59478e4d1db8daa0d02de9f3f982a5",
+          "id": "c66b442e5f092966da908ae91a62dc819bf64b7b",
           "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
           "url": "https://github.com/onecli/onecli",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-19T16:29:02Z"
         }
       ],
@@ -3161,28 +3161,6 @@
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
           "published_at": "2026-08-19T16:26:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_98bb3649",
-      "title": "Kubernetes 探针如何工作",
-      "url": "https://ngrok.com/blog/probes",
-      "primary_url": "https://ngrok.com/blog/probes",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "8edac98ae9b4b65b78cd55e33645df7a50d50191",
-          "title": "How Kubernetes Probes Work",
-          "url": "https://ngrok.com/blog/probes",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-19T16:25:37Z"
         }
       ],
       "item_count": 1,
@@ -3217,15 +3195,15 @@
       "primary_url": "https://arxiv.org/abs/2608.16753",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "730639b8c3b687f7a493dfc778fd9c78fb4a539d",
+          "id": "7b94aa74999ec8c59135846474f5b770718c881a",
           "title": "Mathematics in the age of AI",
           "url": "https://arxiv.org/abs/2608.16753",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-19T15:14:25Z"
         }
       ],
@@ -3637,6 +3615,28 @@
       "score": 7
     },
     {
+      "story_id": "story_3b95f2f5",
+      "title": "软件团队中人工智能的使用模式",
+      "url": "https://linear.app/data",
+      "primary_url": "https://linear.app/data",
+      "source_count": 1,
+      "source_names": [
+        "linear.app"
+      ],
+      "sources": [
+        {
+          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
+          "title": "软件团队中人工智能的使用模式",
+          "url": "https://linear.app/data",
+          "source": "linear.app",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T06:30:17.079000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_487dcd05",
       "title": "人工智能会阻止孩子学习吗？",
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
@@ -3653,6 +3653,50 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-08-19T06:13:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6cff5cb1",
+      "title": "GLM-5.3 人工分析基准测试",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
+      "primary_url": "https://artificialanalysis.ai/models/glm-5-3",
+      "source_count": 1,
+      "source_names": [
+        "artificialanalysis.ai"
+      ],
+      "sources": [
+        {
+          "id": "f989af42a273b740423bdabdd5de6f98cbc3ff66",
+          "title": "GLM-5.3 人工分析基准测试",
+          "url": "https://artificialanalysis.ai/models/glm-5-3",
+          "source": "artificialanalysis.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T04:06:16.009000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_940a239a",
+      "title": "Cerebras CS-4",
+      "url": "https://www.cerebras.ai/cs4",
+      "primary_url": "https://www.cerebras.ai/cs4",
+      "source_count": 1,
+      "source_names": [
+        "www.cerebras.ai"
+      ],
+      "sources": [
+        {
+          "id": "36d63257234cda0ca60834b0014513c02562c47d",
+          "title": "Cerebras CS-4",
+          "url": "https://www.cerebras.ai/cs4",
+          "source": "www.cerebras.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T03:18:04.486000Z"
         }
       ],
       "item_count": 1,
@@ -3719,94 +3763,6 @@
           "source": "github.com",
           "site_id": "buzzing",
           "published_at": "2026-08-19T00:38:05.732000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_940a239a",
-      "title": "Cerebras CS-4",
-      "url": "https://www.cerebras.ai/cs4",
-      "primary_url": "https://www.cerebras.ai/cs4",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "1402029b06b9829fc927e738e1873b23fc1c748b",
-          "title": "Cerebras CS-4",
-          "url": "https://www.cerebras.ai/cs4",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-19T00:28:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f2d01603",
-      "title": "与 Anthropic 相比，OpenAI 第二季度销售额增长不温不火",
-      "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
-      "primary_url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "605ee0c1a1a453a793414398b0da4eefd4686531",
-          "title": "OpenAI's Second-Quarter Sales Show Tepid Growth Compared with Anthropic",
-          "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-18T22:45:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5033d24c",
-      "title": "GPT-5.6 Sol：德温 70% 折扣",
-      "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
-      "primary_url": "https://devin.ai/blog/gpt-5-6-sol-promo",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "bb05624eef4812ff44acf83a74d7e3316d23ffec",
-          "title": "GPT-5.6 Sol: 70% off in Devin",
-          "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T22:12:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6b3b061e",
-      "title": "fx ：小型、开放、本机编码代理。",
-      "url": "https://fx.sh",
-      "primary_url": "https://fx.sh",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "220c1ea55efedc49878ae4840eb8c2f13b7c46fc",
-          "title": "fx :Tiny, open, native coding agent.",
-          "url": "https://fx.sh",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-18T22:00:21Z"
         }
       ],
       "item_count": 1,
