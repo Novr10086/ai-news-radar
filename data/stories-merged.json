@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T05:17:15.201229Z",
+  "generated_at": "2026-08-19T07:58:33.090075Z",
   "window_hours": 24,
-  "total_stories": 172,
+  "total_stories": 187,
   "stories": [
     {
       "story_id": "story_48f9d5cf",
@@ -97,6 +97,28 @@
       "score": 10020
     },
     {
+      "story_id": "story_da3edf87",
+      "title": "加强国家安全民主监督",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+          "title": "Strengthening democratic oversight in national security",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
       "story_id": "story_f7788bfa",
       "title": "与 CodeAI 合作，准备第一代 AI",
       "url": "https://openai.com/index/partnering-with-codeai",
@@ -119,26 +141,35 @@
       "score": 10020
     },
     {
-      "story_id": "story_eaf7eab1",
-      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
-      "url": "https://openai.com/index/asana",
-      "primary_url": "https://openai.com/index/asana",
-      "source_count": 1,
+      "story_id": "story_48c55b02",
+      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+      "url": "https://x.com/claudeai/status/2089806039088517356",
+      "primary_url": "https://x.com/claudeai/status/2089806039088517356",
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "X：Claude (@claudeai)",
+        "Follow Builders · X · Claude"
       ],
       "sources": [
         {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
+          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "X：Claude (@claudeai)",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T20:06:01Z"
+        },
+        {
+          "id": "226c19bb28a594a92b38d236cc7f3e2b35775fbe",
+          "title": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval. Connect Gmail or Google Drive from...",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "Follow Builders · X · Claude",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T20:06:01Z"
         }
       ],
-      "item_count": 1,
-      "score": 10020
+      "item_count": 2,
+      "score": 9970
     },
     {
       "story_id": "story_6da86810",
@@ -170,6 +201,226 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_f383a5a0",
+      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+      "url": "https://www.aibase.com/news/30473",
+      "primary_url": "https://www.aibase.com/news/30473",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/news/30473",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:57:54.094445Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_6e7c49ef",
+      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+      "url": "https://www.aibase.com/news/30469",
+      "primary_url": "https://www.aibase.com/news/30469",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "url": "https://www.aibase.com/news/30469",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:57:54.094445Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_83d12133",
+      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+      "url": "https://www.aibase.com/news/30471",
+      "primary_url": "https://www.aibase.com/news/30471",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "url": "https://www.aibase.com/news/30471",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:57:54.094445Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_5e079201",
+      "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+      "url": "https://www.aibase.com/news/30464",
+      "primary_url": "https://www.aibase.com/news/30464",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
+          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+          "url": "https://www.aibase.com/news/30464",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:57:54.094445Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_afe8bfa9",
+      "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+      "url": "https://www.aibase.com/news/30466",
+      "primary_url": "https://www.aibase.com/news/30466",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "e05533837dd963d298b50f65dc868d9d032108a4",
+          "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "url": "https://www.aibase.com/news/30466",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:57:54.094445Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_1b11365b",
+      "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+      "url": "https://www.aibase.com/news/30467",
+      "primary_url": "https://www.aibase.com/news/30467",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:57:54.094445Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_66e9ccb7",
+      "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+      "url": "https://www.aibase.com/news/30465",
+      "primary_url": "https://www.aibase.com/news/30465",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "d886e034e8d903eacc4fcfeff48d837b0857d1ab",
+          "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+          "url": "https://www.aibase.com/news/30465",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:57:54.094445Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_ec869895",
+      "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+      "url": "https://www.aibase.com/news/30472",
+      "primary_url": "https://www.aibase.com/news/30472",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
+          "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+          "url": "https://www.aibase.com/news/30472",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:57:54.094445Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_798b136c",
+      "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+      "url": "https://www.aibase.com/news/30468",
+      "primary_url": "https://www.aibase.com/news/30468",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "036cd73e0577a4f75ad6dce19fce0edd87cfa6a9",
+          "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+          "url": "https://www.aibase.com/news/30468",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:57:54.094445Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_68c4ee69",
+      "title": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+      "url": "https://www.aibase.com/news/30470",
+      "primary_url": "https://www.aibase.com/news/30470",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "c4a93061e83a5163e5a9084c2224fce213720705",
+          "title": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+          "url": "https://www.aibase.com/news/30470",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:57:54.094445Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_9e00a279",
@@ -634,28 +885,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_48c55b02",
-      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-      "url": "https://x.com/claudeai/status/2089806039088517356",
-      "primary_url": "https://x.com/claudeai/status/2089806039088517356",
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "sources": [
-        {
-          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
-          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-          "url": "https://x.com/claudeai/status/2089806039088517356",
-          "source": "X：Claude (@claudeai)",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T20:06:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_a1dc2a8c",
       "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
       "url": "https://claude.com/blog/ai-ci-cd-on-call",
@@ -1038,26 +1267,202 @@
       "score": 9920
     },
     {
-      "story_id": "story_df7374bb",
-      "title": "设计 AI 评测：先求清晰，再谈可视化",
-      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-      "primary_url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "story_id": "story_c2fb7010",
+      "title": "I don’t know why anyone would learn Claude Code by reading a book, but apparently it’s a thing in Japan https://t.co/NlOttUCdD4",
+      "url": "https://x.com/zarazhangrui/status/2089940315268645373",
+      "primary_url": "https://x.com/zarazhangrui/status/2089940315268645373",
       "source_count": 1,
       "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
+        "Follow Builders · X · Zara Zhang"
       ],
       "sources": [
         {
-          "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
-          "title": "设计 AI 评测：先求清晰，再谈可视化",
-          "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T07:00:00Z"
+          "id": "3fed9cc38855eb2a53782a34f6207fa8e4c216e8",
+          "title": "I don’t know why anyone would learn Claude Code by reading a book, but apparently it’s a thing in Japan https://t.co/NlOttUCdD4",
+          "url": "https://x.com/zarazhangrui/status/2089940315268645373",
+          "source": "Follow Builders · X · Zara Zhang",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-19T04:59:35Z"
         }
       ],
       "item_count": 1,
-      "score": 9920
+      "score": 9820
+    },
+    {
+      "story_id": "story_87b5537b",
+      "title": "I should build an app (or an agent?) where you get and maintain a streak for how many days you avoid bringing the phone to the bedroom. Have been leaving it downstairs for 3 days now and it has noticeably improved my...",
+      "url": "https://x.com/petergyang/status/2089931839016468575",
+      "primary_url": "https://x.com/petergyang/status/2089931839016468575",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Peter Yang"
+      ],
+      "sources": [
+        {
+          "id": "eaccf90da85d3c6feaa38ec78ac79e247b087875",
+          "title": "I should build an app (or an agent?) where you get and maintain a streak for how many days you avoid bringing the phone to the bedroom. Have been leaving it downstairs for 3 days now and it has noticeably improved my...",
+          "url": "https://x.com/petergyang/status/2089931839016468575",
+          "source": "Follow Builders · X · Peter Yang",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-19T04:25:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_c5e288b5",
+      "title": "As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized. Mod...",
+      "url": "https://x.com/levie/status/2089921630650925170",
+      "primary_url": "https://x.com/levie/status/2089921630650925170",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Aaron Levie"
+      ],
+      "sources": [
+        {
+          "id": "e25f6599627e54a5c29adb0e7b4794821aa82ca0",
+          "title": "As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized. Mod...",
+          "url": "https://x.com/levie/status/2089921630650925170",
+          "source": "Follow Builders · X · Aaron Levie",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-19T03:45:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_068a1156",
+      "title": "Here’s how to think about the cost of your evals : treat evals like frontier models…establish the quality frontier first, then work your way down the cost curve. Start with the highest quality way you can know if your...",
+      "url": "https://x.com/realmadhuguru/status/2089918106814603728",
+      "primary_url": "https://x.com/realmadhuguru/status/2089918106814603728",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Madhu Guru"
+      ],
+      "sources": [
+        {
+          "id": "a878da9830d4b2a30492ebf2cf5127c0ac2c9b0a",
+          "title": "Here’s how to think about the cost of your evals : treat evals like frontier models…establish the quality frontier first, then work your way down the cost curve. Start with the highest quality way you can know if your...",
+          "url": "https://x.com/realmadhuguru/status/2089918106814603728",
+          "source": "Follow Builders · X · Madhu Guru",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-19T03:31:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_e4a5be05",
+      "title": "Hi! Recapping some changes we have rolled out over the last couple of weeks that have further reduced the risk associated to potentially destructive actions being performed by Codex during its work. A few weeks ago, w...",
+      "url": "https://x.com/thsottiaux/status/2089891927659585918",
+      "primary_url": "https://x.com/thsottiaux/status/2089891927659585918",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux"
+      ],
+      "sources": [
+        {
+          "id": "d79257df1eb02a45a951cc6bbd2d4ef9558d53af",
+          "title": "Hi! Recapping some changes we have rolled out over the last couple of weeks that have further reduced the risk associated to potentially destructive actions being performed by Codex during its work. A few weeks ago, w...",
+          "url": "https://x.com/thsottiaux/status/2089891927659585918",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-19T01:47:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_276b1368",
+      "title": "3. AI has landed on top of existing work rather than replacing it 😭 Teams now spent more time chatting with AI and delegating to agents but didn't spend any less time on existing work. I think this is because expectat...",
+      "url": "https://x.com/petergyang/status/2089877083510235328",
+      "primary_url": "https://x.com/petergyang/status/2089877083510235328",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Peter Yang"
+      ],
+      "sources": [
+        {
+          "id": "0e3256b41e23954f48a72ab8406a061311ed5bcd",
+          "title": "3. AI has landed on top of existing work rather than replacing it 😭 Teams now spent more time chatting with AI and delegating to agents but didn't spend any less time on existing work. I think this is because expectat...",
+          "url": "https://x.com/petergyang/status/2089877083510235328",
+          "source": "Follow Builders · X · Peter Yang",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-19T00:48:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_557295aa",
+      "title": "weird that there's a \"make a lot of money\" button and nobody's pressing it (take your SaaS, make it headless, let agents use it, charge per interaction esp for enterprises)",
+      "url": "https://x.com/trq212/status/2089844723691479333",
+      "primary_url": "https://x.com/trq212/status/2089844723691479333",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Thariq"
+      ],
+      "sources": [
+        {
+          "id": "70477eec8cbb07a1d3b765215753a028751aaa8c",
+          "title": "weird that there's a \"make a lot of money\" button and nobody's pressing it (take your SaaS, make it headless, let agents use it, charge per interaction esp for enterprises)",
+          "url": "https://x.com/trq212/status/2089844723691479333",
+          "source": "Follow Builders · X · Thariq",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T22:39:44Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_1115fb3e",
+      "title": "Do you C what I C? ⦿ CC, our experimental AI productivity agent in Gmail, has now opened up a waitlist in Australia and New Zealand! 🌏 ⦿ We're also expanding availability in the US and Canada. If you've been on the wa...",
+      "url": "https://x.com/GoogleLabs/status/2089812430885208361",
+      "primary_url": "https://x.com/GoogleLabs/status/2089812430885208361",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Google Labs"
+      ],
+      "sources": [
+        {
+          "id": "7cdbc6b3e6ec7044dab20cddc59ccd8e60f53120",
+          "title": "Do you C what I C? ⦿ CC, our experimental AI productivity agent in Gmail, has now opened up a waitlist in Australia and New Zealand! 🌏 ⦿ We're also expanding availability in the US and Canada. If you've been on the wa...",
+          "url": "https://x.com/GoogleLabs/status/2089812430885208361",
+          "source": "Follow Builders · X · Google Labs",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T20:31:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_5dcb8ae1",
+      "title": "Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon https://t.co/MRPrmkSAPd",
+      "url": "https://x.com/rauchg/status/2089804717337817514",
+      "primary_url": "https://x.com/rauchg/status/2089804717337817514",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Guillermo Rauch"
+      ],
+      "sources": [
+        {
+          "id": "3ffeab5122ba5b9615d20b763e3a236548c0dc46",
+          "title": "Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon https://t.co/MRPrmkSAPd",
+          "url": "https://x.com/rauchg/status/2089804717337817514",
+          "source": "Follow Builders · X · Guillermo Rauch",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T20:00:45Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
     },
     {
       "story_id": "story_f5ad53e9",
@@ -1170,44 +1575,66 @@
       "score": 9820
     },
     {
-      "story_id": "story_bd2a07c8",
-      "title": "Gimme, gimme, gimme Codex after midnight Won’t somebody make these failing tests all go away? Gimme, gimme, gimme Codex after midnight Ship it through the darkness by the start of the day",
-      "url": "https://x.com/thsottiaux/status/2089604619936956778",
-      "primary_url": "https://x.com/thsottiaux/status/2089604619936956778",
+      "story_id": "story_ab705aa3",
+      "title": "Claude Cowork 现已在移动设备和网络上提供所有付费计划。 https://t.co/sdWVjEehcR",
+      "url": "https://x.com/claudeai/status/2089756371570900999",
+      "primary_url": "https://x.com/claudeai/status/2089756371570900999",
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
+        "Follow Builders · X · Claude"
       ],
       "sources": [
         {
-          "id": "a90a757b02b9a699c09627ecdef37d876ac8f4cd",
-          "title": "Gimme, gimme, gimme Codex after midnight Won’t somebody make these failing tests all go away? Gimme, gimme, gimme Codex after midnight Ship it through the darkness by the start of the day",
-          "url": "https://x.com/thsottiaux/status/2089604619936956778",
-          "source": "Follow Builders · X · Thibault Sottiaux",
+          "id": "1fb409445bffb0b8aa21f855bc50e422e0ef888e",
+          "title": "Claude Cowork is now available on mobile and web for all paid plans. https://t.co/sdWVjEehcR",
+          "url": "https://x.com/claudeai/status/2089756371570900999",
+          "source": "Follow Builders · X · Claude",
           "site_id": "followbuilders",
-          "published_at": "2026-08-18T06:45:39Z"
+          "published_at": "2026-08-18T16:48:39Z"
         }
       ],
       "item_count": 1,
       "score": 9820
     },
     {
-      "story_id": "story_8c88c9bc",
-      "title": "@bot If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF",
-      "url": "https://x.com/petergyang/status/2089593232741240881",
-      "primary_url": "https://x.com/petergyang/status/2089593232741240881",
+      "story_id": "story_e0f966ce",
+      "title": "We are putting $1M towards verifying the security of Vercel Sandbox, in the open. You're free to test any model in the world to try and find an escape. I'm looking forward to bringing transparency to what frontier mod...",
+      "url": "https://x.com/rauchg/status/2089747453004468339",
+      "primary_url": "https://x.com/rauchg/status/2089747453004468339",
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Peter Yang"
+        "Follow Builders · X · Guillermo Rauch"
       ],
       "sources": [
         {
-          "id": "ff57769eb965c7e81e6aab72b874a81b38bc2695",
-          "title": "@bot If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF",
-          "url": "https://x.com/petergyang/status/2089593232741240881",
-          "source": "Follow Builders · X · Peter Yang",
+          "id": "2fc53a2752ff717278402b15b2594fb83c576b7b",
+          "title": "We are putting $1M towards verifying the security of Vercel Sandbox, in the open. You're free to test any model in the world to try and find an escape. I'm looking forward to bringing transparency to what frontier mod...",
+          "url": "https://x.com/rauchg/status/2089747453004468339",
+          "source": "Follow Builders · X · Guillermo Rauch",
           "site_id": "followbuilders",
-          "published_at": "2026-08-18T06:00:24Z"
+          "published_at": "2026-08-18T16:13:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_65e649f8",
+      "title": "Rich Sutton 和 Khurram Javed：人工智能模型为何停止学习以及如何重新开始",
+      "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "primary_url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · Podcast · Training Data"
+      ],
+      "sources": [
+        {
+          "id": "65bd8f4ce6844fedfd66b3a77cff95ff144cee76",
+          "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+          "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+          "source": "Follow Builders · Podcast · Training Data",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T09:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1284,6 +1711,160 @@
       "score": 9770
     },
     {
+      "story_id": "story_c55895c9",
+      "title": "从“梁圣”变“梁子”，DeepSeek涨价的阳谋与不得已",
+      "url": "https://www.tmtpost.com/8107830.html",
+      "primary_url": "https://www.tmtpost.com/8107830.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "3c2f7d270acdbc37ce020ae9d1cd2b4ec7e8ba6a",
+          "title": "从“梁圣”变“梁子”，DeepSeek涨价的阳谋与不得已",
+          "url": "https://www.tmtpost.com/8107830.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:56:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_2c254ca4",
+      "title": "美要求各方在美中人工智能生态系统中“选边站队”，外交部答澎湃：坚决反对搞阵营对抗",
+      "url": "https://m.thepaper.cn/detail/33809363",
+      "primary_url": "https://m.thepaper.cn/detail/33809363",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "100eb9050bafe14eb09543b96840ee832ff721ed",
+          "title": "美要求各方在美中人工智能生态系统中“选边站队”，外交部答澎湃：坚决反对搞阵营对抗",
+          "url": "https://m.thepaper.cn/detail/33809363",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:25:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_8e25050d",
+      "title": "年轻人不应幻想借AI实现阶层逆袭？一个人口大国的启示",
+      "url": "https://www.huxiu.com/article/4884234.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4884234.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "127b1eb4d1cc2f587e3944c5a69f1fd2c418a49d",
+          "title": "年轻人不应幻想借AI实现阶层逆袭？一个人口大国的启示",
+          "url": "https://www.huxiu.com/article/4884234.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_777ef3aa",
+      "title": "完蛋，AI 把全世界都变成了《牛来》",
+      "url": "https://www.huxiu.com/article/4884233.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4884233.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "e652817b7819df1c485f29cfd65c60aacb7940f6",
+          "title": "完蛋，AI 把全世界都变成了《牛来》",
+          "url": "https://www.huxiu.com/article/4884233.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T06:59:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_e0ed5626",
+      "title": "撞名Anthropic的“外挂”刷屏：让“DeepSeek V4‑Pro碾压Fable5”但无人能复现，Token开销反而翻倍",
+      "url": "https://www.huxiu.com/article/4884227.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4884227.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "f4e8a3da3a4f34db3bed7602581f0e2c5b1db5e1",
+          "title": "撞名Anthropic的“外挂”刷屏：让“DeepSeek V4‑Pro碾压Fable5”但无人能复现，Token开销反而翻倍",
+          "url": "https://www.huxiu.com/article/4884227.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T06:39:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_4ffec816",
+      "title": "一文读透百度AI：AI已经成为半个百度，真正的难题才刚开始",
+      "url": "https://www.huxiu.com/article/4884212.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4884212.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "5f079738e75556d1f9cac916cdf775b0e5d94233",
+          "title": "一文读透百度AI：AI已经成为半个百度，真正的难题才刚开始",
+          "url": "https://www.huxiu.com/article/4884212.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T05:44:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_7db4d43d",
+      "title": "当开源大模型开始谈分成",
+      "url": "https://www.tmtpost.com/8107377.html",
+      "primary_url": "https://www.tmtpost.com/8107377.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "ded82f315f1ea623b08ef4716b757c6ddf8fa8e5",
+          "title": "当开源大模型开始谈分成",
+          "url": "https://www.tmtpost.com/8107377.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T05:19:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_b16a5bfb",
       "title": "市政资本试图将人工智能代币转变为计量公用事业",
       "url": "https://www.tmtpost.com/8108581.html",
@@ -1351,7 +1932,7 @@
     },
     {
       "story_id": "story_6da2ab07",
-      "title": "拆解具身的100万小时：真能喂出一个“聪明”机器人吗？｜AI 100闭门会",
+      "title": "拆透具身智能100万小时：真能喂出一个“聪明”机器人吗？｜AI 100闭门会",
       "url": "https://www.huxiu.com/article/4884157.html?f=rss",
       "primary_url": "https://www.huxiu.com/article/4884157.html?f=rss",
       "source_count": 1,
@@ -1359,6 +1940,14 @@
         "虎嗅"
       ],
       "sources": [
+        {
+          "id": "20462ac4df45f238c851bcdd49c172713c654081",
+          "title": "拆透具身智能100万小时：真能喂出一个“聪明”机器人吗？｜AI 100闭门会",
+          "url": "https://www.huxiu.com/article/4884157.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T04:25:40Z"
+        },
         {
           "id": "a379ce7b987b5b84b12273d955693f51ef177967",
           "title": "拆解具身的100万小时：真能喂出一个“聪明”机器人吗？｜AI 100闭门会",
@@ -1368,7 +1957,7 @@
           "published_at": "2026-08-19T04:25:38Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -1828,9 +2417,17 @@
           "source": "AP World News",
           "site_id": "opmlrss",
           "published_at": "2026-08-18T21:37:00Z"
+        },
+        {
+          "id": "b1cb2d60c8feaf6ef66800c0b407437a318d06af",
+          "title": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking - apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm9Za2V4OXJWODVZRENaWXhIQnRiTnBnWDJIanEyVGhWZGVlTTNQU3lrTEd4LU9ZcWxMRTN6S09nLVJJNGRCc1V1Si04OGo0d3U5WkNiYTlyc0dZbkQ2WEJnWjg1UjZnaUtMazRPd0tpN2dFNTd1NDYxNlluRllzcFNnb21rWkhoanBITEU5X3lfUTJMTF8xM0s3YUtDcF9l?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T21:37:00Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -1910,28 +2507,6 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-08-18T19:28:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_da3edf87",
-      "title": "加强国家安全民主监督",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "431a088f08ff972768ca016c68dcef15b88952bd",
-          "title": "Strengthening democratic oversight in national security",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T19:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2246,28 +2821,6 @@
           "title": "ChatGPT is getting a dedicated mode for teens",
           "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
           "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_1204bd54",
-      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "d62b8deba20d4a00bdbce1f8587a69ff0e70c449",
-          "title": "Pacing model development in an era of cyber-critical capabilities",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "source": "OpenAI News",
           "site_id": "opmlrss",
           "published_at": "2026-08-18T11:00:00Z"
         }
@@ -2606,244 +3159,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_83266bd7",
-      "title": "AI中转站的生死一梦",
-      "url": "https://www.tmtpost.com/8107107.html",
-      "primary_url": "https://www.tmtpost.com/8107107.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "5761a83b4643476cd80cc3b25763c0929989b320",
-          "title": "AI中转站的生死一梦",
-          "url": "https://www.tmtpost.com/8107107.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T07:50:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_ffdc06eb",
-      "title": "高盛研报：AI总投资近6000亿美元，拉动美国GDP约0.1个百分点",
-      "url": "https://www.huxiu.com/article/4883934.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883934.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "a0c703d6be71e99106136f573c6749df97236926",
-          "title": "高盛研报：AI总投资近6000亿美元，拉动美国GDP约0.1个百分点",
-          "url": "https://www.huxiu.com/article/4883934.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T07:47:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_ae978d3e",
-      "title": "AI代码过剩后，给代码“冲厕所”的公司贵了十倍",
-      "url": "https://www.tmtpost.com/8107004.html",
-      "primary_url": "https://www.tmtpost.com/8107004.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "70aca4fe6f5020d70eb4fa8bf549e94f92f19690",
-          "title": "AI代码过剩后，给代码“冲厕所”的公司贵了十倍",
-          "url": "https://www.tmtpost.com/8107004.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T07:47:26Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_8b3eb523",
-      "title": "一文看懂宇树上市，客户结构、模型与硬件；看懂人形机器人的机遇与挑战",
-      "url": "https://www.huxiu.com/article/4883892.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883892.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "a629f10443164dbc57e4a282229c55d96d5c161d",
-          "title": "一文看懂宇树上市，客户结构、模型与硬件；看懂人形机器人的机遇与挑战",
-          "url": "https://www.huxiu.com/article/4883892.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T07:30:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f73d96e0",
-      "title": "Anthropic，Dario Amodei，与“最后一家私营公司”",
-      "url": "https://www.huxiu.com/article/4883920.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883920.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "dff5ef5be5c1a55fe2370c307737722b4b253974",
-          "title": "Anthropic，Dario Amodei，与“最后一家私营公司”",
-          "url": "https://www.huxiu.com/article/4883920.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T07:15:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_80f024e5",
-      "title": "为啥AI测算总说得很准？真相没你想的神奇",
-      "url": "https://www.huxiu.com/article/4883220.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883220.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "68a67043dbfdf7f194e10e43150fcd144076603c",
-          "title": "为啥AI测算总说得很准？真相没你想的神奇",
-          "url": "https://www.huxiu.com/article/4883220.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_57037356",
-      "title": "一文讲透腾讯AI：腾讯最危险的成功，是AI让旧腾讯变得更强",
-      "url": "https://www.huxiu.com/article/4883912.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883912.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "49a9b2f6fbef80400d68010e913ef9f791126b83",
-          "title": "一文讲透腾讯AI：腾讯最危险的成功，是AI让旧腾讯变得更强",
-          "url": "https://www.huxiu.com/article/4883912.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T06:51:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b121a6cc",
-      "title": "AI客服不是来服务你的，而是来过滤你的",
-      "url": "https://www.huxiu.com/article/4883895.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883895.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "4cf0da2bc6ebe45b9759cd03abc9cbc948b26f0a",
-          "title": "AI客服不是来服务你的，而是来过滤你的",
-          "url": "https://www.huxiu.com/article/4883895.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T05:33:17Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_24bd14b3",
-      "title": "史上第一家10万亿美元公司，会是Anthropic吗？",
-      "url": "https://www.huxiu.com/article/4883891.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883891.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "20a9b7f1ad5a4df094b0979e6df89311a20759b8",
-          "title": "史上第一家10万亿美元公司，会是Anthropic吗？",
-          "url": "https://www.huxiu.com/article/4883891.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T05:18:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_95c5d2c0",
-      "title": "挪威应该收购OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "primary_url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "source_count": 3,
-      "source_names": [
-        "www.onethousandmeans.com",
-        "Hacker News · 24h最热",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
-          "title": "挪威应该收购OpenAI",
-          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-          "source": "www.onethousandmeans.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T20:22:24.343000Z"
-        },
-        {
-          "id": "afe335281448be39faba6168c9352ab5bcf02282",
-          "title": "Norway should buy OpenAI",
-          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T19:30:29Z"
-        },
-        {
-          "id": "5268f547288b18920f2330094f0e4f2943350ac4",
-          "title": "The Norwegian Government Pension Fund Global ought to purchase OpenAI",
-          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-18T19:30:29Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
       "story_id": "story_6feef439",
       "title": "Claude·科德的每周限额明天将减少三分之一",
       "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
@@ -2884,6 +3199,37 @@
       "score": 9580
     },
     {
+      "story_id": "story_3b95f2f5",
+      "title": "软件团队中人工智能的使用模式",
+      "url": "https://linear.app/data",
+      "primary_url": "https://linear.app/data",
+      "source_count": 2,
+      "source_names": [
+        "linear.app",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
+          "title": "软件团队中人工智能的使用模式",
+          "url": "https://linear.app/data",
+          "source": "linear.app",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T06:30:17.079000Z"
+        },
+        {
+          "id": "fcc0bb9aa559222dc9ce7475984097e0092c2c74",
+          "title": "AI usage patterns in software teams",
+          "url": "https://linear.app/data",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-18T22:08:07Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_6cff5cb1",
       "title": "GLM-5.3 人工分析基准测试",
       "url": "https://artificialanalysis.ai/models/glm-5-3",
@@ -2891,7 +3237,7 @@
       "source_count": 2,
       "source_names": [
         "artificialanalysis.ai",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2903,15 +3249,54 @@
           "published_at": "2026-08-19T04:06:16.009000Z"
         },
         {
-          "id": "e12eb831a6b4dfede1944f02afaf230a24be78d3",
+          "id": "9a6e05ac4f47c5fbf8644cff755bff76272dccd2",
           "title": "GLM-5.3 Artificial Analysis Benchmarks",
           "url": "https://artificialanalysis.ai/models/glm-5-3",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-18T22:06:10Z"
         }
       ],
       "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_95c5d2c0",
+      "title": "挪威应该收购OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "primary_url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "source_count": 2,
+      "source_names": [
+        "www.onethousandmeans.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
+          "title": "挪威应该收购OpenAI",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "www.onethousandmeans.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T20:22:24.343000Z"
+        },
+        {
+          "id": "755f977396514cc0c78244d8f8e4eae390bc3ee3",
+          "title": "Norway should buy OpenAI",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-18T19:30:29Z"
+        },
+        {
+          "id": "5268f547288b18920f2330094f0e4f2943350ac4",
+          "title": "The Norwegian Government Pension Fund Global ought to purchase OpenAI",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-18T19:30:29Z"
+        }
+      ],
+      "item_count": 3,
       "score": 9570
     },
     {
@@ -2922,7 +3307,7 @@
       "source_count": 2,
       "source_names": [
         "status.claude.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2934,11 +3319,11 @@
           "published_at": "2026-08-18T17:09:55.487000Z"
         },
         {
-          "id": "05296aaa97521e43f55b6a6613930b2ff1f9d051",
+          "id": "e2128c6d816fa85a6e417a10d46675dc0316a334",
           "title": "Degraded performance for multiple models",
           "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T16:28:20Z"
         }
       ],
@@ -2953,7 +3338,7 @@
       "source_count": 2,
       "source_names": [
         "www.theregister.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2965,16 +3350,82 @@
           "published_at": "2026-08-18T12:06:14.267000Z"
         },
         {
-          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
+          "id": "8c84f58eb8d74f84f50c43f9eab6bc5d84e59a1c",
           "title": "Google buys crashed airline Spirit's data at auction, because AI",
           "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T10:13:28Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_220d484e",
+      "title": "DeepSeek Harness 值得安装的 15 款插件",
+      "url": "https://juejin.cn/post/7675273747710001206",
+      "primary_url": "https://juejin.cn/post/7675273747710001206",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "d470458db74cb7a06db1e4b8da8f4b749aac494a",
+          "title": "DeepSeek Harness 值得安装的 15 款插件",
+          "url": "https://juejin.cn/post/7675273747710001206",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T07:32:39.977000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0f0576f8",
+      "title": "栗子前端技术周刊第 142 期 - DeepSeek Harness、pnpm 12 RC、crypto‑js...",
+      "url": "https://juejin.cn/post/7674276347170357302",
+      "primary_url": "https://juejin.cn/post/7674276347170357302",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "095e987f564b361b7f695682f296a3bcc1c3b207",
+          "title": "栗子前端技术周刊第 142 期 - DeepSeek Harness、pnpm 12 RC、crypto‑js...",
+          "url": "https://juejin.cn/post/7674276347170357302",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T07:32:39.977000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_10fc583f",
+      "title": "Claude水印检测器",
+      "url": "https://www.producthunt.com/products/claude-watermark-detector",
+      "primary_url": "https://www.producthunt.com/products/claude-watermark-detector",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "1eda9ddb0bfdb6aa0f59c2377ccaacae4495fec5",
+          "title": "Claude Watermark Detector",
+          "url": "https://www.producthunt.com/products/claude-watermark-detector",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T07:32:39.481000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_8b02c139",
@@ -3183,15 +3634,15 @@
       "primary_url": "https://www.cerebras.ai/cs4",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "0d34ed173539715888c2c032528a721b3aa093e5",
+          "id": "1402029b06b9829fc927e738e1873b23fc1c748b",
           "title": "Cerebras CS-4",
           "url": "https://www.cerebras.ai/cs4",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-19T00:28:18Z"
         }
       ],
@@ -3243,43 +3694,21 @@
       "score": 7
     },
     {
-      "story_id": "story_3b95f2f5",
-      "title": "软件团队中的人工智能使用模式",
-      "url": "https://linear.app/data",
-      "primary_url": "https://linear.app/data",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "c53520888ed24c045c12593fb6a1cc459c4dd426",
-          "title": "AI usage patterns in software teams",
-          "url": "https://linear.app/data",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T22:08:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_6b3b061e",
       "title": "fx ：小型、开放、本机编码代理。",
       "url": "https://fx.sh",
       "primary_url": "https://fx.sh",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "220c1ea55efedc49878ae4840eb8c2f13b7c46fc",
+          "id": "9270c113f3e02efed3fd56df8cb9535e8bc6813f",
           "title": "fx :Tiny, open, native coding agent.",
           "url": "https://fx.sh",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T22:00:21Z"
         }
       ],
@@ -3310,20 +3739,20 @@
     },
     {
       "story_id": "story_03d67884",
-      "title": "Claude Code 教 macOS 本机打印到 HP Laser 1008a",
+      "title": "Claude Code 教 macOS 本地打印到 HP Laser 1008a",
       "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
       "primary_url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "896ab346243c4a88a0aeb976cb1d25082609592b",
-          "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+          "id": "b1835e987f9940b619c7157ae0d92c3a7ed29ae3",
+          "title": "Claude Code teaching macOS to natively print to the HP Laser 1008a",
           "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-18T21:14:21Z"
         }
       ],
@@ -3391,6 +3820,28 @@
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
           "published_at": "2026-08-18T18:47:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1204bd54",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "6f4ae8e513f97fa4b3be4d5b8ea40c07c97ce7e3",
+          "title": "Pacing model development in an era of cyber-critical capabilities",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T18:14:59Z"
         }
       ],
       "item_count": 1,
@@ -3601,15 +4052,15 @@
       "primary_url": "https://github.com/pitiflautico/neobrowser",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "cd93dc601c29a963471b30e0ebbde1461d8a5c24",
+          "id": "1ffc42f8d3edc472934a413fc7247a57b26a0f71",
           "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
           "url": "https://github.com/pitiflautico/neobrowser",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-18T13:25:54Z"
         }
       ],
@@ -3667,15 +4118,15 @@
       "primary_url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "7621eb461e97b5b77effcb26fdb321fa2ab5bba2",
+          "id": "4423e102f3a263f936b8296dbb73650709fa4cec",
           "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
           "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-18T12:22:58Z"
         }
       ],
@@ -3963,94 +4414,6 @@
           "source": "HN Algolia · AI 24h",
           "site_id": "hackernews",
           "published_at": "2026-08-18T08:06:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3b2c63f5",
-      "title": "Aivory AI",
-      "url": "https://www.producthunt.com/products/aivory-ai",
-      "primary_url": "https://www.producthunt.com/products/aivory-ai",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "4bfe2abd8f2bdf5bda823701df84d41be19cc849",
-          "title": "Aivory AI",
-          "url": "https://www.producthunt.com/products/aivory-ai",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T07:46:16.660000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7297e5a1",
-      "title": "Meterless.ai",
-      "url": "https://www.producthunt.com/products/meterless-ai",
-      "primary_url": "https://www.producthunt.com/products/meterless-ai",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "94162102d66830b242663571915d58bac7457bf2",
-          "title": "Meterless.ai",
-          "url": "https://www.producthunt.com/products/meterless-ai",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T07:46:16.660000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3e4bebdd",
-      "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
-      "url": "https://speko.ai",
-      "primary_url": "https://speko.ai",
-      "source_count": 1,
-      "source_names": [
-        "speko.ai"
-      ],
-      "sources": [
-        {
-          "id": "0e03b723143f533f1c7972c6ef73bc20907a74c9",
-          "title": "Launch HN: Speko（YC S26）——面向语音AI的OpenRouter",
-          "url": "https://speko.ai",
-          "source": "speko.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T07:02:07.067000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4fc67e0b",
-      "title": "Show HN：特工工作簿观看 Claude Code、Codex 写下他们的工作笔记",
-      "url": "https://github.com/softcane/agents-workbook",
-      "primary_url": "https://github.com/softcane/agents-workbook",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "9a1e740ab4faddd11ee1148929a1907c24bc264c",
-          "title": "Show HN: Agents Workbook watch Claude Code, Codex write down their working notes",
-          "url": "https://github.com/softcane/agents-workbook",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-18T06:21:29Z"
         }
       ],
       "item_count": 1,

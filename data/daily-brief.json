@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T05:17:15.199089Z",
+  "generated_at": "2026-08-19T07:58:33.087020Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 17,
   "items": [
     {
       "title": "ChatGPT Ads expands across Europe",
@@ -13,6 +13,17 @@
       "published_at": "2026-08-18T22:00:00Z",
       "ai_is_related": true,
       "ai_score": 0.95
+    },
+    {
+      "title": "Strengthening democratic oversight in national security",
+      "title_zh": "加强国家安全民主监督",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-18T19:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.91
     },
     {
       "title": "How Much Memory Does Your Agent Actually Need?",
@@ -37,17 +48,6 @@
       "ai_score": 0.91
     },
     {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
-      "url": "https://openai.com/index/asana",
-      "source": "OpenAI News",
-      "source_tier_rank": 0,
-      "source_tier_label": "官方一手源",
-      "published_at": "2026-08-18T07:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 0.95
-    },
-    {
       "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
       "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
       "url": "https://openai.com/index/chatgpt-for-teens",
@@ -59,35 +59,35 @@
       "ai_score": 1.0
     },
     {
-      "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-      "title_zh": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-      "url": "https://www.aibase.com/news/30463",
+      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+      "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+      "url": "https://www.aibase.com/news/30473",
       "source": "AIbase",
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-19T05:16:39.934298Z",
+      "published_at": "2026-08-19T07:57:54.094445Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
     {
-      "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-      "title_zh": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-      "url": "https://www.aibase.com/news/30446",
+      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+      "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+      "url": "https://www.aibase.com/news/30469",
       "source": "AIbase",
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-19T03:13:51.201559Z",
+      "published_at": "2026-08-19T07:57:54.094445Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
     {
-      "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-      "title_zh": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-      "url": "https://www.aibase.com/news/30453",
+      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+      "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+      "url": "https://www.aibase.com/news/30471",
       "source": "AIbase",
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-19T03:13:51.201559Z",
+      "published_at": "2026-08-19T07:57:54.094445Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -112,6 +112,50 @@
       "published_at": "2026-08-18T22:27:16.191000Z",
       "ai_is_related": true,
       "ai_score": 1.0
+    },
+    {
+      "title": "I should build an app (or an agent?) where you get and maintain a streak for how many days you avoid bringing the phone to the bedroom. Have been leaving it downstairs for 3 days now and it has noticeably improved my...",
+      "title_zh": null,
+      "url": "https://x.com/petergyang/status/2089931839016468575",
+      "source": "Follow Builders · X · Peter Yang",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-08-19T04:25:54Z",
+      "ai_is_related": false,
+      "ai_score": 0.57
+    },
+    {
+      "title": "Here’s how to think about the cost of your evals : treat evals like frontier models…establish the quality frontier first, then work your way down the cost curve. Start with the highest quality way you can know if your...",
+      "title_zh": null,
+      "url": "https://x.com/realmadhuguru/status/2089918106814603728",
+      "source": "Follow Builders · X · Madhu Guru",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-08-19T03:31:20Z",
+      "ai_is_related": false,
+      "ai_score": 0.33
+    },
+    {
+      "title": "weird that there's a \"make a lot of money\" button and nobody's pressing it (take your SaaS, make it headless, let agents use it, charge per interaction esp for enterprises)",
+      "title_zh": null,
+      "url": "https://x.com/trq212/status/2089844723691479333",
+      "source": "Follow Builders · X · Thariq",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-08-18T22:39:44Z",
+      "ai_is_related": false,
+      "ai_score": 0.57
+    },
+    {
+      "title": "We are putting $1M towards verifying the security of Vercel Sandbox, in the open. You're free to test any model in the world to try and find an escape. I'm looking forward to bringing transparency to what frontier mod...",
+      "title_zh": null,
+      "url": "https://x.com/rauchg/status/2089747453004468339",
+      "source": "Follow Builders · X · Guillermo Rauch",
+      "source_tier_rank": 2,
+      "source_tier_label": "Builders/X源",
+      "published_at": "2026-08-18T16:13:13Z",
+      "ai_is_related": false,
+      "ai_score": 0.33
     },
     {
       "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
