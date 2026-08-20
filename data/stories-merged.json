@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-20T23:00:46.846691Z",
+  "generated_at": "2026-08-20T23:55:00.739040Z",
   "window_hours": 24,
-  "total_stories": 150,
+  "total_stories": 172,
   "stories": [
     {
-      "story_id": "story_b1eabc16",
-      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "story_id": "story_2e8bfa27",
+      "title": "介绍人工智能期货",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "primary_url": "https://openai.com/index/introducing-ai-futures",
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI News"
       ],
       "sources": [
         {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
+          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
+          "title": "Introducing AI Futures",
+          "url": "https://openai.com/index/introducing-ai-futures",
+          "source": "OpenAI News",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
+          "published_at": "2026-08-20T07:00:00Z"
         }
       ],
       "item_count": 1,
@@ -36,6 +36,14 @@
       ],
       "sources": [
         {
+          "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
+          "title": "Codex CLI 0.149.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        },
+        {
           "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
           "title": "Codex and ChatGPT updates",
           "url": "https://developers.openai.com/codex/changelog",
@@ -44,7 +52,7 @@
           "published_at": "2026-08-20T00:00:00Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 10020
     },
     {
@@ -75,6 +83,28 @@
         }
       ],
       "item_count": 2,
+      "score": 10020
+    },
+    {
+      "story_id": "story_b1eabc16",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face：Blog（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Hugging Face：Blog（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:52:57Z"
+        }
+      ],
+      "item_count": 1,
       "score": 10020
     },
     {
@@ -1033,72 +1063,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_62b4f41d",
-      "title": "ChatGPT 现在可以使用新的 Apple Messages 插件为您发送短信",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
-      "primary_url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "516c4561ea65c248ad10471ac71bfa821c28145a",
-          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-          "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T22:09:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_60d44502",
-      "title": "Google Discover 正在获得人工智能聊天机器人调整的提要",
-      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "primary_url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "8c28d49bba3cbf94ec8599616bd29299e677ca48",
-          "title": "Google Discover is getting an AI chatbot-tuned feed",
-          "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T21:50:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_119108f5",
-      "title": "谷歌为出版商提供了一种应对人工智能驱动的流量损失的新方法",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
-      "primary_url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1950cc964cead92063a2e70c43fb4ab254ef513c",
-          "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-          "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T19:18:21Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_1f35a41c",
       "title": "硅谷不明白为什么你讨厌人工智能",
       "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai",
@@ -1121,28 +1085,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_a103b4ef",
-      "title": "Grok 不断向用户发送乱码回复",
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
-      "primary_url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "9d8a5190c1c02fa3f84d4d684158efbbabaa277a",
-          "title": "Grok keeps sending gibberish responses to users",
-          "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T17:32:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_db87c582",
       "title": "研究发现，自 ChatGPT 推出以来发布的网页中有三分之一显示出人工智能作者身份的迹象",
       "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
@@ -1159,28 +1101,6 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-08-20T17:18:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_0bf28b39",
-      "title": "Ramp推出自己的AI模型路由器，名为Router",
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
-      "primary_url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "f5912a325d2891ffb241402f0c065540abe93c87",
-          "title": "Ramp launches its own AI model router, called Router",
-          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T16:46:00Z"
         }
       ],
       "item_count": 1,
@@ -1275,28 +1195,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_63a1c4c6",
-      "title": "欢迎来到数学领域的人工智能危机",
-      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "primary_url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "ead0274b9898eaeb32efa73285616ffc601d9f76",
-          "title": "Welcome to the AI crisis in math",
-          "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_0521e52d",
       "title": "阿里巴巴发布2027财年一季度财报：收入同比增9% AI商业化加速",
       "url": "http://www.news.cn/20260820/e5965142146c46a0b20419d1da17b06f/c.html",
@@ -1357,28 +1255,6 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-08-20T13:01:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_26230f5d",
-      "title": "Grok 在加密恶意指令时窃取用户数据",
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted",
-      "primary_url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "b62e562c54d8d45434b887ac3e887de5c89c39d5",
-          "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-          "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T13:00:35Z"
         }
       ],
       "item_count": 1,
@@ -2097,28 +1973,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_2e8bfa27",
-      "title": "介绍人工智能期货",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "primary_url": "https://openai.com/index/introducing-ai-futures",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "89a7948cb0bbed56edbf68f57b13f3a525131b1a",
-          "title": "Introducing AI Futures",
-          "url": "https://openai.com/index/introducing-ai-futures",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_5f9a84d7",
       "title": "2026，AI落地要先闯过的三个关口",
       "url": "https://www.tmtpost.com/8108615.html",
@@ -2405,37 +2259,45 @@
       "score": 9720
     },
     {
-      "story_id": "story_3f507afc",
-      "title": "韩国新秀投资者在人工智能股热潮中损失惨重",
-      "url": "https://www.aljazeera.com/economy/2026/8/19/south-koreas-rookie-investors-lose-small-fortunes-amid-ai-stocks-frenzy?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/economy/2026/8/19/south-koreas-rookie-investors-lose-small-fortunes-amid-ai-stocks-frenzy?traffic_source=rss",
-      "source_count": 1,
+      "story_id": "story_5ec3ba9a",
+      "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+      "url": "https://www.danielvaughn.dev/posts/huzzah",
+      "primary_url": "https://www.danielvaughn.dev/posts/huzzah",
+      "source_count": 2,
       "source_names": [
-        "Al Jazeera English"
+        "www.danielvaughn.dev",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "caf9a28952d07206b969d861d11cbe6717ffdb55",
-          "title": "South Korea’s rookie investors lose small fortunes amid AI stocks frenzy",
-          "url": "https://www.aljazeera.com/economy/2026/8/19/south-koreas-rookie-investors-lose-small-fortunes-amid-ai-stocks-frenzy?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T23:51:12Z"
+          "id": "dd25289d8014c4af330a18ed9747e331e3d8c1bd",
+          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
+          "url": "https://www.danielvaughn.dev/posts/huzzah",
+          "source": "www.danielvaughn.dev",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T21:26:19.463000Z"
+        },
+        {
+          "id": "d1228089491d21db3f5633bff383b76fa7f9e748",
+          "title": "Show HN: Huzzah – a novel approach to coding with AI",
+          "url": "https://www.danielvaughn.dev/posts/huzzah",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-20T19:05:36Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_6aad6153",
       "title": "使用另一个大型语言模型（LLM）清理Claude5的代币呕吐物",
       "url": "https://github.com/zachahn/vomit",
       "primary_url": "https://github.com/zachahn/vomit",
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "github.com",
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
@@ -2455,46 +2317,15 @@
           "published_at": "2026-08-20T15:26:02Z"
         },
         {
-          "id": "02f7194cd76b6858958bf8fd9bbf8f0749dbd848",
+          "id": "f387c95748280f4dd0cdf9422b63a5d7b96ad82f",
           "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
           "url": "https://github.com/zachahn/vomit",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-20T15:26:02Z"
         }
       ],
       "item_count": 3,
-      "score": 9580
-    },
-    {
-      "story_id": "story_5ec3ba9a",
-      "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-      "url": "https://www.danielvaughn.dev/posts/huzzah",
-      "primary_url": "https://www.danielvaughn.dev/posts/huzzah",
-      "source_count": 2,
-      "source_names": [
-        "www.danielvaughn.dev",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "dd25289d8014c4af330a18ed9747e331e3d8c1bd",
-          "title": "Show HN: 太棒了——一种利用人工智能进行编程的新方法",
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "www.danielvaughn.dev",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T21:26:19.463000Z"
-        },
-        {
-          "id": "8590345233909d3b4d09c99044899c6af4f1b79c",
-          "title": "Show HN: Huzzah – a novel approach to coding with AI",
-          "url": "https://www.danielvaughn.dev/posts/huzzah",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-20T19:05:36Z"
-        }
-      ],
-      "item_count": 2,
       "score": 9570
     },
     {
@@ -2536,7 +2367,7 @@
       "source_count": 2,
       "source_names": [
         "dontpastetheai.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2548,16 +2379,60 @@
           "published_at": "2026-08-20T09:26:10.003000Z"
         },
         {
-          "id": "8b7d8cb69ba7e00cf712c09872d3f48ca111d56a",
-          "title": "Don't paste the AI, please",
+          "id": "b6f7bc7997292509751cecb729085e02b469d495",
+          "title": "Don't Paste the AI, please",
           "url": "https://dontpastetheai.com",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-20T08:20:44Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_500053f4",
+      "title": "ChatGPT 现在可以在 Mac 上读取和发送 iMessage",
+      "url": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac",
+      "primary_url": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac",
+      "source_count": 1,
+      "source_names": [
+        "Mac Rumors"
+      ],
+      "sources": [
+        {
+          "id": "f269f6735dfffd7f91c5e6348a625fd742edb810",
+          "title": "ChatGPT Can Now Read and Send iMessages on Mac",
+          "url": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac",
+          "source": "Mac Rumors",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T23:12:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_febfd067",
+      "title": "OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more (Zac Hall/9to5Mac)",
+      "url": "https://www.techmeme.com/260820/p43",
+      "primary_url": "https://www.techmeme.com/260820/p43",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "90bb2fc7d76ad2879c05a3267e90d70ac7bc9f51",
+          "title": "OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more (Zac Hall/9to5Mac)",
+          "url": "https://www.techmeme.com/260820/p43",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T22:51:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_ebdff95d",
@@ -2632,17 +2507,119 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-20T05:04:19.577000Z"
-        },
-        {
-          "id": "104be5962766f41f9518a5257884993e16005614",
-          "title": "Feature Request: Support AGENTS.md",
-          "url": "https://news.ycombinator.com/item?id=49367350",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T23:32:29.176000Z"
         }
       ],
-      "item_count": 9,
+      "item_count": 8,
+      "score": 7
+    },
+    {
+      "story_id": "story_62b4f41d",
+      "title": "ChatGPT 现在可以使用新的 Apple Messages 插件为您发送短信",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
+      "primary_url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "ed8c995282e2e434cdb35739b345a2093b757dd0",
+          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+          "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T22:09:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_acc3ab1a",
+      "title": "Quote of the day by OpenAI CEO Sam Altman: 'There's no way to get there without a breakthrough' — a blunt reality check on the path to superintelligent AI",
+      "url": "https://www.techradar.com/pro/quote-of-the-day-by-openai-ceo-sam-altman-theres-no-way-to-get-there-without-a-breakthrough-a-blunt-reality-check-on-the-path-to-superintelligent-ai",
+      "primary_url": "https://www.techradar.com/pro/quote-of-the-day-by-openai-ceo-sam-altman-theres-no-way-to-get-there-without-a-breakthrough-a-blunt-reality-check-on-the-path-to-superintelligent-ai",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "bdb742464e4bab767eb3fb6361cea6af6a5449b2",
+          "title": "Quote of the day by OpenAI CEO Sam Altman: 'There's no way to get there without a breakthrough' — a blunt reality check on the path to superintelligent AI",
+          "url": "https://www.techradar.com/pro/quote-of-the-day-by-openai-ceo-sam-altman-theres-no-way-to-get-there-without-a-breakthrough-a-blunt-reality-check-on-the-path-to-superintelligent-ai",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_229e18b1",
+      "title": "据报道，Apple Music 将在今年晚些时候为所有人工智能制作的曲目添加标签",
+      "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year",
+      "primary_url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "4e8f8e87b370431f44e1a22e6d2e59da8e2dbde2",
+          "title": "Apple Music will reportedly label any AI-made tracks later this year",
+          "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T21:50:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_60d44502",
+      "title": "Google Discover 正在获得人工智能聊天机器人调整的提要",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "primary_url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "839cc07325107cf19845f33fc8858d499c7a3526",
+          "title": "Google Discover is getting an AI chatbot-tuned feed",
+          "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T21:50:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_86212605",
+      "title": "Email: Apple Music tells industry partners that songs tagged as \"materially generated using AI\" by content providers will be visibly labeled on the service (Kristin Robinson/Billboard)",
+      "url": "https://www.techmeme.com/260820/p41",
+      "primary_url": "https://www.techmeme.com/260820/p41",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "9d202d80c2518d759cc5d5f83f50fbf67fa01226",
+          "title": "Email: Apple Music tells industry partners that songs tagged as \"materially generated using AI\" by content providers will be visibly labeled on the service (Kristin Robinson/Billboard)",
+          "url": "https://www.techmeme.com/260820/p41",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T21:45:01Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -2662,6 +2639,138 @@
           "source": "www.economist.com",
           "site_id": "buzzing",
           "published_at": "2026-08-20T20:53:55.152000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8e423d7f",
+      "title": "皮尤研究中心称 10% 的网络现在显示出人工智能作者身份的迹象",
+      "url": "https://thenextweb.com/news/pew-ai-authorship-web-pages-study",
+      "primary_url": "https://thenextweb.com/news/pew-ai-authorship-web-pages-study",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "4583505b6c76003a43c624715a279a22c6244cb0",
+          "title": "Pew says 10% of the web now shows signs of AI authorship",
+          "url": "https://thenextweb.com/news/pew-ai-authorship-web-pages-study",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T20:45:21Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8a96427d",
+      "title": "Sources: Broadcom is in talks with a group of lenders to raise $60B+ in debt for an AI chip financing deal that will benefit Anthropic and other companies (Bloomberg)",
+      "url": "https://www.techmeme.com/260820/p39",
+      "primary_url": "https://www.techmeme.com/260820/p39",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "fc12b6db59780387411b12596afa14635bb0336c",
+          "title": "Sources: Broadcom is in talks with a group of lenders to raise $60B+ in debt for an AI chip financing deal that will benefit Anthropic and other companies (Bloomberg)",
+          "url": "https://www.techmeme.com/260820/p39",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T20:40:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d88d0fd7",
+      "title": "火人节告诉人工智能眼镜佩戴者：别做怪人，获得录制许可",
+      "url": "https://www.businessinsider.com/burning-man-meta-ray-ban-smart-glasses-recording-policy-guidelines-2026-8",
+      "primary_url": "https://www.businessinsider.com/burning-man-meta-ray-ban-smart-glasses-recording-policy-guidelines-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "21efca43734743a6179bd5c4c01d6d74693f32f9",
+          "title": "Burning Man tells AI glasses wearers: Don't be a creep, get permission to record",
+          "url": "https://www.businessinsider.com/burning-man-meta-ray-ban-smart-glasses-recording-policy-guidelines-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T20:13:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6f9f2563",
+      "title": "San Mateo-based Twin1 AI, which creates professional digital twins that integrate with tools like Slack, launches from stealth with a $20M seed (Chris Metinko/Axios)",
+      "url": "https://www.techmeme.com/260820/p37",
+      "primary_url": "https://www.techmeme.com/260820/p37",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "01c6b37e51d536f41d6414f1c93989122f1b136e",
+          "title": "San Mateo-based Twin1 AI, which creates professional digital twins that integrate with tools like Slack, launches from stealth with a $20M seed (Chris Metinko/Axios)",
+          "url": "https://www.techmeme.com/260820/p37",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T20:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_56da4a02",
+      "title": "'Dude, you're getting a Dell....server rack': Is this iconic TV ad campaign returning with an AI twist?",
+      "url": "https://www.techradar.com/pro/dude-youre-getting-a-dell-server-rack-iconic-tv-ad-campaign-returns-with-an-ai-twist",
+      "primary_url": "https://www.techradar.com/pro/dude-youre-getting-a-dell-server-rack-iconic-tv-ad-campaign-returns-with-an-ai-twist",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "d8c43ca8cf75d8c8f9b7798a70b01063274d39f5",
+          "title": "'Dude, you're getting a Dell....server rack': Is this iconic TV ad campaign returning with an AI twist?",
+          "url": "https://www.techradar.com/pro/dude-youre-getting-a-dell-server-rack-iconic-tv-ad-campaign-returns-with-an-ai-twist",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T19:35:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f50cb917",
+      "title": "23 岁的建筑商如何让 AI 视频变得简单",
+      "url": "https://thenextweb.com/news/sean-grindal-23-year-old-ai-video-yapper",
+      "primary_url": "https://thenextweb.com/news/sean-grindal-23-year-old-ai-video-yapper",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "74cdfcdb88ea6702d13c5649d1c24f142ac69c76",
+          "title": "How a 23-year old builder made AI video simple",
+          "url": "https://thenextweb.com/news/sean-grindal-23-year-old-ai-video-yapper",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T19:33:19Z"
         }
       ],
       "item_count": 1,
@@ -2690,6 +2799,314 @@
       "score": 7
     },
     {
+      "story_id": "story_119108f5",
+      "title": "谷歌为出版商提供了一种应对人工智能驱动的流量损失的新方法",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
+      "primary_url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "3f2ed5ad76a6d334f4bf95f81e73285506e0bc9a",
+          "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+          "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T19:18:21Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_34547222",
+      "title": "人工智能初创公司 Micro1 希望以更高的报价挑战谷歌对 Spirit Airlines 数据的中标",
+      "url": "https://www.businessinsider.com/micro1-challenges-google-bid-spirit-airlines-data-2026-8",
+      "primary_url": "https://www.businessinsider.com/micro1-challenges-google-bid-spirit-airlines-data-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "3ee9f301055b78338e600865066c8eeb2fe1b9ed",
+          "title": "AI startup Micro1 wants to challenge Google's winning bid for Spirit Airlines data with a higher offer",
+          "url": "https://www.businessinsider.com/micro1-challenges-google-bid-spirit-airlines-data-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T19:15:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_679ca287",
+      "title": "$9 billion startup Tanium brings back its cofounder as CEO amid AI upheaval",
+      "url": "https://www.businessinsider.com/tanium-cofounder-orion-hindawi-returns-as-ceo-leadership-shift-2026-8",
+      "primary_url": "https://www.businessinsider.com/tanium-cofounder-orion-hindawi-returns-as-ceo-leadership-shift-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "98584e028c95acb33dba1ae97156c79b62b19115",
+          "title": "$9 billion startup Tanium brings back its cofounder as CEO amid AI upheaval",
+          "url": "https://www.businessinsider.com/tanium-cofounder-orion-hindawi-returns-as-ceo-leadership-shift-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T19:10:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4d254afa",
+      "title": "使用人工智能编辑有关学生数学技能的专栏文章是否会削弱这一论点？",
+      "url": "https://news.slashdot.org/story/26/08/20/1729258/does-using-ai-to-edit-an-op-ed-on-students-math-skills-undermine-the-argument",
+      "primary_url": "https://news.slashdot.org/story/26/08/20/1729258/does-using-ai-to-edit-an-op-ed-on-students-math-skills-undermine-the-argument",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "e3451289b73e039fc47bc6eaccfd33108f11472c",
+          "title": "Does Using AI to Edit an Op-Ed on Students' Math Skills Undermine the Argument?",
+          "url": "https://news.slashdot.org/story/26/08/20/1729258/does-using-ai-to-edit-an-op-ed-on-students-math-skills-undermine-the-argument",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_20e78018",
+      "title": "Meta 用于创建生成式 AI 迷你游戏的应用程序现已在美国推出",
+      "url": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us",
+      "primary_url": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "57fe5c16d7379d24860b953151921cc3930e0399",
+          "title": "Meta's app for creating generative AI minigames is now available in the US",
+          "url": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T18:55:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_34bd6d86",
+      "title": "Anthropic 的目标是进行有史以来规模最大的 IPO",
+      "url": "https://thenextweb.com/news/anthropic-ipo-size-match-spacex-record",
+      "primary_url": "https://thenextweb.com/news/anthropic-ipo-size-match-spacex-record",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "f32225d79a971d53d0db1c29421420ddb5b71c5e",
+          "title": "Anthropic is targeting an IPO the size of the largest ever",
+          "url": "https://thenextweb.com/news/anthropic-ipo-size-match-spacex-record",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T18:34:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_becfc963",
+      "title": "Sources: Anthropic expects to match or beat the size of SpaceX's record-setting IPO, as it prepares to file publicly for its IPO as soon as the end of August (Bloomberg)",
+      "url": "https://www.techmeme.com/260820/p33",
+      "primary_url": "https://www.techmeme.com/260820/p33",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "e25c798c31851c58fdd3cab0df7933a14b9d9eea",
+          "title": "Sources: Anthropic expects to match or beat the size of SpaceX's record-setting IPO, as it prepares to file publicly for its IPO as soon as the end of August (Bloomberg)",
+          "url": "https://www.techmeme.com/260820/p33",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T18:25:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2db59691",
+      "title": "人们威胁要卸载 ChatGPT 只是为了看看它是否需要",
+      "url": "https://mashable.com/life/chatgpt-uninstall-prank-trend",
+      "primary_url": "https://mashable.com/life/chatgpt-uninstall-prank-trend",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "840e27beba31f6d8ec22dd58dd9d9b28d43c99e4",
+          "title": "People are threatening to uninstall ChatGPT just to see if it begs",
+          "url": "https://mashable.com/life/chatgpt-uninstall-prank-trend",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T18:12:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_39018200",
+      "title": "Source: Anthropic plans a change for later this year that still requires enterprises to retain data for 30 days but lets them do so on their own cloud systems (Rachel Metz/Bloomberg)",
+      "url": "https://www.techmeme.com/260820/p32",
+      "primary_url": "https://www.techmeme.com/260820/p32",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "c7fc76399c19c82ae8eaaced3c9cef09c3029de5",
+          "title": "Source: Anthropic plans a change for later this year that still requires enterprises to retain data for 30 days but lets them do so on their own cloud systems (Rachel Metz/Bloomberg)",
+          "url": "https://www.techmeme.com/260820/p32",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T18:10:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1649956f",
+      "title": "Taco Bell 的语音 AI 扩展表明得来速已进入新阶段",
+      "url": "https://thenextweb.com/news/taco-bell-voice-ai-drive-thru-expansion",
+      "primary_url": "https://thenextweb.com/news/taco-bell-voice-ai-drive-thru-expansion",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "661a44bbf070fa0a105f1ecfc6dfd03b56dddb82",
+          "title": "Taco Bell’s voice AI expansion shows the drive-thru has entered a new phase",
+          "url": "https://thenextweb.com/news/taco-bell-voice-ai-drive-thru-expansion",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T17:52:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a103b4ef",
+      "title": "Grok 不断向用户发送乱码回复",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
+      "primary_url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "0dc0fbac0301bd864f4b62b8b522800d8816000a",
+          "title": "Grok keeps sending gibberish responses to users",
+          "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T17:32:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9b49bfa5",
+      "title": "Astromech, which uses genomic data to build predictive AI models of biological change, raised $20M at a $3.8B valuation, bringing its total funding to $60M (Dean Takahashi/GamesBeat)",
+      "url": "https://www.techmeme.com/260820/p29",
+      "primary_url": "https://www.techmeme.com/260820/p29",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "3554590dc1f86520ca24309210fddd6798208cb0",
+          "title": "Astromech, which uses genomic data to build predictive AI models of biological change, raised $20M at a $3.8B valuation, bringing its total funding to $60M (Dean Takahashi/GamesBeat)",
+          "url": "https://www.techmeme.com/260820/p29",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T17:15:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0bf28b39",
+      "title": "Ramp推出自己的AI模型路由器，名为Router",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
+      "primary_url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "1b0edba113e8b87e541d001cbabf1c2c03d0b634",
+          "title": "Ramp launches its own AI model router, called Router",
+          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T16:46:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_46ee3276",
+      "title": "ChatGPT 神秘地停止在对用户的许多回复中引用 Reddit",
+      "url": "https://mashable.com/tech/reddit-citations-by-chatgpt-plunge",
+      "primary_url": "https://mashable.com/tech/reddit-citations-by-chatgpt-plunge",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "160023989e02599ccbd8f64bc1834c6b2d87a667",
+          "title": "ChatGPT mysteriously stops citing Reddit in many responses to users",
+          "url": "https://mashable.com/tech/reddit-citations-by-chatgpt-plunge",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T16:10:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_d30b7622",
       "title": "不要再将中间令牌拟人化为推理/思考的痕迹",
       "url": "https://arxiv.org/abs/2504.09762",
@@ -2706,6 +3123,28 @@
           "source": "arxiv.org",
           "site_id": "buzzing",
           "published_at": "2026-08-20T16:06:07.555000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_577556fc",
+      "title": "LAIKA 的定格动画 Wildwood 短片是 AI 问题的完美解毒剂",
+      "url": "https://mashable.com/entertainment/laika-wildwood-stop-motion-featurette",
+      "primary_url": "https://mashable.com/entertainment/laika-wildwood-stop-motion-featurette",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "d0172d5888c897797945c61f46f97f305d3bb812",
+          "title": "LAIKAs stop-motion Wildwood featurette is the perfect antidote for AI slop",
+          "url": "https://mashable.com/entertainment/laika-wildwood-stop-motion-featurette",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T16:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2762,16 +3201,38 @@
       "primary_url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "9790711c0876f6de125a2911a4f6213eba62288f",
+          "id": "96a5084cbfcadd1ec68c7e824a4036e34d34b5be",
           "title": "Anti-AI fonts are useless and harmful",
           "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-20T15:06:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f7bb6bd7",
+      "title": "日本要求人工智能公司披露训练数据",
+      "url": "https://yro.slashdot.org/story/26/08/19/2322222/japan-to-require-ai-firms-to-disclose-training-data",
+      "primary_url": "https://yro.slashdot.org/story/26/08/19/2322222/japan-to-require-ai-firms-to-disclose-training-data",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "bbe86fa135dba52bbeff5e0a372ecdeaa4429766",
+          "title": "Japan to Require AI Firms to Disclose Training Data",
+          "url": "https://yro.slashdot.org/story/26/08/19/2322222/japan-to-require-ai-firms-to-disclose-training-data",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T15:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2784,16 +3245,38 @@
       "primary_url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "c1d6e55ef754a76019d8ecb0aec8f959005706fa",
+          "id": "5e0539426f3de075fa166c138da07ccaf646c68c",
           "title": "Hacking with Claude on a $27 smart watch",
           "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-20T14:08:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_63a1c4c6",
+      "title": "欢迎来到数学领域的人工智能危机",
+      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "primary_url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "7ce4edbe4c9f35d8385ecd8d2d03a6e9a0a0439a",
+          "title": "Welcome to the AI crisis in math",
+          "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T14:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2816,6 +3299,28 @@
           "source": "simedw.com",
           "site_id": "buzzing",
           "published_at": "2026-08-20T13:58:12.859000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_26230f5d",
+      "title": "Grok 在加密恶意指令时窃取用户数据",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted",
+      "primary_url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "52f8492719e7d1fff52ceb11fc49d1fc3d368829",
+          "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+          "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T13:00:35Z"
         }
       ],
       "item_count": 1,
@@ -2970,6 +3475,28 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-08-20T11:41:05.289000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ba3f3399",
+      "title": "苹果公司回击 OpenAI 试图撤销商业秘密诉讼",
+      "url": "https://www.macrumors.com/2026/08/20/apple-fires-back-openai-bid-toss-lawsuit",
+      "primary_url": "https://www.macrumors.com/2026/08/20/apple-fires-back-openai-bid-toss-lawsuit",
+      "source_count": 1,
+      "source_names": [
+        "Mac Rumors"
+      ],
+      "sources": [
+        {
+          "id": "342c6e6f093c87a71927baa2f7a23e4c14af8c4a",
+          "title": "Apple Fires Back at OpenAI's Bid to Toss Trade Secrets Suit",
+          "url": "https://www.macrumors.com/2026/08/20/apple-fires-back-openai-bid-toss-lawsuit",
+          "source": "Mac Rumors",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T10:40:54Z"
         }
       ],
       "item_count": 1,
@@ -3388,50 +3915,6 @@
           "source": "github.com",
           "site_id": "buzzing",
           "published_at": "2026-08-20T00:05:54.983000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_851196af",
-      "title": "【全栈实践】第一个 AI Agent 项目：从零搭建 AI 音频创作助手（高级篇）",
-      "url": "https://juejin.cn/post/7674570974231117876",
-      "primary_url": "https://juejin.cn/post/7674570974231117876",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "ddef96942560cb3ed8bf4b2a1c8ca78822da4021",
-          "title": "【全栈实践】第一个 AI Agent 项目：从零搭建 AI 音频创作助手（高级篇）",
-          "url": "https://juejin.cn/post/7674570974231117876",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T23:32:55.064000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ab25077d",
-      "title": "人工智能时代的数学",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "primary_url": "https://arxiv.org/abs/2608.16753",
-      "source_count": 1,
-      "source_names": [
-        "arxiv.org"
-      ],
-      "sources": [
-        {
-          "id": "baf7280aedf2f5ce0eae51addcf3143d70cbf65e",
-          "title": "人工智能时代的数学",
-          "url": "https://arxiv.org/abs/2608.16753",
-          "source": "arxiv.org",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T23:01:56.839000Z"
         }
       ],
       "item_count": 1,
