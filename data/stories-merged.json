@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-21T19:49:43.265908Z",
+  "generated_at": "2026-08-21T20:54:45.655135Z",
   "window_hours": 24,
-  "total_stories": 193,
+  "total_stories": 195,
   "stories": [
+    {
+      "story_id": "story_7a0d3b13",
+      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "sources": [
+        {
+          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+          "source": "Google DeepMind",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T11:59:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
     {
       "story_id": "story_31b34c53",
       "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
@@ -10,73 +32,20 @@
       "primary_url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "source_count": 1,
       "source_names": [
-        "Hugging Face：Blog（RSS）"
+        "Hugging Face Blog"
       ],
       "sources": [
         {
-          "id": "493c8b81cfff826f97728e31cfe21843e90355b0",
-          "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
+          "id": "fe77e56bac5251db7491d1afe78e9985f9471676",
+          "title": "Measuring benchmark optimization in speech recognition",
           "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-          "source": "Hugging Face：Blog（RSS）",
-          "site_id": "aihot",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
           "published_at": "2026-08-21T00:00:00Z"
         }
       ],
       "item_count": 1,
       "score": 10020
-    },
-    {
-      "story_id": "story_14d6e72e",
-      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-      "primary_url": "https://claude.com/blog/computer-use-skills-api-files-api",
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Claude：Blog（网页）"
-      ],
-      "sources": [
-        {
-          "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
-          "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-          "url": "https://www.aibase.com/news/30522",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T03:30:40.583901Z"
-        },
-        {
-          "id": "21692f84c16d2d2684e76b911b52a09001219157",
-          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-          "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-          "source": "Claude：Blog（网页）",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T20:27:01.660000Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9970
-    },
-    {
-      "story_id": "story_15c30ae6",
-      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "primary_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "sources": [
-        {
-          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
-          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Claude：Blog（网页）",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:58:29.461000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
     },
     {
       "story_id": "story_996f4d3b",
@@ -510,6 +479,28 @@
           "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
           "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
           "url": "https://www.aibase.com/news/30519",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T03:30:40.583901Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_37d2e368",
+      "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+      "url": "https://www.aibase.com/news/30522",
+      "primary_url": "https://www.aibase.com/news/30522",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
+          "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
+          "url": "https://www.aibase.com/news/30522",
           "source": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-21T03:30:40.583901Z"
@@ -1153,28 +1144,6 @@
       "score": 9770
     },
     {
-      "story_id": "story_d1d57c13",
-      "title": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
-      "primary_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "6c79f9db9dcf6d5c49929f942652811eafd31aa0",
-          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-21T19:43:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_be2f9db0",
       "title": "Stripe 为什么盯上模型路由：AI 进入“智能采购”时代",
       "url": "https://www.huxiu.com/article/4885069.html?f=rss",
@@ -1257,28 +1226,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-21T13:38:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_9cbe86a7",
-      "title": "YouTube 主要创作者因接受人工智能资金而面临强烈反对",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "dd6aec83f3592c5fed8703d9797211fa69afba19",
-          "title": "Major YouTube creators are facing backlash for accepting AI money",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-21T13:37:52Z"
         }
       ],
       "item_count": 1,
@@ -1389,28 +1336,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-21T12:00:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7a0d3b13",
-      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind Blog"
-      ],
-      "sources": [
-        {
-          "id": "3f7a431ea32e22498a3d0219ced7afc68732a561",
-          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-          "source": "Google DeepMind Blog",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-21T11:59:48Z"
         }
       ],
       "item_count": 1,
@@ -2165,6 +2090,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_961d9c5c",
+      "title": "AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
+      "primary_url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "54fdd01fbc66c6f36aff85bfc8b75d37657dfde0",
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-21T00:13:44Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_59965ac0",
       "title": "为什么我们必须停止谈论通用人工智能，而应该构建“有利于工人”的人工智能",
       "url": "https://www.nature.com/articles/d41586-026-02566-6",
@@ -2187,15 +2134,58 @@
       "score": 9720
     },
     {
+      "story_id": "story_e74bd885",
+      "title": "新数据表明，OpenAI 正在赢得商业用户的青睐",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+      "primary_url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "a956a38d37398e2b516f98cf1398004ecf75a48f",
+          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-20T22:36:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_60d44502",
+      "title": "Google Discover 正在获得人工智能聊天机器人调整的提要",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "primary_url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "8c28d49bba3cbf94ec8599616bd29299e677ca48",
+          "title": "Google Discover is getting an AI chatbot-tuned feed",
+          "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-20T21:50:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_8f7654c8",
       "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
       "url": "https://canews24.online/?p=71",
       "primary_url": "https://canews24.online/?p=71",
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "canews24.online",
-        "Hacker News",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2207,24 +2197,24 @@
           "published_at": "2026-08-21T17:25:45.772000Z"
         },
         {
-          "id": "b3cf7db966841b278a436f05c884dd38384c456c",
+          "id": "9318dfcad33e9e90a7c8f0d49a53bab6ab3a912e",
           "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
           "url": "https://canews24.online/?p=71",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-21T15:25:42Z"
         },
         {
-          "id": "551bbf42d27367ceb414677e5bb42f35ebc915b3",
+          "id": "be6bf819f97ccf431329ec528f7fc52dd8e96092",
           "title": "AI boosted homework scores, then exam scores dropped: Study",
           "url": "https://canews24.online/?p=71",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-21T15:25:42Z"
         }
       ],
       "item_count": 3,
-      "score": 9580
+      "score": 9570
     },
     {
       "story_id": "story_98d9ccb8",
@@ -2265,7 +2255,7 @@
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2277,11 +2267,11 @@
           "published_at": "2026-08-21T16:27:52Z"
         },
         {
-          "id": "6f0736b2d5d48e16d13b5bebe74c2284c0ab9137",
+          "id": "fa15cfb99a8bff4e0ce4825f6aec20eac4d02f1e",
           "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
           "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-21T16:27:52Z"
         }
       ],
@@ -2485,6 +2475,22 @@
       ],
       "sources": [
         {
+          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
+          "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "url": "https://news.ycombinator.com/item?id=49392331",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T20:32:02.097000Z"
+        },
+        {
+          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
+          "title": "Quick impressions: A week of using Codex more than Claude",
+          "url": "https://news.ycombinator.com/item?id=49393051",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T20:32:02.097000Z"
+        },
+        {
           "id": "db4894f377385d87a3519bb6ace4cd2ab62b8a0e",
           "title": "AI boosted homework scores, then exam scores dropped: study",
           "url": "https://news.ycombinator.com/item?id=49357530",
@@ -2637,7 +2643,183 @@
           "published_at": "2026-08-20T22:40:10.657000Z"
         }
       ],
-      "item_count": 19,
+      "item_count": 21,
+      "score": 7
+    },
+    {
+      "story_id": "story_f7f77353",
+      "title": "Anthropic hires Amir Salek, who ran Google's TPU business until 2022, to join its compute team as part of a push to develop its own chips (Dina Bass/Bloomberg)",
+      "url": "https://www.techmeme.com/260821/p23",
+      "primary_url": "https://www.techmeme.com/260821/p23",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "b1be1117d0b290e2fdcbfa055ccd46719893ec02",
+          "title": "Anthropic hires Amir Salek, who ran Google's TPU business until 2022, to join its compute team as part of a push to develop its own chips (Dina Bass/Bloomberg)",
+          "url": "https://www.techmeme.com/260821/p23",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T20:25:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ed8e6cda",
+      "title": "No driver, no problem — devs use Claude AI to craft native macOS tool for an 'obscure' Windows-only printer",
+      "url": "https://www.techradar.com/pro/no-driver-no-problem-devs-use-claude-ai-to-craft-native-macos-tool-for-an-obscure-windows-only-printer",
+      "primary_url": "https://www.techradar.com/pro/no-driver-no-problem-devs-use-claude-ai-to-craft-native-macos-tool-for-an-obscure-windows-only-printer",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "15e230935fa68378caf07e533f15c7f79ca679ad",
+          "title": "No driver, no problem — devs use Claude AI to craft native macOS tool for an 'obscure' Windows-only printer",
+          "url": "https://www.techradar.com/pro/no-driver-no-problem-devs-use-claude-ai-to-craft-native-macos-tool-for-an-obscure-windows-only-printer",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T20:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b8d98bcf",
+      "title": "Anthropic将为捍卫者提供其最强大的模型发现的内容，但不会提供模型本身",
+      "url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
+      "primary_url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "2b27d74ba6161e7bbe525a0d4fbfbdc9ecd7c8d0",
+          "title": "Anthropic will give defenders what its strongest model finds, but not the model itself",
+          "url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T20:00:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1c8e5dfb",
+      "title": "人工智能提高了家庭作业分数，但考试分数却下降了",
+      "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+      "primary_url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "11d756e585cde87457b7a7ab64787465dbf9847a",
+          "title": "AI Boosted Homework Scores, Then Exam Scores Dropped",
+          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ab95295b",
+      "title": "快速印象：比 Claude 使用 Codex 多的一周",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+      "primary_url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "48aa24f65578ce52e3984df7eead950686309a55",
+          "title": "Quick impressions: A week of using Codex more than Claude",
+          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T19:51:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_90c524e6",
+      "title": "Source: OpenAI's VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning (Laura Bratton/The Information)",
+      "url": "https://www.techmeme.com/260821/p21",
+      "primary_url": "https://www.techmeme.com/260821/p21",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "a3e42bd457e384994f5effbf27da46f1d160e9e9",
+          "title": "Source: OpenAI's VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning (Laura Bratton/The Information)",
+          "url": "https://www.techmeme.com/260821/p21",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T19:45:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d1d57c13",
+      "title": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+      "primary_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "4d51fb6fe0035f33a3a30d86a5105d69472f4a64",
+          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T19:43:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2042c08e",
+      "title": "OpenAI：我们将 GPT-5.6 Sol 的 API 和信用定价降低 20% 以上",
+      "url": "https://twitter.com/OpenAI/status/2090885187634905500",
+      "primary_url": "https://twitter.com/OpenAI/status/2090885187634905500",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "8c16e05023914de8c1c2fea2692fd99e3df218c0",
+          "title": "OpenAI: We're dropping API and credit pricing of GPT-5.6 Sol by over 20%",
+          "url": "https://twitter.com/OpenAI/status/2090885187634905500",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-21T19:39:04Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -2701,6 +2883,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-21T19:06:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_15c30ae6",
+      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "primary_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "331265edd529fd98aac44fbe554e59c57cd04594",
+          "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T18:48:28Z"
         }
       ],
       "item_count": 1,
@@ -2977,15 +3181,15 @@
       "primary_url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "607f0aad5e4a144209f2977c27cdea01c92a660e",
+          "id": "24ca2059074e20283084428200fdf793ffb3e570",
           "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
           "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-21T17:00:23Z"
         }
       ],
@@ -2999,15 +3203,15 @@
       "primary_url": "https://github.com/proliferate-ai/proliferate",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "90e1dd03d2fa88d7f45cf115030b0fad7f773a99",
+          "id": "2fb34d461666e79502c9ccf726d3c1cbf04e0ea0",
           "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
           "url": "https://github.com/proliferate-ai/proliferate",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-21T16:47:15Z"
         }
       ],
@@ -3021,15 +3225,15 @@
       "primary_url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "458a77585f2c278456dd8c1c742a7eb78cd7fa68",
+          "id": "15e653a8b7d4560dc8e2e1cd1c687dd8bb58065c",
           "title": "What happens when a GPU reads memory",
           "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-21T16:16:42Z"
         }
       ],
@@ -3229,6 +3433,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-21T13:55:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9cbe86a7",
+      "title": "YouTube 主要创作者因接受人工智能资金而面临强烈反对",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "84f9a17314c8fdfff967d88e0c397f0e2a158063",
+          "title": "Major YouTube creators are facing backlash for accepting AI money",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T13:37:52Z"
         }
       ],
       "item_count": 1,
@@ -3527,15 +3753,15 @@
       "primary_url": "https://api-docs.deepseek.com/guides/vision",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "a12b55b02d9bf63d772eb34c75c073566b570131",
+          "id": "efdcd62add6cbf7bf7a61ee949cd90c683131e8c",
           "title": "DeepSeek-v4-flash-vision-exp",
           "url": "https://api-docs.deepseek.com/guides/vision",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-21T10:33:56Z"
         }
       ],
@@ -3593,15 +3819,15 @@
       "primary_url": "https://annas-archive.pk/blog/physical-destruction.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "8e9cde0067d8fde26e99f379e85edb1980c3bb8f",
+          "id": "870c4decabe0bf550cdbf60dfaf0060d0d637f8d",
           "title": "AI companies destroy physical books – let's scan rare books before it's too late",
           "url": "https://annas-archive.pk/blog/physical-destruction.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-21T10:05:46Z"
         }
       ],
@@ -3967,15 +4193,15 @@
       "primary_url": "https://argentic.network",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "2e841cb423d388637ca5248f038a8ac445dd8923",
+          "id": "54562311aca63c472a709778df658b54079b3718",
           "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
           "url": "https://argentic.network",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-21T06:24:16Z"
         }
       ],
@@ -4115,28 +4341,6 @@
       "score": 7
     },
     {
-      "story_id": "story_961d9c5c",
-      "title": "AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
-      "primary_url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "a06f3f41ad7d25b6ead5aa637c347204cca24767",
-          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T00:13:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_e5888a60",
       "title": "反AI字体既无用又有害",
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
@@ -4219,28 +4423,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-20T22:51:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e74bd885",
-      "title": "新数据表明，OpenAI 正在赢得商业用户的青睐",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
-      "primary_url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "236fc62b30291a693cf92baa34afcdc8577564f0",
-          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T22:36:37Z"
         }
       ],
       "item_count": 1,
@@ -4335,28 +4517,6 @@
       "score": 7
     },
     {
-      "story_id": "story_60d44502",
-      "title": "Google Discover 正在获得人工智能聊天机器人调整的提要",
-      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "primary_url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "839cc07325107cf19845f33fc8858d499c7a3526",
-          "title": "Google Discover is getting an AI chatbot-tuned feed",
-          "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T21:50:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_86212605",
       "title": "Email: Apple Music tells industry partners that songs tagged as \"materially generated using AI\" by content providers will be visibly labeled on the service (Kristin Robinson/Billboard)",
       "url": "https://www.techmeme.com/260820/p41",
@@ -4395,116 +4555,6 @@
           "source": "www.danielvaughn.dev",
           "site_id": "buzzing",
           "published_at": "2026-08-20T21:26:19.463000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1ef8df1e",
-      "title": "尤瓦尔·诺亚·哈拉里谈人工智能带来的经济与政治风险",
-      "url": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-      "primary_url": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-      "source_count": 1,
-      "source_names": [
-        "www.economist.com"
-      ],
-      "sources": [
-        {
-          "id": "e8d1b5d367adcf263ba06bec77092703c091df3f",
-          "title": "尤瓦尔·诺亚·哈拉里谈人工智能带来的经济与政治风险",
-          "url": "https://www.economist.com/business/2026/08/20/yuval-noah-harari-on-the-economic-and-political-perils-of-ai",
-          "source": "www.economist.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T20:53:55.152000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8e423d7f",
-      "title": "皮尤研究中心称 10% 的网络现在显示出人工智能作者身份的迹象",
-      "url": "https://thenextweb.com/news/pew-ai-authorship-web-pages-study",
-      "primary_url": "https://thenextweb.com/news/pew-ai-authorship-web-pages-study",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "4583505b6c76003a43c624715a279a22c6244cb0",
-          "title": "Pew says 10% of the web now shows signs of AI authorship",
-          "url": "https://thenextweb.com/news/pew-ai-authorship-web-pages-study",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T20:45:21Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8a96427d",
-      "title": "Sources: Broadcom is in talks with a group of lenders to raise $60B+ in debt for an AI chip financing deal that will benefit Anthropic and other companies (Bloomberg)",
-      "url": "https://www.techmeme.com/260820/p39",
-      "primary_url": "https://www.techmeme.com/260820/p39",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "fc12b6db59780387411b12596afa14635bb0336c",
-          "title": "Sources: Broadcom is in talks with a group of lenders to raise $60B+ in debt for an AI chip financing deal that will benefit Anthropic and other companies (Bloomberg)",
-          "url": "https://www.techmeme.com/260820/p39",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T20:40:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d88d0fd7",
-      "title": "火人节告诉人工智能眼镜佩戴者：别做怪人，获得录制许可",
-      "url": "https://www.businessinsider.com/burning-man-meta-ray-ban-smart-glasses-recording-policy-guidelines-2026-8",
-      "primary_url": "https://www.businessinsider.com/burning-man-meta-ray-ban-smart-glasses-recording-policy-guidelines-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "21efca43734743a6179bd5c4c01d6d74693f32f9",
-          "title": "Burning Man tells AI glasses wearers: Don't be a creep, get permission to record",
-          "url": "https://www.businessinsider.com/burning-man-meta-ray-ban-smart-glasses-recording-policy-guidelines-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T20:13:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6f9f2563",
-      "title": "San Mateo-based Twin1 AI, which creates professional digital twins that integrate with tools like Slack, launches from stealth with a $20M seed (Chris Metinko/Axios)",
-      "url": "https://www.techmeme.com/260820/p37",
-      "primary_url": "https://www.techmeme.com/260820/p37",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "01c6b37e51d536f41d6414f1c93989122f1b136e",
-          "title": "San Mateo-based Twin1 AI, which creates professional digital twins that integrate with tools like Slack, launches from stealth with a $20M seed (Chris Metinko/Axios)",
-          "url": "https://www.techmeme.com/260820/p37",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T20:10:01Z"
         }
       ],
       "item_count": 1,
