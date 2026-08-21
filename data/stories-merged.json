@@ -1,38 +1,29 @@
 {
-  "generated_at": "2026-08-21T16:04:12.467279Z",
+  "generated_at": "2026-08-21T18:01:50.320753Z",
   "window_hours": 24,
-  "total_stories": 194,
+  "total_stories": 195,
   "stories": [
     {
-      "story_id": "story_b1eabc16",
-      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source_count": 2,
+      "story_id": "story_7a0d3b13",
+      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Hugging Face：Blog（RSS）"
+        "Google DeepMind"
       ],
       "sources": [
         {
-          "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
-          "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "url": "https://www.aibase.com/news/30528",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T08:03:59.841349Z"
-        },
-        {
-          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face：Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:52:57Z"
+          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+          "source": "Google DeepMind",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T11:59:48Z"
         }
       ],
-      "item_count": 2,
-      "score": 10070
+      "item_count": 1,
+      "score": 10020
     },
     {
       "story_id": "story_31b34c53",
@@ -41,15 +32,15 @@
       "primary_url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "source_count": 1,
       "source_names": [
-        "Hugging Face：Blog（RSS）"
+        "Hugging Face Blog"
       ],
       "sources": [
         {
-          "id": "493c8b81cfff826f97728e31cfe21843e90355b0",
-          "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
+          "id": "fe77e56bac5251db7491d1afe78e9985f9471676",
+          "title": "Measuring benchmark optimization in speech recognition",
           "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-          "source": "Hugging Face：Blog（RSS）",
-          "site_id": "aihot",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
           "published_at": "2026-08-21T00:00:00Z"
         }
       ],
@@ -86,6 +77,72 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_15c30ae6",
+      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "primary_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "sources": [
+        {
+          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Claude：Blog（网页）",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:58:29.461000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_996f4d3b",
+      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+      "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "sources": [
+        {
+          "id": "340f16af643dfae465b99366c133369fcb22c060",
+          "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+          "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:56:25.415000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_430217b3",
+      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+      "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "sources": [
+        {
+          "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
+          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+          "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:56:25.415000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_01c6bd1e",
@@ -280,6 +337,28 @@
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "site_id": "aihot",
           "published_at": "2026-08-21T09:25:43.682000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_8b1954e4",
+      "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+      "url": "https://www.aibase.com/news/30528",
+      "primary_url": "https://www.aibase.com/news/30528",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
+          "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "url": "https://www.aibase.com/news/30528",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T08:03:59.841349Z"
         }
       ],
       "item_count": 1,
@@ -748,28 +827,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_d875e534",
-      "title": "Anthropic 如何开展 AI 教学",
-      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-      "primary_url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "sources": [
-        {
-          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
-          "title": "Anthropic 如何开展 AI 教学",
-          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-          "source": "Claude：Blog（网页）",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T17:56:58.396000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_fecdb37a",
       "title": "We've investigated a few messages about codex usage limits being different. That's not something we change without engaging the community and being transparent. What we did see is that when talking to affected users m...",
       "url": "https://x.com/thsottiaux/status/2090675027670978569",
@@ -1012,94 +1069,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_119f370d",
-      "title": "2026 年 成为Agent工程师的12 步路线图—— Loops，Graphs，Evals，Context，Harness",
-      "url": "https://waytoagi.feishu.cn/wiki/DlHIwfDqoiylXSktdSccaB0Gnwe?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/DlHIwfDqoiylXSktdSccaB0Gnwe?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-08-20"
-      ],
-      "sources": [
-        {
-          "id": "889b404a4a1bd307aeced9830a841667ebc3568d",
-          "title": "2026 年 成为Agent工程师的12 步路线图—— Loops，Graphs，Evals，Context，Harness",
-          "url": "https://waytoagi.feishu.cn/wiki/DlHIwfDqoiylXSktdSccaB0Gnwe?from=from_copylink",
-          "source": "社区更新 · 2026-08-20",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T18:00:12.725423Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_a2b8bc0b",
-      "title": "全球AI创造力发展报告2026-AI教育.pdf",
-      "url": "https://waytoagi.feishu.cn/wiki/P4ilw4bWhifrRjkhSvec6mLDnNd?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/P4ilw4bWhifrRjkhSvec6mLDnNd?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-08-20"
-      ],
-      "sources": [
-        {
-          "id": "8654599242a54776d93441781cab23a6d9d50232",
-          "title": "全球AI创造力发展报告2026-AI教育.pdf",
-          "url": "https://waytoagi.feishu.cn/wiki/P4ilw4bWhifrRjkhSvec6mLDnNd?from=from_copylink",
-          "source": "社区更新 · 2026-08-20",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-20T18:00:12.725423Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_7ab8ba7b",
-      "title": "He scaled @Google ads from $1B to $100B. Now he's leading @Snowflake through the AI shift. Watch the full episode on Youtube: https://t.co/DiSoqgRUcc",
-      "url": "https://x.com/adityaag/status/2090478530513543631",
-      "primary_url": "https://x.com/adityaag/status/2090478530513543631",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aditya Agarwal"
-      ],
-      "sources": [
-        {
-          "id": "288fe2fca91dff17b3c02dc4839a7ce6bded7fdc",
-          "title": "He scaled @Google ads from $1B to $100B. Now he's leading @Snowflake through the AI shift. Watch the full episode on Youtube: https://t.co/DiSoqgRUcc",
-          "url": "https://x.com/adityaag/status/2090478530513543631",
-          "source": "Follow Builders · X · Aditya Agarwal",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-20T16:38:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_87587207",
-      "title": "YC 是人工智能研究人员的 YC https://t.co/xb9ZtXkoiT",
-      "url": "https://x.com/garrytan/status/2090471408996659339",
-      "primary_url": "https://x.com/garrytan/status/2090471408996659339",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Garry Tan"
-      ],
-      "sources": [
-        {
-          "id": "581a86e8c145e3b6acb44d3eb52c9aabcd942301",
-          "title": "YC is the YC for AI Researchers https://t.co/xb9ZtXkoiT",
-          "url": "https://x.com/garrytan/status/2090471408996659339",
-          "source": "Follow Builders · X · Garry Tan",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-20T16:09:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_a1773901",
       "title": "节制外卖、重注AI，阿里开始算账",
       "url": "https://www.tmtpost.com/8111818.html",
@@ -1162,35 +1131,26 @@
       "score": 9770
     },
     {
-      "story_id": "story_119108f5",
-      "title": "谷歌为出版商提供了一种应对人工智能驱动的流量损失的新方法",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
-      "primary_url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
-      "source_count": 2,
+      "story_id": "story_be2f9db0",
+      "title": "Stripe 为什么盯上模型路由：AI 进入“智能采购”时代",
+      "url": "https://www.huxiu.com/article/4885069.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4885069.html?f=rss",
+      "source_count": 1,
       "source_names": [
-        "TechCrunch",
-        "Slashdot"
+        "虎嗅"
       ],
       "sources": [
         {
-          "id": "1950cc964cead92063a2e70c43fb4ab254ef513c",
-          "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-          "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
-          "source": "TechCrunch",
+          "id": "fb6b81f2801edaaa103a9f1fbab243944b8e72d5",
+          "title": "Stripe 为什么盯上模型路由：AI 进入“智能采购”时代",
+          "url": "https://www.huxiu.com/article/4885069.html?f=rss",
+          "source": "虎嗅",
           "site_id": "opmlrss",
-          "published_at": "2026-08-20T19:18:21Z"
-        },
-        {
-          "id": "0c2bbc5c7240b419477afa5c60e39032eb07d543",
-          "title": "Google Gives Publishers a 'Preferred Sources' Button to Fight AI-Driven Traffic Losses",
-          "url": "https://news.slashdot.org/story/26/08/21/0113259/google-gives-publishers-a-preferred-sources-button-to-fight-ai-driven-traffic-losses",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T15:00:00Z"
+          "published_at": "2026-08-21T16:50:42Z"
         }
       ],
-      "item_count": 2,
-      "score": 9770
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_d999f82a",
@@ -1253,6 +1213,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-21T13:38:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9cbe86a7",
+      "title": "YouTube 主要创作者因接受人工智能资金而面临强烈反对",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "dd6aec83f3592c5fed8703d9797211fa69afba19",
+          "title": "Major YouTube creators are facing backlash for accepting AI money",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-21T13:37:52Z"
         }
       ],
       "item_count": 1,
@@ -1369,28 +1351,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_7a0d3b13",
-      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind Blog"
-      ],
-      "sources": [
-        {
-          "id": "3f7a431ea32e22498a3d0219ced7afc68732a561",
-          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-          "source": "Google DeepMind Blog",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-21T11:59:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_100520a4",
       "title": "为什么以色列对西岸 E1 非法定居点的招标引起了愤怒",
       "url": "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
@@ -1473,28 +1433,6 @@
           "source": "新华网 / 新华社新闻",
           "site_id": "opmlrss",
           "published_at": "2026-08-21T11:09:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_668d826c",
-      "title": "随着 Meta AI 眼镜的需求激增，令人毛骨悚然的录音越来越难以避免",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "a27dc34e89ab14f9cb6f864bac5909fe99495214",
-          "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-          "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-21T11:00:53Z"
         }
       ],
       "item_count": 1,
@@ -2249,92 +2187,136 @@
       "score": 9720
     },
     {
-      "story_id": "story_1f35a41c",
-      "title": "硅谷不明白为什么你讨厌人工智能",
-      "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai",
-      "primary_url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai",
-      "source_count": 1,
+      "story_id": "story_8f7654c8",
+      "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+      "url": "https://canews24.online/?p=71",
+      "primary_url": "https://canews24.online/?p=71",
+      "source_count": 2,
       "source_names": [
-        "Wired"
+        "canews24.online",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "8467c3005269e9b428cb3196af06a6c1620723b9",
-          "title": "Silicon Valley Doesn't Get Why You Hate AI",
-          "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T18:49:07Z"
+          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "url": "https://canews24.online/?p=71",
+          "source": "canews24.online",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:25:45.772000Z"
+        },
+        {
+          "id": "9318dfcad33e9e90a7c8f0d49a53bab6ab3a912e",
+          "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-21T15:25:42Z"
+        },
+        {
+          "id": "be6bf819f97ccf431329ec528f7fc52dd8e96092",
+          "title": "AI boosted homework scores, then exam scores dropped: Study",
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-21T15:25:42Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 3,
+      "score": 9570
     },
     {
-      "story_id": "story_db87c582",
-      "title": "研究发现，自 ChatGPT 推出以来发布的网页中有三分之一显示出人工智能作者身份的迹象",
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
-      "primary_url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
-      "source_count": 1,
+      "story_id": "story_98d9ccb8",
+      "title": "我正在变得对人工智能视而不见",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "primary_url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "source_count": 2,
       "source_names": [
+        "cymerys.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
+          "title": "我正在变得对人工智能视而不见",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "cymerys.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T16:37:38.437000Z"
+        },
+        {
+          "id": "0ae14d4d112fdeecba044d1481ea6e1d1fd6c8fd",
+          "title": "I'm Becoming AI-Blind",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-21T11:48:05Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_a3aa5624",
+      "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+      "primary_url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
+          "title": "A self hosted AI software factory",
+          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T16:27:52Z"
+        },
+        {
+          "id": "fa15cfb99a8bff4e0ce4825f6aec20eac4d02f1e",
+          "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-21T16:27:52Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_22614bfd",
+      "title": "谷歌为出版商提供“首选来源”按钮，以应对人工智能驱动的流量损失",
+      "url": "https://news.slashdot.org/story/26/08/21/0113259/google-gives-publishers-a-preferred-sources-button-to-fight-ai-driven-traffic-losses",
+      "primary_url": "https://news.slashdot.org/story/26/08/21/0113259/google-gives-publishers-a-preferred-sources-button-to-fight-ai-driven-traffic-losses",
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "58422ccb0fcb1b50c05296a441e1bf2612fab405",
-          "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-          "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
+          "id": "0c2bbc5c7240b419477afa5c60e39032eb07d543",
+          "title": "Google Gives Publishers a 'Preferred Sources' Button to Fight AI-Driven Traffic Losses",
+          "url": "https://news.slashdot.org/story/26/08/21/0113259/google-gives-publishers-a-preferred-sources-button-to-fight-ai-driven-traffic-losses",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T15:00:00Z"
+        },
+        {
+          "id": "3f2ed5ad76a6d334f4bf95f81e73285506e0bc9a",
+          "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+          "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
           "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T17:18:58Z"
+          "site_id": "techurls",
+          "published_at": "2026-08-20T19:18:21Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_9771e938",
-      "title": "WRC｜触觉让世界模型更懂物理，也更难通用",
-      "url": "https://www.huxiu.com/article/4884735.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4884735.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "a8e9b3efc34b076b6efe55bf828cbe7d4b929f65",
-          "title": "WRC｜触觉让世界模型更懂物理，也更难通用",
-          "url": "https://www.huxiu.com/article/4884735.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T16:34:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_55f049ad",
-      "title": "力量与边界：人类文明从农业革命到 AI 时代的同一个问题",
-      "url": "https://www.huxiu.com/article/4884732.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4884732.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "ce14c0cbf19d08d6492bef19db1fdfac718f9cf2",
-          "title": "力量与边界：人类文明从农业革命到 AI 时代的同一个问题",
-          "url": "https://www.huxiu.com/article/4884732.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-20T16:27:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_9dc6e9c9",
@@ -2375,7 +2357,7 @@
       "source_count": 2,
       "source_names": [
         "github.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2387,12 +2369,43 @@
           "published_at": "2026-08-21T07:01:25.605000Z"
         },
         {
-          "id": "3c8b714910253ddd0b58d59dcf72544900166041",
+          "id": "5501e6dd44004845065f0374df411a0441cba133",
           "title": "Codex on AWS bedrock bug causing 10x charges",
           "url": "https://github.com/openai/codex/issues/37674",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T03:17:43Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_d6d013dd",
+      "title": "Stealth Model",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "primary_url": "https://openrouter.ai/stealth/ox-alpha",
+      "source_count": 2,
+      "source_names": [
+        "openrouter.ai",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "18b9aeca3aa2c10d3f332e70316993980e33f40e",
+          "title": "Ox Alpha",
+          "url": "https://openrouter.ai/stealth/ox-alpha",
+          "source": "openrouter.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T07:01:25.601000Z"
+        },
+        {
+          "id": "5ab68cd980d6a5f4d8bcf68abd7f2c4c15316041",
+          "title": "Stealth Model",
+          "url": "https://openrouter.ai/stealth/ox-alpha",
           "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-08-21T03:17:43Z"
+          "published_at": "2026-08-20T23:56:35Z"
         }
       ],
       "item_count": 2,
@@ -2437,7 +2450,7 @@
       "source_count": 2,
       "source_names": [
         "mathstodon.xyz",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2449,11 +2462,11 @@
           "published_at": "2026-08-21T02:13:46.266000Z"
         },
         {
-          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
+          "id": "d35d1106bee95741ab4e1b435a8cd6cc8a5dea50",
           "title": "Copyright does not protect AI-generated content in EU",
           "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-21T00:15:12Z"
         }
       ],
@@ -2467,16 +2480,16 @@
       "primary_url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy",
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "Hacker News"
       ],
       "sources": [
         {
-          "id": "b27b477cf30cf90b9b822139e4d3600a46b12d48",
+          "id": "580f2f864d667cdf5132a03f0f274338f119f250",
           "title": "Artificial Intelligence Policy",
           "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-21T01:37:27Z"
         },
         {
@@ -2486,37 +2499,6 @@
           "source": "Hacker News",
           "site_id": "techurls",
           "published_at": "2026-08-21T01:37:27Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_d6d013dd",
-      "title": "Stealth Model",
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "primary_url": "https://openrouter.ai/stealth/ox-alpha",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "47ae7f03e755aba2a0c9abcd7eb957c55585bbea",
-          "title": "Ox Alpha",
-          "url": "https://openrouter.ai/stealth/ox-alpha",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-20T23:56:35Z"
-        },
-        {
-          "id": "5ab68cd980d6a5f4d8bcf68abd7f2c4c15316041",
-          "title": "Stealth Model",
-          "url": "https://openrouter.ai/stealth/ox-alpha",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T23:56:35Z"
         }
       ],
       "item_count": 2,
@@ -2554,6 +2536,50 @@
       "score": 9570
     },
     {
+      "story_id": "story_737094ed",
+      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+      "url": "https://sspai.com/post/113593",
+      "primary_url": "https://sspai.com/post/113593",
+      "source_count": 1,
+      "source_names": [
+        "sspai"
+      ],
+      "sources": [
+        {
+          "id": "ed6eb4051dd4da41d2b3683cb0afac76de9de798",
+          "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+          "url": "https://sspai.com/post/113593",
+          "source": "sspai",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T17:40:02.889000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_31151338",
+      "title": "用 Swift 重建我们的 Electron 会议记录引擎",
+      "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+      "primary_url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "2958bf5872cf188f94eef0e6fd10500dc48910e8",
+          "title": "Rebuilding our Electron meeting-recording engine in Swift",
+          "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-21T17:33:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_3af35605",
       "title": "Show HN：AgentSight – AI 代理的 eBPF 可观察性，无需更改代码",
       "url": "https://news.ycombinator.com/item?id=49389493",
@@ -2563,6 +2589,30 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "3a8930b05c94b8125cf370f22e93906d7609e740",
+          "title": "A self hosted AI software factory",
+          "url": "https://news.ycombinator.com/item?id=49390463",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T17:31:53.537000Z"
+        },
+        {
+          "id": "2434755bcdc3b4e122b27a2ee21b10b94fd48798",
+          "title": "Does whispering to agents in docs help?",
+          "url": "https://news.ycombinator.com/item?id=49331391",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T17:31:53.537000Z"
+        },
+        {
+          "id": "20709f76c7df385c0d5bbd4eb98c04568df63fb8",
+          "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "url": "https://news.ycombinator.com/item?id=49390910",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T17:31:53.537000Z"
+        },
         {
           "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
           "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
@@ -2676,26 +2726,202 @@
           "published_at": "2026-08-20T19:46:22.553000Z"
         }
       ],
-      "item_count": 14,
+      "item_count": 17,
       "score": 7
     },
     {
-      "story_id": "story_8f7654c8",
-      "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20%",
-      "url": "https://canews24.online/?p=71",
-      "primary_url": "https://canews24.online/?p=71",
+      "story_id": "story_f1795b28",
+      "title": "两个 21 岁的年轻人开发了一个可以运营在线商店的人工智能",
+      "url": "https://thenextweb.com/news/siml-ai-runs-online-stores-agentic-commerce",
+      "primary_url": "https://thenextweb.com/news/siml-ai-runs-online-stores-agentic-commerce",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "The Next Web"
       ],
       "sources": [
         {
-          "id": "8123137908be413b68a067b43d42f746c9662974",
-          "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "url": "https://canews24.online/?p=71",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T15:25:42Z"
+          "id": "6700cc208cf9a8a279a7835b7ba70127809db771",
+          "title": "Two 21-year-olds built an AI that runs online stores",
+          "url": "https://thenextweb.com/news/siml-ai-runs-online-stores-agentic-commerce",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T17:25:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_80b36305",
+      "title": "Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September (Bailey Lipschultz/Bloomberg)",
+      "url": "https://www.techmeme.com/260821/p17",
+      "primary_url": "https://www.techmeme.com/260821/p17",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "304d03e40619babf59b21553e6f2d3284cd402e6",
+          "title": "Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September (Bailey Lipschultz/Bloomberg)",
+          "url": "https://www.techmeme.com/260821/p17",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T17:25:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0360e801",
+      "title": "Meta 每年向微软支付数亿美元租用人工智能模型",
+      "url": "https://thenextweb.com/news/meta-microsoft-azure-foundry-ai-model-spending",
+      "primary_url": "https://thenextweb.com/news/meta-microsoft-azure-foundry-ai-model-spending",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "b71c4135caa3005e90569ce5ff3a4ba248a802e7",
+          "title": "Meta pays Microsoft hundreds of millions a year to rent AI models",
+          "url": "https://thenextweb.com/news/meta-microsoft-azure-foundry-ai-model-spending",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T17:18:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8eaf201f",
+      "title": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师",
+      "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+      "primary_url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "607f0aad5e4a144209f2977c27cdea01c92a660e",
+          "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-21T17:00:23Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_bb9f70ad",
+      "title": "Show HN：Proliferate - 适用于任何编码代理的开源、自托管 Codex",
+      "url": "https://github.com/proliferate-ai/proliferate",
+      "primary_url": "https://github.com/proliferate-ai/proliferate",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "088f7da87e1dde98fcc1056fb1c16448504ebbc6",
+          "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+          "url": "https://github.com/proliferate-ai/proliferate",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-21T16:47:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_02b074a6",
+      "title": "当 GPU 读取内存时会发生什么",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "primary_url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "458a77585f2c278456dd8c1c742a7eb78cd7fa68",
+          "title": "What happens when a GPU reads memory",
+          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-21T16:16:42Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8f686c11",
+      "title": "A new Gemini for Home update is rolling out, but users are slamming Google for not fixing ‘missing and broken features’ despite the voice upgrades",
+      "url": "https://www.techradar.com/home/smart-home-hubs/a-new-gemini-for-home-update-is-rolling-out-but-users-are-slamming-google-for-not-fixing-missing-and-broken-features-despite-the-voice-upgrades",
+      "primary_url": "https://www.techradar.com/home/smart-home-hubs/a-new-gemini-for-home-update-is-rolling-out-but-users-are-slamming-google-for-not-fixing-missing-and-broken-features-despite-the-voice-upgrades",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "3e18d4790455e5299e372ea6fe437ab4821e9b7b",
+          "title": "A new Gemini for Home update is rolling out, but users are slamming Google for not fixing ‘missing and broken features’ despite the voice upgrades",
+          "url": "https://www.techradar.com/home/smart-home-hubs/a-new-gemini-for-home-update-is-rolling-out-but-users-are-slamming-google-for-not-fixing-missing-and-broken-features-despite-the-voice-upgrades",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T16:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_301d4b32",
+      "title": "人工智能不需要取代人类来削弱人类的能力",
+      "url": "https://thenextweb.com/news/ai-weaken-human-capability-cognitive-debt",
+      "primary_url": "https://thenextweb.com/news/ai-weaken-human-capability-cognitive-debt",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "e910b4f074c04bf9c702c033b063ee2b535a75a1",
+          "title": "AI doesn’t need to replace humans to weaken human capability",
+          "url": "https://thenextweb.com/news/ai-weaken-human-capability-cognitive-debt",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T16:05:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f21f57aa",
+      "title": "Apple Music 将为 AI 歌曲贴上标签，背后的标签现在是强制性的",
+      "url": "https://thenextweb.com/news/apple-music-made-with-ai-labels-mandatory-tags",
+      "primary_url": "https://thenextweb.com/news/apple-music-made-with-ai-labels-mandatory-tags",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "0c1a10027c565cc9f372a33af5c44a6ec1ec5d6d",
+          "title": "Apple Music will label AI songs, and the tags behind them are now mandatory",
+          "url": "https://thenextweb.com/news/apple-music-made-with-ai-labels-mandatory-tags",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T15:55:15Z"
         }
       ],
       "item_count": 1,
@@ -2784,28 +3010,6 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-21T13:55:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9cbe86a7",
-      "title": "YouTube 主要创作者因接受人工智能资金而面临强烈反对",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "84f9a17314c8fdfff967d88e0c397f0e2a158063",
-          "title": "Major YouTube creators are facing backlash for accepting AI money",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T13:37:52Z"
         }
       ],
       "item_count": 1,
@@ -2944,28 +3148,6 @@
       "score": 7
     },
     {
-      "story_id": "story_98d9ccb8",
-      "title": "我正在变得人工智能盲",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "primary_url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "0ae14d4d112fdeecba044d1481ea6e1d1fd6c8fd",
-          "title": "I'm Becoming AI-Blind",
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-21T11:48:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_029878ad",
       "title": "DeepSeek 推出实验性多模态模型来与 Anthropic 竞争",
       "url": "https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks",
@@ -3098,6 +3280,28 @@
       "score": 7
     },
     {
+      "story_id": "story_668d826c",
+      "title": "随着 Meta AI 眼镜的需求激增，令人毛骨悚然的录音越来越难以避免",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "983ea014bf39a970d4f29761329e12d42cfbe32f",
+          "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T11:00:53Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_2b7d160f",
       "title": "微软给任务管理器另一项任务：监视人工智能工作负载",
       "url": "https://tech.slashdot.org/story/26/08/21/0136250/microsoft-gives-task-manager-another-task-watching-ai-workloads",
@@ -3126,15 +3330,15 @@
       "primary_url": "https://api-docs.deepseek.com/guides/vision",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "a12b55b02d9bf63d772eb34c75c073566b570131",
+          "id": "efdcd62add6cbf7bf7a61ee949cd90c683131e8c",
           "title": "DeepSeek-v4-flash-vision-exp",
           "url": "https://api-docs.deepseek.com/guides/vision",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-21T10:33:56Z"
         }
       ],
@@ -3566,15 +3770,15 @@
       "primary_url": "https://argentic.network",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "54562311aca63c472a709778df658b54079b3718",
+          "id": "2e841cb423d388637ca5248f038a8ac445dd8923",
           "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
           "url": "https://argentic.network",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-21T06:24:16Z"
         }
       ],
@@ -3632,15 +3836,15 @@
       "primary_url": "https://github.com/vivekhaldar/seed",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "f637d3201abcd3e0e49bf2b414d621c282b163c2",
+          "id": "3cbc7b2a89712f8f5f99c2926068d69ca99796f1",
           "title": "Seed: Minimal, self-modifying agent harness",
           "url": "https://github.com/vivekhaldar/seed",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-21T05:20:50Z"
         }
       ],
@@ -4176,6 +4380,28 @@
       "score": 7
     },
     {
+      "story_id": "story_1f35a41c",
+      "title": "硅谷不明白为什么你讨厌人工智能",
+      "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai",
+      "primary_url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "0df53349e970df73b473ccf74368998563fde4a8",
+          "title": "Silicon Valley Doesn't Get Why You Hate AI",
+          "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-20T18:49:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_dc6da7ec",
       "title": "TrueForge – 开源代理工具",
       "url": "https://github.com/truefoundry/trueforge",
@@ -4324,160 +4550,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-20T18:10:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1649956f",
-      "title": "Taco Bell 的语音 AI 扩展表明得来速已进入新阶段",
-      "url": "https://thenextweb.com/news/taco-bell-voice-ai-drive-thru-expansion",
-      "primary_url": "https://thenextweb.com/news/taco-bell-voice-ai-drive-thru-expansion",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "661a44bbf070fa0a105f1ecfc6dfd03b56dddb82",
-          "title": "Taco Bell’s voice AI expansion shows the drive-thru has entered a new phase",
-          "url": "https://thenextweb.com/news/taco-bell-voice-ai-drive-thru-expansion",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T17:52:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a103b4ef",
-      "title": "Grok 不断向用户发送乱码回复",
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
-      "primary_url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "0dc0fbac0301bd864f4b62b8b522800d8816000a",
-          "title": "Grok keeps sending gibberish responses to users",
-          "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T17:32:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9b49bfa5",
-      "title": "Astromech, which uses genomic data to build predictive AI models of biological change, raised $20M at a $3.8B valuation, bringing its total funding to $60M (Dean Takahashi/GamesBeat)",
-      "url": "https://www.techmeme.com/260820/p29",
-      "primary_url": "https://www.techmeme.com/260820/p29",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "3554590dc1f86520ca24309210fddd6798208cb0",
-          "title": "Astromech, which uses genomic data to build predictive AI models of biological change, raised $20M at a $3.8B valuation, bringing its total funding to $60M (Dean Takahashi/GamesBeat)",
-          "url": "https://www.techmeme.com/260820/p29",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T17:15:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_92bd58e0",
-      "title": "家庭人工智能第 2 部分：多 GPU 漂移",
-      "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-      "primary_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "d6f949f09b9e83536e070d0ac7ac0b0c22842b12",
-          "title": "AI at Home Part 2: Multi-GPU Drifting",
-          "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-20T16:53:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0bf28b39",
-      "title": "Ramp推出自己的AI模型路由器，名为Router",
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
-      "primary_url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1b0edba113e8b87e541d001cbabf1c2c03d0b634",
-          "title": "Ramp launches its own AI model router, called Router",
-          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T16:46:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_46ee3276",
-      "title": "ChatGPT 神秘地停止在对用户的许多回复中引用 Reddit",
-      "url": "https://mashable.com/tech/reddit-citations-by-chatgpt-plunge",
-      "primary_url": "https://mashable.com/tech/reddit-citations-by-chatgpt-plunge",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "160023989e02599ccbd8f64bc1834c6b2d87a667",
-          "title": "ChatGPT mysteriously stops citing Reddit in many responses to users",
-          "url": "https://mashable.com/tech/reddit-citations-by-chatgpt-plunge",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-08-20T16:10:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d30b7622",
-      "title": "不要再将中间令牌拟人化为推理/思考的痕迹",
-      "url": "https://arxiv.org/abs/2504.09762",
-      "primary_url": "https://arxiv.org/abs/2504.09762",
-      "source_count": 1,
-      "source_names": [
-        "arxiv.org"
-      ],
-      "sources": [
-        {
-          "id": "cb94a6779118edf6c5cdc4197497fb27df1f82d0",
-          "title": "不要再将中间令牌拟人化为推理/思考的痕迹",
-          "url": "https://arxiv.org/abs/2504.09762",
-          "source": "arxiv.org",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T16:06:07.555000Z"
         }
       ],
       "item_count": 1,
