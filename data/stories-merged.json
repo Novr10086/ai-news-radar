@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T23:12:49.476199Z",
+  "generated_at": "2026-08-24T00:04:26.868710Z",
   "window_hours": 24,
-  "total_stories": 115,
+  "total_stories": 116,
   "stories": [
     {
       "story_id": "story_f54f8bda",
@@ -332,6 +332,28 @@
       ],
       "item_count": 1,
       "score": 9820
+    },
+    {
+      "story_id": "story_88443ead",
+      "title": "人民日报读者点题·共同关注：人工智能蓬勃发展，会提供哪些就业机会",
+      "url": "https://m.thepaper.cn/detail/33837920",
+      "primary_url": "https://m.thepaper.cn/detail/33837920",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "a529b8765d746808f5684112c872a3aef883b3fa",
+          "title": "人民日报读者点题·共同关注：人工智能蓬勃发展，会提供哪些就业机会",
+          "url": "https://m.thepaper.cn/detail/33837920",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T22:46:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_9d290634",
@@ -856,28 +878,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_33206528",
-      "title": "明查｜NASA最新月球照？“火星奇妙夜”？均为AI生成",
-      "url": "https://m.thepaper.cn/detail/33833618",
-      "primary_url": "https://m.thepaper.cn/detail/33833618",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "48920a63d14d10954e899af76a96009a0972b3bd",
-          "title": "明查｜NASA最新月球照？“火星奇妙夜”？均为AI生成",
-          "url": "https://m.thepaper.cn/detail/33833618",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-22T23:06:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_a49e42da",
       "title": "Twitch And Amazon Hit With Lawsuit for Training AI With Streamers' Content",
       "url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
@@ -918,6 +918,14 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
+          "title": "Implementation of GPT-2 in pure CMake",
+          "url": "https://news.ycombinator.com/item?id=49412909",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T23:29:40.385000Z"
+        },
         {
           "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
           "title": "Training AI to Paint with Code",
@@ -1039,7 +1047,51 @@
           "published_at": "2026-08-22T23:41:53.495000Z"
         }
       ],
-      "item_count": 15,
+      "item_count": 16,
+      "score": 7
+    },
+    {
+      "story_id": "story_8d170ced",
+      "title": "Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade \"a lot of liberty for safety\" (Truman Dickerson/Business Insider)",
+      "url": "https://www.techmeme.com/260823/p11",
+      "primary_url": "https://www.techmeme.com/260823/p11",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "d3be38a4408bc93528450433548fb382e7aa1a6e",
+          "title": "Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade \"a lot of liberty for safety\" (Truman Dickerson/Business Insider)",
+          "url": "https://www.techmeme.com/260823/p11",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T23:01:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2a88ecdf",
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "primary_url": "https://github.com/AlpinDale/gpt2.cmake",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "587d6394b5bce9846ef81d60cddbdfe6e352f9ab",
+          "title": "Implementation of GPT-2 in pure CMake",
+          "url": "https://github.com/AlpinDale/gpt2.cmake",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-23T21:41:17Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -1137,15 +1189,15 @@
       "primary_url": "https://surya.website/rling-qwen-to-paint-with-code",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "4357a536e3efc54511c68f99b8fe6b06e30ac9dd",
+          "id": "2eb4f0dd2e448a690466f73a2610af799b9767d3",
           "title": "Training AI to Paint with Code",
           "url": "https://surya.website/rling-qwen-to-paint-with-code",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-23T19:39:29Z"
         }
       ],
@@ -1227,28 +1279,6 @@
       "score": 7
     },
     {
-      "story_id": "story_15d6d8e1",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "primary_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "cb84d279c38f2590e04746bc34eedcbc7a6ebefb",
-          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-23T18:16:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_ae0894ae",
       "title": "AI and Infrastructure Engineering",
       "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering",
@@ -1277,15 +1307,15 @@
       "primary_url": "https://releaseoracle.xyz",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "c4de0ab0ef1ff8e0e24f9c18bda3a47d8a22da4c",
+          "id": "c55f56a726f8cb24ea5c1b2bc84a9cb8f50c25ae",
           "title": "Predicting AI model release dates with stats",
           "url": "https://releaseoracle.xyz",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-23T18:01:30Z"
         }
       ],
@@ -1563,15 +1593,15 @@
       "primary_url": "https://ericpardee.github.io/fire-hd-ownership",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "3f56a0dd9c61fdd97b70403abf5efbc702f001a3",
+          "id": "8650fadd79035429d83f76865dd9b039339c1e8d",
           "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
           "url": "https://ericpardee.github.io/fire-hd-ownership",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-23T14:23:09Z"
         }
       ],
@@ -2085,6 +2115,28 @@
       "score": 7
     },
     {
+      "story_id": "story_15d6d8e1",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "primary_url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "9bc9ed060f7e0217af16e1a6feff16ee75eed9f0",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-23T09:21:44Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_f1c89fd8",
       "title": "‘There's nothing better than being able to simplify’: Workday SVP tells us why effective AI usage can be a “superpower” for your business",
       "url": "https://www.techradar.com/pro/theres-nothing-better-than-being-able-to-simplify-workday-svp-tells-us-why-effective-ai-usage-can-be-a-superpower-for-your-business",
@@ -2591,6 +2643,28 @@
       "score": 7
     },
     {
+      "story_id": "story_c0efc6fa",
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "primary_url": "https://www.jepeake.com/ai-chip-architectures",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "87c9e692b4057449e7c141e1d8192ee6f7f1fc23",
+          "title": "AI Chip Architectures",
+          "url": "https://www.jepeake.com/ai-chip-architectures",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-23T02:25:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_66fc568f",
       "title": "Software Engineering in the Agentic Era",
       "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns",
@@ -2629,50 +2703,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-08-23T00:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a5956e64",
-      "title": "AI has failed to win people's trust. Its makers? less trusted",
-      "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
-      "primary_url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "69e00df1d433eaf28ebadee5f5540429cd7f2d0c",
-          "title": "AI has failed to win people's trust. Its makers? less trusted",
-          "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T23:30:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ab95295b",
-      "title": "使用Codex的时间比使用Claude的时间多了一周",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-      "primary_url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-      "source_count": 1,
-      "source_names": [
-        "allaboutcoding.ghinda.com"
-      ],
-      "sources": [
-        {
-          "id": "5bfcb2a476da45540e6b3cf5f90ff3a5402aec49",
-          "title": "使用Codex的时间比使用Claude的时间多了一周",
-          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "allaboutcoding.ghinda.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T23:17:38.258000Z"
         }
       ],
       "item_count": 1,
