@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-08-25T15:07:08.098498Z",
+  "generated_at": "2026-08-25T19:57:42.021524Z",
   "window_hours": 24,
-  "total_stories": 225,
+  "total_stories": 235,
   "stories": [
+    {
+      "story_id": "story_6ad1fb7a",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "sources": [
+        {
+          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
+          "title": "Granite 4.2 LLMs: How They're Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T15:14:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
     {
       "story_id": "story_ba39c4d2",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
@@ -26,19 +48,19 @@
       "score": 10020
     },
     {
-      "story_id": "story_5bd63150",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "story_id": "story_bbe7f12d",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "primary_url": "https://openai.com/index/introducing-admin-plugin",
       "source_count": 1,
       "source_names": [
         "OpenAI News"
       ],
       "sources": [
         {
-          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-          "title": "Disrupting a new covert influence campaign from Russia",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "id": "3da80bc21f6165601e41a06fda6af147905e774b",
+          "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+          "url": "https://openai.com/index/introducing-admin-plugin",
           "source": "OpenAI News",
           "site_id": "official_ai",
           "published_at": "2026-08-25T00:00:00Z"
@@ -70,35 +92,92 @@
       "score": 10020
     },
     {
-      "story_id": "story_fb71586e",
-      "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-      "primary_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-      "source_count": 2,
+      "story_id": "story_4a22080b",
+      "title": "OpenWorker 新版发布，内置网络安全智能体",
+      "url": "https://x.com/AndrewYNg/status/2092315079576555806",
+      "primary_url": "https://x.com/AndrewYNg/status/2092315079576555806",
+      "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）",
-        "TechCrunch"
+        "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)"
       ],
       "sources": [
         {
-          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
-          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "d1d7d8b4938352b2de83fe45b4d0d2ec94555d49",
+          "title": "OpenWorker 新版发布，内置网络安全智能体",
+          "url": "https://x.com/AndrewYNg/status/2092315079576555806",
+          "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
           "site_id": "aihot",
-          "published_at": "2026-08-24T15:00:00Z"
-        },
-        {
-          "id": "f8ac77fbb21421c8ed10e1dfacbb48c36a1c894c",
-          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T15:00:00Z"
+          "published_at": "2026-08-25T18:16:02Z"
         }
       ],
-      "item_count": 2,
-      "score": 9970
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_806f5701",
+      "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "primary_url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "sources": [
+        {
+          "id": "a4abeec045a4d6f73b7bd3f023a245e64406b37c",
+          "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+          "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+          "source": "Claude：Blog（网页）",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T18:02:04.743000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_81cee06a",
+      "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
+      "url": "https://x.com/GoogleAI/status/2092275116503707733",
+      "primary_url": "https://x.com/GoogleAI/status/2092275116503707733",
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI (@GoogleAI)"
+      ],
+      "sources": [
+        {
+          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
+          "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
+          "url": "https://x.com/GoogleAI/status/2092275116503707733",
+          "source": "X：Google AI (@GoogleAI)",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:37:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_01e412dd",
+      "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "primary_url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
+          "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+          "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:32:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_9650ddc6",
@@ -725,48 +804,92 @@
       "score": 9920
     },
     {
-      "story_id": "story_63e14bd5",
-      "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
-      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
-      "primary_url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+      "story_id": "story_f136436c",
+      "title": "OpenRouter 视频生成 API：一份代码优先的接入指南",
+      "url": "https://openrouter.ai/blog/tutorials/video-generation-api",
+      "primary_url": "https://openrouter.ai/blog/tutorials/video-generation-api",
       "source_count": 1,
       "source_names": [
-        "Meta Engineering Blog（RSS）"
+        "OpenRouter：Announcements（RSS）"
       ],
       "sources": [
         {
-          "id": "37742865ec8814a703dbf86d1094cf972ac2060a",
-          "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
-          "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
-          "source": "Meta Engineering Blog（RSS）",
+          "id": "f1222d4096a39c6959eed9cb8df489b4daa92f8e",
+          "title": "OpenRouter 视频生成 API：一份代码优先的接入指南",
+          "url": "https://openrouter.ai/blog/tutorials/video-generation-api",
+          "source": "OpenRouter：Announcements（RSS）",
           "site_id": "aihot",
-          "published_at": "2026-08-24T18:02:29Z"
+          "published_at": "2026-08-25T00:00:00Z"
         }
       ],
       "item_count": 1,
       "score": 9920
     },
     {
-      "story_id": "story_49e5baa4",
-      "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
-      "primary_url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+      "story_id": "story_d4fa21eb",
+      "title": "AI 做海报、HTML构图手册：16 种控制焦点与动势的海报构图——上册（附样图和提示词）",
+      "url": "https://waytoagi.feishu.cn/wiki/U6C3wpb9OiwXn9kngvkcwluGnSb?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/U6C3wpb9OiwXn9kngvkcwluGnSb?from=from_copylink",
       "source_count": 1,
       "source_names": [
-        "NVIDIA Blog（RSS）"
+        "社区更新 · 2026-08-25"
       ],
       "sources": [
         {
-          "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
-          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
-          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
-          "source": "NVIDIA Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-24T15:00:19Z"
+          "id": "83a1abc44e3212406c15ad3d7906a4e0f9e172d7",
+          "title": "AI 做海报、HTML构图手册：16 种控制焦点与动势的海报构图——上册（附样图和提示词）",
+          "url": "https://waytoagi.feishu.cn/wiki/U6C3wpb9OiwXn9kngvkcwluGnSb?from=from_copylink",
+          "source": "社区更新 · 2026-08-25",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:19:58.094217Z"
         }
       ],
       "item_count": 1,
-      "score": 9920
+      "score": 9820
+    },
+    {
+      "story_id": "story_6ed64b53",
+      "title": "我扒完了 GitHub 上 55 个 AI 成片产线，得出一个结论",
+      "url": "https://waytoagi.feishu.cn/wiki/ZEonw9QWdidPU4kcnP1cH1XpnTB?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/ZEonw9QWdidPU4kcnP1cH1XpnTB?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-08-25"
+      ],
+      "sources": [
+        {
+          "id": "b9d7d0c8c0374d24bb9d652d2ae16186d644173b",
+          "title": "我扒完了 GitHub 上 55 个 AI 成片产线，得出一个结论",
+          "url": "https://waytoagi.feishu.cn/wiki/ZEonw9QWdidPU4kcnP1cH1XpnTB?from=from_copylink",
+          "source": "社区更新 · 2026-08-25",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:19:58.094217Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_93a2ac69",
+      "title": "我的 AI 原生开发流程：一个真实案例的完整复盘",
+      "url": "https://waytoagi.feishu.cn/wiki/XJEzwR5FGi60fuk9kVBcXeTOnah?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/XJEzwR5FGi60fuk9kVBcXeTOnah?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-08-25"
+      ],
+      "sources": [
+        {
+          "id": "447477c47a8465ab739430a816319992ddd433fd",
+          "title": "我的 AI 原生开发流程：一个真实案例的完整复盘",
+          "url": "https://waytoagi.feishu.cn/wiki/XJEzwR5FGi60fuk9kVBcXeTOnah?from=from_copylink",
+          "source": "社区更新 · 2026-08-25",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-25T19:19:58.094217Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
     },
     {
       "story_id": "story_3fef015e",
@@ -967,136 +1090,35 @@
       "score": 9820
     },
     {
-      "story_id": "story_7db13590",
-      "title": "True. Replit Agent completely replaced Claude CoWork in my day-to-day work. It's much more persistent and fastidious, and it uses code/software more effectively to complete tasks. https://t.co/QZ89DvogmZ",
-      "url": "https://x.com/amasad/status/2091962601907638352",
-      "primary_url": "https://x.com/amasad/status/2091962601907638352",
-      "source_count": 1,
+      "story_id": "story_3138f98c",
+      "title": "Australia’s music industry bans AI songs from charts - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUswS25LNXVocWNhcmxHTUdibVA0aWZFN20xZXliWW8yZXh5aXhFZFRwU1RLOXlaVzRJbGg5Q0EzWTNTeDRyWFZ5T2xaZG1veUcyS3djbG16MlNlZGlWRGJTMXNPUlpNWm9Kb1R1RkNoMzREcHhQZGJYaWRQYms3bzZqZmFlbUxVTjgtMmpxLWNGYXZIM1Qzd2t1VzFsenB1U00xSks2Zw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUswS25LNXVocWNhcmxHTUdibVA0aWZFN20xZXliWW8yZXh5aXhFZFRwU1RLOXlaVzRJbGg5Q0EzWTNTeDRyWFZ5T2xaZG1veUcyS3djbG16MlNlZGlWRGJTMXNPUlpNWm9Kb1R1RkNoMzREcHhQZGJYaWRQYms3bzZqZmFlbUxVTjgtMmpxLWNGYXZIM1Qzd2t1VzFsenB1U00xSks2Zw?oc=5",
+      "source_count": 2,
       "source_names": [
-        "Follow Builders · X · Amjad Masad"
+        "AP World News",
+        "Reddit (热门)"
       ],
       "sources": [
         {
-          "id": "b281a22d0b28f5d42680eb23d0180d4f05ed9b61",
-          "title": "True. Replit Agent completely replaced Claude CoWork in my day-to-day work. It's much more persistent and fastidious, and it uses code/software more effectively to complete tasks. https://t.co/QZ89DvogmZ",
-          "url": "https://x.com/amasad/status/2091962601907638352",
-          "source": "Follow Builders · X · Amjad Masad",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-24T18:55:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_95028f4e",
-      "title": "AI音乐周刊 W.A 042",
-      "url": "https://waytoagi.feishu.cn/wiki/MuEYwFlKfinkHmkbsd4caLgKnfd?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/MuEYwFlKfinkHmkbsd4caLgKnfd?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-08-24"
-      ],
-      "sources": [
+          "id": "37820d5259d669952e17b51f141b9846a0c09ef5",
+          "title": "Australia’s music industry bans AI songs from charts - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUswS25LNXVocWNhcmxHTUdibVA0aWZFN20xZXliWW8yZXh5aXhFZFRwU1RLOXlaVzRJbGg5Q0EzWTNTeDRyWFZ5T2xaZG1veUcyS3djbG16MlNlZGlWRGJTMXNPUlpNWm9Kb1R1RkNoMzREcHhQZGJYaWRQYms3bzZqZmFlbUxVTjgtMmpxLWNGYXZIM1Qzd2t1VzFsenB1U00xSks2Zw?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-25T16:45:00Z"
+        },
         {
-          "id": "13ffccea3e82f17d6e29d5d7fb24bc875eb59e7d",
-          "title": "AI音乐周刊 W.A 042",
-          "url": "https://waytoagi.feishu.cn/wiki/MuEYwFlKfinkHmkbsd4caLgKnfd?from=from_copylink",
-          "source": "社区更新 · 2026-08-24",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-24T18:02:55.423390Z"
+          "id": "3ef21dfa750e3555459758569835c0de9f844335",
+          "title": "Australia’s music industry bans AI songs from charts",
+          "url": "https://www.reddit.com/r/technology/comments/1vxxb3n/australias_music_industry_bans_ai_songs_from",
+          "source": "Reddit (热门)",
+          "site_id": "iris",
+          "published_at": "2026-08-25T11:36:48Z"
         }
       ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_3c6c338a",
-      "title": "Fish Audio,Trans-n与PnP日本：日本AI是本地化与速度的接力赛｜Linkloud 东京沙龙实录（二）",
-      "url": "https://waytoagi.feishu.cn/wiki/HlYnwNs2Oir8hrkN5oJc0K86nAb?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/HlYnwNs2Oir8hrkN5oJc0K86nAb?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-08-24"
-      ],
-      "sources": [
-        {
-          "id": "cf5e0e504254e1e8b031b56a343d0ccd9c585320",
-          "title": "Fish Audio,Trans-n与PnP日本：日本AI是本地化与速度的接力赛｜Linkloud 东京沙龙实录（二）",
-          "url": "https://waytoagi.feishu.cn/wiki/HlYnwNs2Oir8hrkN5oJc0K86nAb?from=from_copylink",
-          "source": "社区更新 · 2026-08-24",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-24T18:02:55.423390Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_aed0d79b",
-      "title": "一条可用视频到底要抽几次？我用3款模型对比了7组案例（附提示词）",
-      "url": "https://waytoagi.feishu.cn/wiki/JkmnwcuzQiKXshkdhi4cWIl1nqe?from=from_copylink",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/JkmnwcuzQiKXshkdhi4cWIl1nqe?from=from_copylink",
-      "source_count": 1,
-      "source_names": [
-        "社区更新 · 2026-08-24"
-      ],
-      "sources": [
-        {
-          "id": "20dcf3a5cbb43134e06e23a9567d86fe4f9f560c",
-          "title": "一条可用视频到底要抽几次？我用3款模型对比了7组案例（附提示词）",
-          "url": "https://waytoagi.feishu.cn/wiki/JkmnwcuzQiKXshkdhi4cWIl1nqe?from=from_copylink",
-          "source": "社区更新 · 2026-08-24",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-24T18:02:55.423390Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_33a5feb2",
-      "title": "We need to get away from software that we can’t change with a prompt. https://t.co/Fthfm8WYGH",
-      "url": "https://x.com/steipete/status/2091923535513928015",
-      "primary_url": "https://x.com/steipete/status/2091923535513928015",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Steinberger"
-      ],
-      "sources": [
-        {
-          "id": "febb72d10fa491830167f949b0900dc888922ad3",
-          "title": "We need to get away from software that we can’t change with a prompt. https://t.co/Fthfm8WYGH",
-          "url": "https://x.com/steipete/status/2091923535513928015",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-24T16:20:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_73b0ca0e",
-      "title": "It’s not fully appreciated that ZDR is responsible for a substantial amount of the growth of AI, because it dramatically simplified the compliance process most companies deal with in handling data with subprocessors....",
-      "url": "https://x.com/levie/status/2091909170308296950",
-      "primary_url": "https://x.com/levie/status/2091909170308296950",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "sources": [
-        {
-          "id": "de3986dd1d603679077a5caa30b756cdd7f9a1a2",
-          "title": "It’s not fully appreciated that ZDR is responsible for a substantial amount of the growth of AI, because it dramatically simplified the compliance process most companies deal with in handling data with subprocessors....",
-          "url": "https://x.com/levie/status/2091909170308296950",
-          "source": "Follow Builders · X · Aaron Levie",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-24T15:23:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
+      "item_count": 2,
+      "score": 9770
     },
     {
       "story_id": "story_01c2beb2",
@@ -1124,6 +1146,37 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-25T04:50:38Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
+      "story_id": "story_31f9b254",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "primary_url": "https://openai.com/index/jalapeno-first-results",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "55f733584c1932c859d47d580832d22484883684",
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-25T07:00:00Z"
+        },
+        {
+          "id": "41a3b35044428ad51fdf46c06a544e2679420c47",
+          "title": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-25T14:33:46Z"
         }
       ],
       "item_count": 2,
@@ -1161,53 +1214,66 @@
       "score": 9770
     },
     {
-      "story_id": "story_b70cb237",
-      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china",
-      "source_count": 2,
-      "source_names": [
-        "ArsTechnica",
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "8e07660041d7388e7444886dd77fb6c1019072b9",
-          "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-          "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-24T16:41:45Z"
-        },
-        {
-          "id": "bd9e79ec86d2b4a09d2dbfde5abbde2ab42879de",
-          "title": "Nvidia Senior Manager Linked To Supermicro Scheme Smuggling AI Servers To China",
-          "url": "https://slashdot.org/story/26/08/24/1844211/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T19:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
-    },
-    {
-      "story_id": "story_f011ef93",
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
-      "primary_url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+      "story_id": "story_aa34f4aa",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+      "primary_url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "2c613345aa9f8a5c8a80047c98062849477188bf",
-          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+          "id": "21d953dbb7bbebdcc5192768ae335d6a2fc110e0",
+          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+          "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-08-25T14:22:04Z"
+          "published_at": "2026-08-25T19:03:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_28f240ab",
+      "title": "当AI开始抽佣：下一代入口的商业模式困局",
+      "url": "https://www.huxiu.com/article/4885978.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4885978.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "87fe09edce99095ebb5851f0c281ff32de307d48",
+          "title": "当AI开始抽佣：下一代入口的商业模式困局",
+          "url": "https://www.huxiu.com/article/4885978.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-25T16:22:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_cfd33b24",
+      "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
+      "url": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
+      "primary_url": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
+      "source_count": 1,
+      "source_names": [
+        "Al Jazeera English"
+      ],
+      "sources": [
+        {
+          "id": "c9233b48685b29ab393c369055a17d4063a3c9e9",
+          "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
+          "url": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-25T15:42:43Z"
         }
       ],
       "item_count": 1,
@@ -1296,9 +1362,17 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-08-25T13:00:00Z"
+        },
+        {
+          "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
+          "title": "Apple’s new M6 chip gets more cores and more AI compute",
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:00:00Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -1720,6 +1794,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_1c0de2ab",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "primary_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "6b2b8279e0d1a26f4525e4bc0d8b09d316e5e2f6",
+          "title": "The full stack behind abundant intelligence",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-25T07:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_c1a25b27",
       "title": "代码在变便宜，现实没有：AI Coding 撞上的第一堵墙",
       "url": "https://www.huxiu.com/article/4885784.html?f=rss",
@@ -1890,28 +1986,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-25T05:22:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_2cec1654",
-      "title": "Songs created by AI banned from Australia's music charts",
-      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "source_count": 1,
-      "source_names": [
-        "BBC World"
-      ],
-      "sources": [
-        {
-          "id": "1cf3a955a002f73ce53cd1108b264d7ca7a30a29",
-          "title": "Songs created by AI banned from Australia's music charts",
-          "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-25T04:54:01Z"
         }
       ],
       "item_count": 1,
@@ -2116,6 +2190,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_6a1e67cb",
+      "title": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNG1pQmxSU05ZSXVrVW9WUHlQYXNjNzNKRFFSVGlwd3A4ZENJM213YjdjR05semFkSEM2bUtMSVpSZlhsUnBSVXdlbFFTTWJ5Sk01TVVVcnAya0tZZzRGbWlfaDBrOHR0aTQ3QTdoU3FfcG5fTzRIQ2lzZXZiN3Ztel9aSEttMUQ0Z3Rwc0RFNUowdTFzYkMxUjhKV0Q?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNG1pQmxSU05ZSXVrVW9WUHlQYXNjNzNKRFFSVGlwd3A4ZENJM213YjdjR05semFkSEM2bUtMSVpSZlhsUnBSVXdlbFFTTWJ5Sk01TVVVcnAya0tZZzRGbWlfaDBrOHR0aTQ3QTdoU3FfcG5fTzRIQ2lzZXZiN3Ztel9aSEttMUQ0Z3Rwc0RFNUowdTFzYkMxUjhKV0Q?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "AP World News"
+      ],
+      "sources": [
+        {
+          "id": "0b93c14536d68cb04a0beffa154780d34a765626",
+          "title": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNG1pQmxSU05ZSXVrVW9WUHlQYXNjNzNKRFFSVGlwd3A4ZENJM213YjdjR05semFkSEM2bUtMSVpSZlhsUnBSVXdlbFFTTWJ5Sk01TVVVcnAya0tZZzRGbWlfaDBrOHR0aTQ3QTdoU3FfcG5fTzRIQ2lzZXZiN3Ztel9aSEttMUQ0Z3Rwc0RFNUowdTFzYkMxUjhKV0Q?oc=5",
+          "source": "AP World News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-25T00:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_c97741f1",
       "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
       "url": "https://sspai.com/post/113813",
@@ -2262,6 +2358,28 @@
           "title": "Assessing students in the AI era",
           "url": "https://www.nature.com/articles/d41586-026-02632-z",
           "source": "Nature",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_5bd63150",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "83c3c6cab97b349cf522435b0da16a975fe66d0c",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
           "site_id": "opmlrss",
           "published_at": "2026-08-25T00:00:00Z"
         }
@@ -2424,82 +2542,25 @@
       "score": 9720
     },
     {
-      "story_id": "story_ce39c6aa",
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
-      "primary_url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "d53c7286cb9855ddc6c5edf36dd2d9603c43ff48",
-          "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-          "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-24T18:03:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_5b0b54c1",
-      "title": "蔡崇信、吴泳铭增持，阿里巴巴美股盘中翻红，800亿港元配售投AI，阿里在下什么棋？",
-      "url": "https://www.huxiu.com/article/4885661.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4885661.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "02394a5dc8c6389e0d73fd5175919fe14f0ab38f",
-          "title": "蔡崇信、吴泳铭增持，阿里巴巴美股盘中翻红，800亿港元配售投AI，阿里在下什么棋？",
-          "url": "https://www.huxiu.com/article/4885661.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-24T15:45:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_5b2c327a",
-      "title": "阿里不缺钱，为什么还要为AI配股800亿港元",
-      "url": "https://www.huxiu.com/article/4885656.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4885656.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "b0b5933b83337b6ac7f7bf4028eca889b4eb805e",
-          "title": "阿里不缺钱，为什么还要为AI配股800亿港元",
-          "url": "https://www.huxiu.com/article/4885656.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-24T15:23:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_00be4e43",
-      "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+      "title": "Anthropic 因安全团队可能罢工，要求员工居家办公",
       "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
       "primary_url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "www.businessinsider.com",
         "Hacker News (黑客新闻)",
         "Business Insider"
       ],
       "sources": [
+        {
+          "id": "fbe7f96e9de0daaf22a969d1aa1e3cf2e1b0efd1",
+          "title": "Anthropic 因安全团队可能罢工，要求员工居家办公",
+          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+          "source": "www.businessinsider.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T18:29:21.233000Z"
+        },
         {
           "id": "4c3f93ced5dd96cfdec66e2acbeee3c7de54f65b",
           "title": "Anthropic tells staff to work from home due to possible security team strike",
@@ -2517,6 +2578,99 @@
           "published_at": "2026-08-25T09:11:11Z"
         }
       ],
+      "item_count": 3,
+      "score": 9580
+    },
+    {
+      "story_id": "story_d715e050",
+      "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+      "primary_url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+      "source_count": 2,
+      "source_names": [
+        "arstechnica.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "1a95ea240a2761611539bbc972387580ecf249dd",
+          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
+          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+          "source": "arstechnica.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T17:41:24.768000Z"
+        },
+        {
+          "id": "8e15e0286f1f90d0ab09c82cd4812a541d65332d",
+          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-25T14:48:58Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_5c92aa0c",
+      "title": "OpenAI 为 ChatGPT Plus 用户恢复了 Codex 和 Work 的 5 小时使用限制",
+      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
+      "primary_url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
+      "source_count": 2,
+      "source_names": [
+        "9to5mac.com",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "f338e27f1c0652eab2b1ae0c3b2eff7aa6e1b52e",
+          "title": "OpenAI 为 ChatGPT Plus 用户恢复了 Codex 和 Work 的 5 小时使用限制",
+          "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
+          "source": "9to5mac.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T17:26:26.150000Z"
+        },
+        {
+          "id": "e044be3b447d0663b93fa66ab0b3b323250c94ce",
+          "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+          "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-25T12:33:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_9c927ffa",
+      "title": "HN中有多少是AI？",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "primary_url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "source_count": 2,
+      "source_names": [
+        "blog.coredump.cx",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "69d437035d392fcd2c1d81593dff059f4b007d18",
+          "title": "HN中有多少是AI？",
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "source": "blog.coredump.cx",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T16:21:34.454000Z"
+        },
+        {
+          "id": "bed6fec771add5d26ffb6e89b7abe07f31856868",
+          "title": "How much of HN is AI?",
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-25T15:23:41Z"
+        }
+      ],
       "item_count": 2,
       "score": 9570
     },
@@ -2528,7 +2682,7 @@
       "source_count": 2,
       "source_names": [
         "www.apple.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -2540,11 +2694,11 @@
           "published_at": "2026-08-25T13:41:50.050000Z"
         },
         {
-          "id": "594a033a0c695e077133211cbe89412dd72b226b",
+          "id": "1687009435840307a88af69c47597de7fdce46aa",
           "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
           "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-25T13:01:22Z"
         }
       ],
@@ -2583,130 +2737,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_dffcb3a9",
-      "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "primary_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "source_count": 2,
-      "source_names": [
-        "boydkane.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "boydkane.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T03:02:56.442000Z"
-        },
-        {
-          "id": "d4b974bd04b63079ff7871491196e7b4cc22b54a",
-          "title": "LLMs could control their host machines by exploiting inference engines",
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T19:03:06Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_bdaf213e",
-      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-      "primary_url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "2ab2d22dff946314791c1f33096750ab142ba6c8",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T17:53:14Z"
-        },
-        {
-          "id": "2156959912bec123f11b873b27570052d844d28b",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "url": "https://www.ycombinator.com/companies/autostep/jobs",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-24T17:53:14Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_f20a5f80",
-      "title": "Public services are increasingly strained by LLM-written appeals for benefits",
-      "url": "https://arxiv.org/abs/2608.16603",
-      "primary_url": "https://arxiv.org/abs/2608.16603",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "0504b6082c06242427bf87e224857a3caf2ceb68",
-          "title": "Characterizing Agentic Flooding of Government Services",
-          "url": "https://arxiv.org/abs/2608.16603",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T16:30:21Z"
-        },
-        {
-          "id": "f6c9d61bbf39a88d3f412c4900709fea0e85a69e",
-          "title": "Public services are increasingly strained by LLM-written appeals for benefits",
-          "url": "https://arxiv.org/abs/2608.16603",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-24T16:30:21Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_5490fb87",
-      "title": "Ox-Alpha Is GLM?",
-      "url": "https://dejan.ai/blog/ox-alpha",
-      "primary_url": "https://dejan.ai/blog/ox-alpha",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "d04d404be7afc9c176ec1aa295f149785b997a76",
-          "title": "Ox-Alpha Is GLM",
-          "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T16:30:16Z"
-        },
-        {
-          "id": "d22b1ae33d04ccad6b8effe833619d4121694962",
-          "title": "Ox-Alpha Is GLM?",
-          "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-24T16:30:16Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_22036541",
       "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
       "url": "https://news.ycombinator.com/item?id=49433292",
@@ -2716,6 +2746,46 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "64963014230115a1ba27af91cf644a21d41623ce",
+          "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+          "url": "https://news.ycombinator.com/item?id=49437566",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T19:20:13.653000Z"
+        },
+        {
+          "id": "cef80e01c1454276f86207ae1aeacd58ddcc01e4",
+          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+          "url": "https://news.ycombinator.com/item?id=49434378",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T19:20:13.653000Z"
+        },
+        {
+          "id": "977310706af1beed24ae7073257f2901750f990c",
+          "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+          "url": "https://news.ycombinator.com/item?id=49438492",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T19:20:13.653000Z"
+        },
+        {
+          "id": "ce7bc81a8e12b80466f0472611d72f9730d41e19",
+          "title": "Run Minecraft in a Windows sandbox for computer use agents",
+          "url": "https://news.ycombinator.com/item?id=49436400",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T19:20:13.653000Z"
+        },
+        {
+          "id": "e2af13b1266cdcd1ba73bb4e05aa812c36993d13",
+          "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+          "url": "https://news.ycombinator.com/item?id=49435675",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T19:20:13.653000Z"
+        },
         {
           "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
           "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
@@ -2795,33 +2865,823 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-24T19:38:06.604000Z"
-        },
-        {
-          "id": "35cc53a42a490259e9a5f1b1a7ca8bf69b02e8b3",
-          "title": "Public services are increasingly strained by LLM-written appeals for benefits",
-          "url": "https://news.ycombinator.com/item?id=49422227",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T17:37:49.445000Z"
-        },
-        {
-          "id": "5082ceb7eea1e01210cb70497d2dc0d6efe7da39",
-          "title": "Coding expertise is going to collapse from AI reliance",
-          "url": "https://news.ycombinator.com/item?id=49421554",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T16:07:27.264000Z"
-        },
-        {
-          "id": "9e9fe571863934ec226a1f367059b9108fb3f4db",
-          "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "url": "https://news.ycombinator.com/item?id=49421074",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T16:07:27.264000Z"
         }
       ],
-      "item_count": 13,
+      "item_count": 15,
+      "score": 7
+    },
+    {
+      "story_id": "story_16826566",
+      "title": "图解 AI Agent ②：模型到底是怎么读取文件的？",
+      "url": "https://juejin.cn/post/7677762452274085914",
+      "primary_url": "https://juejin.cn/post/7677762452274085914",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "63ce2bbacb3b73e08d1d4c627d7ce375680eff0d",
+          "title": "图解 AI Agent ②：模型到底是怎么读取文件的？",
+          "url": "https://juejin.cn/post/7677762452274085914",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T19:02:30.776000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_89c33644",
+      "title": "Why 0s and 1s aren't enough — 3-part biological memory model exposes limits of AI silicon",
+      "url": "https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon",
+      "primary_url": "https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "90b79ec353ce90f47c9e400c81ef90d4b6b6cb7d",
+          "title": "Why 0s and 1s aren't enough — 3-part biological memory model exposes limits of AI silicon",
+          "url": "https://www.techradar.com/pro/why-0s-and-1s-arent-enough-3-part-biological-memory-model-exposes-limits-of-ai-silicon",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T18:40:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cf029b92",
+      "title": "Emerald AI raises $150mn at a $1.05bn valuation to flex data centre power",
+      "url": "https://thenextweb.com/news/emerald-ai-150m-funding-data-centre-grid-flexibility",
+      "primary_url": "https://thenextweb.com/news/emerald-ai-150m-funding-data-centre-grid-flexibility",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "6d28184f58287bf9e2820f334326d81f9a702e93",
+          "title": "Emerald AI raises $150mn at a $1.05bn valuation to flex data centre power",
+          "url": "https://thenextweb.com/news/emerald-ai-150m-funding-data-centre-grid-flexibility",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T18:36:32Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_08c9cb10",
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "url": "https://pgbot.dev",
+      "primary_url": "https://pgbot.dev",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "68c1628d86f12cdbe9c5ffbb78835c985b9daff7",
+          "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+          "url": "https://pgbot.dev",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-25T18:30:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_64f8f9cc",
+      "title": "Stability AI raises $76mn from Universal, Warner, Sony Music and EA",
+      "url": "https://thenextweb.com/news/stability-ai-76m-funding-universal-warner-sony-music-ea",
+      "primary_url": "https://thenextweb.com/news/stability-ai-76m-funding-universal-warner-sony-music-ea",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "50edd23b9c213b1971ea44a3d279a127eeb3b893",
+          "title": "Stability AI raises $76mn from Universal, Warner, Sony Music and EA",
+          "url": "https://thenextweb.com/news/stability-ai-76m-funding-universal-warner-sony-music-ea",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T18:16:54Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7b36d8a3",
+      "title": "AI firms debate connecting test sandboxes to the internet after breaches",
+      "url": "https://thenextweb.com/news/ai-cyber-testing-sandbox-internet-debate-ai-act-reporting",
+      "primary_url": "https://thenextweb.com/news/ai-cyber-testing-sandbox-internet-debate-ai-act-reporting",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "446e038a38a4316168d5d6134cc56216e8ee0ccb",
+          "title": "AI firms debate connecting test sandboxes to the internet after breaches",
+          "url": "https://thenextweb.com/news/ai-cyber-testing-sandbox-internet-debate-ai-act-reporting",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T18:16:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b5ac59c2",
+      "title": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
+      "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+      "primary_url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "6cd295691b18795c82d625afa9d5744e07c9a507",
+          "title": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
+          "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_114419af",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+      "primary_url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "fbfb8993cf59a1c7a4b51c94ffc09039a42e7010",
+          "title": "Claude Cowork finally remembers what you told the app in chat",
+          "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T17:50:33Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_072883ec",
+      "title": "What is a 'meat proxy'? The new term for coworkers who blindly share AI output",
+      "url": "https://www.businessinsider.com/meat-proxy-tech-new-term-ai-2026-8",
+      "primary_url": "https://www.businessinsider.com/meat-proxy-tech-new-term-ai-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "3033b6756ab496d40ecad00d349b494dc44063ef",
+          "title": "What is a 'meat proxy'? The new term for coworkers who blindly share AI output",
+          "url": "https://www.businessinsider.com/meat-proxy-tech-new-term-ai-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T17:30:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4eaa521d",
+      "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+      "primary_url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "7ae54ff8a00139f7e59d2b57c4cc70040ca098c8",
+          "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+          "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T17:28:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9764b8ce",
+      "title": "Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out (David Gewirtz/ZDNET)",
+      "url": "https://www.techmeme.com/260825/p36",
+      "primary_url": "https://www.techmeme.com/260825/p36",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "a654632e1ab53098c130e6fa281f710151246bd0",
+          "title": "Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out (David Gewirtz/ZDNET)",
+          "url": "https://www.techmeme.com/260825/p36",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T17:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_80220dd5",
+      "title": "The AI Hater's Manifesto",
+      "url": "https://www.wheresyoured.at/the-ai-haters-manifesto",
+      "primary_url": "https://www.wheresyoured.at/the-ai-haters-manifesto",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "9780f527774b2e276fce866e61e3499f65628252",
+          "title": "The AI Hater's Manifesto",
+          "url": "https://www.wheresyoured.at/the-ai-haters-manifesto",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-25T17:07:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_92de20ab",
+      "title": "Claude's memory now works across both chats and Cowork sessions",
+      "url": "https://www.engadget.com/2243753/claude-memory-now-works-across-both-chats-and-cowork-sessions",
+      "primary_url": "https://www.engadget.com/2243753/claude-memory-now-works-across-both-chats-and-cowork-sessions",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "edf498060dff92c1830eeb5bba5c9f0a476af2c0",
+          "title": "Claude's memory now works across both chats and Cowork sessions",
+          "url": "https://www.engadget.com/2243753/claude-memory-now-works-across-both-chats-and-cowork-sessions",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cbc0ef48",
+      "title": "Anthropic Sees over $30T in Potential Revenue",
+      "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
+      "primary_url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "2da494232b9f3c3314ad14f04fd3a741ece7822d",
+          "title": "Anthropic Sees over $30T in Potential Revenue",
+          "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-25T16:20:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ed288c29",
+      "title": "Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others (Corbin Bolies/Variety)",
+      "url": "https://www.techmeme.com/260825/p34",
+      "primary_url": "https://www.techmeme.com/260825/p34",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "30f102fcdd40d73a21e4bc61a3a6a579aaa9f544",
+          "title": "Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others (Corbin Bolies/Variety)",
+          "url": "https://www.techmeme.com/260825/p34",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T16:15:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b0569a14",
+      "title": "Wall Street hopes Nvidia can keep carrying the AI trade with another 'rock solid' earnings report",
+      "url": "https://www.businessinsider.com/nvidia-q2-earnings-wall-street-analysts-nvda-stock-ruben-2026-8",
+      "primary_url": "https://www.businessinsider.com/nvidia-q2-earnings-wall-street-analysts-nvda-stock-ruben-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "12574e06e0626a034938c2212be21958bdafdd1f",
+          "title": "Wall Street hopes Nvidia can keep carrying the AI trade with another 'rock solid' earnings report",
+          "url": "https://www.businessinsider.com/nvidia-q2-earnings-wall-street-analysts-nvda-stock-ruben-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T16:12:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_100c1942",
+      "title": "Run Minecraft in a Windows sandbox for computer use agents",
+      "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+      "primary_url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "20e6211e03ee1bb48ae9745758e74d2b7faac673",
+          "title": "Run Minecraft in a Windows sandbox for computer use agents",
+          "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-25T16:09:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ae22b282",
+      "title": "Sources: Anthropic is likely to tell IPO investors that its potential revenue opportunities are above $30T, topping SpaceX's $28.5T; Uber predicted $6T in 2019 (Corrie Driebusch/Wall Street Journal)",
+      "url": "https://www.techmeme.com/260825/p33",
+      "primary_url": "https://www.techmeme.com/260825/p33",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "ea9f36ad4faef7aade981d952f2695ed4dca7db7",
+          "title": "Sources: Anthropic is likely to tell IPO investors that its potential revenue opportunities are above $30T, topping SpaceX's $28.5T; Uber predicted $6T in 2019 (Corrie Driebusch/Wall Street Journal)",
+          "url": "https://www.techmeme.com/260825/p33",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T16:05:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0c0252c6",
+      "title": "Apple unveils M6 and M5 Ultra chips with a big jump in AI performance",
+      "url": "https://thenextweb.com/news/apple-m6-m5-ultra-on-device-ai-european-data",
+      "primary_url": "https://thenextweb.com/news/apple-m6-m5-ultra-on-device-ai-european-data",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "02829fd073f7b985498156ce068812ac50f12bfe",
+          "title": "Apple unveils M6 and M5 Ultra chips with a big jump in AI performance",
+          "url": "https://thenextweb.com/news/apple-m6-m5-ultra-on-device-ai-european-data",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T16:02:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fcb803df",
+      "title": "Footnote Regarding the GDPR and Cookie Permission Prompts",
+      "url": "https://daringfireball.net/linked/2026/08/25/footnote-regarding-the-gdpr-and-cookie-permission-prompts",
+      "primary_url": "https://daringfireball.net/linked/2026/08/25/footnote-regarding-the-gdpr-and-cookie-permission-prompts",
+      "source_count": 1,
+      "source_names": [
+        "Daring Fireball"
+      ],
+      "sources": [
+        {
+          "id": "4e22f0df65e27c5f715fbdb65af82a348c806f8a",
+          "title": "Footnote Regarding the GDPR and Cookie Permission Prompts",
+          "url": "https://daringfireball.net/linked/2026/08/25/footnote-regarding-the-gdpr-and-cookie-permission-prompts",
+          "source": "Daring Fireball",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:46:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_928c8ef2",
+      "title": "AI mental healthcare is here. Can it help people — or cause more problems?",
+      "url": "https://mashable.com/tech/tee-app-mental-health",
+      "primary_url": "https://mashable.com/tech/tee-app-mental-health",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "5ed5c16516ea243cc2cf547112a60631039bb667",
+          "title": "AI mental healthcare is here. Can it help people — or cause more problems?",
+          "url": "https://mashable.com/tech/tee-app-mental-health",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:39:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b8a21a58",
+      "title": "Nvidia unveils the Jetson Orin Nano 2 edge AI computer that it says doubles inference performance, with 78 TOPS of AI compute and an eight-core Arm CPU (Eugene Demaitre/The Robot Report)",
+      "url": "https://www.techmeme.com/260825/p32",
+      "primary_url": "https://www.techmeme.com/260825/p32",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "807da4d7ef50dd157a512ebd7d9aee07d5148041",
+          "title": "Nvidia unveils the Jetson Orin Nano 2 edge AI computer that it says doubles inference performance, with 78 TOPS of AI compute and an eight-core Arm CPU (Eugene Demaitre/The Robot Report)",
+          "url": "https://www.techmeme.com/260825/p32",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:35:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a3303d66",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "primary_url": "https://github.com/ThinkOffApp/CarWatch",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "4191a9dea3505b61089d03b7c7ba093984670109",
+          "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+          "url": "https://github.com/ThinkOffApp/CarWatch",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-25T15:20:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_564257ca",
+      "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+      "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+      "primary_url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "b5902a7ced69c1f2f57545feb9d73588f121bd45",
+          "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+          "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-25T15:18:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9da51258",
+      "title": "A detailed look at Jalapeño, OpenAI's ASIC developed with Broadcom in 16 months, which beat Nvidia, AMD, and Google chips on multiple top open-source models (SemiAnalysis)",
+      "url": "https://www.techmeme.com/260825/p31",
+      "primary_url": "https://www.techmeme.com/260825/p31",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "e0a303eaec695c78ebe50374fc6fa87128bd9b2b",
+          "title": "A detailed look at Jalapeño, OpenAI's ASIC developed with Broadcom in 16 months, which beat Nvidia, AMD, and Google chips on multiple top open-source models (SemiAnalysis)",
+          "url": "https://www.techmeme.com/260825/p31",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:15:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d7052468",
+      "title": "OpenAI’s Jalapeno chip outperformed the GB300 on power and speed, according to OpenAI",
+      "url": "https://thenextweb.com/news/openai-jalapeno-benchmark-nvidia-gb300-europe-gigafactories",
+      "primary_url": "https://thenextweb.com/news/openai-jalapeno-benchmark-nvidia-gb300-europe-gigafactories",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "e27ab37150f7ded65e977dc01441d03be931d734",
+          "title": "OpenAI’s Jalapeno chip outperformed the GB300 on power and speed, according to OpenAI",
+          "url": "https://thenextweb.com/news/openai-jalapeno-benchmark-nvidia-gb300-europe-gigafactories",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:11:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_bf909262",
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs",
+      "primary_url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "258b4cb5409f056f0f4f4e49733e37d41aa4b281",
+          "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+          "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:10:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ac89b208",
+      "title": "Sam Altman says the economy is adapting to AI slower than he expected",
+      "url": "https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8",
+      "primary_url": "https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "a953f745d3926023803383c53147551ef4be02c1",
+          "title": "Sam Altman says the economy is adapting to AI slower than he expected",
+          "url": "https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:09:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e67671aa",
+      "title": "Google is taking on Anthropic and OpenAI in the legal AI race",
+      "url": "https://www.businessinsider.com/google-unveils-gemini-enterprise-for-legal-law-tech-push-2026-8",
+      "primary_url": "https://www.businessinsider.com/google-unveils-gemini-enterprise-for-legal-law-tech-push-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "e8dcbc096e38620a45bd634ff725e1bd907e643d",
+          "title": "Google is taking on Anthropic and OpenAI in the legal AI race",
+          "url": "https://www.businessinsider.com/google-unveils-gemini-enterprise-for-legal-law-tech-push-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:06:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6d31a87e",
+      "title": "Mexico-based Primero, which aims to modernize legacy software used by Latin American companies with AI, raised a $12M seed co-led by Kaszek and General Catalyst (Kylie Madry/Reuters)",
+      "url": "https://www.techmeme.com/260825/p29",
+      "primary_url": "https://www.techmeme.com/260825/p29",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "eda1dac9a47faa611b905d5bbb4df219d53cb5c9",
+          "title": "Mexico-based Primero, which aims to modernize legacy software used by Latin American companies with AI, raised a $12M seed co-led by Kaszek and General Catalyst (Kylie Madry/Reuters)",
+          "url": "https://www.techmeme.com/260825/p29",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:00:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_467b170c",
+      "title": "I let Gemini manage my Google Keep notes; it saved me hours of planning",
+      "url": "https://www.androidpolice.com/let-gemini-manage-google-keep-notes-saved-hours-of-planning",
+      "primary_url": "https://www.androidpolice.com/let-gemini-manage-google-keep-notes-saved-hours-of-planning",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "3a8d9d3bbe8498e28a3e5e93a6515995e7525179",
+          "title": "I let Gemini manage my Google Keep notes; it saved me hours of planning",
+          "url": "https://www.androidpolice.com/let-gemini-manage-google-keep-notes-saved-hours-of-planning",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:00:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_812b58d6",
+      "title": "Tel Aviv and NYC-based Alice, which works to protect AI models from misuse and rogue behavior, raised $140M led by Apax Digital at a valuation \"close to $1B\" (Marissa Newman/Bloomberg)",
+      "url": "https://www.techmeme.com/260825/p28",
+      "primary_url": "https://www.techmeme.com/260825/p28",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "5760fc7fe8b224fb26f2cb1b3d803de69bd48a91",
+          "title": "Tel Aviv and NYC-based Alice, which works to protect AI models from misuse and rogue behavior, raised $140M led by Apax Digital at a valuation \"close to $1B\" (Marissa Newman/Bloomberg)",
+          "url": "https://www.techmeme.com/260825/p28",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T14:45:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_28abb424",
+      "title": "Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nuñez/VentureBeat)",
+      "url": "https://www.techmeme.com/260825/p27",
+      "primary_url": "https://www.techmeme.com/260825/p27",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "e296aab89e737027ea4e75a5e88a65f10b580c9e",
+          "title": "Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nuñez/VentureBeat)",
+          "url": "https://www.techmeme.com/260825/p27",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T14:40:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_644dc963",
+      "title": "Autonomous trucking startup Gatik raised $200M, two months after striking a multi-year commercial agreement with PepsiCo, bringing its total funding to ~$500M (Kirsten Korosec/TechCrunch)",
+      "url": "https://www.techmeme.com/260825/p25",
+      "primary_url": "https://www.techmeme.com/260825/p25",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "d541ac067c470629ab66d9522b1e7b33af2f6f96",
+          "title": "Autonomous trucking startup Gatik raised $200M, two months after striking a multi-year commercial agreement with PepsiCo, bringing its total funding to ~$500M (Kirsten Korosec/TechCrunch)",
+          "url": "https://www.techmeme.com/260825/p25",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T14:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_953f584d",
+      "title": "OpenAI says its Jalapeño chip delivered 1.5x-1.9x more AI work per watt and 1.7x-3.6x lower latency vs. Nvidia chips across GPT-OSS, DeepSeek R1, Kimi K2.5 1T (Emma Roth/The Verge)",
+      "url": "https://www.techmeme.com/260825/p24",
+      "primary_url": "https://www.techmeme.com/260825/p24",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "519df575ca49688c2f31478513ff6c86e45b8f2d",
+          "title": "OpenAI says its Jalapeño chip delivered 1.5x-1.9x more AI work per watt and 1.7x-3.6x lower latency vs. Nvidia chips across GPT-OSS, DeepSeek R1, Kimi K2.5 1T (Emma Roth/The Verge)",
+          "url": "https://www.techmeme.com/260825/p24",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T14:25:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f011ef93",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+      "primary_url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "6d6e41a358971ba3f7996532fbf33d598f5cbd5b",
+          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T14:22:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6456d0ae",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "primary_url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "9f49a09f733eedf09edec1069dea5ed8b5cb2f41",
+          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+          "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-25T14:06:02Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -3001,28 +3861,6 @@
       "score": 7
     },
     {
-      "story_id": "story_5c92aa0c",
-      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
-      "primary_url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "d98ea95ebfcfa6ff36f866e219f2c09027cabd49",
-          "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T12:33:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_da13342d",
       "title": "Emerald AI, which uses AI to optimize data center power consumption based on grid demands, raised $150M led by DCVC and Energize Capital at a $1.05B valuation (Sri Muppidi/New York Times)",
       "url": "https://www.techmeme.com/260825/p14",
@@ -3149,28 +3987,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-25T11:40:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4e6b42f2",
-      "title": "Australia’s music industry bans AI songs from charts",
-      "url": "https://www.reddit.com/r/technology/comments/1vxxb3n/australias_music_industry_bans_ai_songs_from",
-      "primary_url": "https://www.reddit.com/r/technology/comments/1vxxb3n/australias_music_industry_bans_ai_songs_from",
-      "source_count": 1,
-      "source_names": [
-        "Reddit (热门)"
-      ],
-      "sources": [
-        {
-          "id": "3ef21dfa750e3555459758569835c0de9f844335",
-          "title": "Australia’s music industry bans AI songs from charts",
-          "url": "https://www.reddit.com/r/technology/comments/1vxxb3n/australias_music_industry_bans_ai_songs_from",
-          "source": "Reddit (热门)",
-          "site_id": "iris",
-          "published_at": "2026-08-25T11:36:48Z"
         }
       ],
       "item_count": 1,
@@ -4013,6 +4829,28 @@
       "score": 7
     },
     {
+      "story_id": "story_2cec1654",
+      "title": "Songs created by AI banned from Australia's music charts",
+      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC News"
+      ],
+      "sources": [
+        {
+          "id": "94943473ed6faf3d549700fd593eb817640af8b7",
+          "title": "Songs created by AI banned from Australia's music charts",
+          "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T04:54:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_e028389b",
       "title": "Unitree shares fell 45% after surging more than 5x in their August 19 Shanghai debut, cutting its valuation from $66B to $36B, raising robotics bubble concerns (Reuters)",
       "url": "https://www.techmeme.com/260825/p1",
@@ -4063,16 +4901,38 @@
       "primary_url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "9e3247d1f85493d5db873b483666a1bdc93c8c12",
+          "id": "2348047c71c4a0e5d738c4dfa2813dd6f3586d07",
           "title": "Headlong: A Microharness for Persistent Agents",
           "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-25T03:54:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_dffcb3a9",
+      "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "primary_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "source_count": 1,
+      "source_names": [
+        "boydkane.com"
+      ],
+      "sources": [
+        {
+          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
+          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "source": "boydkane.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T03:02:56.442000Z"
         }
       ],
       "item_count": 1,
@@ -4365,28 +5225,6 @@
       "score": 7
     },
     {
-      "story_id": "story_d715e050",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-      "primary_url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "3b3914240e58f3e455dd4d16b98132efe4469e32",
-          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T21:45:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_b6c9263b",
       "title": "Source: robotics startup Generalist, which released its GEN-1 model to complete physical tasks in April, raised ~$200M led by 8VC, after raising $400M in June (Dan Primack/Axios)",
       "url": "https://www.techmeme.com/260824/p34",
@@ -4425,6 +5263,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-24T20:55:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b904779c",
+      "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
+      "url": "https://dactyl.dev",
+      "primary_url": "https://dactyl.dev",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "7e1338d185e0033561cc857330eb4ffdb9b8d183",
+          "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
+          "url": "https://dactyl.dev",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-24T20:45:07Z"
         }
       ],
       "item_count": 1,
@@ -4503,15 +5363,15 @@
       "primary_url": "https://github.com/l3a0/claude-plugins",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "06f2ecf92cbf4b8e0b557b793838a2b0cf8cf6e9",
+          "id": "348716d9fd105c02ea2ed1b32ca7f61a6a09b77c",
           "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
           "url": "https://github.com/l3a0/claude-plugins",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-24T19:32:18Z"
         }
       ],
@@ -4535,622 +5395,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-08-24T19:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9282b41f",
-      "title": "The AI race is moving fast. What does that mean for employees' summer vacation?",
-      "url": "https://www.businessinsider.com/ai-race-summer-vacation-employee-pto-openai-anthropic-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-race-summer-vacation-employee-pto-openai-anthropic-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "9e0d29745c372d046f33a72de2fa72d42fd01351",
-          "title": "The AI race is moving fast. What does that mean for employees' summer vacation?",
-          "url": "https://www.businessinsider.com/ai-race-summer-vacation-employee-pto-openai-anthropic-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T19:14:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4ab40176",
-      "title": "OpenAI wants California to toughen the AI law it once fought",
-      "url": "https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments",
-      "primary_url": "https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "ffa2203f13d5fba39633fa07a535a94a759ae145",
-          "title": "OpenAI wants California to toughen the AI law it once fought",
-          "url": "https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T19:02:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_aa311157",
-      "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "primary_url": "https://github.com/thiagotigaz/ocr-it",
-      "source_count": 1,
-      "source_names": [
-        "github.com"
-      ],
-      "sources": [
-        {
-          "id": "4e28ca31356746c273b615249cb42f315c918b9d",
-          "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
-          "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "github.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-24T19:01:59.960000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_686041e8",
-      "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
-      "url": "https://pantel.is/projects/ai-gaming-companion",
-      "primary_url": "https://pantel.is/projects/ai-gaming-companion",
-      "source_count": 1,
-      "source_names": [
-        "pantel.is"
-      ],
-      "sources": [
-        {
-          "id": "ba07c14e821ffac567cc8c9dd9731eb3d2f4f9ee",
-          "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
-          "url": "https://pantel.is/projects/ai-gaming-companion",
-          "source": "pantel.is",
-          "site_id": "buzzing",
-          "published_at": "2026-08-24T19:01:58.608000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fa055ed4",
-      "title": "OpenAI loses a second sales leader in a week to Salesforce",
-      "url": "https://thenextweb.com/news/openai-kaylin-voss-resigns-salesforce-rajic-sales",
-      "primary_url": "https://thenextweb.com/news/openai-kaylin-voss-resigns-salesforce-rajic-sales",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "dac14bf70c6bdd82a47609a2949b9e79adb11cef",
-          "title": "OpenAI loses a second sales leader in a week to Salesforce",
-          "url": "https://thenextweb.com/news/openai-kaylin-voss-resigns-salesforce-rajic-sales",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T18:47:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_eaee7515",
-      "title": "The biggest question about AI is what humans will do next",
-      "url": "https://thenextweb.com/news/biggest-question-ai-humans-do-next",
-      "primary_url": "https://thenextweb.com/news/biggest-question-ai-humans-do-next",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "39f9061d7740ea67f958409fdb259166f53e4768",
-          "title": "The biggest question about AI is what humans will do next",
-          "url": "https://thenextweb.com/news/biggest-question-ai-humans-do-next",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T18:43:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e7a946cf",
-      "title": "New Apple HomePods with AI are coming. Everything we know.",
-      "url": "https://mashable.com/tech/apple-homepods-siri-ai-explainer",
-      "primary_url": "https://mashable.com/tech/apple-homepods-siri-ai-explainer",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "e36b311bee7fd696bc4c529a19511add4b105c47",
-          "title": "New Apple HomePods with AI are coming. Everything we know.",
-          "url": "https://mashable.com/tech/apple-homepods-siri-ai-explainer",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T18:35:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_624d3080",
-      "title": "I made my kids a voice-mode AI tutor to help them with spelling and math. It saves me time to have more fun with them.",
-      "url": "https://www.businessinsider.com/dad-chatgpt-tutor-helps-my-kids-get-better-grades-2026-8",
-      "primary_url": "https://www.businessinsider.com/dad-chatgpt-tutor-helps-my-kids-get-better-grades-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "02c0139d0f2eb4fc88abd1d32f80c21aeb2d97a8",
-          "title": "I made my kids a voice-mode AI tutor to help them with spelling and math. It saves me time to have more fun with them.",
-          "url": "https://www.businessinsider.com/dad-chatgpt-tutor-helps-my-kids-get-better-grades-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T18:20:52Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_54bf6a1f",
-      "title": "Em Dash Is Fine – It Is AI That Sucks",
-      "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks",
-      "primary_url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "06f321b1d958b892158f6e0b0ca2c2a4c937f71b",
-          "title": "Em Dash Is Fine – It Is AI That Sucks",
-          "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T18:15:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4d331c9f",
-      "title": "Alabama AG Steve Marshall launches an investigation into OpenAI's security procedures following the Hugging Face breach in July (Cassandre Coyer/Bloomberg Law)",
-      "url": "https://www.techmeme.com/260824/p29",
-      "primary_url": "https://www.techmeme.com/260824/p29",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "613d7930e0f46359d1f2796dbc7f3ee74ab89f3d",
-          "title": "Alabama AG Steve Marshall launches an investigation into OpenAI's security procedures following the Hugging Face breach in July (Cassandre Coyer/Bloomberg Law)",
-          "url": "https://www.techmeme.com/260824/p29",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T18:00:38Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_18582de3",
-      "title": "The UK becomes the first foreign nation to gain access to Ukrainian combat data used to train AI models to strike Russian targets, as part of an AI partnership (Financial Times)",
-      "url": "https://www.techmeme.com/260824/p28",
-      "primary_url": "https://www.techmeme.com/260824/p28",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "c6497b3d06ab721ab5ff34bc1debabf9a604de46",
-          "title": "The UK becomes the first foreign nation to gain access to Ukrainian combat data used to train AI models to strike Russian targets, as part of an AI partnership (Financial Times)",
-          "url": "https://www.techmeme.com/260824/p28",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T17:40:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1ce60aef",
-      "title": "The New York Times is testing AI summaries on readers",
-      "url": "https://thenextweb.com/news/new-york-times-ai-summaries-search-guild",
-      "primary_url": "https://thenextweb.com/news/new-york-times-ai-summaries-search-guild",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "24d98f628587aec5d889952534d1a72ad1954de3",
-          "title": "The New York Times is testing AI summaries on readers",
-          "url": "https://thenextweb.com/news/new-york-times-ai-summaries-search-guild",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T17:39:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e1fc552c",
-      "title": "How to cancel your ChatGPT subscription (and why you might want to)",
-      "url": "https://www.engadget.com/2240311/how-to-cancel-chatgpt-subscription-why-might-want-to",
-      "primary_url": "https://www.engadget.com/2240311/how-to-cancel-chatgpt-subscription-why-might-want-to",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "f2175e518fcb9fd1637a02bd0a0b708be39da6e3",
-          "title": "How to cancel your ChatGPT subscription (and why you might want to)",
-          "url": "https://www.engadget.com/2240311/how-to-cancel-chatgpt-subscription-why-might-want-to",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T17:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a8550ea1",
-      "title": "Fences, Not Sandboxes",
-      "url": "https://yegge.ai/essays/fences-not-sandboxes",
-      "primary_url": "https://yegge.ai/essays/fences-not-sandboxes",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "6129fd3461af833aac12d2e8ae8ff9943a200202",
-          "title": "Fences, Not Sandboxes",
-          "url": "https://yegge.ai/essays/fences-not-sandboxes",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-24T17:28:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0f254e75",
-      "title": "Agent Lightning v1.0",
-      "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-      "primary_url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "863ff74a7ee0d55c9e09b72b49c14a23ab3d02a5",
-          "title": "Agent Lightning v1.0",
-          "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-24T17:23:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d2bb2bbb",
-      "title": "Inner Mongolia signs $27bn of AI computing projects",
-      "url": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland",
-      "primary_url": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "301109fcfe98ba5e47bd3c3bf6843249fe4d1b3c",
-          "title": "Inner Mongolia signs $27bn of AI computing projects",
-          "url": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T16:47:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_53328971",
-      "title": "The “GPT moment” for robots is already here. It’s just not in your home yet",
-      "url": "https://thenextweb.com/news/skild-ai-gpt-moment-robots-abhinav-gupta",
-      "primary_url": "https://thenextweb.com/news/skild-ai-gpt-moment-robots-abhinav-gupta",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "ad1f7f2fd5c736a6c3597272a75363b4dfbeca3b",
-          "title": "The “GPT moment” for robots is already here. It’s just not in your home yet",
-          "url": "https://thenextweb.com/news/skild-ai-gpt-moment-robots-abhinav-gupta",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T16:43:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_480d427e",
-      "title": "UK's Office for National Statistics: UK digital infrastructure investment crossed £11B in 2025, hitting dot-com boom levels, amid an AI data center surge (Tom Rees/Bloomberg)",
-      "url": "https://www.techmeme.com/260824/p24",
-      "primary_url": "https://www.techmeme.com/260824/p24",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "eebde47f087f649e7032f6404b526808a6c8cf8b",
-          "title": "UK's Office for National Statistics: UK digital infrastructure investment crossed £11B in 2025, hitting dot-com boom levels, amid an AI data center surge (Tom Rees/Bloomberg)",
-          "url": "https://www.techmeme.com/260824/p24",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T16:10:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9aa3b6b6",
-      "title": "LinkedIn's 'seems like AI slop' button is a hit",
-      "url": "https://www.businessinsider.com/linkedin-ai-slop-button-feedback-notice-post-analytics-2026-8",
-      "primary_url": "https://www.businessinsider.com/linkedin-ai-slop-button-feedback-notice-post-analytics-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "36852216aed1e07b1a2392d23ebfcac2b5e49616",
-          "title": "LinkedIn's 'seems like AI slop' button is a hit",
-          "url": "https://www.businessinsider.com/linkedin-ai-slop-button-feedback-notice-post-analytics-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T15:56:21Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e57c5775",
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "primary_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "279aab2d3ea86f8c4dc98fed09a833b4aac60148",
-          "title": "Coding expertise is going to collapse from AI reliance",
-          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T15:52:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_efcaea9a",
-      "title": "DuckDuckGo's free AI chat now rivals ChatGPT — no account required",
-      "url": "https://www.makeuseof.com/duckduckgo-gpt-56-luna-free",
-      "primary_url": "https://www.makeuseof.com/duckduckgo-gpt-56-luna-free",
-      "source_count": 1,
-      "source_names": [
-        "MakeUseOf"
-      ],
-      "sources": [
-        {
-          "id": "e0aff73a94f25900a4e4170e7ae4cb84de058e04",
-          "title": "DuckDuckGo's free AI chat now rivals ChatGPT — no account required",
-          "url": "https://www.makeuseof.com/duckduckgo-gpt-56-luna-free",
-          "source": "MakeUseOf",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T15:35:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c3523e3b",
-      "title": "This Android banking trojan uses a fake VPN prompt to silence Google's defenses",
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/this-android-banking-trojan-uses-a-fake-vpn-prompt-to-silence-googles-defenses",
-      "primary_url": "https://www.techradar.com/vpn/vpn-privacy-security/this-android-banking-trojan-uses-a-fake-vpn-prompt-to-silence-googles-defenses",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "720dbc926e96348fc7c7de507bbe6d1a1063f1ce",
-          "title": "This Android banking trojan uses a fake VPN prompt to silence Google's defenses",
-          "url": "https://www.techradar.com/vpn/vpn-privacy-security/this-android-banking-trojan-uses-a-fake-vpn-prompt-to-silence-googles-defenses",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T15:27:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_724e4413",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
-      "primary_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "87e1744611bc0630556c1391c2609d53fbcb1b9e",
-          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T15:24:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8843ea68",
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "primary_url": "https://developers.openai.com/api/docs/pricing",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "5e3777dc137be3564ead408f51776abe592857dc",
-          "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "url": "https://developers.openai.com/api/docs/pricing",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-24T15:22:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d8dc8d96",
-      "title": "Dr. Dre Says He Uses AI To Produce Songs",
-      "url": "https://entertainment.slashdot.org/story/26/08/24/081231/dr-dre-says-he-uses-ai-to-produce-songs",
-      "primary_url": "https://entertainment.slashdot.org/story/26/08/24/081231/dr-dre-says-he-uses-ai-to-produce-songs",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "df844d74f3b84050fc58d4a9ecde057fdb130757",
-          "title": "Dr. Dre Says He Uses AI To Produce Songs",
-          "url": "https://entertainment.slashdot.org/story/26/08/24/081231/dr-dre-says-he-uses-ai-to-produce-songs",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a6e67ce3",
-      "title": "Windscribe's bizarre AI Hitler marketing stunt sparks fury and VPN subscription cancellations",
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/windscribes-bizarre-ai-hitler-marketing-stunt-sparks-fury-and-vpn-subscription-cancellations",
-      "primary_url": "https://www.techradar.com/vpn/vpn-privacy-security/windscribes-bizarre-ai-hitler-marketing-stunt-sparks-fury-and-vpn-subscription-cancellations",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "fd94d809ab6bc7dae93f1a328b0d3050ea9bdc9c",
-          "title": "Windscribe's bizarre AI Hitler marketing stunt sparks fury and VPN subscription cancellations",
-          "url": "https://www.techradar.com/vpn/vpn-privacy-security/windscribes-bizarre-ai-hitler-marketing-stunt-sparks-fury-and-vpn-subscription-cancellations",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T14:49:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e43cb6ee",
-      "title": "Sam Altman said scrolling through his inbox without AI makes him feel productive",
-      "url": "https://www.businessinsider.com/sam-altman-email-habits-inbox-no-ai-productive-2026-8",
-      "primary_url": "https://www.businessinsider.com/sam-altman-email-habits-inbox-no-ai-productive-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "4db7e5ca324339abdebc8d76eab7149a0902bb00",
-          "title": "Sam Altman said scrolling through his inbox without AI makes him feel productive",
-          "url": "https://www.businessinsider.com/sam-altman-email-habits-inbox-no-ai-productive-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T14:35:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2bfd7d3d",
-      "title": "Workers are rewriting their LinkedIn histories, and 2022 now looks 30% more AI-skilled than it was",
-      "url": "https://thenextweb.com/news/linkedin-retroactive-ai-skills-edits-hiring-training-data",
-      "primary_url": "https://thenextweb.com/news/linkedin-retroactive-ai-skills-edits-hiring-training-data",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "12fd0f05f63c07ccb4a988f2825c423449e4f544",
-          "title": "Workers are rewriting their LinkedIn histories, and 2022 now looks 30% more AI-skilled than it was",
-          "url": "https://thenextweb.com/news/linkedin-retroactive-ai-skills-edits-hiring-training-data",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T14:35:14Z"
         }
       ],
       "item_count": 1,
