@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-08-28T15:10:09.788742Z",
+  "generated_at": "2026-08-28T22:31:47.794319Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 16,
   "items": [
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "title_zh": null,
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-28T02:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.91
+    },
+    {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "title_zh": "Open ASR 排行榜新增首个全球南方语言：印地语与印度英语评测集",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face Blog",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-08-28T00:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.95
+    },
+    {
+      "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
+      "title_zh": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
+      "url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-28T18:24:05Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+      "title_zh": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "source": "Ars Technica：AI（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-28T18:07:55Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+      "title_zh": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-28T17:25:56.912000Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "GLM-5.3 开源权重，智能体编码与网防最强",
+      "title_zh": "GLM-5.3 开源权重，智能体编码与网防最强",
+      "url": "https://x.com/Zai_org/status/2093354097122455713",
+      "source": "X：智谱 Z.ai (@Zai_org)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-08-28T15:04:44Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
     {
       "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
       "title_zh": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
@@ -48,72 +114,6 @@
       "ai_score": 1.0
     },
     {
-      "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-      "title_zh": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-      "url": "https://www.aibase.com/news/30692",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-28T07:45:18.099827Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-      "title_zh": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-      "url": "https://www.aibase.com/news/30693",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-28T07:45:18.099827Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-      "title_zh": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-      "source": "公众号：腾讯混元",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-28T06:03:48Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Midjourney 开放 V8.2 图像编辑模型测试",
-      "title_zh": "Midjourney 开放 V8.2 图像编辑模型测试",
-      "url": "https://updates.midjourney.com/edit-model-for-v8",
-      "source": "Midjourney：Updates（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-27T23:32:15Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-      "title_zh": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-27T23:01:35.558000Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-      "title_zh": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-      "source": "Ars Technica：AI（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-08-27T20:52:31Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
       "title": "https://t.co/JWiUKesyXV and shaders are further proof that “everything is computer”. 2D, 3D, geometry, light, materials, textures, shadows, reflections, particles, post-processing. Just programs evaluated massively in...",
       "title_zh": null,
       "url": "https://x.com/rauchg/status/2093119693846630842",
@@ -121,39 +121,6 @@
       "source_tier_rank": 2,
       "source_tier_label": "Builders/X源",
       "published_at": "2026-08-27T23:33:17Z",
-      "ai_is_related": false,
-      "ai_score": 0.33
-    },
-    {
-      "title": "万字长文 | Pi Agent 零基础实操：从打开终端到完成第一个真实任务",
-      "title_zh": "万字长文 | Pi Agent 零基础实操：从打开终端到完成第一个真实任务",
-      "url": "https://waytoagi.feishu.cn/wiki/FQ9RweSViibRb5k4kAacFgIznKg?from=from_copylink",
-      "source": "社区更新 · 2026-08-27",
-      "source_tier_rank": 2,
-      "source_tier_label": "社区更新",
-      "published_at": "2026-08-27T20:45:18.322020Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "万字长文｜Agent 从入门到精通（附实战：论文整理 Agent 搭建）",
-      "title_zh": "万字长文｜Agent 从入门到精通（附实战：论文整理 Agent 搭建）",
-      "url": "https://waytoagi.feishu.cn/wiki/JLDVw9Bqli57PJkvdMWcIxQonog?from=from_copylink",
-      "source": "社区更新 · 2026-08-27",
-      "source_tier_rank": 2,
-      "source_tier_label": "社区更新",
-      "published_at": "2026-08-27T20:45:18.322020Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Our best products have been exports of internal technology we gain strong conviction in. @matinotfound and team have been shipping extraordinary WebGPU creative productions, and now https://t.co/0nyTRPKDEJ is here. It...",
-      "title_zh": null,
-      "url": "https://x.com/rauchg/status/2093019310725951683",
-      "source": "Follow Builders · X · Guillermo Rauch",
-      "source_tier_rank": 2,
-      "source_tier_label": "Builders/X源",
-      "published_at": "2026-08-27T16:54:24Z",
       "ai_is_related": false,
       "ai_score": 0.33
     },
@@ -180,13 +147,13 @@
       "ai_score": 0.47
     },
     {
-      "title": "Ex-ICE agent charged over shooting is freed by Texas authorities",
-      "title_zh": "因枪击事件被指控的前 ICE 特工已被德克萨斯州当局释放",
-      "url": "https://www.aljazeera.com/news/2026/8/27/ex-ice-agent-charged-over-shooting-is-freed-by-texas-authorities?traffic_source=rss",
-      "source": "Al Jazeera English",
+      "title": "MLB proposes limiting free agent signings to a few weeks in December and then from February on - AP News",
+      "title_zh": null,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOG1fcWYtUFFxVG5xbHhVQmJZblNwTVh2anMwNnV3cFNGRnZObkMtalBqV2M3R1VGOE54dGl2NVNYaXp5b1VtMFJUUnZGd1B1MXNwaVdTODF6bmRzLVcyc25hRGZBd01DNDJTWGdfTFJBR0RBU0VVWGJjeGxBR2NxbXlXQmJpT056a2c?oc=5",
+      "source": "AP World News",
       "source_tier_rank": 3,
       "source_tier_label": "RSS/OPML",
-      "published_at": "2026-08-27T16:34:57Z",
+      "published_at": "2026-08-28T02:21:00Z",
       "ai_is_related": false,
       "ai_score": 0.47
     },
@@ -209,17 +176,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-08-28T07:45:36.115000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "小型模型已到货",
-      "title_zh": "小型模型已到货",
-      "url": "https://calv.info/small-models-have-arrived",
-      "source": "calv.info",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-08-27T17:41:31.015000Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
