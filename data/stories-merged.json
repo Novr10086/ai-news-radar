@@ -1,29 +1,38 @@
 {
-  "generated_at": "2026-08-29T03:32:25.660189Z",
+  "generated_at": "2026-08-29T04:31:20.509069Z",
   "window_hours": 24,
-  "total_stories": 164,
+  "total_stories": 162,
   "stories": [
     {
       "story_id": "story_57a3b900",
       "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "primary_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI News",
+        "openai.com"
       ],
       "sources": [
         {
-          "id": "b0b5c03f7602d7296266c483c6621ef34e48712f",
-          "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
+          "id": "4e321f5b722ca5145f5116d902acac9d8cb8b4fa",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "site_id": "aihot",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
           "published_at": "2026-08-28T06:00:00Z"
+        },
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
         }
       ],
-      "item_count": 1,
-      "score": 10020
+      "item_count": 2,
+      "score": 10070
     },
     {
       "story_id": "story_306cce44",
@@ -157,6 +166,28 @@
           "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "site_id": "aihot",
           "published_at": "2026-08-28T18:24:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_f9877378",
+      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "Ars Technica：AI（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T18:07:55Z"
         }
       ],
       "item_count": 1,
@@ -700,35 +731,48 @@
       "score": 9770
     },
     {
-      "story_id": "story_a82f3037",
-      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-      "source_count": 2,
+      "story_id": "story_34c22206",
+      "title": "打不过就加入？三大唱片巨头豪掷5亿，入股AI绘图“鼻祖”",
+      "url": "https://www.tmtpost.com/8121144.html",
+      "primary_url": "https://www.tmtpost.com/8121144.html",
+      "source_count": 1,
       "source_names": [
-        "BBC World",
-        "Mashable"
+        "钛媒体 TMTPost"
       ],
       "sources": [
         {
-          "id": "4dceabd2a4e83796c0afa79780d6dc21135cb2d7",
-          "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-          "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
+          "id": "f2162e494a96baf50e7521fdd67f823876b0fe8f",
+          "title": "打不过就加入？三大唱片巨头豪掷5亿，入股AI绘图“鼻祖”",
+          "url": "https://www.tmtpost.com/8121144.html",
+          "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
-          "published_at": "2026-08-28T03:41:59Z"
-        },
-        {
-          "id": "db8ee81cdb045c8dc9e4cd93c2fe2d8540775fb9",
-          "title": "Trump administration acted illegally in fight against Anthropic, judge rules",
-          "url": "https://mashable.com/tech/trump-anthropic-ban-illegal-judge-rules",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T17:53:31Z"
+          "published_at": "2026-08-29T03:21:34Z"
         }
       ],
-      "item_count": 2,
-      "score": 9770
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_8f8f4763",
+      "title": "一枚AI 戒指，凭什么值160亿美元？",
+      "url": "https://www.huxiu.com/article/4886953.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4886953.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "3164772b8e3974daa68a4408731cea5a76b0e9aa",
+          "title": "一枚AI 戒指，凭什么值160亿美元？",
+          "url": "https://www.huxiu.com/article/4886953.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-29T03:09:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_f978a103",
@@ -863,6 +907,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_7f31a50a",
+      "title": "Google further buries search results under AI mode",
+      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "primary_url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "d5c6147bf7162185609ce09c58b8f34373e61fa6",
+          "title": "Google further buries search results under AI mode",
+          "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-28T22:48:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_9a7a2eb7",
       "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
       "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
@@ -937,28 +1003,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_92963365",
-      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us",
-      "primary_url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "c435c3e9aa9318fd3b0b5eb8dd53291852f4096e",
-          "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-          "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-28T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_e00236f5",
       "title": "财经深一度｜当AI帮人决策“买单”，如何筑牢支付安全底线",
       "url": "http://www.news.cn/20260828/afd3fc31f9f74e3e84d9cfe60d8b442f/c.html",
@@ -981,30 +1025,8 @@
       "score": 9720
     },
     {
-      "story_id": "story_0477c2c0",
-      "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-      "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai",
-      "primary_url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "e7c4bce3b918f6dc1822a9e01b415b4d1b67e24f",
-          "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-          "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-28T13:24:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_5eeba547",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
       "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
       "primary_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
       "source_count": 1,
@@ -1013,19 +1035,19 @@
       ],
       "sources": [
         {
-          "id": "49acd91743e3e78a1485d9b889fa2230fab000d2",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "id": "616d56468eb101e851b447d768f5918efdda5843",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
           "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-08-28T12:46:12Z"
         },
         {
-          "id": "111b71ca1c855c880729c348e72d04829c258570",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "id": "49acd91743e3e78a1485d9b889fa2230fab000d2",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
           "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
           "source": "TechCrunch",
-          "site_id": "techurls",
+          "site_id": "opmlrss",
           "published_at": "2026-08-28T12:46:12Z"
         }
       ],
@@ -1517,92 +1539,35 @@
       "score": 9720
     },
     {
-      "story_id": "story_c3014d59",
-      "title": "2025年我国智能体专利授权量超过3400件",
-      "url": "http://www.news.cn/20260828/e7f9426113144129bd4f47a70bd4f477/c.html",
-      "primary_url": "http://www.news.cn/20260828/e7f9426113144129bd4f47a70bd4f477/c.html",
-      "source_count": 1,
+      "story_id": "story_f6fd80f3",
+      "title": "‘I’m the Guy Who Destroys Antique Books After We Scan Them Into Our Company’s Insatiable AI Platform’",
+      "url": "https://daringfireball.net/linked/2026/08/28/mcsweeneys-book-destroyer",
+      "primary_url": "https://daringfireball.net/linked/2026/08/28/mcsweeneys-book-destroyer",
+      "source_count": 2,
       "source_names": [
-        "新华网 / 新华社新闻"
+        "Hacker News (黑客新闻)",
+        "Daring Fireball"
       ],
       "sources": [
         {
-          "id": "6b9e758ed4a0d58680504fb576c06217a02e2b77",
-          "title": "2025年我国智能体专利授权量超过3400件",
-          "url": "http://www.news.cn/20260828/e7f9426113144129bd4f47a70bd4f477/c.html",
-          "source": "新华网 / 新华社新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-28T03:43:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a9b8334f",
-      "title": "AI读完了互联网，才发现真实世界更难",
-      "url": "https://www.huxiu.com/article/4886675.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4886675.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
+          "id": "8081371583405d4bee9f0704cc5dd760a58e9da1",
+          "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+          "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-08-29T02:58:12Z"
+        },
         {
-          "id": "9632d3fcc7cf67ea613261f44f22d02dfef01ca8",
-          "title": "AI读完了互联网，才发现真实世界更难",
-          "url": "https://www.huxiu.com/article/4886675.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-28T03:39:37Z"
+          "id": "5f299b080ed2ccdaf81cd2af00d2ef4aa7f35493",
+          "title": "‘I’m the Guy Who Destroys Antique Books After We Scan Them Into Our Company’s Insatiable AI Platform’",
+          "url": "https://daringfireball.net/linked/2026/08/28/mcsweeneys-book-destroyer",
+          "source": "Daring Fireball",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T21:35:22Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_3a080f66",
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "1b52201fa276d6f74e2cbeebf1e0eebe8c7f68ac",
-          "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-28T03:14:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a04c1c70",
-      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-      "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic",
-      "primary_url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "eaaac4316fd5761736066dd2e51e9309342b2293",
-          "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-          "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-28T03:04:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_eb9f38c6",
@@ -1740,37 +1705,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_f9877378",
-      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "www.nytimes.com"
-      ],
-      "sources": [
-        {
-          "id": "58701ed1715f680898f13672a8b2d9715dbf9775",
-          "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T18:07:55Z"
-        },
-        {
-          "id": "882ee40545c294bd591ab43a8bd61208d2415678",
-          "title": "法官裁定特朗普政府将Anthropic列入黑名单的行为违法",
-          "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-          "source": "www.nytimes.com",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T03:49:18.410000Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_839e2518",
       "title": "X says it found and took down a Chinese bot farm posting anti-AI data center content to thousands of followers",
       "url": "https://www.techradar.com/pro/security/x-says-it-found-and-took-down-a-chinese-bot-farm-posting-anti-ai-data-center-content-to-thousands-of-followers",
@@ -1809,7 +1743,7 @@
       "source_count": 2,
       "source_names": [
         "github.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1821,11 +1755,11 @@
           "published_at": "2026-08-28T14:44:31.168000Z"
         },
         {
-          "id": "d0df893e1131c22a32098cf47627b9560aa07505",
+          "id": "4394455f8f4a5c5bcf51e4ab03c50bfdf11d117f",
           "title": "OpenAI: Migrating to HTTPX2",
           "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-28T11:51:20Z"
         }
       ],
@@ -1871,7 +1805,7 @@
       "source_count": 2,
       "source_names": [
         "blog.luanti.org",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1883,11 +1817,11 @@
           "published_at": "2026-08-28T13:24:34.136000Z"
         },
         {
-          "id": "df9d81ae281ff77925eb189c5befe5fa62c67585",
+          "id": "76efe030ec2cfb62249f9dd05aa9dcdaa82b39c5",
           "title": "Luanti removed from Google Play due to baseless AI copyright notice",
           "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-28T06:33:57Z"
         }
       ],
@@ -1926,35 +1860,56 @@
       "score": 9570
     },
     {
-      "story_id": "story_0e9dfa17",
-      "title": "请别再用那些低质量的AI内容淹没我们的项目，只为了充实你的简历了",
-      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-      "primary_url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-      "source_count": 2,
+      "story_id": "story_d245fa64",
+      "title": "WorkBuddy 保姆级教程开源了！600 多篇 Agent 资料一次性放出",
+      "url": "https://juejin.cn/post/7678239088522313780",
+      "primary_url": "https://juejin.cn/post/7678239088522313780",
+      "source_count": 1,
       "source_names": [
-        "neilalexander.dev",
-        "Hacker News"
+        "juejin"
       ],
       "sources": [
         {
-          "id": "7af1146cf394774adc6916f55871a88d4489f24d",
-          "title": "请别再用那些低质量的AI内容淹没我们的项目，只为了充实你的简历了",
-          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-          "source": "neilalexander.dev",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T06:13:49.548000Z"
+          "id": "213a5711f55dccf30e7558133706896dd6495070",
+          "title": "WorkBuddy 保姆级教程开源了！600 多篇 Agent 资料一次性放出",
+          "url": "https://juejin.cn/post/7678239088522313780",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T03:35:18.592000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a306443f",
+      "title": "OpenAI and Anthropic are ruining San Francisco",
+      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+      "primary_url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "1b178be5d6b79b092cbecbb47769d18029c41983",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T02:57:13Z"
         },
         {
-          "id": "62f0e2e04e072bfc707c9e602b20ac68c85b57cf",
-          "title": "Please stop flooding our projects with AI slop to furnish your CV",
-          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T03:49:33Z"
+          "id": "a8f3ceb28bf9c3138318ffc5b544c1d7491fe392",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T01:50:40Z"
         }
       ],
       "item_count": 2,
-      "score": 9570
+      "score": 7
     },
     {
       "story_id": "story_c37a39fe",
@@ -2001,43 +1956,21 @@
       "score": 7
     },
     {
-      "story_id": "story_e17a7148",
-      "title": "OpenAI and Anthropic are ruining San Francisco",
-      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8",
-      "primary_url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "a8f3ceb28bf9c3138318ffc5b544c1d7491fe392",
-          "title": "OpenAI and Anthropic are ruining San Francisco",
-          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T01:50:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_3b2887a6",
       "title": "StemDeck, a free, open-source and local AI stem separator",
       "url": "https://github.com/stemdeckapp/stemdeck",
       "primary_url": "https://github.com/stemdeckapp/stemdeck",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "e8b06ef19027e87029878818cc2b327cfc188b40",
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
           "title": "StemDeck, a free, open-source and local AI stem separator",
           "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-29T01:24:13Z"
         }
       ],
@@ -2111,28 +2044,6 @@
       "score": 7
     },
     {
-      "story_id": "story_7f31a50a",
-      "title": "Google further buries search results under AI mode",
-      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-      "primary_url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "d79fe0971aa557cec54bdc3ba0b00b54c429650b",
-          "title": "Google further buries search results under AI mode",
-          "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T22:48:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_5021703a",
       "title": "A deep dive into Grok Bot, including its architecture, use cases, and alternatives, as xAI adds shareable bot templates and online purchases through Stripe Link (Flavio Copes)",
       "url": "https://www.techmeme.com/260828/p22",
@@ -2161,38 +2072,16 @@
       "primary_url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "a4189cb10034c82b38375b2cc1c5f8bda7212075",
+          "id": "a862badf9b0271279c099db74a180b344c7da731",
           "title": "Identifying fake cosmetics using AI",
           "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T22:18:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f6fd80f3",
-      "title": "‘I’m the Guy Who Destroys Antique Books After We Scan Them Into Our Company’s Insatiable AI Platform’",
-      "url": "https://daringfireball.net/linked/2026/08/28/mcsweeneys-book-destroyer",
-      "primary_url": "https://daringfireball.net/linked/2026/08/28/mcsweeneys-book-destroyer",
-      "source_count": 1,
-      "source_names": [
-        "Daring Fireball"
-      ],
-      "sources": [
-        {
-          "id": "5f299b080ed2ccdaf81cd2af00d2ef4aa7f35493",
-          "title": "‘I’m the Guy Who Destroys Antique Books After We Scan Them Into Our Company’s Insatiable AI Platform’",
-          "url": "https://daringfireball.net/linked/2026/08/28/mcsweeneys-book-destroyer",
-          "source": "Daring Fireball",
+          "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-08-28T21:35:22Z"
+          "published_at": "2026-08-28T22:18:27Z"
         }
       ],
       "item_count": 1,
@@ -2315,15 +2204,15 @@
       "primary_url": "https://github.com/sseshachala/conductai",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "e9fd3592934e1f0a53fe4bee1bcd5e0db6d91a1f",
+          "id": "e64a3690d3b3396b0782fac999cfd9b2336fc5bd",
           "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
           "url": "https://github.com/sseshachala/conductai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-08-28T19:29:20Z"
         }
       ],
@@ -2359,15 +2248,15 @@
       "primary_url": "https://handbook.sutro.sh",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "355a9a656e6e26a9644056e3abf41c6343f90323",
+          "id": "feca840f0a3aabeea2ee48f5f9d36507f5976f2b",
           "title": "The Analytical AI Handbook",
           "url": "https://handbook.sutro.sh",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-28T19:01:47Z"
         }
       ],
@@ -2463,6 +2352,28 @@
       "score": 7
     },
     {
+      "story_id": "story_a3fdfb2f",
+      "title": "Trump administration acted illegally in fight against Anthropic, judge rules",
+      "url": "https://mashable.com/tech/trump-anthropic-ban-illegal-judge-rules",
+      "primary_url": "https://mashable.com/tech/trump-anthropic-ban-illegal-judge-rules",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "db8ee81cdb045c8dc9e4cd93c2fe2d8540775fb9",
+          "title": "Trump administration acted illegally in fight against Anthropic, judge rules",
+          "url": "https://mashable.com/tech/trump-anthropic-ban-illegal-judge-rules",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T17:53:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_11d73b92",
       "title": "'Oreogate' on Instagram went viral. But was it all a fake ad for an AI company?",
       "url": "https://www.businessinsider.com/oreogate-mom-drama-suno-ad-fake-2026-8",
@@ -2535,15 +2446,15 @@
       "primary_url": "https://arxiv.org/abs/2608.23691",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "8e6baa986d00c8e4e02b24681ffc0f68cde8450f",
+          "id": "ec34cc4668051b4baa12e3a7e12ec44d11669ed9",
           "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
           "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-28T17:01:12Z"
         }
       ],
@@ -2733,15 +2644,15 @@
       "primary_url": "https://huggingface.co/zai-org/GLM-5.3",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "81bdccfcb41f0d409022c757745e8dc6eaa6afcd",
+          "id": "594dddc2725affdc631008f464426bd4a2091eb9",
           "title": "GLM-5.3 is now open-weight",
           "url": "https://huggingface.co/zai-org/GLM-5.3",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-28T15:20:13Z"
         }
       ],
@@ -2765,6 +2676,28 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-08-28T15:16:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_92963365",
+      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us",
+      "primary_url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "61e1966d177b895ed5cbd68a656819b11b34b1b3",
+          "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+          "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T15:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2897,6 +2830,28 @@
           "source": "HN Algolia · AI 24h",
           "site_id": "hackernews",
           "published_at": "2026-08-28T13:28:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0477c2c0",
+      "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+      "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai",
+      "primary_url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "57c14682ecdd190afc1c3ae90cbf49f42654f9d4",
+          "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+          "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T13:24:43Z"
         }
       ],
       "item_count": 1,
@@ -3107,15 +3062,15 @@
       "primary_url": "https://iainschmitt.com/post/terry-rozier-and-the-teleprompt-operator",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "d12f4489043d5cf97e38707241e76e0f413a62c5",
+          "id": "3d09f9882d16c2f6c4600f6436ba324b832b689d",
           "title": "Terry Rozier and the Teleprompt Operator",
           "url": "https://iainschmitt.com/post/terry-rozier-and-the-teleprompt-operator",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-28T12:20:55Z"
         }
       ],
@@ -3739,6 +3694,28 @@
       "score": 7
     },
     {
+      "story_id": "story_0e9dfa17",
+      "title": "请别再用那些低质量的AI内容淹没我们的项目，只为了充实你的简历了",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "primary_url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "source_count": 1,
+      "source_names": [
+        "neilalexander.dev"
+      ],
+      "sources": [
+        {
+          "id": "7af1146cf394774adc6916f55871a88d4489f24d",
+          "title": "请别再用那些低质量的AI内容淹没我们的项目，只为了充实你的简历了",
+          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+          "source": "neilalexander.dev",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T06:13:49.548000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_6e0958b8",
       "title": "AI is making people less confident in professionals such as doctors and teachers",
       "url": "https://www.techradar.com/pro/ai-is-making-people-less-confident-in-professionals-such-as-doctors-and-teachers",
@@ -3821,28 +3798,6 @@
           "source": "Engadget",
           "site_id": "techurls",
           "published_at": "2026-08-28T04:43:23Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3d2f5930",
-      "title": "Is ChatGPT Changing How You're Writing?",
-      "url": "https://slashdot.org/story/26/08/27/2315218/is-chatgpt-changing-how-youre-writing",
-      "primary_url": "https://slashdot.org/story/26/08/27/2315218/is-chatgpt-changing-how-youre-writing",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "cefac4c067d462ddea0db2ab3500f017eb3c75eb",
-          "title": "Is ChatGPT Changing How You're Writing?",
-          "url": "https://slashdot.org/story/26/08/27/2315218/is-chatgpt-changing-how-youre-writing",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T03:30:00Z"
         }
       ],
       "item_count": 1,
