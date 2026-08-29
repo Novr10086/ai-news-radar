@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T15:14:05.577237Z",
+  "generated_at": "2026-08-29T16:13:40.104697Z",
   "window_hours": 24,
-  "total_stories": 133,
+  "total_stories": 128,
   "stories": [
     {
       "story_id": "story_36e5104f",
@@ -33,7 +33,7 @@
       "source_count": 2,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -45,43 +45,12 @@
           "published_at": "2026-08-29T07:32:16.981000Z"
         },
         {
-          "id": "ec34cc4668051b4baa12e3a7e12ec44d11669ed9",
+          "id": "a25ac6e0ed4e7b73b5dcd8df9eab5bf1dd3d650c",
           "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
           "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-28T17:01:12Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9970
-    },
-    {
-      "story_id": "story_a38bb74c",
-      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-      "url": "https://www.ithome.com/0/995/896.htm",
-      "primary_url": "https://www.ithome.com/0/995/896.htm",
-      "source_count": 2,
-      "source_names": [
-        "IT之家（RSS）",
-        "X：智谱 Z.ai (@Zai_org)"
-      ],
-      "sources": [
-        {
-          "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
-          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-          "url": "https://www.ithome.com/0/995/896.htm",
-          "source": "IT之家（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T04:31:21Z"
-        },
-        {
-          "id": "1245c3bf42bd62d6c7cbce4a5afb42e78a45c85b",
-          "title": "GLM-5.3 开源权重，智能体编码与网防最强",
-          "url": "https://x.com/Zai_org/status/2093354097122455713",
-          "source": "X：智谱 Z.ai (@Zai_org)",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T15:04:44Z"
         }
       ],
       "item_count": 2,
@@ -141,6 +110,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_a38bb74c",
+      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+      "url": "https://www.ithome.com/0/995/896.htm",
+      "primary_url": "https://www.ithome.com/0/995/896.htm",
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
+          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "url": "https://www.ithome.com/0/995/896.htm",
+          "source": "IT之家（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T04:31:21Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_98b1d909",
       "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
       "url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
@@ -183,6 +174,28 @@
       ],
       "item_count": 1,
       "score": 9920
+    },
+    {
+      "story_id": "story_d6d907ff",
+      "title": "图解大语言模型部署",
+      "url": "https://waytoagi.feishu.cn/wiki/AhyFwQxkYikUgtk4WzYc8mPNnme?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/AhyFwQxkYikUgtk4WzYc8mPNnme?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-08-29"
+      ],
+      "sources": [
+        {
+          "id": "4cea7199772114a2fcb4f05d4e7686d0ba702805",
+          "title": "图解大语言模型部署",
+          "url": "https://waytoagi.feishu.cn/wiki/AhyFwQxkYikUgtk4WzYc8mPNnme?from=from_copylink",
+          "source": "社区更新 · 2026-08-29",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T16:02:40.620575Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
     },
     {
       "story_id": "story_369f7825",
@@ -537,81 +550,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_ab815bd6",
-      "title": "Dear founder, 1) The best pitches don’t even need to use the word “AI”. 2) AI cannot be the only “why now” for your pitch. Obviously it’s just me speaking, subjective to each VC etc. But trust me, it’ll help if you ge...",
-      "url": "https://x.com/nikunj/status/2093367245024240043",
-      "primary_url": "https://x.com/nikunj/status/2093367245024240043",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Nikunj Kothari"
-      ],
-      "sources": [
-        {
-          "id": "804db4911f0698ba6633737ed5f301db5d96b15f",
-          "title": "Dear founder, 1) The best pitches don’t even need to use the word “AI”. 2) AI cannot be the only “why now” for your pitch. Obviously it’s just me speaking, subjective to each VC etc. But trust me, it’ll help if you ge...",
-          "url": "https://x.com/nikunj/status/2093367245024240043",
-          "source": "Follow Builders · X · Nikunj Kothari",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-28T15:56:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_7efd238b",
-      "title": "您给 ChatGPT Work 布置的最雄心勃勃的任务是什么？",
-      "url": "https://x.com/thsottiaux/status/2093354037198696932",
-      "primary_url": "https://x.com/thsottiaux/status/2093354037198696932",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
-      ],
-      "sources": [
-        {
-          "id": "70b8029d596c596e2ee7ff1f3c4c34dc139658cb",
-          "title": "What is the most ambitious task you’ve given ChatGPT Work?",
-          "url": "https://x.com/thsottiaux/status/2093354037198696932",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-28T15:04:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_aa798ee8",
-      "title": "Meta 使 AI 眼镜稍微不那么令人毛骨悚然，并限制了未经同意的记录",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
-      "source_count": 2,
-      "source_names": [
-        "ArsTechnica",
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "953af8c7aa50554b1167dceb8835206efdf1ec9f",
-          "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-          "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-28T15:42:24Z"
-        },
-        {
-          "id": "c8d6a7037948518d4b422652b7817c8ca38e523b",
-          "title": "Meta tweaks AI glasses to block some creepy recordings, but privacy risks remain",
-          "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T15:42:24Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
-    },
-    {
       "story_id": "story_19c07bd4",
       "title": "花几千万美元买下全世界的纸书，AI 焚书开始了？",
       "url": "https://www.huxiu.com/article/4887062.html?f=rss",
@@ -694,6 +632,28 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-08-29T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_248d3859",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "primary_url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "361d4d1bc778bc224da5092abb39d529fa006155",
+          "title": "Musicians-turned-detectives are hunting for AI grifters",
+          "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-29T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1192,6 +1152,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_9a7a2eb7",
+      "title": "开放式人工智能公司是硅谷最热门的收购目标",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
+      "primary_url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "76ddf8c2701defe47e1e9054a1d55147aadda6c7",
+          "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-28T18:19:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_f9877378",
       "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
       "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
@@ -1264,6 +1246,37 @@
       ],
       "item_count": 1,
       "score": 9720
+    },
+    {
+      "story_id": "story_75767d6a",
+      "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+      "url": "https://lwn.net/Articles/1091231",
+      "primary_url": "https://lwn.net/Articles/1091231",
+      "source_count": 2,
+      "source_names": [
+        "lwn.net",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_3d9ea535",
@@ -1368,7 +1381,7 @@
       "source_count": 2,
       "source_names": [
         "github.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1380,11 +1393,11 @@
           "published_at": "2026-08-29T10:12:23.295000Z"
         },
         {
-          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
+          "id": "e8b06ef19027e87029878818cc2b327cfc188b40",
           "title": "StemDeck, a free, open-source and local AI stem separator",
           "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-29T01:24:13Z"
         }
       ],
@@ -1430,7 +1443,7 @@
       "source_count": 2,
       "source_names": [
         "openai.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1442,11 +1455,11 @@
           "published_at": "2026-08-29T03:16:20.612000Z"
         },
         {
-          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
+          "id": "63c3e95654b6ea651231291064915242e5fa86c9",
           "title": "Our decision on Cursor following its acquisition by SpaceX",
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-29T01:47:53Z"
         }
       ],
@@ -1460,16 +1473,16 @@
       "primary_url": "https://daringfireball.net/linked/2026/08/28/mcsweeneys-book-destroyer",
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Daring Fireball"
       ],
       "sources": [
         {
-          "id": "8081371583405d4bee9f0704cc5dd760a58e9da1",
+          "id": "7300d9af6c53cbff13a22c92927b8e1365adc7fd",
           "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
           "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-29T02:58:12Z"
         },
         {
@@ -1485,35 +1498,92 @@
       "score": 9570
     },
     {
-      "story_id": "story_a306443f",
-      "title": "OpenAI 和 Anthropic 正在毁掉旧金山",
-      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
-      "primary_url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
-      "source_count": 2,
+      "story_id": "story_cf61211b",
+      "title": "OpenAI cuts off Cursors AI models, deepening feud with Musk",
+      "url": "https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk",
+      "primary_url": "https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk",
+      "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
+        "Mashable"
       ],
       "sources": [
         {
-          "id": "1b178be5d6b79b092cbecbb47769d18029c41983",
-          "title": "OpenAI and Anthropic are ruining San Francisco",
-          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T02:57:13Z"
-        },
-        {
-          "id": "65d7f50dc5a55c40712ad9072f595514ae02ad31",
-          "title": "OpenAI and Anthropic are ruining San Francisco",
-          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T01:50:40Z"
+          "id": "dc960e6017ac73fea2ca7417b589a167456f3fe3",
+          "title": "OpenAI cuts off Cursors AI models, deepening feud with Musk",
+          "url": "https://mashable.com/tech/openai-cuts-cursor-ai-models-deepening-feud-with-musk",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T15:31:57Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_51289a15",
+      "title": "Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs (Tim Ingham/Music Business Worldwide)",
+      "url": "https://www.techmeme.com/260829/p11",
+      "primary_url": "https://www.techmeme.com/260829/p11",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "670714f5357b2f7108f92e407726b8675c0cc3e4",
+          "title": "Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs (Tim Ingham/Music Business Worldwide)",
+          "url": "https://www.techmeme.com/260829/p11",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T15:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1b75c12d",
+      "title": "I used Gemini's image-to-list feature to turn my messy notebook photos into Keep checklists",
+      "url": "https://www.androidpolice.com/gemini-image-list-keep-checklist-notebook",
+      "primary_url": "https://www.androidpolice.com/gemini-image-list-keep-checklist-notebook",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "b301942b8db3b1f5ab02fe0b65b97f1c3610b6ed",
+          "title": "I used Gemini's image-to-list feature to turn my messy notebook photos into Keep checklists",
+          "url": "https://www.androidpolice.com/gemini-image-list-keep-checklist-notebook",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T15:15:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_99935326",
+      "title": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
+      "url": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition",
+      "primary_url": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "3ae52799595ba38897fda363d93b89b80cbf8182",
+          "title": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
+          "url": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T14:58:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_19f9d053",
@@ -1582,28 +1652,6 @@
       "score": 7
     },
     {
-      "story_id": "story_75767d6a",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231",
-      "primary_url": "https://lwn.net/Articles/1091231",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "2a5b872c692789f050919e55f7152de4f368099b",
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T14:02:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_b17c9d45",
       "title": "I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
       "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
@@ -1642,28 +1690,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-08-29T12:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_248d3859",
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "primary_url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "6bff97d4dab621de6ea3d7f6318a59576f2893e3",
-          "title": "Musicians-turned-detectives are hunting for AI grifters",
-          "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2308,6 +2334,36 @@
       "score": 7
     },
     {
+      "story_id": "story_a306443f",
+      "title": "OpenAI 和 Anthropic 正在毁掉旧金山",
+      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+      "primary_url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "1b178be5d6b79b092cbecbb47769d18029c41983",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T02:57:13Z"
+        },
+        {
+          "id": "a8f3ceb28bf9c3138318ffc5b544c1d7491fe392",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T01:50:40Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 7
+    },
+    {
       "story_id": "story_e98bedde",
       "title": "Show HN：Metis – 将 DeepSeek 推向 Opus 层编码的代理工具 (82%)",
       "url": "https://github.com/Wholiver/metis",
@@ -2446,15 +2502,15 @@
       "primary_url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "e9a180cd49cdd965492c5aab1b41582a797a3988",
+          "id": "a862badf9b0271279c099db74a180b344c7da731",
           "title": "Identifying fake cosmetics using AI",
           "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-28T22:18:27Z"
         }
       ],
@@ -2556,15 +2612,15 @@
       "primary_url": "https://github.com/sseshachala/conductai",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "e64a3690d3b3396b0782fac999cfd9b2336fc5bd",
+          "id": "e9fd3592934e1f0a53fe4bee1bcd5e0db6d91a1f",
           "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
           "url": "https://github.com/sseshachala/conductai",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-28T19:29:20Z"
         }
       ],
@@ -2600,15 +2656,15 @@
       "primary_url": "https://handbook.sutro.sh",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "feca840f0a3aabeea2ee48f5f9d36507f5976f2b",
+          "id": "355a9a656e6e26a9644056e3abf41c6343f90323",
           "title": "The Analytical AI Handbook",
           "url": "https://handbook.sutro.sh",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-28T19:01:47Z"
         }
       ],
@@ -2654,28 +2710,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-28T18:30:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9a7a2eb7",
-      "title": "开放式人工智能公司是硅谷最热门的收购目标",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
-      "primary_url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "5cbf5e19d28c9cf363b691b30921c900d0ba4550",
-          "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T18:19:40Z"
         }
       ],
       "item_count": 1,
@@ -2940,160 +2974,6 @@
           "source": "Engadget",
           "site_id": "techurls",
           "published_at": "2026-08-28T16:03:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_217302a4",
-      "title": "英伟达坚称可以继续印钞来资助人工智能的繁荣",
-      "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
-      "primary_url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "f77c6dc01afdaee271a89d8d748340776b5c175f",
-          "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
-          "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T15:57:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_54a8889d",
-      "title": "a16z creates a $1.1B Machine Age fund focusing on hardware to \"open the throttle and accelerate the physical buildout of AI\" (Sean O'Kane/TechCrunch)",
-      "url": "https://www.techmeme.com/260828/p14",
-      "primary_url": "https://www.techmeme.com/260828/p14",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "fe3455478480ca6ba10d3e4fa0548c785742a53f",
-          "title": "a16z creates a $1.1B Machine Age fund focusing on hardware to \"open the throttle and accelerate the physical buildout of AI\" (Sean O'Kane/TechCrunch)",
-          "url": "https://www.techmeme.com/260828/p14",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T15:46:19Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b3fb055a",
-      "title": "Nvidia 129 亿美元的拥抱交易背后的更大赌注",
-      "url": "https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source",
-      "primary_url": "https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source",
-      "source_count": 1,
-      "source_names": [
-        "TIME Magazine"
-      ],
-      "sources": [
-        {
-          "id": "b95651b2d38f831d2f2949d897d5cb186eebd9e7",
-          "title": "The Bigger Bet Behind Nvidia’s $12.9 Billion Hugging Face Deal",
-          "url": "https://time.com/article/2026/08/28/nvidia-hugging-face-chips-open-source",
-          "source": "TIME Magazine",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T15:41:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8f777c84",
-      "title": "司机们声称 Android Auto 改用 Gemini 让他们在驾驶时感觉不那么安全",
-      "url": "https://www.androidpolice.com/android-auto-users-are-convinced-gemini-makes-driving-more-dangerous",
-      "primary_url": "https://www.androidpolice.com/android-auto-users-are-convinced-gemini-makes-driving-more-dangerous",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "7f45b10d7db5216bf18d2d3573aee00241450185",
-          "title": "Drivers claim Android Auto's switch to Gemini makes them feel less safe behind the wheel",
-          "url": "https://www.androidpolice.com/android-auto-users-are-convinced-gemini-makes-driving-more-dangerous",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T15:35:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_666e9301",
-      "title": "GLM-5.3 现已开放重量",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "primary_url": "https://huggingface.co/zai-org/GLM-5.3",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "594dddc2725affdc631008f464426bd4a2091eb9",
-          "title": "GLM-5.3 is now open-weight",
-          "url": "https://huggingface.co/zai-org/GLM-5.3",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T15:20:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_92fe73e6",
-      "title": "如果您关心性能，请不要使用 musl",
-      "url": "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance",
-      "primary_url": "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "ad4380717d203a88ae5d76870a6475f1d625701b",
-          "title": "Don't use musl if you care about performance",
-          "url": "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T15:16:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e0cc1be7",
-      "title": "Superhuman Attention",
-      "url": "https://perfloop.ai/blog/superhuman-attention",
-      "primary_url": "https://perfloop.ai/blog/superhuman-attention",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "365d00d6796cab0a56f4f9ff14a416b8d858cb72",
-          "title": "Superhuman Attention",
-          "url": "https://perfloop.ai/blog/superhuman-attention",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T15:15:54Z"
         }
       ],
       "item_count": 1,
