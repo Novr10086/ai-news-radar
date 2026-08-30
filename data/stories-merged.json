@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T18:17:02.252430Z",
+  "generated_at": "2026-08-30T19:16:53.801985Z",
   "window_hours": 24,
-  "total_stories": 107,
+  "total_stories": 102,
   "stories": [
     {
       "story_id": "story_0305d8d0",
@@ -716,36 +716,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_3f6bab34",
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "7a2972e4ee9c78cbbfa2ef621590e0ed638eaec2",
-          "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-29T18:19:53Z"
-        },
-        {
-          "id": "2ebe07a69bd3551b602251b842cb030518d3f315",
-          "title": "Sony Music and Warner Chappell are suing Anthropic",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-29T18:19:53Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9720
-    },
-    {
       "story_id": "story_7900b2cc",
       "title": "Ask HN: How do I make sure ChatGPT/Claude/Gemini forget all prior conversations?",
       "url": "https://news.ycombinator.com/item?id=49498450",
@@ -875,17 +845,9 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-29T19:36:37.809000Z"
-        },
-        {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T18:36:32.292000Z"
         }
       ],
-      "item_count": 16,
+      "item_count": 15,
       "score": 9570
     },
     {
@@ -896,7 +858,7 @@
       "source_count": 2,
       "source_names": [
         "github.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -908,11 +870,11 @@
           "published_at": "2026-08-30T16:35:36.082000Z"
         },
         {
-          "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
+          "id": "85e9e66462497dd48395e77e97732ad5db4e276d",
           "title": "Claude Session URL appended to commit messages and PR descriptions by default",
           "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-30T12:50:54Z"
         }
       ],
@@ -927,7 +889,7 @@
       "source_count": 2,
       "source_names": [
         "noaifridays.com",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -939,16 +901,60 @@
           "published_at": "2026-08-30T15:15:25.717000Z"
         },
         {
-          "id": "99a31002fd80ab07b926e6f6a2a064b9ef9aaa60",
+          "id": "fed6c3383d14cbd591b5e56f42f913c6cca6b684",
           "title": "No AI Fridays",
           "url": "https://noaifridays.com",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-30T12:31:05Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_6b497b55",
+      "title": "Analysis: AI chatbots challenged or didn't respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time (Huo Jingnan/NPR)",
+      "url": "https://www.techmeme.com/260830/p9",
+      "primary_url": "https://www.techmeme.com/260830/p9",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "81d93b1763fd462bc570478725d04b0a58898f24",
+          "title": "Analysis: AI chatbots challenged or didn't respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time (Huo Jingnan/NPR)",
+          "url": "https://www.techmeme.com/260830/p9",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T18:55:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6fe2ff1b",
+      "title": "看懂大模型架构术语，帮助你理解目前常见的大模型开源架构",
+      "url": "https://juejin.cn/post/7679247792172433423",
+      "primary_url": "https://juejin.cn/post/7679247792172433423",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "9b261c6a6e29870b040fc191b45721c491b70344",
+          "title": "看懂大模型架构术语，帮助你理解目前常见的大模型开源架构",
+          "url": "https://juejin.cn/post/7679247792172433423",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T18:43:59.656000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_bf0c3b6f",
@@ -1111,15 +1117,15 @@
       "primary_url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "a7fffb08da071e28071133c73fe15257acde9215",
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
           "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
           "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-30T14:06:54Z"
         }
       ],
@@ -1419,16 +1425,38 @@
       "primary_url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "ec1f703c8fb70a1c4e874b90dc4ad112022037c2",
+          "id": "6ea3712a57180478af38e676b2674ccbb84d049f",
           "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
           "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-30T10:20:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3769889e",
+      "title": "What We Tell AI",
+      "url": "https://www.whatwetellai.com",
+      "primary_url": "https://www.whatwetellai.com",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "0e2b7a30d012c3b4028a545e149716aeb9a062cb",
+          "title": "What We Tell AI",
+          "url": "https://www.whatwetellai.com",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T10:16:14Z"
         }
       ],
       "item_count": 1,
@@ -2007,6 +2035,28 @@
       "score": 7
     },
     {
+      "story_id": "story_5dd68102",
+      "title": "vLLM v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "primary_url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "source_count": 1,
+      "source_names": [
+        "github.com"
+      ],
+      "sources": [
+        {
+          "id": "7b1f3fa8629c2842aae71c026f44215653ab6745",
+          "title": "vLLM v0.28.0",
+          "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+          "source": "github.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T02:13:06.490000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_b39de352",
       "title": "4.8K Star！一套规则让 AI 帮你写出“像人写的”前端代码",
       "url": "https://juejin.cn/post/7678586341091049508",
@@ -2255,15 +2305,15 @@
       "primary_url": "https://coldtake.dev/blog/domain-driven-agents",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "1d7569e3c98de495797b82dcd61d6cb26c7ac9df",
+          "id": "a36bcd30794ef358eac2cec41cdafe591407f1ac",
           "title": "Domain-Driven Agents",
           "url": "https://coldtake.dev/blog/domain-driven-agents",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-29T19:28:28Z"
         }
       ],
@@ -2331,182 +2381,6 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-08-29T19:05:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6309489d",
-      "title": "Gemini 开箱即用，但这些变化使其成为生产力强国",
-      "url": "https://www.androidpolice.com/gemini-is-decent-out-of-the-box-but-these-changes-make-it-productivity-powerhouse",
-      "primary_url": "https://www.androidpolice.com/gemini-is-decent-out-of-the-box-but-these-changes-make-it-productivity-powerhouse",
-      "source_count": 1,
-      "source_names": [
-        "Android Police"
-      ],
-      "sources": [
-        {
-          "id": "112d52fb79ae2fe8538cfa8321cd1d15c337ce87",
-          "title": "Gemini is decent out of the box, but these changes make it a productivity powerhouse",
-          "url": "https://www.androidpolice.com/gemini-is-decent-out-of-the-box-but-these-changes-make-it-productivity-powerhouse",
-          "source": "Android Police",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T19:00:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7e855ba8",
-      "title": "Hugging Face built a $4.5 billion empire on free AI models. Now Nvidia is buying it for $12.9 billion",
-      "url": "https://thenextweb.com/news/hugging-face-nvidia-acquisition-thomas-wolf-interview",
-      "primary_url": "https://thenextweb.com/news/hugging-face-nvidia-acquisition-thomas-wolf-interview",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "5427f890bb9cff1d21d46f393cb99be2ea038054",
-          "title": "Hugging Face built a $4.5 billion empire on free AI models. Now Nvidia is buying it for $12.9 billion",
-          "url": "https://thenextweb.com/news/hugging-face-nvidia-acquisition-thomas-wolf-interview",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T18:58:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_88319949",
-      "title": "索尼和华纳起诉 Anthropic“公然违反”版权法",
-      "url": "https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law",
-      "primary_url": "https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "69f91e4f33f51ee68af4e9632ae2c37faa16b357",
-          "title": "Sony and Warner sue Anthropic for 'blatant violation' of copyright law",
-          "url": "https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T18:52:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9ceec1dd",
-      "title": "索尼音乐、华纳起诉 Anthropic，指控其进行“无耻的盗窃知识产权活动”",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
-      "primary_url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2f4732af4fc8e7b0833e74f5dca98d74a1f1b267",
-          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T18:41:59Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e96a466b",
-      "title": "LLM让我失去了悟性",
-      "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
-      "primary_url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
-          "title": "LLMs are making me lose my savviness",
-          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T18:38:52Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3696d233",
-      "title": "Show HN：AI Harness，让 Codex 和 Claude 的图表能够相互通信",
-      "url": "https://github.com/rysh-ai/rysh-cli-code",
-      "primary_url": "https://github.com/rysh-ai/rysh-cli-code",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "7db57bef7c0663016c0046bf2708ca2e3bc708b2",
-          "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
-          "url": "https://github.com/rysh-ai/rysh-cli-code",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T18:34:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5dd68102",
-      "title": "vLLM v0.28.0",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-      "primary_url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "99e2e4f7141b143f40e34fdf5d5682aa350d00dc",
-          "title": "vLLM v0.28.0",
-          "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T18:22:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d1966ad8",
-      "title": "Anthropic will \"permanently\" raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost (@claudedevs)",
-      "url": "https://www.techmeme.com/260829/p13",
-      "primary_url": "https://www.techmeme.com/260829/p13",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "31141fb0a0e629cde2721c4368a89d14ae8df6bd",
-          "title": "Anthropic will \"permanently\" raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost (@claudedevs)",
-          "url": "https://www.techmeme.com/260829/p13",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T18:05:01Z"
         }
       ],
       "item_count": 1,
