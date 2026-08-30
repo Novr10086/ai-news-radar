@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T11:11:54.531195Z",
+  "generated_at": "2026-08-30T12:14:06.113378Z",
   "window_hours": 24,
-  "total_stories": 107,
+  "total_stories": 113,
   "stories": [
     {
       "story_id": "story_0305d8d0",
@@ -328,6 +328,28 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_7bd6c6c0",
+      "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
+      "primary_url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
+      "source_count": 1,
+      "source_names": [
+        "NPR Top News"
+      ],
+      "sources": [
+        {
+          "id": "748f6e008c0bf7a3ebf87d0b6ff5028fdb2d1895",
+          "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
+          "url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
+          "source": "NPR Top News",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-30T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_32e06ee7",
@@ -792,16 +814,24 @@
       "score": 9720
     },
     {
-      "story_id": "story_2e8b42ab",
-      "title": "My fat loss experiments with ChatGPT and water fasting",
-      "url": "https://news.ycombinator.com/item?id=49497362",
-      "primary_url": "https://news.ycombinator.com/item?id=49497362",
+      "story_id": "story_1d06b1ea",
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://news.ycombinator.com/item?id=49497357",
+      "primary_url": "https://news.ycombinator.com/item?id=49497357",
       "source_count": 2,
       "source_names": [
         "hackernews",
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://news.ycombinator.com/item?id=49497357",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T11:39:24.443000Z"
+        },
         {
           "id": "e5218e4d3b24a469538fde63c3931c35aee28d16",
           "title": "My fat loss experiments with ChatGPT and water fasting",
@@ -915,7 +945,38 @@
           "published_at": "2026-08-29T14:35:58.987000Z"
         }
       ],
-      "item_count": 14,
+      "item_count": 15,
+      "score": 9570
+    },
+    {
+      "story_id": "story_ae5a8864",
+      "title": "Nvidia's AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+      "primary_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "fdba0893d2983b9c74bb3c43eaf9274bc6dff44a",
+          "title": "Nvidia's AI advantage is moving beyond the GPU",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T09:57:06Z"
+        },
+        {
+          "id": "47be77b1e270acf2443a9739db6566ea3004190d",
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:00:00Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9570
     },
     {
@@ -926,7 +987,7 @@
       "source_count": 2,
       "source_names": [
         "newsletter.eng-leadership.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -938,11 +999,11 @@
           "published_at": "2026-08-29T20:20:15.528000Z"
         },
         {
-          "id": "71248308b9890f003edd940349595f79c695985d",
+          "id": "ea5f5c492148d25fe419436b45cb328191424485",
           "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
           "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-29T17:19:47Z"
         }
       ],
@@ -957,7 +1018,7 @@
       "source_count": 2,
       "source_names": [
         "lwn.net",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -969,16 +1030,126 @@
           "published_at": "2026-08-29T15:16:20.593000Z"
         },
         {
-          "id": "898e06fd595957bac0a3cf1b17d6c656c142b1a3",
+          "id": "2a5b872c692789f050919e55f7152de4f368099b",
           "title": "Debian votes to allow \"responsible use of generative AI\"",
           "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-29T14:02:10Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_7ab353b7",
+      "title": "为什么只靠 Prompt 让 LLM 输出 JSON 不可靠",
+      "url": "https://juejin.cn/post/7678906688713867299",
+      "primary_url": "https://juejin.cn/post/7678906688713867299",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "10b80652f294dbd306d7eec0eb68d6826e6608bd",
+          "title": "为什么只靠 Prompt 让 LLM 输出 JSON 不可靠",
+          "url": "https://juejin.cn/post/7678906688713867299",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T11:48:17.132000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_81d84edf",
+      "title": "💡 当 LLM 开始骗自己：用几行正则给 AI 生成的文章上一道可信度闸门",
+      "url": "https://juejin.cn/post/7679054762876633139",
+      "primary_url": "https://juejin.cn/post/7679054762876633139",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "c721f3d6d752fcb6681697992bea3074c50caa30",
+          "title": "💡 当 LLM 开始骗自己：用几行正则给 AI 生成的文章上一道可信度闸门",
+          "url": "https://juejin.cn/post/7679054762876633139",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T11:48:17.132000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_065d8170",
+      "title": "Superagent",
+      "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+      "primary_url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "e3c6a5fdc6c7058f8d61d102ec1b2637e7927dbc",
+          "title": "Superagent",
+          "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T11:45:08.666000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_69d36549",
+      "title": "pollen-robotics /      microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "primary_url": "https://github.com/pollen-robotics/microduck_rl",
+      "source_count": 1,
+      "source_names": [
+        "github"
+      ],
+      "sources": [
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T11:35:49.499000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_396cb5e3",
+      "title": "punkpeye /      awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "primary_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "source_count": 1,
+      "source_names": [
+        "github"
+      ],
+      "sources": [
+        {
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T11:35:49.499000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_df77c4a9",
@@ -1119,16 +1290,38 @@
       "primary_url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "ec1f703c8fb70a1c4e874b90dc4ad112022037c2",
+          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
           "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
           "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-30T10:20:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7a182262",
+      "title": "I manage 10+ agents at Cisco. It doesn't mean longer hours, but the work can feel more intense.",
+      "url": "https://www.businessinsider.com/cisco-director-engineering-ai-agents-faster-work-2026-8",
+      "primary_url": "https://www.businessinsider.com/cisco-director-engineering-ai-agents-faster-work-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "1996209a74a7c367704b9227ff16dec984b8a635",
+          "title": "I manage 10+ agents at Cisco. It doesn't mean longer hours, but the work can feel more intense.",
+          "url": "https://www.businessinsider.com/cisco-director-engineering-ai-agents-faster-work-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T09:55:01Z"
         }
       ],
       "item_count": 1,
@@ -1195,6 +1388,50 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-08-30T09:33:23Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_30e70af3",
+      "title": "Why investors should be concerned about the growing backlash to AI data centers",
+      "url": "https://www.businessinsider.com/data-center-protests-investment-risks-ai-stocks-chips-hyperscalers-2026-8",
+      "primary_url": "https://www.businessinsider.com/data-center-protests-investment-risks-ai-stocks-chips-hyperscalers-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "9b9e6b3f8b7ca0b9da654300b135d56d976d58fa",
+          "title": "Why investors should be concerned about the growing backlash to AI data centers",
+          "url": "https://www.businessinsider.com/data-center-protests-investment-risks-ai-stocks-chips-hyperscalers-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T09:30:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e3254712",
+      "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not.",
+      "url": "https://www.businessinsider.com/tech-workers-dream-employers-openai-anthropic-apple-google-amazon-jobs-2026-8",
+      "primary_url": "https://www.businessinsider.com/tech-workers-dream-employers-openai-anthropic-apple-google-amazon-jobs-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "b2b191b8e5c3e306924cf3f32d8bd8390b783a16",
+          "title": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not.",
+          "url": "https://www.businessinsider.com/tech-workers-dream-employers-openai-anthropic-apple-google-amazon-jobs-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T09:30:02Z"
         }
       ],
       "item_count": 1,
@@ -1669,15 +1906,15 @@
       "primary_url": "https://www.dwarkesh.com/p/openai-huggingface",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "d5136ba2df1444c4abc7d2e56df1703b1e627d76",
+          "id": "4d8c24c946bcdd03d855c22a3c348c052c175460",
           "title": "The Rise and Fall of Agent Civilizations",
           "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-29T23:43:24Z"
         }
       ],
@@ -1801,15 +2038,15 @@
       "primary_url": "https://coldtake.dev/blog/domain-driven-agents",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "a36bcd30794ef358eac2cec41cdafe591407f1ac",
+          "id": "1d7569e3c98de495797b82dcd61d6cb26c7ac9df",
           "title": "Domain-Driven Agents",
           "url": "https://coldtake.dev/blog/domain-driven-agents",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-29T19:28:28Z"
         }
       ],
@@ -2021,15 +2258,15 @@
       "primary_url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "b12eaf0e3c3604474013f0102df332a16fe77b59",
+          "id": "cf46462cf8b627b742923693dda4a68f2f3bed83",
           "title": "vLLM v0.28.0",
           "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-29T18:22:00Z"
         }
       ],
@@ -2153,15 +2390,15 @@
       "primary_url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "4feea7015be41ca23134e7ff92b1f7ae445e71c8",
+          "id": "5327a0e6a470dd7f7b85d5fee064a34b9b6bf350",
           "title": "Claude permanently raising weekly limits by 25%",
           "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-29T16:37:05Z"
         }
       ],
@@ -2389,28 +2626,6 @@
       "score": 7
     },
     {
-      "story_id": "story_ae5a8864",
-      "title": "Nvidia 的 AI 优势正在超越 GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-      "primary_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "47be77b1e270acf2443a9739db6566ea3004190d",
-          "title": "Nvidia’s AI advantage is moving beyond the GPU",
-          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_1c3bd959",
       "title": "AWS 正在关闭 Mechanical Turk，它让人类在某些工作任务上击败人工智能",
       "url": "https://www.techradar.com/pro/aws-is-shutting-down-mechanical-turk-which-let-humans-beat-ai-at-certain-work-tasks",
@@ -2427,72 +2642,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-08-29T12:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_248d3859",
-      "title": "音乐家出身的侦探正在追捕人工智能诈骗者",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "primary_url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "6bff97d4dab621de6ea3d7f6318a59576f2893e3",
-          "title": "Musicians-turned-detectives are hunting for AI grifters",
-          "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b32932e2",
-      "title": "只需要求 Claude Code 总结一个网站，就可以欺骗 Claude Code",
-      "url": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
-      "primary_url": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "70a46b04fee9585db56cb8520cc03995561b5fcd",
-          "title": "Claude Code can be tricked simply by asking it to summarize a website",
-          "url": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T11:46:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a1bf5548",
-      "title": "用 AI 结对编程从 0 搭一个\"单词后台管理系统\"：Next.js + Supabase + Drizzle + shadcn/ui 全记录",
-      "url": "https://juejin.cn/post/7678239521201307657",
-      "primary_url": "https://juejin.cn/post/7678239521201307657",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "65fc7172843d308624a2c7bd1d8d483d4923e054",
-          "title": "用 AI 结对编程从 0 搭一个\"单词后台管理系统\"：Next.js + Supabase + Drizzle + shadcn/ui 全记录",
-          "url": "https://juejin.cn/post/7678239521201307657",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T11:34:36.919000Z"
         }
       ],
       "item_count": 1,
