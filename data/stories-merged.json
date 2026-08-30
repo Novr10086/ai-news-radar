@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T19:16:53.801985Z",
+  "generated_at": "2026-08-30T20:15:59.626981Z",
   "window_hours": 24,
-  "total_stories": 102,
+  "total_stories": 99,
   "stories": [
     {
       "story_id": "story_0305d8d0",
@@ -240,6 +240,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-08-30T16:08:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_2c4b734e",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+      "primary_url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "13b316a0d6bcec2409e74d4bc715bc9364e7cac0",
+          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+          "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-30T15:00:00Z"
         }
       ],
       "item_count": 1,
@@ -716,6 +738,37 @@
       "score": 9720
     },
     {
+      "story_id": "story_ffa6be03",
+      "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "primary_url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "source_count": 2,
+      "source_names": [
+        "thezvi.wordpress.com",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "thezvi.wordpress.com",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T19:31:43.820000Z"
+        },
+        {
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_7900b2cc",
       "title": "Ask HN: How do I make sure ChatGPT/Claude/Gemini forget all prior conversations?",
       "url": "https://news.ycombinator.com/item?id=49498450",
@@ -837,17 +890,9 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-29T20:36:44.934000Z"
-        },
-        {
-          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://news.ycombinator.com/item?id=49492432",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:36:37.809000Z"
         }
       ],
-      "item_count": 15,
+      "item_count": 14,
       "score": 9570
     },
     {
@@ -858,7 +903,7 @@
       "source_count": 2,
       "source_names": [
         "github.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -870,11 +915,11 @@
           "published_at": "2026-08-30T16:35:36.082000Z"
         },
         {
-          "id": "85e9e66462497dd48395e77e97732ad5db4e276d",
+          "id": "d998a4f9dd781af3be200c5325c031b842ed88c4",
           "title": "Claude Session URL appended to commit messages and PR descriptions by default",
           "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-30T12:50:54Z"
         }
       ],
@@ -889,7 +934,7 @@
       "source_count": 2,
       "source_names": [
         "noaifridays.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -901,11 +946,11 @@
           "published_at": "2026-08-30T15:15:25.717000Z"
         },
         {
-          "id": "fed6c3383d14cbd591b5e56f42f913c6cca6b684",
+          "id": "b2e2dc0947d05e788c218548dd572b74e596e05f",
           "title": "No AI Fridays",
           "url": "https://noaifridays.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-08-30T12:31:05Z"
         }
       ],
@@ -929,6 +974,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-30T18:55:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f98b26e6",
+      "title": "Texas blocks funding for Flock as backlash grows against AI surveillance cameras",
+      "url": "https://mashable.com/tech/texas-blocks-funding-flock-ai-surveillance-cameras-amid-backlash",
+      "primary_url": "https://mashable.com/tech/texas-blocks-funding-flock-ai-surveillance-cameras-amid-backlash",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "f03ce8933d2850591d954eb16cccd364fb661efd",
+          "title": "Texas blocks funding for Flock as backlash grows against AI surveillance cameras",
+          "url": "https://mashable.com/tech/texas-blocks-funding-flock-ai-surveillance-cameras-amid-backlash",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T18:52:26Z"
         }
       ],
       "item_count": 1,
@@ -1067,28 +1134,6 @@
       "score": 7
     },
     {
-      "story_id": "story_2c4b734e",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
-      "primary_url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "52723b8f4b1187e44e35670653f1d0350c0066bb",
-          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-          "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_7d47703e",
       "title": "Sony Music, Warner sue Anthropic, alleging copyright infringement",
       "url": "https://mashable.com/tech/anthropic-sued-by-sony-music-warner-ai-copyright-infringement",
@@ -1105,28 +1150,6 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-08-30T14:51:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ffa6be03",
-      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-      "primary_url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T14:06:54Z"
         }
       ],
       "item_count": 1,
@@ -1227,15 +1250,15 @@
       "primary_url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "8276b018ba160db1f7e1af1d03f04f08a366e638",
+          "id": "6ccc42a0b385f2acad43a6ddf82ef27ce01e7eb3",
           "title": "The turbulent AI era is here. The choices we make now are critical",
           "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-30T11:38:35Z"
         }
       ],
@@ -1425,15 +1448,15 @@
       "primary_url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "6ea3712a57180478af38e676b2674ccbb84d049f",
+          "id": "ec1f703c8fb70a1c4e874b90dc4ad112022037c2",
           "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
           "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-08-30T10:20:11Z"
         }
       ],
@@ -2293,94 +2316,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-08-29T20:05:06Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8a90933f",
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "primary_url": "https://coldtake.dev/blog/domain-driven-agents",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "a36bcd30794ef358eac2cec41cdafe591407f1ac",
-          "title": "Domain-Driven Agents",
-          "url": "https://coldtake.dev/blog/domain-driven-agents",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-29T19:28:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9284345c",
-      "title": "小学接送事件及未来之路",
-      "url": "https://shitposting.ai/pickup-incident",
-      "primary_url": "https://shitposting.ai/pickup-incident",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "78550af665fdf8b402978a1f12af6673eeb54ff0",
-          "title": "The elementary school pickup incident and the road ahead",
-          "url": "https://shitposting.ai/pickup-incident",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T19:25:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_04cb0dbc",
-      "title": "Warp 在 Claude 的基础上构建自我改进的代理",
-      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-      "primary_url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "129bd49bfdd4d75996c81a375568c8b8eec7630c",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-08-29T19:09:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9b166dff",
-      "title": "索尼指责 Anthropic 对其音乐进行“厚颜无耻的活动”，并要求每首歌高达 15 万美元",
-      "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
-          "title": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T19:05:05Z"
         }
       ],
       "item_count": 1,
