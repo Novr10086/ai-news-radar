@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T14:20:34.912529Z",
+  "generated_at": "2026-09-01T15:19:11.574060Z",
   "category": "ai",
-  "total": 250,
+  "total": 235,
   "items": [
     {
       "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
@@ -18,6 +18,16 @@
       "title_zh": "Codex CLI 0.152.0",
       "url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
+      "_site": "Official AI Updates",
+      "tier": 0,
+      "ai": true,
+      "ts": "2026-09-01T00:00:00Z"
+    },
+    {
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "title_zh": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face Blog",
       "_site": "Official AI Updates",
       "tier": 0,
       "ai": true,
@@ -364,16 +374,6 @@
       "ts": "2026-09-01T14:04:45.741273Z"
     },
     {
-      "title": "Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned...",
-      "title_zh": "Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. I’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned...",
-      "url": "https://x.com/thenanyu/status/2094427243565269107",
-      "source": "Follow Builders · X · Nan Yu",
-      "_site": "Follow Builders",
-      "tier": 2,
-      "ai": true,
-      "ts": "2026-08-31T14:09:02Z"
-    },
-    {
       "title": "I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop And I've also added evals for memory-save from agent transcript, w...",
       "title_zh": "I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop And I've also added evals for memory-save from agent transcript, w...",
       "url": "https://x.com/garrytan/status/2094462971598754010",
@@ -472,46 +472,6 @@
       "tier": 2,
       "ai": true,
       "ts": "2026-09-01T04:58:08Z"
-    },
-    {
-      "title": "AI情感陪伴需要怎样的监管",
-      "title_zh": "AI情感陪伴需要怎样的监管",
-      "url": "https://www.huxiu.com/article/4887449.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-31T14:14:48Z"
-    },
-    {
-      "title": "OpenAI模型越狱偷走benchmark答案，盖茨罕见喊话“慢一点”：AI这趟车谁来踩刹车？",
-      "title_zh": "OpenAI模型越狱偷走benchmark答案，盖茨罕见喊话“慢一点”：AI这趟车谁来踩刹车？",
-      "url": "https://www.huxiu.com/article/4887451.html?f=rss",
-      "source": "虎嗅",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-31T14:19:44Z"
-    },
-    {
-      "title": "欧盟将对ChatGPT等3家美国服务平台加强监管",
-      "title_zh": "欧盟将对ChatGPT等3家美国服务平台加强监管",
-      "url": "http://www.news.cn/20260831/a982651267a14fd593a4125c9eaa8738/c.html",
-      "source": "新华网 / 新华社新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-31T14:58:22Z"
-    },
-    {
-      "title": "澎湃新闻生成式人工智能产品再上新：“星映AI短剧创作平台”完成服务登记",
-      "title_zh": "澎湃新闻生成式人工智能产品再上新：“星映AI短剧创作平台”完成服务登记",
-      "url": "https://m.thepaper.cn/detail/33979609",
-      "source": "澎湃新闻",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-08-31T14:59:47Z"
     },
     {
       "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
@@ -1114,16 +1074,6 @@
       "ts": "2026-09-01T08:46:36Z"
     },
     {
-      "title": "Made in America: How AI is keeping this U.S. factory competitive",
-      "title_zh": "Made in America: How AI is keeping this U.S. factory competitive",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
-      "source": "NPR Top News",
-      "_site": "OPML RSS",
-      "tier": 3,
-      "ai": true,
-      "ts": "2026-09-01T09:00:00Z"
-    },
-    {
       "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
       "title_zh": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
       "url": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
@@ -1146,6 +1096,16 @@
     {
       "title": "'It can outthink me': How a major manufacturer came to embrace AI",
       "title_zh": "'It can outthink me': How a major manufacturer came to embrace AI",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
+      "source": "NPR Top News",
+      "_site": "OPML RSS",
+      "tier": 3,
+      "ai": true,
+      "ts": "2026-09-01T09:00:00Z"
+    },
+    {
+      "title": "Made in America: How AI is keeping this U.S. factory competitive",
+      "title_zh": "Made in America: How AI is keeping this U.S. factory competitive",
       "url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
       "source": "NPR Top News",
       "_site": "OPML RSS",
@@ -1264,154 +1224,14 @@
       "ts": "2026-09-01T13:09:40Z"
     },
     {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "title_zh": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
+      "title": "从 Token 到扭矩，AI 落地东盟的四道「硬」关｜SEA Frontline",
+      "title_zh": "从 Token 到扭矩，AI 落地东盟的四道「硬」关｜SEA Frontline",
+      "url": "https://www.tmtpost.com/8124037.html",
+      "source": "钛媒体 TMTPost",
+      "_site": "OPML RSS",
+      "tier": 3,
       "ai": true,
-      "ts": "2026-08-31T14:07:15Z"
-    },
-    {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "title_zh": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site",
-      "source": "Hacker News (黑客新闻)",
-      "_site": "Info Flow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T14:07:15Z"
-    },
-    {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "title_zh": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T14:07:15Z"
-    },
-    {
-      "title": "OpenAI says its ads business is booming as it marches toward an IPO",
-      "title_zh": "OpenAI says its ads business is booming as it marches toward an IPO",
-      "url": "https://www.businessinsider.com/openai-chatgpt-ad-revenue-ipo-2026-8",
-      "source": "Business Insider",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T14:14:05Z"
-    },
-    {
-      "title": "Hugging Face is selling a $399 robot duck with open-source software",
-      "title_zh": "Hugging Face is selling a $399 robot duck with open-source software",
-      "url": "https://thenextweb.com/news/hugging-face-microduck-399-open-source-robot",
-      "source": "The Next Web",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T14:14:50Z"
-    },
-    {
-      "title": "Lenovo ThinkPad P16s Gen 4 review: A surprisingly slim mobile workstation that easily handles CAD and AI workloads",
-      "title_zh": "Lenovo ThinkPad P16s Gen 4 review: A surprisingly slim mobile workstation that easily handles CAD and AI workloads",
-      "url": "https://www.techradar.com/pro/lenovo-thinkpad-p16s-gen-4-mobile-workstation-review",
-      "source": "TechRadar",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T14:35:00Z"
-    },
-    {
-      "title": "Marx, Keynes, and AI",
-      "title_zh": "Marx, Keynes, and AI",
-      "url": "https://www.unpopularfront.news/p/marx-keynes-and-ai",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T14:36:03Z"
-    },
-    {
-      "title": "Claude Code 插件别瞎装，这 9 款才是 2026 年的真生产力工具",
-      "title_zh": "Claude Code 插件别瞎装，这 9 款才是 2026 年的真生产力工具",
-      "url": "https://juejin.cn/post/7680006676436025386",
-      "source": "juejin",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T14:36:37.433000Z"
-    },
-    {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "title_zh": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://news.ycombinator.com/item?id=49510000",
-      "source": "hackernews",
-      "_site": "NewsNow",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T14:49:38.005000Z"
-    },
-    {
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "title_zh": "ChatGPT to face tougher regulation in the EU",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T14:52:44Z"
-    },
-    {
-      "title": "ChatGPT, Reddit and Roblox to face the EU's strictest platform rules",
-      "title_zh": "ChatGPT, Reddit and Roblox to face the EU's strictest platform rules",
-      "url": "https://www.engadget.com/2247513/chatgpt-reddit-and-roblox-to-face-the-eus-strictest-platform-rules",
-      "source": "Engadget",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T14:56:27Z"
-    },
-    {
-      "title": "Honor Robot Phone hands-on: A gimbal phone experiment with promising results",
-      "title_zh": "Honor Robot Phone hands-on: A gimbal phone experiment with promising results",
-      "url": "https://www.engadget.com/2247473/honor-robot-phone-hands-on",
-      "source": "Engadget",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T15:00:00Z"
-    },
-    {
-      "title": "Agentic Trust Controls",
-      "title_zh": "Agentic Trust Controls",
-      "url": "https://trustcontrols.ai",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T15:01:04Z"
-    },
-    {
-      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "title_zh": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "url": "https://github.com/Hebbian-Robotics/hflow",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T15:02:41Z"
-    },
-    {
-      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "title_zh": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "url": "https://github.com/Hebbian-Robotics/hflow",
-      "source": "Hacker News",
-      "_site": "TechURLs",
-      "tier": 5,
-      "ai": true,
-      "ts": "2026-08-31T15:02:41Z"
+      "ts": "2026-09-01T14:07:19Z"
     },
     {
       "title": "Together AI, which serves open models, announces a deal to use compute from Humain in Saudi Arabia, where it can bypass US backlash over data centers (Niko Gallogly/New York Times)",
@@ -1804,6 +1624,16 @@
       "ts": "2026-08-31T21:00:46Z"
     },
     {
+      "title": "Show HN: 49 IDE – 2D Canvas for Agents",
+      "title_zh": "Show HN: 49 IDE – 2D Canvas for Agents",
+      "url": "https://github.com/alpbahadur/49-IDE",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-08-31T21:05:32Z"
+    },
+    {
       "title": "Sources: AI sales and marketing startup Clay is raising a round led by Wellington at a $7B pre-money valuation, up from $5B via an employee tender in January (Lucinda Shen/Axios)",
       "title_zh": "Sources: AI sales and marketing startup Clay is raising a round led by Wellington at a $7B pre-money valuation, up from $5B via an employee tender in January (Lucinda Shen/Axios)",
       "url": "https://www.techmeme.com/260831/p39",
@@ -1957,8 +1787,8 @@
       "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
       "title_zh": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
       "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta",
-      "source": "Hacker News",
-      "_site": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "_site": "Zeli",
       "tier": 5,
       "ai": false,
       "ts": "2026-09-01T01:25:40Z"
@@ -1967,8 +1797,8 @@
       "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
       "title_zh": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
       "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta",
-      "source": "Hacker News · 24h最热",
-      "_site": "Zeli",
+      "source": "Hacker News",
+      "_site": "TechURLs",
       "tier": 5,
       "ai": false,
       "ts": "2026-09-01T01:25:40Z"
@@ -2484,6 +2314,16 @@
       "ts": "2026-09-01T12:53:51Z"
     },
     {
+      "title": "Anthropic's Tom Blomfield says his new coworkers are a 'hyper-earnest group of meganerds' with a 'lack of ego'",
+      "title_zh": "Anthropic's Tom Blomfield says his new coworkers are a 'hyper-earnest group of meganerds' with a 'lack of ego'",
+      "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
+      "source": "Business Insider",
+      "_site": "TechURLs",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-01T13:33:47Z"
+    },
+    {
       "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
       "title_zh": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
       "url": "https://news.ycombinator.com/item?id=49521315",
@@ -2502,6 +2342,16 @@
       "tier": 5,
       "ai": true,
       "ts": "2026-09-01T13:42:30.400000Z"
+    },
+    {
+      "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+      "title_zh": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "source": "www.eff.org",
+      "_site": "Buzzing",
+      "tier": 5,
+      "ai": true,
+      "ts": "2026-09-01T14:41:25.376000Z"
     }
   ]
 }
