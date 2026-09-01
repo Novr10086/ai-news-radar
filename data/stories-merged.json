@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-09-01T15:19:11.443940Z",
+  "generated_at": "2026-09-01T16:53:04.849438Z",
   "window_hours": 24,
-  "total_stories": 196,
+  "total_stories": 209,
   "stories": [
+    {
+      "story_id": "story_0f146bbd",
+      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "primary_url": "https://huggingface.co/blog/webgpu-kernels",
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
+          "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "source": "Hugging Face Blog",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        },
+        {
+          "id": "42ac8f40a72438975c76721d9af4324ae9b281f9",
+          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "source": "Hugging Face：Blog（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
+    },
     {
       "story_id": "story_36e5104f",
       "title": "Codex CLI 0.152.0",
@@ -18,28 +49,6 @@
           "title": "Codex CLI 0.152.0",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_0f146bbd",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "primary_url": "https://huggingface.co/blog/webgpu-kernels",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "sources": [
-        {
-          "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
-          "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-          "url": "https://huggingface.co/blog/webgpu-kernels",
-          "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "published_at": "2026-09-01T00:00:00Z"
         }
@@ -99,6 +108,28 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_5fdfe015",
+      "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+      "source_count": 1,
+      "source_names": [
+        "Google Blog：AI（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "feecd8823ba28b6793ad879284c39fb7e38e6f50",
+          "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
+          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+          "source": "Google Blog：AI（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_1fddf9b5",
@@ -769,26 +800,114 @@
       "score": 9920
     },
     {
-      "story_id": "story_047c5a65",
-      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-      "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "primary_url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+      "story_id": "story_106d4d11",
+      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+      "url": "https://www.ithome.com/0/996/711.htm",
+      "primary_url": "https://www.ithome.com/0/996/711.htm",
       "source_count": 1,
       "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "IT之家（RSS）"
       ],
       "sources": [
         {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
+          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+          "url": "https://www.ithome.com/0/996/711.htm",
+          "source": "IT之家（RSS）",
           "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
+          "published_at": "2026-08-31T23:55:44Z"
         }
       ],
       "item_count": 1,
       "score": 9920
+    },
+    {
+      "story_id": "story_eec2dab9",
+      "title": "万字长文！读懂模型微调的基本概念和名词",
+      "url": "https://waytoagi.feishu.cn/wiki/JJpTwoNgSie45wkkVjZc3IT8n4N?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/JJpTwoNgSie45wkkVjZc3IT8n4N?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-09-01"
+      ],
+      "sources": [
+        {
+          "id": "6a5c3c3e0437507aec25956c3fad8a26dc93adf0",
+          "title": "万字长文！读懂模型微调的基本概念和名词",
+          "url": "https://waytoagi.feishu.cn/wiki/JJpTwoNgSie45wkkVjZc3IT8n4N?from=from_copylink",
+          "source": "社区更新 · 2026-09-01",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:34:21.813830Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_de9cf2f9",
+      "title": "万字长文｜Hugging Face从入门到精通",
+      "url": "https://waytoagi.feishu.cn/wiki/EQwbwkD3tiSTXrkwxJycmmDgn8f?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/EQwbwkD3tiSTXrkwxJycmmDgn8f?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-09-01"
+      ],
+      "sources": [
+        {
+          "id": "d25ac04d90f5174a95b1eac0b2beb8649da0abc5",
+          "title": "万字长文｜Hugging Face从入门到精通",
+          "url": "https://waytoagi.feishu.cn/wiki/EQwbwkD3tiSTXrkwxJycmmDgn8f?from=from_copylink",
+          "source": "社区更新 · 2026-09-01",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:34:21.813830Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_f1eda1e8",
+      "title": "每位 AI 工程师都应了解的关于智能体沙箱的 5 件事",
+      "url": "https://waytoagi.feishu.cn/wiki/Xe2Xw27puiJFsTkPZdzcpxGendc?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/Xe2Xw27puiJFsTkPZdzcpxGendc?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-09-01"
+      ],
+      "sources": [
+        {
+          "id": "14c085952cc393d79f413d61e1d60862408666f6",
+          "title": "每位 AI 工程师都应了解的关于智能体沙箱的 5 件事",
+          "url": "https://waytoagi.feishu.cn/wiki/Xe2Xw27puiJFsTkPZdzcpxGendc?from=from_copylink",
+          "source": "社区更新 · 2026-09-01",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:34:21.813830Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_f62f86bc",
+      "title": "详解大语言模型中的静态、动态与连续批处理",
+      "url": "https://waytoagi.feishu.cn/wiki/H6STwP6lViTWUJkPUVTc6Lr0npg?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/H6STwP6lViTWUJkPUVTc6Lr0npg?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-09-01"
+      ],
+      "sources": [
+        {
+          "id": "eeca83aff95d1a4a78c82bb478eebc574f461727",
+          "title": "详解大语言模型中的静态、动态与连续批处理",
+          "url": "https://waytoagi.feishu.cn/wiki/H6STwP6lViTWUJkPUVTc6Lr0npg?from=from_copylink",
+          "source": "社区更新 · 2026-09-01",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-01T16:34:21.813830Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
     },
     {
       "story_id": "story_e7c4e53c",
@@ -989,28 +1108,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_a13009ed",
-      "title": "I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop And I've also added evals for memory-save from agent transcript, w...",
-      "url": "https://x.com/garrytan/status/2094462971598754010",
-      "primary_url": "https://x.com/garrytan/status/2094462971598754010",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Garry Tan"
-      ],
-      "sources": [
-        {
-          "id": "42341fa07b3abaaa91bb2b195b228f19bf740f47",
-          "title": "I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop And I've also added evals for memory-save from agent transcript, w...",
-          "url": "https://x.com/garrytan/status/2094462971598754010",
-          "source": "Follow Builders · X · Garry Tan",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-31T16:31:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_457a8304",
       "title": "用AI，谈一场身心俱疲的恋爱",
       "url": "https://www.tmtpost.com/8124305.html",
@@ -1071,6 +1168,72 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_91bace98",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "3aa736331ba88cba922479fa36992d5529949bb5",
+          "title": "John Deere launched an AI chatbot for farmers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T16:00:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9995525a",
+      "title": "Google Pics is like Canva, but with even more AI",
+      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "primary_url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "7c8c930a60232973bdea72ac3a8f688e3fb0e33c",
+          "title": "Google Pics is like Canva, but with even more AI",
+          "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_5955e595",
+      "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
+      "url": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC World"
+      ],
+      "sources": [
+        {
+          "id": "811b126fcba79daa67b4a5b33989a0392a29c6b6",
+          "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
+          "url": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T15:57:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_d6085846",
@@ -2167,6 +2330,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_344c3903",
+      "title": "Mutating every DNA letter of a genome shows surprising effects — and the limits of AI",
+      "url": "https://www.nature.com/articles/d41586-026-02609-y",
+      "primary_url": "https://www.nature.com/articles/d41586-026-02609-y",
+      "source_count": 1,
+      "source_names": [
+        "Nature"
+      ],
+      "sources": [
+        {
+          "id": "dd2785210e0057afa1eb69192e1027352bd9f7b9",
+          "title": "Mutating every DNA letter of a genome shows surprising effects — and the limits of AI",
+          "url": "https://www.nature.com/articles/d41586-026-02609-y",
+          "source": "Nature",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_f47f5f3f",
       "title": "When AI does science, who is accountable for mistakes?",
       "url": "https://www.nature.com/articles/d41586-026-02735-7",
@@ -2431,6 +2616,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_be1cc9e6",
+      "title": "“我心爱的 Zlibrary”：Anthropic 员工在聊天中赞扬索尼诉讼中提到的盗版行为",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "64865b4709cb34e926b8b692e2051d01998c14f1",
+          "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-31T18:10:45Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_ec09a3f3",
       "title": "万斯表示特朗普通过人工智能生成的视频向伊朗“传递信息”",
       "url": "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
@@ -2450,58 +2657,6 @@
         }
       ],
       "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_45432504",
-      "title": "Clipto 使用 AI 搜索 TB 级视频，目前估值为 2.5 亿美元",
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
-      "primary_url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "0a5b9a0a091061a06518431d9541a017b5b3bbe3",
-          "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-          "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-31T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_6eb0d063",
-      "title": "Debian 不会禁止其 Linux 发行版中的人工智能代码",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "primary_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "baf2dad559eee520e15f573c7d5333efc105b800",
-          "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-31T15:34:58Z"
-        },
-        {
-          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
-          "title": "Debian won’t ban AI code from its Linux distribution",
-          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:34:58Z"
-        }
-      ],
-      "item_count": 2,
       "score": 9720
     },
     {
@@ -2543,7 +2698,7 @@
       "source_count": 2,
       "source_names": [
         "www.hermit-tech.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2555,11 +2710,11 @@
           "published_at": "2026-09-01T11:45:30.411000Z"
         },
         {
-          "id": "72598000a042b77333bd18db90684e011edcaaeb",
+          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
           "title": "AI Can Make You Suck Faster Too",
           "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-01T05:32:56Z"
         }
       ],
@@ -2574,7 +2729,7 @@
       "source_count": 2,
       "source_names": [
         "muratbuffalo.blogspot.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2586,11 +2741,11 @@
           "published_at": "2026-09-01T01:21:40.999000Z"
         },
         {
-          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
+          "id": "c45cfede35d4f0e41adbad9e87fee4519d537b22",
           "title": "The safest job from AI may be writing",
           "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-08-31T18:12:20Z"
         }
       ],
@@ -2629,28 +2784,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_89bf8dbb",
-      "title": "Tovel AI",
-      "url": "https://www.producthunt.com/products/tovel-ai",
-      "primary_url": "https://www.producthunt.com/products/tovel-ai",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "91712c662ec94a1ae675b60f011ee8b43b1d2816",
-          "title": "Tovel AI",
-          "url": "https://www.producthunt.com/products/tovel-ai",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-09-01T13:42:30.400000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_d7891306",
       "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
       "url": "https://news.ycombinator.com/item?id=49516848",
@@ -2660,6 +2793,14 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "fe96a0b2fe9dafc26f4f637e13ec52834491cf14",
+          "title": "Keenable SELECT: an agent that searches the web in SQL",
+          "url": "https://news.ycombinator.com/item?id=49523473",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T16:12:41.865000Z"
+        },
         {
           "id": "39b94c93291404147770c6191455460b32be04e2",
           "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
@@ -2723,33 +2864,361 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-08-31T18:48:40.772000Z"
-        },
-        {
-          "id": "1727def243af4c93e43576309dfe6ca6fa4f0165",
-          "title": "Agentic Trust Controls",
-          "url": "https://news.ycombinator.com/item?id=49510612",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T15:49:48.174000Z"
-        },
-        {
-          "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "url": "https://news.ycombinator.com/item?id=49511007",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T15:49:48.174000Z"
-        },
-        {
-          "id": "5b4b242a692f3129e2ee58fdca46a5df24067632",
-          "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "url": "https://news.ycombinator.com/item?id=49510632",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T15:49:48.174000Z"
         }
       ],
-      "item_count": 11,
+      "item_count": 9,
+      "score": 7
+    },
+    {
+      "story_id": "story_c798d39b",
+      "title": "Google brings its Pics image editor to AI Pro and Ultra subscribers",
+      "url": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers",
+      "primary_url": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "8703ccd45dadc48337f68f845988118f3ce2339d",
+          "title": "Google brings its Pics image editor to AI Pro and Ultra subscribers",
+          "url": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2acdab23",
+      "title": "Jensen Huang and Lisa Su Snubbed By TIME's 2026 List of Top 100 AI Leaders",
+      "url": "https://slashdot.org/story/26/09/01/0331222/jensen-huang-and-lisa-su-snubbed-by-times-2026-list-of-top-100-ai-leaders",
+      "primary_url": "https://slashdot.org/story/26/09/01/0331222/jensen-huang-and-lisa-su-snubbed-by-times-2026-list-of-top-100-ai-leaders",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "14d1239b4cd368590a9c593471634141cc7f1276",
+          "title": "Jensen Huang and Lisa Su Snubbed By TIME's 2026 List of Top 100 AI Leaders",
+          "url": "https://slashdot.org/story/26/09/01/0331222/jensen-huang-and-lisa-su-snubbed-by-times-2026-list-of-top-100-ai-leaders",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9a281b76",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+      "primary_url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "2c058081eb8e7c62c1efdae00c049b3161d5888a",
+          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T15:45:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c4502d31",
+      "title": "GoPro says it's moving into AI data centers as part of a $285 million merger",
+      "url": "https://www.engadget.com/2248633/gopro-says-its-moving-into-ai-data-centers-as-part-of-a-dollar285-million-merger",
+      "primary_url": "https://www.engadget.com/2248633/gopro-says-its-moving-into-ai-data-centers-as-part-of-a-dollar285-million-merger",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "42e2e9f3d7de32cafadc0226f201066ca48646d8",
+          "title": "GoPro says it's moving into AI data centers as part of a $285 million merger",
+          "url": "https://www.engadget.com/2248633/gopro-says-its-moving-into-ai-data-centers-as-part-of-a-dollar285-million-merger",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T15:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1323e733",
+      "title": "Keenable SELECT: an agent that searches the web in SQL",
+      "url": "https://keenableai.github.io/select-showcase",
+      "primary_url": "https://keenableai.github.io/select-showcase",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "0d3d31ddab9d0604382c2a0d8fe9724f1260452e",
+          "title": "Keenable SELECT: an agent that searches the web in SQL",
+          "url": "https://keenableai.github.io/select-showcase",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-01T15:41:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b2db5991",
+      "title": "Former DJI engineers have made 'the world's first robotic extreme zoom camera' — it features a 50x zoom, AI tracking and can identify 300+ bird species",
+      "url": "https://www.techradar.com/cameras/former-dji-engineers-have-made-the-worlds-first-robotic-extreme-zoom-camera-it-features-a-50x-zoom-ai-tracking-and-can-identify-300-bird-species",
+      "primary_url": "https://www.techradar.com/cameras/former-dji-engineers-have-made-the-worlds-first-robotic-extreme-zoom-camera-it-features-a-50x-zoom-ai-tracking-and-can-identify-300-bird-species",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "08bdefe244d5dd63901c9cede2d5d35f021be1ab",
+          "title": "Former DJI engineers have made 'the world's first robotic extreme zoom camera' — it features a 50x zoom, AI tracking and can identify 300+ bird species",
+          "url": "https://www.techradar.com/cameras/former-dji-engineers-have-made-the-worlds-first-robotic-extreme-zoom-camera-it-features-a-50x-zoom-ai-tracking-and-can-identify-300-bird-species",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T15:31:32Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_18669725",
+      "title": "Pentagon launches ChatGPT and Grok models tailored to 'warfighter needs'",
+      "url": "https://www.techradar.com/pro/pentagon-launches-chatgpt-and-grok-models-tailored-to-warfighter-needs",
+      "primary_url": "https://www.techradar.com/pro/pentagon-launches-chatgpt-and-grok-models-tailored-to-warfighter-needs",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "f7733fd2df173104df608f559788c5825f8da2d1",
+          "title": "Pentagon launches ChatGPT and Grok models tailored to 'warfighter needs'",
+          "url": "https://www.techradar.com/pro/pentagon-launches-chatgpt-and-grok-models-tailored-to-warfighter-needs",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T15:20:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2d401632",
+      "title": "A paper manufacturer got more out of its AI sensors with a simple administrative fix",
+      "url": "https://www.businessinsider.com/simple-administrative-fix-manufacturing-ai-sensors-predictive-maintenance-2026-9",
+      "primary_url": "https://www.businessinsider.com/simple-administrative-fix-manufacturing-ai-sensors-predictive-maintenance-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "d24e2d63b317eb4ffea1da869182cdf280dab327",
+          "title": "A paper manufacturer got more out of its AI sensors with a simple administrative fix",
+          "url": "https://www.businessinsider.com/simple-administrative-fix-manufacturing-ai-sensors-predictive-maintenance-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T15:16:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_bcf1182f",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
+      "primary_url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "dad8f7fa781249afc09bd083666be82ac19409a3",
+          "title": "Fambot introduces an ‘AI chief of staff’ for families",
+          "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T15:10:58Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2275631b",
+      "title": "Perplexity's Hybrid Compute splits sensitive tasks between cloud and local AI",
+      "url": "https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai",
+      "primary_url": "https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "67397183e0d369cbf5e69baf669def707f57e6a9",
+          "title": "Perplexity's Hybrid Compute splits sensitive tasks between cloud and local AI",
+          "url": "https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ef192153",
+      "title": "开放模型状况：2026 年夏季观察",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "primary_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "2e703144bd53f2ffa0aa6007fa7fb14cf27e0e4f",
+          "title": "State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-01T14:55:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_90182569",
+      "title": "Sonos opens its platform to third-party AI assistants, upgrades Sonos 27voice assistant with an in-house LLM, and plans to let users create their own AI agents (Chris Welch/Bloomberg)",
+      "url": "https://www.techmeme.com/260901/p21",
+      "primary_url": "https://www.techmeme.com/260901/p21",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "4615b1c99f07a4516a3c501cc11629955ba38078",
+          "title": "Sonos opens its platform to third-party AI assistants, upgrades Sonos 27voice assistant with an in-house LLM, and plans to let users create their own AI agents (Chris Welch/Bloomberg)",
+          "url": "https://www.techmeme.com/260901/p21",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T14:55:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6302d0b1",
+      "title": "PSI, which aims to use AI \"to industrialize the discovery of new physics\" including cracking interstellar travel, emerges from stealth with a $58M seed (Sabrina Ortiz/The Deep View)",
+      "url": "https://www.techmeme.com/260901/p20",
+      "primary_url": "https://www.techmeme.com/260901/p20",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "297c69aa7ccea377df85bb93f58dff457d924c6e",
+          "title": "PSI, which aims to use AI \"to industrialize the discovery of new physics\" including cracking interstellar travel, emerges from stealth with a $58M seed (Sabrina Ortiz/The Deep View)",
+          "url": "https://www.techmeme.com/260901/p20",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T14:45:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7d0a117a",
+      "title": "'Sonos 27' brings a refreshed UI to the app and lets AI agents control your system",
+      "url": "https://www.engadget.com/2248252/sonos-27-brings-a-refreshed-ui-to-the-app-and-lets-ai-agents-control-your-system",
+      "primary_url": "https://www.engadget.com/2248252/sonos-27-brings-a-refreshed-ui-to-the-app-and-lets-ai-agents-control-your-system",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "c57c028c614051b932d38c1dfa76639a05b9067c",
+          "title": "'Sonos 27' brings a refreshed UI to the app and lets AI agents control your system",
+          "url": "https://www.engadget.com/2248252/sonos-27-brings-a-refreshed-ui-to-the-app-and-lets-ai-agents-control-your-system",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T14:40:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e1c658ca",
+      "title": "The US will ask the G20 not to build anything to govern AI",
+      "url": "https://thenextweb.com/news/us-g20-hands-off-ai-regulation",
+      "primary_url": "https://thenextweb.com/news/us-g20-hands-off-ai-regulation",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "ca5c074762b800dbbb58253bc1b7d8fe7a0a652c",
+          "title": "The US will ask the G20 not to build anything to govern AI",
+          "url": "https://thenextweb.com/news/us-g20-hands-off-ai-regulation",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T14:37:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_89bf8dbb",
+      "title": "Tovel AI",
+      "url": "https://www.producthunt.com/products/tovel-ai",
+      "primary_url": "https://www.producthunt.com/products/tovel-ai",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "91712c662ec94a1ae675b60f011ee8b43b1d2816",
+          "title": "Tovel AI",
+          "url": "https://www.producthunt.com/products/tovel-ai",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T13:42:30.400000Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -4139,28 +4608,6 @@
       "score": 7
     },
     {
-      "story_id": "story_be1cc9e6",
-      "title": "“我心爱的 Zlibrary”：Anthropic 员工在聊天中赞扬索尼诉讼中提到的盗版行为",
-      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "c4f81af88268df7b13e415550ff2aa2b4541e130",
-          "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T18:10:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_2189e5e4",
       "title": "随着欧盟将其纳入《数字服务法》，ChatGPT 广告的年化收入达到 10 亿美元",
       "url": "https://thenextweb.com/news/chatgpt-ads-1bn-run-rate-self-service-europe-dsa-vlose-designation",
@@ -4309,182 +4756,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-08-31T16:44:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_843a84d8",
-      "title": "OpenClaw 2.0 现已推出：AI 代理的众包更新现已上线",
-      "url": "https://mashable.com/tech/openclaw-2-0-released-agentic-ai",
-      "primary_url": "https://mashable.com/tech/openclaw-2-0-released-agentic-ai",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "9b3afdb952ed1fd04c743328eaf1e19ab18a4634",
-          "title": "OpenClaw 2.0 is here: A Crowdsourced update to the AI agent is now live",
-          "url": "https://mashable.com/tech/openclaw-2-0-released-agentic-ai",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T16:15:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9834803d",
-      "title": "The UK unveils a £100M Sovereign AI R&D Procurement Scheme for domestic AI startups focused on public services, amid growing opposition to Palantir contracts (Jim Pickard/Financial Times)",
-      "url": "https://www.techmeme.com/260831/p24",
-      "primary_url": "https://www.techmeme.com/260831/p24",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "2fe7aaea2033b480b91a7e0e12853903690fd0dc",
-          "title": "The UK unveils a £100M Sovereign AI R&D Procurement Scheme for domestic AI startups focused on public services, amid growing opposition to Palantir contracts (Jim Pickard/Financial Times)",
-          "url": "https://www.techmeme.com/260831/p24",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T16:15:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d8760432",
-      "title": "蒂姆·库克是他那个时代最好的苹果首席执行官——约翰·特努斯的任期将由人工智能定义",
-      "url": "https://www.techradar.com/phones/iphone/tim-cook-was-the-best-apple-ceo-for-his-time-john-ternus-tenure-will-be-defined-by-ai",
-      "primary_url": "https://www.techradar.com/phones/iphone/tim-cook-was-the-best-apple-ceo-for-his-time-john-ternus-tenure-will-be-defined-by-ai",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "864119bb5590795b7e8ca931437aedc38398bf93",
-          "title": "Tim Cook was the best Apple CEO for his time — John Ternus' tenure will be defined by AI",
-          "url": "https://www.techradar.com/phones/iphone/tim-cook-was-the-best-apple-ceo-for-his-time-john-ternus-tenure-will-be-defined-by-ai",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T16:07:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_44cfd9f6",
-      "title": "推出 HN：年鉴 (YC S26) – 了解您公司的人工智能",
-      "url": "https://usealmanac.com",
-      "primary_url": "https://usealmanac.com",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "4831ca6fca81f239c476a7ebdb59cc1e5f543cf7",
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "url": "https://usealmanac.com",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T15:34:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_285655a4",
-      "title": "人工智能如何让政府更难使用黑客工具",
-      "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools",
-      "primary_url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "3cd8a8c6367948ea7b44cee97ad6488f23e40540",
-          "title": "How AI could make it harder for governments to use hacking tools",
-          "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:19:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0f2d4b56",
-      "title": "Nvidia 的 $3.5B 押注联发科揭示了其应对大型科技公司 AI 芯片建设的计划",
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
-      "primary_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "0ab054d85633e2a1f8059efa1e0258fee8e9825c",
-          "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-          "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:15:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f2fb628a",
-      "title": "一位高级央行行长表示，人工智能对全球金融体系的稳定构成威胁",
-      "url": "https://www.businessinsider.com/ai-threats-financial-markets-cyber-attacks-boe-global-finance-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-threats-financial-markets-cyber-attacks-boe-global-finance-2026-8",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "b3ebe5240c6dc64a69f05faf860c036cc3e61cdb",
-          "title": "AI is a threat to the stability of the global financial system, a top central banker says",
-          "url": "https://www.businessinsider.com/ai-threats-financial-markets-cyber-attacks-boe-global-finance-2026-8",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:13:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5800614a",
-      "title": "Together AI, which serves open models, announces a deal to use compute from Humain in Saudi Arabia, where it can bypass US backlash over data centers (Niko Gallogly/New York Times)",
-      "url": "https://www.techmeme.com/260831/p21",
-      "primary_url": "https://www.techmeme.com/260831/p21",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "4bcad82aed45fb37acf7fed2623978a72efa657f",
-          "title": "Together AI, which serves open models, announces a deal to use compute from Humain in Saudi Arabia, where it can bypass US backlash over data centers (Niko Gallogly/New York Times)",
-          "url": "https://www.techmeme.com/260831/p21",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:10:01Z"
         }
       ],
       "item_count": 1,
