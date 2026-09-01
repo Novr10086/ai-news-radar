@@ -1,21 +1,43 @@
 {
-  "generated_at": "2026-09-01T20:34:31.348375Z",
+  "generated_at": "2026-09-01T21:39:36.193280Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 18,
   "items": [
     {
-      "title": "Introducing agentic video understanding with Gemini",
-      "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-      "source": "Google DeepMind",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "title_zh": null,
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI News",
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
-      "published_at": "2026-09-01T17:08:51Z",
+      "published_at": "2026-09-01T17:00:00Z",
       "ai_is_related": true,
       "ai_score": 0.91
     },
     {
-      "title": "Codex CLI 0.152.0",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-09-01T13:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.91
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "title_zh": null,
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-09-01T12:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.95
+    },
+    {
+      "title": "ChatGPT for iOS 1.2026.237",
       "title_zh": null,
       "url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
@@ -23,7 +45,7 @@
       "source_tier_label": "官方一手源",
       "published_at": "2026-09-01T00:00:00Z",
       "ai_is_related": true,
-      "ai_score": 0.98
+      "ai_score": 1.0
     },
     {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
@@ -48,6 +70,17 @@
       "ai_score": 1.0
     },
     {
+      "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+      "title_zh": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+      "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-01T20:12:46Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
       "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
       "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
       "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
@@ -59,6 +92,17 @@
       "ai_score": 1.0
     },
     {
+      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+      "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "source": "Google DeepMind：Blog（RSS）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-01T17:08:51Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
       "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
       "title_zh": "Google Workspace 推出图像创作编辑工具 Google Pics",
       "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
@@ -66,50 +110,6 @@
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
       "published_at": "2026-09-01T16:00:00Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-      "title_zh": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-      "url": "https://www.aibase.com/news/30760",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-01T14:04:45.741273Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-      "title_zh": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-      "url": "https://www.ithome.com/0/997/147.htm",
-      "source": "IT之家（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-01T12:40:19Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "炮轰车企AI体验太垃圾！罗永浩：为什么不直接接入豆包、千问和Kimi？",
-      "title_zh": "炮轰车企AI体验太垃圾！罗永浩：为什么不直接接入豆包、千问和Kimi？",
-      "url": "https://www.aibase.com/news/30759",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-01T10:04:43.155252Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-      "title_zh": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-      "url": "https://www.aibase.com/news/30753",
-      "source": "AIbase",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-01T09:04:38.771943Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -145,6 +145,17 @@
       "published_at": "2026-09-01T06:44:56Z",
       "ai_is_related": false,
       "ai_score": 0.47
+    },
+    {
+      "title": "Meta is dropping Google Chat for Slack because it says agents work better there",
+      "title_zh": null,
+      "url": "https://thenextweb.com/news/meta-slack-ai-agents-europe-sovereign-collaboration-data-act-switching",
+      "source": "The Next Web",
+      "source_tier_rank": 5,
+      "source_tier_label": "热议参考",
+      "published_at": "2026-09-01T19:07:06Z",
+      "ai_is_related": false,
+      "ai_score": 0.32
     },
     {
       "title": "Keenable SELECT: an agent that searches the web in SQL",

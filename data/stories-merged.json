@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-09-01T20:34:31.350756Z",
+  "generated_at": "2026-09-01T21:39:36.195522Z",
   "window_hours": 24,
-  "total_stories": 234,
+  "total_stories": 247,
   "stories": [
+    {
+      "story_id": "story_c931d0b3",
+      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+      "url": "https://openai.com/index/path-to-astra",
+      "primary_url": "https://openai.com/index/path-to-astra",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "sources": [
+        {
+          "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T13:00:00Z"
+        },
+        {
+          "id": "d9f84a2ae027b4c6cfed4ef871b0f815d18800e8",
+          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T13:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
+    },
     {
       "story_id": "story_0f146bbd",
       "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
@@ -35,22 +66,44 @@
       "score": 10070
     },
     {
-      "story_id": "story_1bf484cd",
-      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-      "primary_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "story_id": "story_4be3ed23",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "primary_url": "https://openai.com/index/ai-native-company-workflows",
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "OpenAI News"
       ],
       "sources": [
         {
-          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
-          "title": "Introducing agentic video understanding with Gemini",
-          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-          "source": "Google DeepMind",
+          "id": "d2442e95c27315c0dc37c732237ceff1d778958a",
+          "title": "How AI-native companies turn workflows into operating capability",
+          "url": "https://openai.com/index/ai-native-company-workflows",
+          "source": "OpenAI News",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T17:08:51Z"
+          "published_at": "2026-09-01T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
+      "story_id": "story_56641fe0",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -58,7 +111,7 @@
     },
     {
       "story_id": "story_36e5104f",
-      "title": "Codex CLI 0.152.0",
+      "title": "ChatGPT for iOS 1.2026.237",
       "url": "https://developers.openai.com/codex/changelog",
       "primary_url": "https://developers.openai.com/codex/changelog",
       "source_count": 1,
@@ -66,6 +119,14 @@
         "OpenAI Codex Changelog"
       ],
       "sources": [
+        {
+          "id": "099b73f8e0c31aac2c3850689319c442f111363e",
+          "title": "ChatGPT for iOS 1.2026.237",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        },
         {
           "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
           "title": "Codex CLI 0.152.0",
@@ -75,7 +136,7 @@
           "published_at": "2026-09-01T00:00:00Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 10020
     },
     {
@@ -101,6 +162,28 @@
       "score": 10020
     },
     {
+      "story_id": "story_4ec87795",
+      "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+      "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "sources": [
+        {
+          "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
+          "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+          "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T20:12:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_24dee6bc",
       "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
       "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
@@ -117,6 +200,28 @@
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "site_id": "aihot",
           "published_at": "2026-09-01T19:43:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_1bf484cd",
+      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "primary_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "7b68d5b361c9f8da9cb21ef51bb8437e316b9d5f",
+          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "source": "Google DeepMind：Blog（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T17:08:51Z"
         }
       ],
       "item_count": 1,
@@ -1161,22 +1266,22 @@
       "score": 9770
     },
     {
-      "story_id": "story_3a709b84",
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities",
-      "primary_url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities",
+      "story_id": "story_efa07287",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
       "source_count": 1,
       "source_names": [
-        "Wired"
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "46429bad17ac9d909ef876b59698c80c73e7e5e6",
-          "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-          "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities",
-          "source": "Wired",
+          "id": "eb3c3537c440251e8e03c730b4cbf15cbc738c4a",
+          "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+          "source": "The Verge",
           "site_id": "opmlrss",
-          "published_at": "2026-09-01T20:00:00Z"
+          "published_at": "2026-09-01T20:45:49Z"
         }
       ],
       "item_count": 1,
@@ -1227,6 +1332,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_be4985a9",
+      "title": "AI data centers become surprise issue in US midterm elections",
+      "url": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
+      "primary_url": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "2756505b508b7e4461de2aa43bee5dbc0e14b191",
+          "title": "AI data centers become surprise issue in US midterm elections",
+          "url": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T19:35:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_35aa4d6d",
       "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
       "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
@@ -1243,9 +1370,17 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-09-01T19:02:54Z"
+        },
+        {
+          "id": "54934358ba421c55033bad837024a591e16683b7",
+          "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:02:54Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -1271,6 +1406,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_1deb06f6",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+      "primary_url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "5a12c7f56df59b1422abc12b4bc3ab64ca835fbb",
+          "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+          "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T17:35:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_8902b375",
       "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
       "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
@@ -1285,28 +1442,6 @@
           "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
           "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
           "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_4be3ed23",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "primary_url": "https://openai.com/index/ai-native-company-workflows",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "ab5f79f64527eeb08faf56c3a9ab22936bf3c71c",
-          "title": "How AI-native companies turn workflows into operating capability",
-          "url": "https://openai.com/index/ai-native-company-workflows",
-          "source": "OpenAI News",
           "site_id": "opmlrss",
           "published_at": "2026-09-01T17:00:00Z"
         }
@@ -1345,22 +1480,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_91bace98",
-      "title": "John Deere launched an AI chatbot for farmers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "story_id": "story_9995525a",
+      "title": "Google Pics is like Canva, but with even more AI",
+      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "primary_url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
       "source_count": 1,
       "source_names": [
         "The Verge"
       ],
       "sources": [
         {
-          "id": "3aa736331ba88cba922479fa36992d5529949bb5",
-          "title": "John Deere launched an AI chatbot for farmers",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+          "id": "7c8c930a60232973bdea72ac3a8f688e3fb0e33c",
+          "title": "Google Pics is like Canva, but with even more AI",
+          "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
           "source": "The Verge",
           "site_id": "opmlrss",
-          "published_at": "2026-09-01T16:00:52Z"
+          "published_at": "2026-09-01T16:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1383,6 +1518,28 @@
           "source": "BBC World",
           "site_id": "opmlrss",
           "published_at": "2026-09-01T15:57:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9a281b76",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+      "primary_url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "7b021a973911194e57894b5ca1bb7496d2e98ee6",
+          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T15:45:51Z"
         }
       ],
       "item_count": 1,
@@ -1537,28 +1694,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-01T12:11:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_56641fe0",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "b973fbe8fa35b2690a04de67f868189e7996a7cc",
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2483,28 +2618,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_15d482c7",
-      "title": "苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 公司数据",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
-      "primary_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "f62bb4c9750c4fb635041c42d61316c25ea6bc3a",
-          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-          "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T00:13:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_f2db56af",
       "title": "Bland new world: is AI making us all think the same?",
       "url": "https://www.nature.com/articles/d41586-026-02682-3",
@@ -2747,38 +2860,225 @@
       "score": 9720
     },
     {
-      "story_id": "story_09c49f42",
-      "title": "五角大楼现在拥有自己的 ChatGPT 和 Grok 版本",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
-      "primary_url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
-      "source_count": 1,
+      "story_id": "story_8f2f108b",
+      "title": "埃德·齐特龙对人工智能持怀疑态度的预测有多准确？",
+      "url": "https://danluu.com/zitron",
+      "primary_url": "https://danluu.com/zitron",
+      "source_count": 2,
       "source_names": [
-        "TechCrunch"
+        "danluu.com",
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "e1d09c276f80303c11e19b991d4b856b88a22bd4",
-          "title": "The Pentagon now has its own version of ChatGPT and Grok",
-          "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-31T20:13:45Z"
+          "id": "098a42d0f1b40d86a8b2e707f6199c843d14b88e",
+          "title": "埃德·齐特龙对人工智能持怀疑态度的预测有多准确？",
+          "url": "https://danluu.com/zitron",
+          "source": "danluu.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T20:33:16.435000Z"
+        },
+        {
+          "id": "e09a42b6342bc17bb6c1183a8e402eba928c29ba",
+          "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+          "url": "https://danluu.com/zitron",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T18:35:15Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_6c3d781c",
+      "title": "Meta is dropping Google Chat for Slack because it says agents work better there",
+      "url": "https://thenextweb.com/news/meta-slack-ai-agents-europe-sovereign-collaboration-data-act-switching",
+      "primary_url": "https://thenextweb.com/news/meta-slack-ai-agents-europe-sovereign-collaboration-data-act-switching",
+      "source_count": 2,
+      "source_names": [
+        "The Next Web",
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "19e20f96781c49051966040c706d83e39dbbfec0",
+          "title": "Meta is dropping Google Chat for Slack because it says agents work better there",
+          "url": "https://thenextweb.com/news/meta-slack-ai-agents-europe-sovereign-collaboration-data-act-switching",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:07:06Z"
+        },
+        {
+          "id": "e3c450cc01082f694bdf1019c644a9d25f90f2a9",
+          "title": "Meta is switching to Slack because it says it's better for AI agents",
+          "url": "https://www.businessinsider.com/meta-switching-from-google-chat-slack-for-ai-agents-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T18:03:21Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_a9168fe6",
+      "title": "《矮人要塞》的创作者表示，游戏行业因人工智能问题而陷入混乱",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
+      "primary_url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
+      "source_count": 2,
+      "source_names": [
+        "www.pcgamer.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "0022f9397192240d23b14653d3ed81bdb7aa41bf",
+          "title": "《矮人要塞》的创作者表示，游戏行业因人工智能问题而陷入混乱",
+          "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
+          "source": "www.pcgamer.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T18:57:40.737000Z"
+        },
+        {
+          "id": "cb37110ca5f985a783cbe3524453deb77e624d8b",
+          "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+          "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-01T15:53:42Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_9c85c9bd",
+      "title": "Claude Fable 5.1 和 Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source_count": 2,
+      "source_names": [
+        "www.anthropic.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "6a3f79aae3b6d9e8943054897087b1fa6542c772",
+          "title": "Claude Fable 5.1 和 Claude Mythos 5.1",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "source": "www.anthropic.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T18:25:13.352000Z"
+        },
+        {
+          "id": "5a397593ae3d7eff466893ef3966e4d51a85273d",
+          "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-01T17:53:53Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_82ba728e",
+      "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "primary_url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "source_count": 2,
+      "source_names": [
+        "www.eff.org",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "2f891399b124d83d293d2152de6d981224719664",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "www.eff.org",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T14:41:25.376000Z"
+        },
+        {
+          "id": "db99174ccea8bfc2d137e9679690992e212d833d",
+          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-01T12:53:51Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_5f246684",
+      "title": "人工智能也能让你更快变差",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "primary_url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "source_count": 2,
+      "source_names": [
+        "www.hermit-tech.com",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
+          "title": "人工智能也能让你更快变差",
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "source": "www.hermit-tech.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T11:45:30.411000Z"
+        },
+        {
+          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
+          "title": "AI Can Make You Suck Faster Too",
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T05:32:56Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_d7891306",
       "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
       "url": "https://news.ycombinator.com/item?id=49516848",
       "primary_url": "https://news.ycombinator.com/item?id=49516848",
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "hackernews",
-        "Hacker News"
+        "hackernews"
       ],
       "sources": [
+        {
+          "id": "c19c22288f2d5e048603c611863021e5b147258f",
+          "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+          "url": "https://news.ycombinator.com/item?id=49527573",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T20:43:40.490000Z"
+        },
+        {
+          "id": "b97a4a2dcd4be9306be0054aaf3253bc5388b5e9",
+          "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+          "url": "https://news.ycombinator.com/item?id=49527396",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T20:43:40.490000Z"
+        },
+        {
+          "id": "b0171e71712395b3fc3afd111e7692ff497a4e00",
+          "title": "There Is No AI",
+          "url": "https://news.ycombinator.com/item?id=49525791",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T20:43:40.490000Z"
+        },
         {
           "id": "a174ebd78e42182ab7b9c52e90c0eb910e5fcbe4",
           "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
@@ -2860,140 +3160,236 @@
           "published_at": "2026-08-31T22:49:33.020000Z"
         },
         {
-          "id": "192988a9b380308e64aa1f369f9ab658f011e110",
-          "title": "Autonomous (YC F25) Is Hiring Engineers",
+          "id": "9afb1a8c5c1fafe0b35852e600c3b5334aae8a10",
+          "title": "Autonomous (YC F25) is hiring engineers",
           "url": "https://news.ycombinator.com/item?id=49514781",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T21:00:09Z"
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T21:49:30.995000Z"
         }
       ],
-      "item_count": 11,
-      "score": 9570
+      "item_count": 14,
+      "score": 7
     },
     {
-      "story_id": "story_a9168fe6",
-      "title": "《矮人要塞》的创作者表示，游戏行业因人工智能问题而陷入混乱",
-      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
-      "primary_url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
-      "source_count": 2,
+      "story_id": "story_739a2e73",
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
+      "primary_url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
+      "source_count": 1,
       "source_names": [
-        "www.pcgamer.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "0022f9397192240d23b14653d3ed81bdb7aa41bf",
-          "title": "《矮人要塞》的创作者表示，游戏行业因人工智能问题而陷入混乱",
-          "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
-          "source": "www.pcgamer.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T18:57:40.737000Z"
-        },
-        {
-          "id": "90f5913a4a628116569eee0bdf42902166e42172",
-          "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-          "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T15:53:42Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_9c85c9bd",
-      "title": "Claude Fable 5.1 和 Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "source_count": 2,
-      "source_names": [
-        "www.anthropic.com",
         "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "6a3f79aae3b6d9e8943054897087b1fa6542c772",
-          "title": "Claude Fable 5.1 和 Claude Mythos 5.1",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "www.anthropic.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T18:25:13.352000Z"
-        },
-        {
-          "id": "e494a6f7f44047a0bd52f73c423f1ad7dc03f4f5",
-          "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "id": "7795e5b566368e8bc2df1789e104813cf382e351",
+          "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+          "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-09-01T18:01:24Z"
+          "published_at": "2026-09-01T20:19:11Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
     },
     {
-      "story_id": "story_82ba728e",
-      "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-      "primary_url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-      "source_count": 2,
+      "story_id": "story_5aeae568",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
+      "primary_url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
+      "source_count": 1,
       "source_names": [
-        "www.eff.org",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "2f891399b124d83d293d2152de6d981224719664",
-          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-          "source": "www.eff.org",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T14:41:25.376000Z"
-        },
-        {
-          "id": "db99174ccea8bfc2d137e9679690992e212d833d",
-          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-01T12:53:51Z"
+          "id": "03f39b0cbfead436e3eea7fb9c7066df598f113f",
+          "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+          "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-01T20:07:57Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
     },
     {
-      "story_id": "story_5f246684",
-      "title": "人工智能也能让你更快变差",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "primary_url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "source_count": 2,
+      "story_id": "story_a70f0a86",
+      "title": "Sources: AfterQuery, which sells coding and finance training data to AI labs, has hit a valuation of $3.2B, up from $300M in April, and is profitable (Anna Tong/Forbes)",
+      "url": "https://www.techmeme.com/260901/p42",
+      "primary_url": "https://www.techmeme.com/260901/p42",
+      "source_count": 1,
       "source_names": [
-        "www.hermit-tech.com",
-        "Hacker News"
+        "Techmeme"
       ],
       "sources": [
         {
-          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
-          "title": "人工智能也能让你更快变差",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "www.hermit-tech.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T11:45:30.411000Z"
-        },
-        {
-          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
-          "title": "AI Can Make You Suck Faster Too",
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "Hacker News",
+          "id": "13a995c77bdf2a0ecb3b7428395960e70b58af0b",
+          "title": "Sources: AfterQuery, which sells coding and finance training data to AI labs, has hit a valuation of $3.2B, up from $300M in April, and is profitable (Anna Tong/Forbes)",
+          "url": "https://www.techmeme.com/260901/p42",
+          "source": "Techmeme",
           "site_id": "techurls",
-          "published_at": "2026-09-01T05:32:56Z"
+          "published_at": "2026-09-01T20:00:50Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3a709b84",
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities",
+      "primary_url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "b370cec2e449d675293cc2fee9904acc9c1b5754",
+          "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+          "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_29d403e1",
+      "title": "Meta launches Muse Voice Transcribe, MSL's first real-time audio perception model, with streaming automatic speech recognition, trained with 70+ languages (Meta AI Research)",
+      "url": "https://www.techmeme.com/260901/p41",
+      "primary_url": "https://www.techmeme.com/260901/p41",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "e577edad668f53ce56c5ff092b27e32cf86c4e3c",
+          "title": "Meta launches Muse Voice Transcribe, MSL's first real-time audio perception model, with streaming automatic speech recognition, trained with 70+ languages (Meta AI Research)",
+          "url": "https://www.techmeme.com/260901/p41",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:50:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3e135c5e",
+      "title": "John Deere launches JD, an AI assistant that answers questions from a farm’s own data",
+      "url": "https://thenextweb.com/news/john-deere-jd-ai-assistant-farmer-data-commitment-eu-data-act",
+      "primary_url": "https://thenextweb.com/news/john-deere-jd-ai-assistant-farmer-data-commitment-eu-data-act",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "3ef86c78102c536f710e36245b3fa87825734df7",
+          "title": "John Deere launches JD, an AI assistant that answers questions from a farm’s own data",
+          "url": "https://thenextweb.com/news/john-deere-jd-ai-assistant-farmer-data-commitment-eu-data-act",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:48:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_df84ac77",
+      "title": "Google Pics promises an end to \"prompt-and-pray\" AI graphic design",
+      "url": "https://www.androidpolice.com/google-pics-promises-an-end-to-prompt-and-pray-ai-graphic-design",
+      "primary_url": "https://www.androidpolice.com/google-pics-promises-an-end-to-prompt-and-pray-ai-graphic-design",
+      "source_count": 1,
+      "source_names": [
+        "Android Police"
+      ],
+      "sources": [
+        {
+          "id": "5598f781c4fd76ad8314c1780e1e8f101c6f6db9",
+          "title": "Google Pics promises an end to \"prompt-and-pray\" AI graphic design",
+          "url": "https://www.androidpolice.com/google-pics-promises-an-end-to-prompt-and-pray-ai-graphic-design",
+          "source": "Android Police",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:43:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4d28f4da",
+      "title": "Wafer, which makes AI agents that optimize open-source models for a business's workload, raised a $40M Series A, a source says at a $200M+ valuation (Stephanie Palazzolo/The Information)",
+      "url": "https://www.techmeme.com/260901/p40",
+      "primary_url": "https://www.techmeme.com/260901/p40",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "c21dcfeb04a58999abadf290415cb048ed14ff9e",
+          "title": "Wafer, which makes AI agents that optimize open-source models for a business's workload, raised a $40M Series A, a source says at a $200M+ valuation (Stephanie Palazzolo/The Information)",
+          "url": "https://www.techmeme.com/260901/p40",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:30:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c07e7d35",
+      "title": "Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
+      "url": "https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1",
+      "primary_url": "https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1",
+      "source_count": 1,
+      "source_names": [
+        "Mac Rumors"
+      ],
+      "sources": [
+        {
+          "id": "e1e0273ed052d898091f08ad15aa722629552451",
+          "title": "Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
+          "url": "https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1",
+          "source": "Mac Rumors",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:15:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_0848f526",
+      "title": "Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues (Carl Franzen/VentureBeat)",
+      "url": "https://www.techmeme.com/260901/p38",
+      "primary_url": "https://www.techmeme.com/260901/p38",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "e8306e2d3c1cebfcba756dfb8aee7d351a28183e",
+          "title": "Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues (Carl Franzen/VentureBeat)",
+          "url": "https://www.techmeme.com/260901/p38",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:00:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_39a1df9c",
@@ -3018,22 +3414,88 @@
       "score": 7
     },
     {
-      "story_id": "story_8f2f108b",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron",
-      "primary_url": "https://danluu.com/zitron",
+      "story_id": "story_6d397ac4",
+      "title": "Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M (Sam Sabin/Axios)",
+      "url": "https://www.techmeme.com/260901/p37",
+      "primary_url": "https://www.techmeme.com/260901/p37",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Techmeme"
       ],
       "sources": [
         {
-          "id": "395c7d8fcb769fc71e13f474e4967c47918186f4",
-          "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-          "url": "https://danluu.com/zitron",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-01T18:35:15Z"
+          "id": "27c579926c97299441f81ccf6bd515a8b810c344",
+          "title": "Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M (Sam Sabin/Axios)",
+          "url": "https://www.techmeme.com/260901/p37",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T18:40:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_502d47cd",
+      "title": "Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers (Ashley Capoot/CNBC)",
+      "url": "https://www.techmeme.com/260901/p36",
+      "primary_url": "https://www.techmeme.com/260901/p36",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "b822678531f1675dbc3f90d8a87e2edcd8eb4e77",
+          "title": "Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers (Ashley Capoot/CNBC)",
+          "url": "https://www.techmeme.com/260901/p36",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T18:31:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_7c41aff4",
+      "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Rachel Metz/Bloomberg)",
+      "url": "https://www.techmeme.com/260901/p35",
+      "primary_url": "https://www.techmeme.com/260901/p35",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "bedc2b68d7c80dec8974e32973f29a2d2e30ad3e",
+          "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Rachel Metz/Bloomberg)",
+          "url": "https://www.techmeme.com/260901/p35",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T18:27:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_08a6ae0b",
+      "title": "Anthropic unveils Claude Fable 5.1, which is generally available, and Mythos 5.1, for trusted partners and with cybersecurity and life sciences safeguards (Anthropic)",
+      "url": "https://www.techmeme.com/260901/p34",
+      "primary_url": "https://www.techmeme.com/260901/p34",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "f2b938d0709a20cdd9a57f84f73b4dc6c0578426",
+          "title": "Anthropic unveils Claude Fable 5.1, which is generally available, and Mythos 5.1, for trusted partners and with cybersecurity and life sciences safeguards (Anthropic)",
+          "url": "https://www.techmeme.com/260901/p34",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T18:23:45Z"
         }
       ],
       "item_count": 1,
@@ -3062,22 +3524,22 @@
       "score": 7
     },
     {
-      "story_id": "story_b6114df5",
-      "title": "Meta is switching to Slack because it says it's better for AI agents",
-      "url": "https://www.businessinsider.com/meta-switching-from-google-chat-slack-for-ai-agents-2026-9",
-      "primary_url": "https://www.businessinsider.com/meta-switching-from-google-chat-slack-for-ai-agents-2026-9",
+      "story_id": "story_f49649ae",
+      "title": "Félix, an AI-powered WhatsApp remittance platform focused on Latinos in the US, raised a $200M Series C co-led by a16z and GC, including $113M in debt (Mary Ann Azevedo/Crunchbase News)",
+      "url": "https://www.techmeme.com/260901/p33",
+      "primary_url": "https://www.techmeme.com/260901/p33",
       "source_count": 1,
       "source_names": [
-        "Business Insider"
+        "Techmeme"
       ],
       "sources": [
         {
-          "id": "e3c450cc01082f694bdf1019c644a9d25f90f2a9",
-          "title": "Meta is switching to Slack because it says it's better for AI agents",
-          "url": "https://www.businessinsider.com/meta-switching-from-google-chat-slack-for-ai-agents-2026-9",
-          "source": "Business Insider",
+          "id": "36c8e792ea667b4ab93a78e2ce83f55243edb8b4",
+          "title": "Félix, an AI-powered WhatsApp remittance platform focused on Latinos in the US, raised a $200M Series C co-led by a16z and GC, including $113M in debt (Mary Ann Azevedo/Crunchbase News)",
+          "url": "https://www.techmeme.com/260901/p33",
+          "source": "Techmeme",
           "site_id": "techurls",
-          "published_at": "2026-09-01T18:03:21Z"
+          "published_at": "2026-09-01T18:10:00Z"
         }
       ],
       "item_count": 1,
@@ -3134,15 +3596,15 @@
       "primary_url": "https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "a9791a09fe949d88966b3add0cf421874b174f94",
+          "id": "610f57abc4dd7d9d5064fd41ddc6c8635e268ea5",
           "title": "What's new in Claude Fable 5.1",
           "url": "https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-01T17:53:53Z"
         }
       ],
@@ -3216,43 +3678,21 @@
       "score": 7
     },
     {
-      "story_id": "story_1deb06f6",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
-      "primary_url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "3c0b258bd7df050a7b0689bcde09c3c1125adafd",
-          "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-          "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T17:35:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_686a7f8e",
       "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
       "url": "https://www.norirobotics.com",
       "primary_url": "https://www.norirobotics.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "109d83255c8000b4cb53b225798ccf14b08bb777",
+          "id": "7480cf3c35588ac7c03d0e724a8bdab4de7501b0",
           "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
           "url": "https://www.norirobotics.com",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-01T17:35:10Z"
         }
       ],
@@ -3502,22 +3942,22 @@
       "score": 7
     },
     {
-      "story_id": "story_9995525a",
-      "title": "Google Pics is like Canva, but with even more AI",
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "primary_url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "story_id": "story_91bace98",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
       "source_count": 1,
       "source_names": [
         "The Verge"
       ],
       "sources": [
         {
-          "id": "261b175a3663311edbcb84d514aa8c6e30a6617b",
-          "title": "Google Pics is like Canva, but with even more AI",
-          "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+          "id": "ddad5fe470ac37dbd83b90ecab7873610b3c4f94",
+          "title": "John Deere launched an AI chatbot for farmers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
           "source": "The Verge",
           "site_id": "techurls",
-          "published_at": "2026-09-01T16:00:00Z"
+          "published_at": "2026-09-01T16:00:52Z"
         }
       ],
       "item_count": 1,
@@ -3606,28 +4046,6 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-09-01T15:53:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9a281b76",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
-      "primary_url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2c058081eb8e7c62c1efdae00c049b3161d5888a",
-          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T15:45:51Z"
         }
       ],
       "item_count": 1,
@@ -3816,15 +4234,15 @@
       "primary_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "1bc081965c6f917bbbe2c694d20f369b34348ec0",
+          "id": "2e703144bd53f2ffa0aa6007fa7fb14cf27e0e4f",
           "title": "State of Open Models: Summer 2026 Observations",
           "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-01T14:55:50Z"
         }
       ],
@@ -4998,6 +5416,28 @@
       "score": 7
     },
     {
+      "story_id": "story_15d482c7",
+      "title": "苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 公司数据",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+      "primary_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "31b62fbe788f5f1ca3e1433dc8c75b08ab25813c",
+          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+          "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T00:13:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_7060b648",
       "title": "Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking (Anthropic)",
       "url": "https://www.techmeme.com/260831/p43",
@@ -5234,94 +5674,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-08-31T21:05:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_01059460",
-      "title": "The Pentagon launches ChatGPT Mil and Grok for Government on its GenAI.mil platform, giving its 3M personnel access to AI tools \"tailored to warfighter needs\" (Kirsten Korosec/TechCrunch)",
-      "url": "https://www.techmeme.com/260831/p38",
-      "primary_url": "https://www.techmeme.com/260831/p38",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "0ec285648c049bb4e30c82a0c9f7b75afe1402e4",
-          "title": "The Pentagon launches ChatGPT Mil and Grok for Government on its GenAI.mil platform, giving its 3M personnel access to AI tools \"tailored to warfighter needs\" (Kirsten Korosec/TechCrunch)",
-          "url": "https://www.techmeme.com/260831/p38",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T21:00:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2fa86937",
-      "title": "物理人工智能中最难的问题可能是磁铁，而不是模型",
-      "url": "https://thenextweb.com/news/physical-ai-hardest-problem-magnet-not-model-crma-schaeffler",
-      "primary_url": "https://thenextweb.com/news/physical-ai-hardest-problem-magnet-not-model-crma-schaeffler",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "7cf84aa5645c16b69227222609279d036f019ba8",
-          "title": "The hardest problem in physical AI may be the magnet, not the model",
-          "url": "https://thenextweb.com/news/physical-ai-hardest-problem-magnet-not-model-crma-schaeffler",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T21:00:41Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2f486841",
-      "title": "达姆施塔特工业大学发现最了解人工智能的人最害怕它",
-      "url": "https://thenextweb.com/news/tu-darmstadt-ai-monitor-2026-job-fears-ai-literacy-article-4",
-      "primary_url": "https://thenextweb.com/news/tu-darmstadt-ai-monitor-2026-job-fears-ai-literacy-article-4",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "bf2b75663f75d9242d7a20dc1ea987ba5bf97cc4",
-          "title": "TU Darmstadt found the people who know AI best fear it most",
-          "url": "https://thenextweb.com/news/tu-darmstadt-ai-monitor-2026-job-fears-ai-literacy-article-4",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T20:30:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0141e2c8",
-      "title": "苹果称前工程师在 OpenAI 中使用了被盗的商业机密，并教 AI 代理运行它们",
-      "url": "https://www.macrumors.com/2026/08/31/apple-openai-lawsuit-trade-secret-theft-evidence",
-      "primary_url": "https://www.macrumors.com/2026/08/31/apple-openai-lawsuit-trade-secret-theft-evidence",
-      "source_count": 1,
-      "source_names": [
-        "Mac Rumors"
-      ],
-      "sources": [
-        {
-          "id": "d1fe5cc1e7bf3ce811417f88d4329c42872c000d",
-          "title": "Apple Says Former Engineer Used Stolen Trade Secrets at OpenAI, Taught AI Agent to Run Them",
-          "url": "https://www.macrumors.com/2026/08/31/apple-openai-lawsuit-trade-secret-theft-evidence",
-          "source": "Mac Rumors",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T20:22:40Z"
         }
       ],
       "item_count": 1,
