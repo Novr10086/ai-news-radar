@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T23:42:10.841159Z",
+  "generated_at": "2026-09-02T00:44:03.766301Z",
   "window_hours": 24,
-  "total_stories": 259,
+  "total_stories": 249,
   "stories": [
     {
       "story_id": "story_c931d0b3",
@@ -10,18 +10,10 @@
       "primary_url": "https://openai.com/index/path-to-astra",
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
-        {
-          "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
-          "title": "Path to Astra: critical capabilities and frontier safeguards",
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T13:00:00Z"
-        },
         {
           "id": "d9f84a2ae027b4c6cfed4ef871b0f815d18800e8",
           "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
@@ -29,37 +21,14 @@
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "site_id": "aihot",
           "published_at": "2026-09-01T13:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 10070
-    },
-    {
-      "story_id": "story_0f146bbd",
-      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "primary_url": "https://huggingface.co/blog/webgpu-kernels",
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
-          "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-          "url": "https://huggingface.co/blog/webgpu-kernels",
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
         },
         {
-          "id": "42ac8f40a72438975c76721d9af4324ae9b281f9",
-          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-          "url": "https://huggingface.co/blog/webgpu-kernels",
-          "source": "Hugging Face：Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:00:00Z"
+          "id": "af59126bb24fdaa4e1ca2f47a81649c42bc75363",
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-01T20:20:41Z"
         }
       ],
       "item_count": 2,
@@ -107,66 +76,6 @@
         }
       ],
       "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_56641fe0",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_36e5104f",
-      "title": "ChatGPT for iOS 1.2026.237",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "sources": [
-        {
-          "id": "099b73f8e0c31aac2c3850689319c442f111363e",
-          "title": "ChatGPT for iOS 1.2026.237",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        },
-        {
-          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
-          "title": "Codex CLI 0.152.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        },
-        {
-          "id": "46e7dfa473541b2bb9bce02f7e172513c1c31370",
-          "title": "Codex CLI 0.152.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 3,
       "score": 10020
     },
     {
@@ -926,50 +835,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_856b6240",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "primary_url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "source_count": 1,
-      "source_names": [
-        "Claude Platform：开发者版本说明（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "e2696f8d56951fd0408043550930c79ed5401eb2",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-          "url": "https://platform.claude.com/docs/en/release-notes/overview",
-          "source": "Claude Platform：开发者版本说明（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_106d4d11",
-      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-      "url": "https://www.ithome.com/0/996/711.htm",
-      "primary_url": "https://www.ithome.com/0/996/711.htm",
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
-          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "url": "https://www.ithome.com/0/996/711.htm",
-          "source": "IT之家（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T23:55:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_000f2da4",
       "title": "套了110个思维模型到AI之后，我帮你整理了最好用的24个（附提示词）。",
       "url": "https://waytoagi.feishu.cn/wiki/YXENwsiS6i0hZFkKBimcjCN6nIc?from=from_copylink",
@@ -1146,6 +1011,37 @@
       "score": 9820
     },
     {
+      "story_id": "story_efa07287",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "eb3c3537c440251e8e03c730b4cbf15cbc738c4a",
+          "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T20:45:49Z"
+        },
+        {
+          "id": "d3ca3f47527eb6c324d4184e894db2c329d0e75b",
+          "title": "OpenAI delayed its new model's development after the Hugging Face hack",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-01T23:07:08Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
       "story_id": "story_457a8304",
       "title": "用AI，谈一场身心俱疲的恋爱",
       "url": "https://www.tmtpost.com/8124305.html",
@@ -1206,6 +1102,72 @@
       ],
       "item_count": 2,
       "score": 9770
+    },
+    {
+      "story_id": "story_4ac71312",
+      "title": "一个人，十五年，他想重写医疗AI的底层逻辑",
+      "url": "https://www.tmtpost.com/8125079.html",
+      "primary_url": "https://www.tmtpost.com/8125079.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "534675b96a602e04fae9a56f5d8d8f9eda2ebb86",
+          "title": "一个人，十五年，他想重写医疗AI的底层逻辑",
+          "url": "https://www.tmtpost.com/8125079.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T23:41:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_936ea7ab",
+      "title": "【钛晨报】引导汽车企业规范境外竞争行为，三部门发文；Anthropic同英伟达支持的Lambda签署350亿美元云计算协议；电影暑期档收官，票房超124亿元",
+      "url": "https://www.tmtpost.com/8125054.html",
+      "primary_url": "https://www.tmtpost.com/8125054.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "d75268a2ae47b1740f7508edb628d542112526fa",
+          "title": "【钛晨报】引导汽车企业规范境外竞争行为，三部门发文；Anthropic同英伟达支持的Lambda签署350亿美元云计算协议；电影暑期档收官，票房超124亿元",
+          "url": "https://www.tmtpost.com/8125054.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T23:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_1ff80751",
+      "title": "从清华校长“开学第一课”聊起：大模型都会编程了，学生为什么还得自己学？",
+      "url": "https://www.huxiu.com/article/4887795.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4887795.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "876c424aa807486d470be6ffb10689ce4e57f9f8",
+          "title": "从清华校长“开学第一课”聊起：大模型都会编程了，学生为什么还得自己学？",
+          "url": "https://www.huxiu.com/article/4887795.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T23:10:23Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_07189f8e",
@@ -1276,53 +1238,17 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-09-01T21:06:24Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9720
-    },
-    {
-      "story_id": "story_efa07287",
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
+        },
         {
-          "id": "eb3c3537c440251e8e03c730b4cbf15cbc738c4a",
-          "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-          "source": "The Verge",
+          "id": "c218af356ea626fe0c2cf78fc2288e94980b0985",
+          "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+          "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
+          "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-09-01T20:45:49Z"
+          "published_at": "2026-09-01T21:06:24Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_8e420b1f",
-      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
-      "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
-      "primary_url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "bc3b45c68b0b2413ce70dbf0525f7098d491b442",
-          "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
-          "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T19:43:39Z"
-        }
-      ],
-      "item_count": 1,
+      "item_count": 3,
       "score": 9720
     },
     {
@@ -1375,50 +1301,6 @@
         }
       ],
       "item_count": 2,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e3460402",
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "primary_url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "65afc91ad2c356121019a106006e634ad07838ad",
-          "title": "Apple accuses OpenAI of destroying evidence",
-          "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T18:19:26Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_1deb06f6",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
-      "primary_url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "5a12c7f56df59b1422abc12b4bc3ab64ca835fbb",
-          "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-          "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T17:35:37Z"
-        }
-      ],
-      "item_count": 1,
       "score": 9720
     },
     {
@@ -1496,22 +1378,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_91bace98",
-      "title": "John Deere launched an AI chatbot for farmers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "story_id": "story_9995525a",
+      "title": "Google Pics is like Canva, but with even more AI",
+      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "primary_url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
       "source_count": 1,
       "source_names": [
         "The Verge"
       ],
       "sources": [
         {
-          "id": "3aa736331ba88cba922479fa36992d5529949bb5",
-          "title": "John Deere launched an AI chatbot for farmers",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+          "id": "7c8c930a60232973bdea72ac3a8f688e3fb0e33c",
+          "title": "Google Pics is like Canva, but with even more AI",
+          "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
           "source": "The Verge",
           "site_id": "opmlrss",
-          "published_at": "2026-09-01T16:00:52Z"
+          "published_at": "2026-09-01T16:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1688,6 +1570,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-01T12:11:51Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_56641fe0",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "b973fbe8fa35b2690a04de67f868189e7996a7cc",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-01T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2612,248 +2516,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_15d482c7",
-      "title": "苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 公司数据",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
-      "primary_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "f62bb4c9750c4fb635041c42d61316c25ea6bc3a",
-          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-          "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T00:13:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f2db56af",
-      "title": "Bland new world: is AI making us all think the same?",
-      "url": "https://www.nature.com/articles/d41586-026-02682-3",
-      "primary_url": "https://www.nature.com/articles/d41586-026-02682-3",
-      "source_count": 1,
-      "source_names": [
-        "Nature"
-      ],
-      "sources": [
-        {
-          "id": "dedb9bb8cbd3f7932c9549a6c0378b5d45bdc1fb",
-          "title": "Bland new world: is AI making us all think the same?",
-          "url": "https://www.nature.com/articles/d41586-026-02682-3",
-          "source": "Nature",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_9545ed22",
-      "title": "From Trojan horses to AI-proof exams: how professors are tackling students’ AI use",
-      "url": "https://www.nature.com/articles/d41586-026-02370-2",
-      "primary_url": "https://www.nature.com/articles/d41586-026-02370-2",
-      "source_count": 1,
-      "source_names": [
-        "Nature"
-      ],
-      "sources": [
-        {
-          "id": "1fca8fecf441282c8726153915c0309e60628808",
-          "title": "From Trojan horses to AI-proof exams: how professors are tackling students’ AI use",
-          "url": "https://www.nature.com/articles/d41586-026-02370-2",
-          "source": "Nature",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_344c3903",
-      "title": "Mutating every DNA letter of a genome shows surprising effects — and the limits of AI",
-      "url": "https://www.nature.com/articles/d41586-026-02609-y",
-      "primary_url": "https://www.nature.com/articles/d41586-026-02609-y",
-      "source_count": 1,
-      "source_names": [
-        "Nature"
-      ],
-      "sources": [
-        {
-          "id": "dd2785210e0057afa1eb69192e1027352bd9f7b9",
-          "title": "Mutating every DNA letter of a genome shows surprising effects — and the limits of AI",
-          "url": "https://www.nature.com/articles/d41586-026-02609-y",
-          "source": "Nature",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_f47f5f3f",
-      "title": "When AI does science, who is accountable for mistakes?",
-      "url": "https://www.nature.com/articles/d41586-026-02735-7",
-      "primary_url": "https://www.nature.com/articles/d41586-026-02735-7",
-      "source_count": 1,
-      "source_names": [
-        "Nature"
-      ],
-      "sources": [
-        {
-          "id": "336f4abd638bf09c2fd32dfd318e2b1032b40d7e",
-          "title": "When AI does science, who is accountable for mistakes?",
-          "url": "https://www.nature.com/articles/d41586-026-02735-7",
-          "source": "Nature",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_801736cb",
-      "title": "Who is responsible when AI helps to write science?",
-      "url": "https://www.nature.com/articles/d41586-026-02686-z",
-      "primary_url": "https://www.nature.com/articles/d41586-026-02686-z",
-      "source_count": 1,
-      "source_names": [
-        "Nature"
-      ],
-      "sources": [
-        {
-          "id": "ae0afd9017be1202a5b01bfacd746deb9d25b6ec",
-          "title": "Who is responsible when AI helps to write science?",
-          "url": "https://www.nature.com/articles/d41586-026-02686-z",
-          "source": "Nature",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_31263b88",
-      "title": "马斯克：27年底，AI将砸碎所有智力工作者的饭碗",
-      "url": "https://www.huxiu.com/article/4887473.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4887473.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "e9900048fb62a53250e5d7736ac7ce63fb17d6b3",
-          "title": "马斯克：27年底，AI将砸碎所有智力工作者的饭碗",
-          "url": "https://www.huxiu.com/article/4887473.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-31T23:55:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_673e7968",
-      "title": "AI时代企业成就自身的三重境界",
-      "url": "https://m.thepaper.cn/detail/33742878",
-      "primary_url": "https://m.thepaper.cn/detail/33742878",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "830957bb0dbb8b8e410719318d1120e18a1afddd",
-          "title": "AI时代企业成就自身的三重境界",
-          "url": "https://m.thepaper.cn/detail/33742878",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-31T23:31:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_7df882ad",
-      "title": "【钛晨报】七部门打出扩消费“组合拳”：破汽车限购、推适老机器人、建AI消费场景等；华为上半年收入4678亿增9.55%，研发投入1213.8亿创新高；燧原科技发行价确定",
-      "url": "https://www.tmtpost.com/8123455.html",
-      "primary_url": "https://www.tmtpost.com/8123455.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "fbc298f3a9e9f11e22f23e912016d14926ad2b9c",
-          "title": "【钛晨报】七部门打出扩消费“组合拳”：破汽车限购、推适老机器人、建AI消费场景等；华为上半年收入4678亿增9.55%，研发投入1213.8亿创新高；燧原科技发行价确定",
-          "url": "https://www.tmtpost.com/8123455.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-31T23:26:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_0e920339",
-      "title": "从80%到99%，机器人离“ChatGPT时刻”还有多远",
-      "url": "https://m.thepaper.cn/detail/33978856",
-      "primary_url": "https://m.thepaper.cn/detail/33978856",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "f5335056c5747b4429e47e3091890589edb0f078",
-          "title": "从80%到99%，机器人离“ChatGPT时刻”还有多远",
-          "url": "https://m.thepaper.cn/detail/33978856",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-31T23:24:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_b704fd31",
-      "title": "苹果开启特努斯时代：AI成“头号考题”，下一个增长点在哪？",
-      "url": "https://m.thepaper.cn/detail/33978906",
-      "primary_url": "https://m.thepaper.cn/detail/33978906",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "cb2c9bb81151d060fa6652497b5f3c61084ffaf6",
-          "title": "苹果开启特努斯时代：AI成“头号考题”，下一个增长点在哪？",
-          "url": "https://m.thepaper.cn/detail/33978906",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-31T23:21:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_686a7f8e",
       "title": "Launch HN: Nori Robotics（YC S26）——一款用于开发的低成本类人机器人",
       "url": "https://www.norirobotics.com",
@@ -2861,7 +2523,7 @@
       "source_count": 2,
       "source_names": [
         "www.norirobotics.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2873,11 +2535,11 @@
           "published_at": "2026-09-01T22:57:16.086000Z"
         },
         {
-          "id": "7480cf3c35588ac7c03d0e724a8bdab4de7501b0",
+          "id": "a6f76d6debf2a1faa2f41ab939387e02a0671dbc",
           "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
           "url": "https://www.norirobotics.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-01T17:35:10Z"
         }
       ],
@@ -2892,7 +2554,7 @@
       "source_count": 2,
       "source_names": [
         "9to5mac.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2904,11 +2566,11 @@
           "published_at": "2026-09-01T22:25:23.381000Z"
         },
         {
-          "id": "e235d15c7857759997f4137429bf99c2d1612475",
+          "id": "81d3bdc4b4db723cad08e2226229fa7313d90ffb",
           "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
           "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-01T20:19:11Z"
         }
       ],
@@ -2923,7 +2585,7 @@
       "source_count": 2,
       "source_names": [
         "www.worldlabs.ai",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2935,11 +2597,11 @@
           "published_at": "2026-09-01T22:09:44.724000Z"
         },
         {
-          "id": "7f9a3dd02e10168d0207474559f51f608aea0d5f",
+          "id": "660c4fa229597d0e781abbfe6d9680c86a4b5c64",
           "title": "Atlas: A World Model for Spatial Intelligence",
           "url": "https://www.worldlabs.ai/blog/atlas",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-01T17:36:02Z"
         }
       ],
@@ -2954,7 +2616,7 @@
       "source_count": 2,
       "source_names": [
         "simonwillison.net",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2966,11 +2628,11 @@
           "published_at": "2026-09-01T21:37:23.427000Z"
         },
         {
-          "id": "03f39b0cbfead436e3eea7fb9c7066df598f113f",
+          "id": "da9376e2b27109c5d6d6f3fcf05404e112ddc530",
           "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
           "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-01T20:07:57Z"
         }
       ],
@@ -2985,7 +2647,7 @@
       "source_count": 2,
       "source_names": [
         "danluu.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2997,11 +2659,11 @@
           "published_at": "2026-09-01T20:33:16.435000Z"
         },
         {
-          "id": "ede52325d992454fa3afea5d5153d27e3240c509",
+          "id": "e09a42b6342bc17bb6c1183a8e402eba928c29ba",
           "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
           "url": "https://danluu.com/zitron",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-01T18:35:15Z"
         }
       ],
@@ -3047,7 +2709,7 @@
       "source_count": 2,
       "source_names": [
         "www.pcgamer.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3059,11 +2721,11 @@
           "published_at": "2026-09-01T18:57:40.737000Z"
         },
         {
-          "id": "6b587976cd4e08519cd675a425edf7dd7ba266c8",
+          "id": "90f5913a4a628116569eee0bdf42902166e42172",
           "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
           "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-01T15:53:42Z"
         }
       ],
@@ -3078,7 +2740,7 @@
       "source_count": 2,
       "source_names": [
         "www.anthropic.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3090,12 +2752,12 @@
           "published_at": "2026-09-01T18:25:13.352000Z"
         },
         {
-          "id": "5a397593ae3d7eff466893ef3966e4d51a85273d",
+          "id": "90bfdfed4fd679019c3bdfa5ed7583ca0e8682ec",
           "title": "Claude Fable 5.1 and Claude Mythos 5.1",
           "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-01T17:53:53Z"
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T18:01:24Z"
         }
       ],
       "item_count": 2,
@@ -3140,7 +2802,7 @@
       "source_count": 2,
       "source_names": [
         "www.hermit-tech.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3152,16 +2814,60 @@
           "published_at": "2026-09-01T11:45:30.411000Z"
         },
         {
-          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
+          "id": "72598000a042b77333bd18db90684e011edcaaeb",
           "title": "AI Can Make You Suck Faster Too",
           "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-01T05:32:56Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_843c3223",
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "primary_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "163e8f75392907096f7da191f52e242f66765fc4",
+          "title": "Improving our alignment and security efforts",
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-01T23:12:45Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2e8f16b2",
+      "title": "Fermi Explorer Mission plans to launch a spacecraft to Alpha Centauri, the Sun's nearest star system, by 2029, using a trajectory discovered by PSI's AI system (Michelle Kim/MIT Technology Review)",
+      "url": "https://www.techmeme.com/260901/p55",
+      "primary_url": "https://www.techmeme.com/260901/p55",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "3d7e1fcab430c63e983899b02fc7388daf8e685d",
+          "title": "Fermi Explorer Mission plans to launch a spacecraft to Alpha Centauri, the Sun's nearest star system, by 2029, using a trajectory discovered by PSI's AI system (Michelle Kim/MIT Technology Review)",
+          "url": "https://www.techmeme.com/260901/p55",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T22:55:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_d7891306",
@@ -3288,15 +2994,15 @@
       "primary_url": "https://masteranza.github.io/weedout",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "2cf86b11d24e5d81c61699ddc5aac518945a40e1",
+          "id": "f7fecc25b14d234197e64e9b24aa7fb08bdf9827",
           "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
           "url": "https://masteranza.github.io/weedout",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-01T22:06:57Z"
         }
       ],
@@ -3342,6 +3048,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-01T21:55:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_447c72c7",
+      "title": "OpenAI confirms Astra has reached critical cyber threshold, but will be available soon",
+      "url": "https://mashable.com/tech/openai-astra-critical-cyber-capabilities",
+      "primary_url": "https://mashable.com/tech/openai-astra-critical-cyber-capabilities",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "6cc22e7ba768c8f013c4782862543c66cd63b528",
+          "title": "OpenAI confirms Astra has reached critical cyber threshold, but will be available soon",
+          "url": "https://mashable.com/tech/openai-astra-critical-cyber-capabilities",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T21:44:34Z"
         }
       ],
       "item_count": 1,
@@ -3788,6 +3516,28 @@
       "score": 7
     },
     {
+      "story_id": "story_8e420b1f",
+      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+      "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+      "primary_url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "9c8866418e13393591b25c89d15e90cf0bdadd87",
+          "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+          "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:43:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_df84ac77",
       "title": "Google Pics promises an end to \"prompt-and-pray\" AI graphic design",
       "url": "https://www.androidpolice.com/google-pics-promises-an-end-to-prompt-and-pray-ai-graphic-design",
@@ -4008,21 +3758,43 @@
       "score": 7
     },
     {
+      "story_id": "story_e3460402",
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "primary_url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "915d292c2308cfafa8b39ebda011d09cac05e87c",
+          "title": "Apple accuses OpenAI of destroying evidence",
+          "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T18:19:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_f9b74c59",
       "title": "There Is No AI",
       "url": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
       "primary_url": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "7a6ccd4be74fbd5a83e38352f423e0fbd5067a9d",
+          "id": "4e1a07a5ac8dd8c4f02bd1a80cb1409e843510f0",
           "title": "There Is No AI",
           "url": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-01T18:18:54Z"
         }
       ],
@@ -4156,6 +3928,28 @@
           "source": "Daring Fireball",
           "site_id": "techurls",
           "published_at": "2026-09-01T17:36:08Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1deb06f6",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+      "primary_url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "3c0b258bd7df050a7b0689bcde09c3c1125adafd",
+          "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+          "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T17:35:37Z"
         }
       ],
       "item_count": 1,
@@ -4404,22 +4198,22 @@
       "score": 7
     },
     {
-      "story_id": "story_9995525a",
-      "title": "Google Pics is like Canva, but with even more AI",
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "primary_url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "story_id": "story_91bace98",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
       "source_count": 1,
       "source_names": [
         "The Verge"
       ],
       "sources": [
         {
-          "id": "261b175a3663311edbcb84d514aa8c6e30a6617b",
-          "title": "Google Pics is like Canva, but with even more AI",
-          "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+          "id": "ddad5fe470ac37dbd83b90ecab7873610b3c4f94",
+          "title": "John Deere launched an AI chatbot for farmers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
           "source": "The Verge",
           "site_id": "techurls",
-          "published_at": "2026-09-01T16:00:00Z"
+          "published_at": "2026-09-01T16:00:52Z"
         }
       ],
       "item_count": 1,
@@ -4564,15 +4358,15 @@
       "primary_url": "https://keenableai.github.io/select-showcase",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "0d3d31ddab9d0604382c2a0d8fe9724f1260452e",
+          "id": "f934f4549b4867de0948cf56a8464b03035fc18f",
           "title": "Keenable SELECT: an agent that searches the web in SQL",
           "url": "https://keenableai.github.io/select-showcase",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-01T15:41:03Z"
         }
       ],
@@ -5840,15 +5634,15 @@
       "primary_url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "d660a7827750872680febf6e69ef65608ecaec51",
+          "id": "e28217b75db717d7821535e4249ee2f489a67193",
           "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
           "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-01T01:25:40Z"
         }
       ],
@@ -5900,6 +5694,28 @@
       "score": 7
     },
     {
+      "story_id": "story_15d482c7",
+      "title": "苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 公司数据",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+      "primary_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "31b62fbe788f5f1ca3e1433dc8c75b08ab25813c",
+          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+          "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T00:13:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_7060b648",
       "title": "Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking (Anthropic)",
       "url": "https://www.techmeme.com/260831/p43",
@@ -5938,50 +5754,6 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-01T00:07:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_87b7e481",
-      "title": "专为您的 Codex/Claude Code 打造的视频编辑器",
-      "url": "https://www.usekinara.com",
-      "primary_url": "https://www.usekinara.com",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "64e9051fc1216f27961d4a7bc639a1933ed4f10e",
-          "title": "A video editor built for your codex/Claude Code",
-          "url": "https://www.usekinara.com",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-01T00:02:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fbcf2414",
-      "title": "Sources: Anthropic has signed a $35B cloud deal with Nvidia-backed Lambda; Nvidia will hold the lease on and supply chips to a Texas data center built by Hut 8 (Anissa Gardizy/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260831/p42",
-      "primary_url": "https://www.techmeme.com/260831/p42",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "7d3121e7d7946d0243e9c12f2e7091e384a61dd7",
-          "title": "Sources: Anthropic has signed a $35B cloud deal with Nvidia-backed Lambda; Nvidia will hold the lease on and supply chips to a Texas data center built by Hut 8 (Anissa Gardizy/Wall Street Journal)",
-          "url": "https://www.techmeme.com/260831/p42",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T23:40:03Z"
         }
       ],
       "item_count": 1,
