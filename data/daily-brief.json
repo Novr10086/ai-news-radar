@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:39:04.628430Z",
+  "generated_at": "2026-09-03T21:42:26.627407Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -11,6 +11,28 @@
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-09-03T13:13:48Z",
+      "ai_is_related": true,
+      "ai_score": 0.95
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "title_zh": null,
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-09-03T12:00:00Z",
+      "ai_is_related": true,
+      "ai_score": 0.95
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "title_zh": null,
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI News",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-09-03T12:00:00Z",
       "ai_is_related": true,
       "ai_score": 0.95
     },
@@ -37,10 +59,10 @@
       "ai_score": 0.95
     },
     {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "title_zh": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face Blog",
+      "title": "Safety overview: GPT-6 Astra",
+      "title_zh": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source": "OpenAI News",
       "source_tier_rank": 0,
       "source_tier_label": "官方一手源",
       "published_at": "2026-09-03T00:00:00Z",
@@ -48,68 +70,46 @@
       "ai_score": 0.95
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展",
-      "title_zh": "OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展",
-      "url": "https://x.com/markchen90/status/2095597534412673109",
-      "source": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-03T19:39:21Z",
+      "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
+      "title_zh": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-09-03T13:15:00Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
     {
-      "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
-      "title_zh": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
-      "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-03T19:31:13Z",
+      "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
+      "title_zh": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face：Blog（RSS）",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-09-03T00:00:00Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
-      "title_zh": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
-      "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
-      "source": "The Decoder：AI News（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-03T19:25:40Z",
+      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+      "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face：Blog（RSS）",
+      "source_tier_rank": 0,
+      "source_tier_label": "官方一手源",
+      "published_at": "2026-09-03T00:00:00Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
     {
-      "title": "OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1",
-      "title_zh": "OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1",
-      "url": "https://x.com/kimmonismus/status/2095589174686400914",
-      "source": "X：Kim (@kimmonismus)",
+      "title": "ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍",
+      "title_zh": "ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍",
+      "url": "https://x.com/sherwinwu/status/2095608725730119733",
+      "source": "X：Sherwin Wu（@sherwinwu）",
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-03T19:06:08Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
-      "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
-      "url": "https://x.com/satyanadella/status/2095587182039969861",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-03T18:58:12Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放",
-      "title_zh": "OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放",
-      "url": "https://x.com/rohanpaul_ai/status/2095586785455948112",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-03T18:56:38Z",
+      "published_at": "2026-09-03T20:23:49Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -123,6 +123,28 @@
       "published_at": "2026-09-03T16:05:01.024633Z",
       "ai_is_related": false,
       "ai_score": 0.32
+    },
+    {
+      "title": "ICE agent charged with lying under oath about Minnesota shooting",
+      "title_zh": null,
+      "url": "https://www.aljazeera.com/news/2026/9/3/ice-agent-charged-with-lying-under-oath-about-minnesota-shooting?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-09-03T20:55:49Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
+    },
+    {
+      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+      "title_zh": null,
+      "url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_tier_rank": 3,
+      "source_tier_label": "RSS/OPML",
+      "published_at": "2026-09-03T20:49:05Z",
+      "ai_is_related": false,
+      "ai_score": 0.47
     },
     {
       "title": "Benzema, Pogba, Sancho and Sterling: What now for football’s free agents?",
@@ -198,28 +220,6 @@
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-09-03T07:41:15.912000Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox (Stephen Nakrosis/Wall Street Journal)",
-      "title_zh": null,
-      "url": "https://www.techmeme.com/260902/p47",
-      "source": "Techmeme",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-09-03T00:15:27Z",
-      "ai_is_related": false,
-      "ai_score": 0.32
-    },
-    {
-      "title": "CrowdStrike unveils coordinated multi-agent investigations across five domains",
-      "title_zh": "CrowdStrike 推出跨五个领域的协调多代理调查",
-      "url": "https://thenextweb.com/news/crowdstrike-agentic-soc-multi-agent-investigations-nis2-article-23-24-hour-clock-article-20-liability",
-      "source": "The Next Web",
-      "source_tier_rank": 5,
-      "source_tier_label": "热议参考",
-      "published_at": "2026-09-02T23:43:24Z",
       "ai_is_related": false,
       "ai_score": 0.32
     }
