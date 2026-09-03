@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T18:30:00.852397Z",
+  "generated_at": "2026-09-03T19:34:30.960522Z",
   "window_hours": 24,
-  "total_stories": 285,
+  "total_stories": 294,
   "stories": [
     {
       "story_id": "story_989339a8",
@@ -149,11 +149,12 @@
       "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
       "url": "https://ifm.ai/blog/k2",
       "primary_url": "https://ifm.ai/blog/k2",
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "ifm.ai",
-        "Hacker News"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -173,16 +174,24 @@
           "published_at": "2026-09-03T17:35:09.004000Z"
         },
         {
-          "id": "7cfa6350b9aa58b9e7b373f7e8f88d414b6f392b",
+          "id": "fb3b63c85ca3b40e5286916917da70cc4360812f",
+          "title": "K2 Horizon: A connected fleet of six open models",
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-03T15:36:43Z"
+        },
+        {
+          "id": "8176ca1ad2923fa5da25b44e0b274ace5a81b281",
           "title": "K2 Horizon: Frontier Performance, Radically Open",
           "url": "https://ifm.ai/blog/k2",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-03T15:36:43Z"
         }
       ],
-      "item_count": 3,
-      "score": 9980
+      "item_count": 4,
+      "score": 9990
     },
     {
       "story_id": "story_eb9f26e4",
@@ -193,7 +202,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "metr.org",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -213,11 +222,11 @@
           "published_at": "2026-09-03T04:49:35.840000Z"
         },
         {
-          "id": "fd1c9c23263213b3b7f8e8c8a13e1650d407f7d2",
+          "id": "56d1a46beb49e63c8a6ca58942f3934b4b5f33d8",
           "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
           "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-02T23:08:47Z"
         }
       ],
@@ -244,12 +253,43 @@
           "published_at": "2026-09-03T18:01:45Z"
         },
         {
-          "id": "9be0895d6b081d44d29f312cdf0f5ac9637981af",
+          "id": "03a594677194add77eb525346b238cf4d0d98e04",
           "title": "OpenAI launches Astra, its powerful (and controversial) new model",
           "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
           "source": "TechCrunch",
-          "site_id": "opmlrss",
+          "site_id": "techurls",
           "published_at": "2026-09-03T18:01:45Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
+    {
+      "story_id": "story_a94dc4fd",
+      "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source_count": 2,
+      "source_names": [
+        "The Verge：AI（RSS）",
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "f275befccad5a19b17514d1c70958bc8aafb58d2",
+          "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+          "source": "The Verge：AI（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T18:00:00Z"
+        },
+        {
+          "id": "5f2dbcfef9ba458d05ce4c3f9d71b0b77c82d22f",
+          "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T18:00:00Z"
         }
       ],
       "item_count": 2,
@@ -285,6 +325,28 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_209b92a8",
+      "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
+      "url": "https://x.com/testingcatalog/status/2095578972335542742",
+      "primary_url": "https://x.com/testingcatalog/status/2095578972335542742",
+      "source_count": 1,
+      "source_names": [
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "sources": [
+        {
+          "id": "1b3b10ead32491e02a27d250cc6e1e6139162f2c",
+          "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
+          "url": "https://x.com/testingcatalog/status/2095578972335542742",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T18:25:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_18f94250",
@@ -1057,28 +1119,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_0eea534c",
-      "title": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-      "url": "https://www.aibase.com/news/30785",
-      "primary_url": "https://www.aibase.com/news/30785",
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "sources": [
-        {
-          "id": "b8667558c3b1ac28e8d2e751957bfdca7748a2b1",
-          "title": "大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起",
-          "url": "https://www.aibase.com/news/30785",
-          "source": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-02T18:07:05.408915Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_6bd7a00b",
       "title": "昨晚，硅谷经历了AI诸神之战。",
       "url": "https://waytoagi.feishu.cn/wiki/BwyawEfLAims0UkBE4tc9aSanFf?from=from_copylink",
@@ -1471,41 +1511,25 @@
       "score": 9820
     },
     {
-      "story_id": "story_cee71cf5",
-      "title": "英伟达确认将以 129 亿美元收购 Hugging Face",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
-      "primary_url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+      "story_id": "story_002ad242",
+      "title": "Nvidia 斥资 129 亿美元收购 Hugging Face 开源 AI",
+      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
+      "primary_url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
       "source_count": 4,
       "source_names": [
-        "TechCrunch",
-        "blogs.nvidia.com",
-        "Hacker News · 24h最热",
-        "New York Times"
+        "Wired",
+        "New York Times",
+        "Engadget",
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "b011cebec56fb39ddfb1fa0732af71e2cf1955c1",
-          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
-          "source": "TechCrunch",
+          "id": "e63383848a603fd584820803a2672fc8b290594f",
+          "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+          "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
+          "source": "Wired",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T12:42:45Z"
-        },
-        {
-          "id": "e2207106467f84db1ca3a7e022f83a56bef44289",
-          "title": "英伟达将收购Hugging Face",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "blogs.nvidia.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-03T14:57:29.191000Z"
-        },
-        {
-          "id": "6864f473fdba822afbf4a77b79b5da19cf6462c7",
-          "title": "Nvidia to Acquire Hugging Face",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T12:10:33Z"
+          "published_at": "2026-09-03T12:43:09Z"
         },
         {
           "id": "f36b1aa22683806d1ebf9b0714bed8b6e0866530",
@@ -1514,6 +1538,22 @@
           "source": "New York Times",
           "site_id": "techurls",
           "published_at": "2026-09-03T13:01:43Z"
+        },
+        {
+          "id": "7a0c676929266148081f9631aab7b949640321d4",
+          "title": "NVIDIA is buying Hugging Face for $12.93 billion",
+          "url": "https://www.engadget.com/2250197/nvidia-buys-hugging-face",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T12:18:21Z"
+        },
+        {
+          "id": "609621ddb72418617c4de84e743c47b7d3eba7a8",
+          "title": "Nvidia is buying Hugging Face for almost $13 billion",
+          "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T12:12:06Z"
         }
       ],
       "item_count": 4,
@@ -1562,20 +1602,20 @@
       ],
       "sources": [
         {
-          "id": "42c5782d113b0cca15927913c750832b827d3a24",
-          "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - apnews.com",
+          "id": "517e9fe118e20eb871a79ec1dfab987856f15445",
+          "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - AP News",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
           "source": "AP World News",
           "site_id": "opmlrss",
           "published_at": "2026-09-02T23:24:00Z"
         },
         {
-          "id": "517e9fe118e20eb871a79ec1dfab987856f15445",
-          "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - AP News",
+          "id": "42c5782d113b0cca15927913c750832b827d3a24",
+          "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - apnews.com",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
           "source": "AP World News",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T20:59:39Z"
+          "published_at": "2026-09-02T23:24:00Z"
         },
         {
           "id": "fa7ae1ba7d32cd106b0cd19965d0689a2c6795aa",
@@ -1590,35 +1630,92 @@
       "score": 9770
     },
     {
-      "story_id": "story_78268be4",
-      "title": "特朗普政府在《纽约时报》版权诉讼中支持 OpenAI",
-      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-      "primary_url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-      "source_count": 2,
+      "story_id": "story_833dfe15",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+      "primary_url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+      "source_count": 1,
       "source_names": [
-        "Wired",
-        "New York Times"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "c21964ebf91888ed137d7776d1f11b4388c21b9b",
-          "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-          "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-          "source": "Wired",
+          "id": "8a04ddeb433bf231a0c7a89ee7380e5e6a38abf8",
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+          "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T18:41:02Z"
-        },
-        {
-          "id": "8ee20cc994274cad6001a25f8b4eb160577bcb52",
-          "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
-          "url": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T18:48:36Z"
+          "published_at": "2026-09-03T18:37:57Z"
         }
       ],
-      "item_count": 2,
-      "score": 9770
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_034ab9a9",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "primary_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "8b38e46b7654670011f1a8d0c329953739ff53d8",
+          "title": "Meta is paying to peek at how you use their latest AI model",
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T18:19:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_95d412ab",
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue",
+      "primary_url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "23882da96e374d7bb75e91ba32fbd19dbd1a66f8",
+          "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+          "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T16:42:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c944f179",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
+      "primary_url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "52f23e1b3cfc60c8654a1d5d4e7ee3a8949c7795",
+          "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+          "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T16:09:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_d51a9bbd",
@@ -1651,6 +1748,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_9e08a3fd",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+      "primary_url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "e9850ad6cfac9ecbf864a8e87fa7058dc67f3524",
+          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_b170b79e",
       "title": "Please welcome the newest member to our team: The AI agent",
       "url": "https://www.france24.com/en/tv-shows/people-profit/20260903-please-welcome-the-newest-member-to-our-team-the-ai-agent",
@@ -1667,6 +1786,28 @@
           "source": "France24 English",
           "site_id": "opmlrss",
           "published_at": "2026-09-03T14:25:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_72ee68e0",
+      "title": "价值真相 · 财报季｜美股中概3C巨头的“端侧 AI”溢价：硬件更迭周期里的毛利真相",
+      "url": "https://www.tmtpost.com/8128007.html",
+      "primary_url": "https://www.tmtpost.com/8128007.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "71150b09e24fde1bddfe3c6446372d53c336189d",
+          "title": "价值真相 · 财报季｜美股中概3C巨头的“端侧 AI”溢价：硬件更迭周期里的毛利真相",
+          "url": "https://www.tmtpost.com/8128007.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T14:10:57Z"
         }
       ],
       "item_count": 1,
@@ -1711,28 +1852,6 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-09-03T13:37:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_636f110c",
-      "title": "Nvidia RTX Spark“超级芯片”：第一台人工智能电脑已经到来",
-      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look",
-      "primary_url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "f43531518df36a28d9cb4da1d87b574f5c448e3a",
-          "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-          "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T13:00:00Z"
         }
       ],
       "item_count": 1,
@@ -1799,6 +1918,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-03T11:59:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f953b606",
+      "title": "这些新型割草机器人修剪你的边缘",
+      "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+      "primary_url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "860fe9bd1136f14c8305c85a29ad3f027e6ee39d",
+          "title": "These new robot lawnmowers trim your edges",
+          "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T11:55:00Z"
         }
       ],
       "item_count": 1,
@@ -1915,6 +2056,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_d7583d30",
+      "title": "丑陋的人工智能食物照片只是一个开始",
+      "url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning",
+      "primary_url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "e6ce7ce33e5bff00bde22267f05a192b77f81369",
+          "title": "Ugly AI Food Photos Are Only the Beginning",
+          "url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_0a1ae035",
       "title": "国产算力开始拼订单了",
       "url": "https://www.huxiu.com/article/4888337.html?f=rss",
@@ -2003,28 +2166,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_3482ef3f",
-      "title": "这是 Flock 为警察提供的人工智能搜索工具",
-      "url": "https://www.wired.com/story/flock-ai-search-user-interface",
-      "primary_url": "https://www.wired.com/story/flock-ai-search-user-interface",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "62e11ec9ab8d3a50e6e2e89fed5956d5cfae0cd9",
-          "title": "This Is Flock’s AI Search Tool for Cops",
-          "url": "https://www.wired.com/story/flock-ai-search-user-interface",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_21e8ef7b",
       "title": "美国或中国会成为人工智能超级大国吗？",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/9/3/will-the-us-or-china-emerge-as-the-ai-superpower?traffic_source=rss",
@@ -2085,28 +2226,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-03T09:40:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_73a297fb",
-      "title": "智能马桶已经使用人工智能来分析你的粪便",
-      "url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
-      "primary_url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "2b461735c1d297afb7b9ebba3c15dd7f0e3c804b",
-          "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
-          "url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T09:30:00Z"
         }
       ],
       "item_count": 1,
@@ -2795,6 +2914,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_fb7a79e1",
+      "title": "Meta 向员工推出新的人工智能代理，但放松了对 Tokenmaxxing 的支持",
+      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+      "primary_url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "4bb4e5a186fd997ac0b5267559b647ede9264851",
+          "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+          "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T01:32:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_76490981",
       "title": "BAT期中考：找对AI方向，想拿大结果",
       "url": "https://www.tmtpost.com/8126304.html",
@@ -3169,88 +3310,49 @@
       "score": 9720
     },
     {
-      "story_id": "story_3ab20ae4",
-      "title": "Google 发布 Gemini 3.8 Flash，这是六周内的第三款 Flash 型号",
-      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks",
-      "primary_url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks",
-      "source_count": 1,
-      "source_names": [
-        "ArsTechnica"
-      ],
-      "sources": [
-        {
-          "id": "8c0a9bf962946f69a7f00afece4c531679474c5c",
-          "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-          "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T18:13:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_0da80c0e",
-      "title": "纽约市禁止公立学校八年级学生使用生成式人工智能工具",
-      "url": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade",
-      "primary_url": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade",
-      "source_count": 4,
-      "source_names": [
-        "www.nytimes.com",
-        "Hacker News (黑客新闻)",
-        "Slashdot",
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "6c2db167717125f98fef66e66b63c80c31409f58",
-          "title": "曼达尼在纽约市学校禁止使用人工智能",
-          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-          "source": "www.nytimes.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-02T22:57:21.026000Z"
-        },
-        {
-          "id": "a389a91225eee76ab28db1d574d15c0aa451e13e",
-          "title": "Mamdani Bans AI in NYC Schools",
-          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-02T20:57:04Z"
-        },
-        {
-          "id": "c372ecf526ae2dddc84df985048339c64cebba72",
-          "title": "NYC Public Schools Ban AI Use Through Middle School",
-          "url": "https://news.slashdot.org/story/26/09/02/167206/nyc-public-schools-ban-ai-use-through-middle-school",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T19:00:00Z"
-        },
-        {
-          "id": "f76f98c6cc6ed4c197f71161df5bda22ca0ef40b",
-          "title": "NYC bans the use of generative AI tools in public schools for students through eighth grade",
-          "url": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T18:50:09Z"
-        }
-      ],
-      "item_count": 4,
-      "score": 9590
-    },
-    {
-      "story_id": "story_36a53f9e",
-      "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-      "url": "https://news.ycombinator.com/item?id=49552616",
-      "primary_url": "https://news.ycombinator.com/item?id=49552616",
+      "story_id": "story_de2a32e4",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://news.ycombinator.com/item?id=49550375",
+      "primary_url": "https://news.ycombinator.com/item?id=49550375",
       "source_count": 3,
       "source_names": [
-        "news.ycombinator.com",
         "hackernews",
+        "news.ycombinator.com",
         "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "ed7768ed80e896ebcc69d050037a86565d870522",
+          "title": "GPT-6 Astra",
+          "url": "https://news.ycombinator.com/item?id=49554643",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T18:44:08.469000Z"
+        },
+        {
+          "id": "329f70853065dde39a790708d3e080e0fd817f0e",
+          "title": "OpenAI begins rolling out GPT-6 Astra",
+          "url": "https://news.ycombinator.com/item?id=49554273",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T18:44:08.469000Z"
+        },
+        {
+          "id": "edc53e565a3e799a805fc85f3fa40da6053c2208",
+          "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "url": "https://news.ycombinator.com/item?id=49550375",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T18:44:08.469000Z"
+        },
+        {
+          "id": "60f8397315388580847ff9229b6d974af4849864",
+          "title": "The paradox of diffusion distillation (2024)",
+          "url": "https://news.ycombinator.com/item?id=49553830",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T18:44:08.469000Z"
+        },
         {
           "id": "4af8e2089978458d125b370c065710974967b754",
           "title": "Ask HN: 为什么OpenAI、Claude和Grok会同时出现故障？是巧合吗？",
@@ -3276,6 +3378,14 @@
           "published_at": "2026-09-03T16:43:41.641000Z"
         },
         {
+          "id": "962b46fc1cf8d7e9c145e28b9aa9a63f3f35405a",
+          "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+          "url": "https://news.ycombinator.com/item?id=49551096",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T15:43:36.885000Z"
+        },
+        {
           "id": "a6e2cee2511cd9e09bcd577dc5ce96c805cdbb8d",
           "title": "ChatGPT, Claude, and Grok Are Down",
           "url": "https://news.ycombinator.com/item?id=49551658",
@@ -3292,8 +3402,8 @@
           "published_at": "2026-09-03T15:43:36.885000Z"
         },
         {
-          "id": "2097cdb9a0d64c74dabe9e3c52ae16b7c5758c2f",
-          "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+          "id": "f1fb8f5084b4e42bbe623c632af15675e3988f98",
+          "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
           "url": "https://news.ycombinator.com/item?id=49551096",
           "source": "HN Algolia · AI 24h",
           "site_id": "hackernews",
@@ -3341,7 +3451,7 @@
         },
         {
           "id": "c34ecfce4127b33bc31e5ac97e15386469e96c44",
-          "title": "Nvidia to Acquire Hugging Face",
+          "title": "Nvidia to acquire Hugging Face",
           "url": "https://news.ycombinator.com/item?id=49548952",
           "source": "hackernews",
           "site_id": "newsnow",
@@ -3468,7 +3578,47 @@
           "published_at": "2026-09-02T19:04:25.071000Z"
         }
       ],
-      "item_count": 27,
+      "item_count": 32,
+      "score": 9580
+    },
+    {
+      "story_id": "story_f0909e6b",
+      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "primary_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "source_count": 3,
+      "source_names": [
+        "blogs.nvidia.com",
+        "Hacker News",
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "e2207106467f84db1ca3a7e022f83a56bef44289",
+          "title": "英伟达将收购Hugging Face",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "blogs.nvidia.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T14:57:29.191000Z"
+        },
+        {
+          "id": "d4f66e7215f2e0fbf99d9ac91197d0e72c3e634b",
+          "title": "Nvidia to Acquire Hugging Face",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T12:10:33Z"
+        },
+        {
+          "id": "51187600c5376b280504c1c9f659a9435679615d",
+          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T12:42:45Z"
+        }
+      ],
+      "item_count": 3,
       "score": 9580
     },
     {
@@ -3476,10 +3626,9 @@
       "title": "Codex 服务中断",
       "url": "https://github.com/openai/codex/issues/28756",
       "primary_url": "https://github.com/openai/codex/issues/28756",
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "github.com",
-        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -3492,11 +3641,11 @@
           "published_at": "2026-09-03T16:47:58.260000Z"
         },
         {
-          "id": "a02553e2e73089718b562de919e8366155d32403",
+          "id": "2624e9fc424522125494f4b9b0c04ed98d784fee",
           "title": "Codex Is Down",
           "url": "https://github.com/openai/codex/issues/28756",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-03T14:54:31Z"
         },
         {
@@ -3509,87 +3658,7 @@
         }
       ],
       "item_count": 3,
-      "score": 9580
-    },
-    {
-      "story_id": "story_ea622c80",
-      "title": "多种模型的错误率升高",
-      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-      "primary_url": "https://status.claude.com/incidents/461yvfrzpwtt",
-      "source_count": 3,
-      "source_names": [
-        "status.claude.com",
-        "Hacker News · 24h最热",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "e092d4f5da38eda1fb30a6f8525cbc5fca86fb05",
-          "title": "多种模型的错误率升高",
-          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-          "source": "status.claude.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-03T14:57:29.194000Z"
-        },
-        {
-          "id": "9def0ab456c0fd275f9bc9c8f089a909c55c137e",
-          "title": "Claude outage – Resolved",
-          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T13:29:12Z"
-        },
-        {
-          "id": "d8fc25778cee233e80504e522db1fab7c45d139f",
-          "title": "Elevated Errors for Multiple Models",
-          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T13:29:12Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
-      "story_id": "story_002ad242",
-      "title": "Nvidia 斥资 129 亿美元收购 Hugging Face 开源 AI",
-      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
-      "primary_url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
-      "source_count": 3,
-      "source_names": [
-        "Wired",
-        "Engadget",
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "3c33bd135d8964a0766e74753f30df9d768e3f72",
-          "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-          "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T12:43:09Z"
-        },
-        {
-          "id": "7a0c676929266148081f9631aab7b949640321d4",
-          "title": "NVIDIA is buying Hugging Face for $12.93 billion",
-          "url": "https://www.engadget.com/2250197/nvidia-buys-hugging-face",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T12:18:21Z"
-        },
-        {
-          "id": "609621ddb72418617c4de84e743c47b7d3eba7a8",
-          "title": "Nvidia is buying Hugging Face for almost $13 billion",
-          "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T12:12:06Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
+      "score": 9570
     },
     {
       "story_id": "story_4c15db54",
@@ -3599,7 +3668,7 @@
       "source_count": 2,
       "source_names": [
         "status.x.ai",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3611,12 +3680,43 @@
           "published_at": "2026-09-03T16:17:01.087000Z"
         },
         {
-          "id": "3881966f3f288825e4515ab7b0c9d6de8f42aff2",
+          "id": "d92d5c4e1c4ed85d54c21dee4cf0ceba0492746d",
           "title": "Grok outage",
           "url": "https://status.x.ai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-03T15:26:01Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_5e35c6c4",
+      "title": "OpenAI's new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+      "primary_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "b2d845915f188ffa69db02c8b8722d8e83ad161f",
+          "title": "OpenAI's new reasoning technique alarms AI safety experts",
+          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T16:11:24Z"
+        },
+        {
+          "id": "853430ddf67399dd1aaf76063280eb2b13e1de67",
+          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T20:19:14Z"
         }
       ],
       "item_count": 2,
@@ -3662,6 +3762,45 @@
       "score": 9570
     },
     {
+      "story_id": "story_ea622c80",
+      "title": "多种模型的错误率升高",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "primary_url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "source_count": 2,
+      "source_names": [
+        "status.claude.com",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "e092d4f5da38eda1fb30a6f8525cbc5fca86fb05",
+          "title": "多种模型的错误率升高",
+          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+          "source": "status.claude.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T14:57:29.194000Z"
+        },
+        {
+          "id": "9def0ab456c0fd275f9bc9c8f089a909c55c137e",
+          "title": "Claude outage – Resolved",
+          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T13:29:12Z"
+        },
+        {
+          "id": "1b7e2e0475fec51d4d66e45819aa4db85a7d69d4",
+          "title": "Elevated Errors for Multiple Models",
+          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T13:29:12Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9570
+    },
+    {
       "story_id": "story_203ff3b7",
       "title": "机器人技术为何如此困难",
       "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
@@ -3669,7 +3808,7 @@
       "source_count": 2,
       "source_names": [
         "secondthoughts.ai",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3681,16 +3820,267 @@
           "published_at": "2026-09-03T10:41:16.699000Z"
         },
         {
-          "id": "581d5fb693cf9fb81f1c96ed097d753dd0617d35",
+          "id": "8c5ba3c7c2faded87618d85e45848b202370da37",
           "title": "Reasons robotics is hard",
           "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-02T22:02:30Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_1fa5e007",
+      "title": "曼达尼在纽约市学校禁止使用人工智能",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "primary_url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "source_count": 2,
+      "source_names": [
+        "www.nytimes.com",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "6c2db167717125f98fef66e66b63c80c31409f58",
+          "title": "曼达尼在纽约市学校禁止使用人工智能",
+          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+          "source": "www.nytimes.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-02T22:57:21.026000Z"
+        },
+        {
+          "id": "35c88837cd4a9f468857c7bf1a689a0bad512a0b",
+          "title": "Mamdani Bans AI in NYC Schools",
+          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T20:57:04Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_8b954ea2",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "primary_url": "https://openai.com/index/gpt-6-astra",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "660eafdaef591a4cd71324fa05692a0d315d3933",
+          "title": "GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T18:41:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d055f5ec",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "primary_url": "https://inference-docs.cerebras.ai/models/overview",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "8f81890e0714d4a6ddadd814ded0090f5f06b025",
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
+          "url": "https://inference-docs.cerebras.ai/models/overview",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-03T18:32:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_28f7d1af",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "primary_url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "154fe57c92ca58488f84608993966bc2cfa37a2e",
+          "title": "OpenAI begins rolling out GPT-6 Astra",
+          "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-03T18:18:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6fc6890b",
+      "title": "Four major AI models suffer rare overlapping downtime",
+      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime",
+      "primary_url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "2be778bc4e9546785486acecc6b813e2dfe358ff",
+          "title": "Four major AI models suffer rare overlapping downtime",
+          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T18:10:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6dc3367e",
+      "title": "OpenAI launches GPT-6 Astra, initially available to organizations in its Daybreak Access program; Greg Brockman says \"we are now in the AGI era\" (Hayden Field/The Verge)",
+      "url": "https://www.techmeme.com/260903/p33",
+      "primary_url": "https://www.techmeme.com/260903/p33",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "f7f39f0ea05e72f7fc2c2bc102325747614c55e0",
+          "title": "OpenAI launches GPT-6 Astra, initially available to organizations in its Daybreak Access program; Greg Brockman says \"we are now in the AGI era\" (Hayden Field/The Verge)",
+          "url": "https://www.techmeme.com/260903/p33",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T18:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b64d2901",
+      "title": "The Double Matthew Walker Knot by Fable 5.1",
+      "url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
+      "primary_url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "941c219deed209fb8a651a22e84cbf798d5dc5da",
+          "title": "The Double Matthew Walker Knot by Fable 5.1",
+          "url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-03T18:09:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_91d50650",
+      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+      "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human",
+      "primary_url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "03245ebe9abacc5d7bb6abf367dcfc4dd558f5a8",
+          "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+          "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T18:06:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f972daf5",
+      "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
+      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
+      "primary_url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "a2912d733d3dd62a548504ff202098f7b9e39b68",
+          "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
+          "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-03T18:02:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_92cdef82",
+      "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+      "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+      "primary_url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "bb33d6aee4b30371aac646625bd4bfc1d9f116a4",
+          "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+          "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T18:01:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3e4203dd",
+      "title": "OpenAI's New Reasoning Technique Alarms AI Safety Experts",
+      "url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts",
+      "primary_url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "11221994e2bb4121aa2a0c94765547041a5e574b",
+          "title": "OpenAI's New Reasoning Technique Alarms AI Safety Experts",
+          "url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_fc4464f1",
@@ -3709,6 +4099,50 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-09-03T17:44:57.281000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b8e60910",
+      "title": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+      "url": "https://www.techmeme.com/260903/p31",
+      "primary_url": "https://www.techmeme.com/260903/p31",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "85c940e408e33ef0f4132abbe41be803b96f4530",
+          "title": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+          "url": "https://www.techmeme.com/260903/p31",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T17:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_cc13f636",
+      "title": "Nvidia confirms it is buying Hugging Face for $12.93bn and promises to leave it open",
+      "url": "https://thenextweb.com/news/nvidia-hugging-face-acquisition-confirmed",
+      "primary_url": "https://thenextweb.com/news/nvidia-hugging-face-acquisition-confirmed",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "eece85691ea758f32de10d593a340501dff96c4b",
+          "title": "Nvidia confirms it is buying Hugging Face for $12.93bn and promises to leave it open",
+          "url": "https://thenextweb.com/news/nvidia-hugging-face-acquisition-confirmed",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T17:28:45Z"
         }
       ],
       "item_count": 1,
@@ -3737,6 +4171,28 @@
       "score": 7
     },
     {
+      "story_id": "story_beb81164",
+      "title": "Yes, no (built-in) AI is now a feature – LibreOffice blog",
+      "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature",
+      "primary_url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "265e6f5d42c78cd1cbeb7727e84fac9058661dee",
+          "title": "Yes, no (built-in) AI is now a feature – LibreOffice blog",
+          "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T17:12:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_d24ff692",
       "title": "Sources: Cursor was a top-five OpenAI customer at the start of 2026; OpenAI estimated in spring that Cursor would bring in $1B+ in annualized revenue for OpenAI (Maxwell Zeff/Wired)",
       "url": "https://www.techmeme.com/260903/p28",
@@ -3753,6 +4209,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-03T17:05:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f7492f67",
+      "title": "The largest college by enrollment in every state",
+      "url": "https://www.businessinsider.com/largest-college-enrollment-every-state-2026-8",
+      "primary_url": "https://www.businessinsider.com/largest-college-enrollment-every-state-2026-8",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "2dce7dffcc0ec41280ec7a34551f465e10d85f02",
+          "title": "The largest college by enrollment in every state",
+          "url": "https://www.businessinsider.com/largest-college-enrollment-every-state-2026-8",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T17:01:11Z"
         }
       ],
       "item_count": 1,
@@ -3797,28 +4275,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-03T16:45:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_95d412ab",
-      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-      "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue",
-      "primary_url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "d4ea217ee546bc6ff3053594d82b34b480714fb8",
-          "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-          "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T16:42:40Z"
         }
       ],
       "item_count": 1,
@@ -3875,15 +4331,15 @@
       "primary_url": "https://www.mireye.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "cdc1b655fb45c995a0bfab089a17163efc1b6a39",
+          "id": "5986b701923457f6007596f1df1908834852a7a6",
           "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
           "url": "https://www.mireye.com",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-03T16:24:13Z"
         }
       ],
@@ -3907,28 +4363,6 @@
           "source": "Mashable",
           "site_id": "techurls",
           "published_at": "2026-09-03T16:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_c944f179",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
-      "primary_url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "b1cccec24750f70ff4d6dfb88dae9559e8a63573",
-          "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-          "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T16:09:01Z"
         }
       ],
       "item_count": 1,
@@ -4177,28 +4611,6 @@
       "score": 7
     },
     {
-      "story_id": "story_c8182ef7",
-      "title": "ChatGPT, Claude, and Grok Are Down",
-      "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
-      "primary_url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "23a68da9ca269c056f7b52fbc6a760d4ad1756ad",
-          "title": "ChatGPT, Claude, and Grok Are Down",
-          "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T15:30:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_617a702f",
       "title": "Snowflake stock soars 26% after it gives investors another reason to get excited about the AI boom",
       "url": "https://www.businessinsider.com/snowflake-stock-earnings-ai-trade-software-saas-tech-pltr-snow-2026-9",
@@ -4265,6 +4677,28 @@
       "score": 7
     },
     {
+      "story_id": "story_c8182ef7",
+      "title": "ChatGPT, Claude, and Grok Are Down",
+      "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
+      "primary_url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
+      "source_count": 1,
+      "source_names": [
+        "Mac Rumors"
+      ],
+      "sources": [
+        {
+          "id": "d4004f45bc8795b1bbe78182034e04ec9c2215e8",
+          "title": "ChatGPT, Claude, and Grok Are Down",
+          "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
+          "source": "Mac Rumors",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T15:08:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_d31a225c",
       "title": "Coworker.ai launches OM2, an organizational memory layer promising to slash enterprise AI token burn by 9x",
       "url": "https://thenextweb.com/news/coworker-ai-om2-organizational-memory-token-costs",
@@ -4323,28 +4757,6 @@
           "title": "Google says its AI weather model is getting better",
           "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
           "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9e08a3fd",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
-      "primary_url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "3e308f62a76b8abe278a2bcb5496e922737a8d51",
-          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
-          "source": "TechCrunch",
           "site_id": "techurls",
           "published_at": "2026-09-03T15:00:00Z"
         }
@@ -4771,6 +5183,28 @@
       "score": 7
     },
     {
+      "story_id": "story_636f110c",
+      "title": "Nvidia RTX Spark“超级芯片”：第一台人工智能电脑已经到来",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look",
+      "primary_url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "e35bb57c2708b9547beea3be09ef7ff370804332",
+          "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+          "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_56f11458",
       "title": "官方消息：Nvidia 将以 130 亿美元收购 Hugging Face",
       "url": "https://www.businessinsider.com/nvidia-confirms-hugging-face-acquisition-13-billion-deal-jensen-huang-2026-9",
@@ -4787,6 +5221,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-09-03T12:21:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b83b7bfb",
+      "title": "Nvidia to acquire Hugging Face",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "primary_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "598aec712894b8e446a0b52bd79ef82a52918339",
+          "title": "Nvidia to acquire Hugging Face",
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T12:10:33Z"
         }
       ],
       "item_count": 1,
@@ -4903,28 +5359,6 @@
       "score": 7
     },
     {
-      "story_id": "story_f953b606",
-      "title": "这些新型割草机器人修剪你的边缘",
-      "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
-      "primary_url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "1d2ca19e714484a36c761f2ac5846314af3d982c",
-          "title": "These new robot lawnmowers trim your edges",
-          "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T11:55:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_aac26c72",
       "title": "2026 年开展业务？使用这 7 个人工智能工具",
       "url": "https://www.techradar.com/pro/launching-a-business-in-2026-use-these-7-ai-tools",
@@ -4983,28 +5417,6 @@
           "title": "Perplexity Will Open Source Its Faster Lily AI Engine For Apple Silicon",
           "url": "https://entertainment.slashdot.org/story/26/09/02/2235237/perplexity-will-open-source-its-faster-lily-ai-engine-for-apple-silicon",
           "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d7583d30",
-      "title": "丑陋的人工智能食物照片只是一个开始",
-      "url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning",
-      "primary_url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "4c1495ef2f17d5d8cf5f92ba2ff41ec0e9867835",
-          "title": "Ugly AI Food Photos Are Only the Beginning",
-          "url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning",
-          "source": "Wired",
           "site_id": "techurls",
           "published_at": "2026-09-03T11:00:00Z"
         }
@@ -5145,6 +5557,28 @@
       "score": 7
     },
     {
+      "story_id": "story_3482ef3f",
+      "title": "这是 Flock 为警察提供的人工智能搜索工具",
+      "url": "https://www.wired.com/story/flock-ai-search-user-interface",
+      "primary_url": "https://www.wired.com/story/flock-ai-search-user-interface",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "3e2ca438d407de164deacb045bb99020af69a921",
+          "title": "This Is Flock’s AI Search Tool for Cops",
+          "url": "https://www.wired.com/story/flock-ai-search-user-interface",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_a1495197",
       "title": "All G20 nations unanimously endorse the non-binding Carolina Principles, a US-proposed framework advocating for a lighter-touch, sector-specific AI regulation (Maggie Eastland/Bloomberg)",
       "url": "https://www.techmeme.com/260903/p9",
@@ -5227,6 +5661,28 @@
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
           "published_at": "2026-09-03T09:37:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_73a297fb",
+      "title": "智能马桶已经使用人工智能来分析你的粪便",
+      "url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
+      "primary_url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "ac6fb498b3ac407761c03fe6071ca6c2566c54e4",
+          "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
+          "url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T09:30:00Z"
         }
       ],
       "item_count": 1,
@@ -5805,28 +6261,6 @@
       "score": 7
     },
     {
-      "story_id": "story_fb7a79e1",
-      "title": "Meta 向员工推出新的人工智能代理，但放松了对 Tokenmaxxing 的支持",
-      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
-      "primary_url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "5a3df06747458a4ea60724b1aeaff0cb40e47cf3",
-          "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-          "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T01:32:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_f082815b",
       "title": "围棋大师 Shin 击败 AI KataGo 取得人类历史性胜利",
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
@@ -6311,28 +6745,6 @@
       "score": 7
     },
     {
-      "story_id": "story_5e35c6c4",
-      "title": "OpenAI 的新推理技术给人工智能安全专家敲响了警钟",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
-      "primary_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "853430ddf67399dd1aaf76063280eb2b13e1de67",
-          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T20:19:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_db66a4ca",
       "title": "人工智能越来越接近能够利用 OT，这对于关键基础设施来说是一个非常坏的消息",
       "url": "https://www.techradar.com/pro/security/ai-is-getting-closer-to-being-able-to-exploit-ot-and-thats-very-bad-news-for-critical-infrastructure",
@@ -6569,182 +6981,6 @@
           "source": "juejin",
           "site_id": "newsnow",
           "published_at": "2026-09-02T19:04:25.071000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_edd0f2ce",
-      "title": "Basedash 人工智能来源",
-      "url": "https://www.producthunt.com/products/basedash",
-      "primary_url": "https://www.producthunt.com/products/basedash",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "1482216340a16ea9875ef5f691a9bfdc64faf2fa",
-          "title": "Basedash AI Sources",
-          "url": "https://www.producthunt.com/products/basedash",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-09-02T18:44:39.898000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f476df6b",
-      "title": "Claude Fable 5.1",
-      "url": "https://www.producthunt.com/products/claude-fable-5-1",
-      "primary_url": "https://www.producthunt.com/products/claude-fable-5-1",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "9de133a2f9e3856f4508c3351bc6860b06268c72",
-          "title": "Claude Fable 5.1",
-          "url": "https://www.producthunt.com/products/claude-fable-5-1",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-09-02T18:44:39.898000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_68b80507",
-      "title": "Onset MCP",
-      "url": "https://www.producthunt.com/products/onset-io",
-      "primary_url": "https://www.producthunt.com/products/onset-io",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "a77d34308ac108eddb4f3fba90f930f84b03bcd3",
-          "title": "Onset MCP",
-          "url": "https://www.producthunt.com/products/onset-io",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-09-02T18:44:39.898000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_41a3fe9d",
-      "title": "通过动态模型缝合 AI",
-      "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
-      "primary_url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "253ce0d154ca49b8b6387b45598d282ee1ceffef",
-          "title": "Stitch AI by Dynamic Mockups",
-          "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-09-02T18:44:39.898000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_bdf52cde",
-      "title": "Firefox 的 AI 开关已关闭。遥测不是",
-      "url": "https://marius.blog/firefox-155-ai-kill-switch-retest",
-      "primary_url": "https://marius.blog/firefox-155-ai-kill-switch-retest",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "36f823faef1631efe2adfeb8c941fd1fc39787e6",
-          "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
-          "url": "https://marius.blog/firefox-155-ai-kill-switch-retest",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T18:30:49Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0a3f85a5",
-      "title": "这些俄罗斯数学家教人工智能模型如何在不使用语言的情况下相互交谈",
-      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication",
-      "primary_url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "b617cf78bee43c8809de59bc4e0ace0207e96207",
-          "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-          "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T18:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_29c5ebb0",
-      "title": "高中之前没有人工智能：纽约市学校宣布重大课堂技术改革",
-      "url": "https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716",
-      "primary_url": "https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "6903e7264f4f662104e141c96e4a8bf3d4c33e87",
-          "title": "No AI until high school:NYC schools announce major classroom technology overhaul",
-          "url": "https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-02T18:13:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6f91f30e",
-      "title": "人工智能正在阻止初创公司完成青春期",
-      "url": "https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty",
-      "primary_url": "https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "8da524c8ead6fa8b2db8250eb8e71f7a2a830a5c",
-          "title": "AI is stopping startups from completing puberty",
-          "url": "https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-02T18:06:14Z"
         }
       ],
       "item_count": 1,
