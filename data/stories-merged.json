@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T07:43:36.890747Z",
+  "generated_at": "2026-09-03T08:43:41.790671Z",
   "window_hours": 24,
-  "total_stories": 239,
+  "total_stories": 244,
   "stories": [
     {
       "story_id": "story_36e5104f",
@@ -18,6 +18,28 @@
           "title": "Codex CLI 0.153.0",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
+      "story_id": "story_3f452d14",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "primary_url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "sources": [
+        {
+          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "published_at": "2026-09-03T00:00:00Z"
         }
@@ -70,28 +92,6 @@
       "score": 10020
     },
     {
-      "story_id": "story_21f8b896",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "primary_url": "https://openai.com/index/atv-big-air-tour",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "url": "https://openai.com/index/atv-big-air-tour",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
       "story_id": "story_307bd134",
       "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
       "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
@@ -122,7 +122,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "metr.org",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -142,11 +142,11 @@
           "published_at": "2026-09-03T04:49:35.840000Z"
         },
         {
-          "id": "9ee6ad863cd8137e62b27a01a971cc0f8bd43218",
+          "id": "56d1a46beb49e63c8a6ca58942f3934b4b5f33d8",
           "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
           "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-02T23:08:47Z"
         }
       ],
@@ -183,6 +183,72 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_d8e5a64f",
+      "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+      "url": "https://www.aibase.com/news/30806",
+      "primary_url": "https://www.aibase.com/news/30806",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
+          "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "url": "https://www.aibase.com/news/30806",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T08:05:00.187820Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_f480ca2e",
+      "title": "百度基础模型部大换血：北美大模型专家与前DeepSeek核心成员加盟，文心多模态迎关键升级",
+      "url": "https://www.aibase.com/news/30805",
+      "primary_url": "https://www.aibase.com/news/30805",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "da1e435035c7f202371ee156c2d27cab17945db8",
+          "title": "百度基础模型部大换血：北美大模型专家与前DeepSeek核心成员加盟，文心多模态迎关键升级",
+          "url": "https://www.aibase.com/news/30805",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T08:05:00.187820Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_f7585d14",
+      "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
+      "url": "https://www.aibase.com/news/30807",
+      "primary_url": "https://www.aibase.com/news/30807",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "119546372a34e77b05a47bd827aac2a1889be3fd",
+          "title": "黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果",
+          "url": "https://www.aibase.com/news/30807",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T08:05:00.187820Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_74b195be",
@@ -911,28 +977,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_57353e2d",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind：Blog（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "17873415aba98e677f45c6fb031c445c0157b1ef",
-          "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-          "source": "Google DeepMind：Blog（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T16:18:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_7ca96d7d",
       "title": "深度医疗AI迎来关键里程碑：ChatGPT打通Epic电子健康记录系统",
       "url": "https://www.aibase.com/news/30778",
@@ -1551,7 +1595,7 @@
           "url": "https://www.huxiu.com/article/4888226.html?f=rss",
           "source": "虎嗅",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T05:09:29Z"
+          "published_at": "2026-09-03T05:09:30Z"
         }
       ],
       "item_count": 2,
@@ -1597,6 +1641,37 @@
       "score": 9770
     },
     {
+      "story_id": "story_78268be4",
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
+      "primary_url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
+      "source_count": 2,
+      "source_names": [
+        "Wired",
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "c21964ebf91888ed137d7776d1f11b4388c21b9b",
+          "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+          "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-02T18:41:02Z"
+        },
+        {
+          "id": "8ee20cc994274cad6001a25f8b4eb160577bcb52",
+          "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
+          "url": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T18:48:36Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9770
+    },
+    {
       "story_id": "story_33aca323",
       "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
       "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
@@ -1634,6 +1709,28 @@
       ],
       "item_count": 3,
       "score": 9770
+    },
+    {
+      "story_id": "story_41bbc6ea",
+      "title": "AI工具及网络平台存在“免费入园”等误导信息，云南和顺古镇景区：游客勿轻信",
+      "url": "https://m.thepaper.cn/detail/34000273",
+      "primary_url": "https://m.thepaper.cn/detail/34000273",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "300efc1f32d24ee3de468b09ad82bd635252c578",
+          "title": "AI工具及网络平台存在“免费入园”等误导信息，云南和顺古镇景区：游客勿轻信",
+          "url": "https://m.thepaper.cn/detail/34000273",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T07:22:41Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_d5c0e7ae",
@@ -2076,28 +2173,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_fb7a79e1",
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
-      "primary_url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "4bb4e5a186fd997ac0b5267559b647ede9264851",
-          "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-          "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T01:32:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_76490981",
       "title": "BAT期中考：找对AI方向，想拿大结果",
       "url": "https://www.tmtpost.com/8126304.html",
@@ -2384,6 +2459,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_d5066aad",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+      "primary_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "84ed8eade82cb892525e22bce10456d9c9357998",
+          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-02T22:24:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_e536813b",
       "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
       "url": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
@@ -2422,6 +2519,28 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-09-02T22:10:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_53d98970",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "1fc1cc07c49cf240cbb03207c097e93c43a68056",
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-02T20:11:40Z"
         }
       ],
       "item_count": 1,
@@ -2546,6 +2665,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_57353e2d",
+      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind Blog"
+      ],
+      "sources": [
+        {
+          "id": "9251b67f6eaa3ffc005eaf7777ff86c87faa0f9b",
+          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+          "source": "Google DeepMind Blog",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-02T16:18:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_fb00ea6e",
       "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
       "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
@@ -2568,44 +2709,22 @@
       "score": 9720
     },
     {
-      "story_id": "story_d78b4d92",
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
-      "primary_url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+      "story_id": "story_86623607",
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "primary_url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
       "source_count": 1,
       "source_names": [
-        "TechCrunch"
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "e971436add10ccf61a65b0e3f1e015950aa1da7e",
-          "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-          "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
-          "source": "TechCrunch",
+          "id": "3b4de434e0ab6c6a37947707d714bdd5eb46aac2",
+          "title": "Google is sending MrBeast into the wilderness, armed with AI",
+          "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+          "source": "The Verge",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T16:01:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_6a024113",
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
-      "primary_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1513582ca281317fd1a82ba521b1f8ed3431bcc0",
-          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-          "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T15:01:23Z"
+          "published_at": "2026-09-02T15:47:03Z"
         }
       ],
       "item_count": 1,
@@ -2760,6 +2879,28 @@
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-09-02T12:09:42Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_21f8b896",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "primary_url": "https://openai.com/index/atv-big-air-tour",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "8fc860ef0a088291ad6904ef256e87957362a3df",
+          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "url": "https://openai.com/index/atv-big-air-tour",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-02T12:00:00Z"
         }
       ],
       "item_count": 1,
@@ -2986,6 +3127,46 @@
       "score": 9720
     },
     {
+      "story_id": "story_79d8e65f",
+      "title": "除企业版外，Mistral 默认会根据用户输入进行训练",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "primary_url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "source_count": 3,
+      "source_names": [
+        "help.mistral.ai",
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "ac64e015859ee3f2026f9761058c8270b0558684",
+          "title": "除企业版外，Mistral 默认会根据用户输入进行训练",
+          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+          "source": "help.mistral.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-02T15:13:35.067000Z"
+        },
+        {
+          "id": "f65335039e7aa68696a13fc89aa5b0e02476331c",
+          "title": "Can I opt out of my input or output data being used for training?",
+          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-02T12:30:39Z"
+        },
+        {
+          "id": "21004881129e008df2d2a7200cc6fc8945d370ff",
+          "title": "Mistral now trains on user input by default, except on enterprise tier",
+          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-02T12:30:39Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9580
+    },
+    {
       "story_id": "story_165a3090",
       "title": "WebLLM：高性能的浏览器内大型语言模型推理引擎",
       "url": "https://github.com/mlc-ai/web-llm",
@@ -3048,37 +3229,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_78268be4",
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-      "primary_url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-      "source_count": 2,
-      "source_names": [
-        "New York Times",
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "8ee20cc994274cad6001a25f8b4eb160577bcb52",
-          "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
-          "url": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T18:48:36Z"
-        },
-        {
-          "id": "314e13ccfc662863231de4b0bfc69577624fe4cd",
-          "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-          "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T18:41:02Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_c3776af5",
       "title": "检查文件是否由Claude生成",
       "url": "https://claude.com/check-content",
@@ -3117,7 +3267,7 @@
       "source_count": 2,
       "source_names": [
         "aisle.com",
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
@@ -3129,43 +3279,12 @@
           "published_at": "2026-09-02T16:49:18.744000Z"
         },
         {
-          "id": "6424068d76731550c6e8b081d10eca086512bac6",
+          "id": "30e0ce8985c2da7f2787081273c85318966007f2",
           "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
           "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-02T13:43:14Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_f8036710",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
-      "source_count": 2,
-      "source_names": [
-        "deepmind.google",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "7f967f3caa6f68b6c3e2881931f0dfb4d91f9334",
-          "title": "Gemini 3.8 Flash",
-          "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash",
-          "source": "deepmind.google",
-          "site_id": "buzzing",
-          "published_at": "2026-09-02T16:01:24.751000Z"
-        },
-        {
-          "id": "9cf8a994cf41ce83283093cfb15754ae7e6e26ce",
-          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-02T15:12:40Z"
         }
       ],
       "item_count": 2,
@@ -3179,7 +3298,7 @@
       "source_count": 2,
       "source_names": [
         "trellner.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3191,11 +3310,11 @@
           "published_at": "2026-09-02T15:29:36.290000Z"
         },
         {
-          "id": "059e12399bfb9c8281d7d1745b10c1092cf6f4c6",
+          "id": "3be4897761d6846460bf8e9a4d28607b11083bc6",
           "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
           "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-02T13:59:59Z"
         }
       ],
@@ -3234,43 +3353,70 @@
       "score": 9570
     },
     {
-      "story_id": "story_79d8e65f",
-      "title": "除企业版外，Mistral 默认会根据用户输入进行训练",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "primary_url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "source_count": 2,
+      "story_id": "story_3c70251c",
+      "title": "AI Commit Pro 2.0: Instant CLI & LP",
+      "url": "https://www.producthunt.com/products/ai-commit-pro",
+      "primary_url": "https://www.producthunt.com/products/ai-commit-pro",
+      "source_count": 1,
       "source_names": [
-        "help.mistral.ai",
-        "Hacker News · 24h最热"
+        "producthunt"
       ],
       "sources": [
         {
-          "id": "ac64e015859ee3f2026f9761058c8270b0558684",
-          "title": "除企业版外，Mistral 默认会根据用户输入进行训练",
-          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-          "source": "help.mistral.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-02T15:13:35.067000Z"
-        },
-        {
-          "id": "fa2c14dfd6edc6f39c68f836ef190fcf50ae6b5a",
-          "title": "Can I opt out of my input or output data being used for training?",
-          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-02T12:30:39Z"
-        },
-        {
-          "id": "21004881129e008df2d2a7200cc6fc8945d370ff",
-          "title": "Mistral now trains on user input by default, except on enterprise tier",
-          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-02T12:30:39Z"
+          "id": "6d4896b0ba090655db775c716c79ea831d38b2ff",
+          "title": "AI Commit Pro 2.0: Instant CLI & LP",
+          "url": "https://www.producthunt.com/products/ai-commit-pro",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T07:41:15.912000Z"
         }
       ],
-      "item_count": 3,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_09b02db4",
+      "title": "Heros Agent",
+      "url": "https://www.producthunt.com/products/heros-agent",
+      "primary_url": "https://www.producthunt.com/products/heros-agent",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "583ad625cdbcea768a306527303a67023317c704",
+          "title": "Heros Agent",
+          "url": "https://www.producthunt.com/products/heros-agent",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T07:41:15.912000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_5412fd60",
+      "title": "Vounce AI",
+      "url": "https://www.producthunt.com/products/vounce-ai",
+      "primary_url": "https://www.producthunt.com/products/vounce-ai",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "4f8035a335a2a9ef613e6c4672ba26053068dd10",
+          "title": "Vounce AI",
+          "url": "https://www.producthunt.com/products/vounce-ai",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T07:41:15.912000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_b30e641f",
@@ -3583,6 +3729,28 @@
       "score": 7
     },
     {
+      "story_id": "story_fb7a79e1",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+      "primary_url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "5a3df06747458a4ea60724b1aeaff0cb40e47cf3",
+          "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+          "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T01:32:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_f082815b",
       "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
@@ -3831,38 +3999,16 @@
       "primary_url": "https://theyfell.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "e3771b1ff584bfc30c139ec3ab17608c6a40f73f",
+          "id": "4b5b0ccb7e027606a8450d09862b015e2569a150",
           "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
           "url": "https://theyfell.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-02T22:45:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d5066aad",
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
-      "primary_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "b30ea3a4444d32a7ddccfc7c1464dc432a3cf71a",
-          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
-          "source": "TechCrunch",
+          "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-09-02T22:24:09Z"
+          "published_at": "2026-09-02T22:45:39Z"
         }
       ],
       "item_count": 1,
@@ -3919,15 +4065,15 @@
       "primary_url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "581d5fb693cf9fb81f1c96ed097d753dd0617d35",
+          "id": "f06a55e2142660a4112173a2b983deae155e9364",
           "title": "Reasons robotics is hard",
           "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-02T22:02:30Z"
         }
       ],
@@ -4089,28 +4235,6 @@
       "score": 7
     },
     {
-      "story_id": "story_53d98970",
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "8da627dd103173f63ddb9def08af38201ad5ff7b",
-          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T20:11:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_db66a4ca",
       "title": "AI is getting closer to being able to exploit OT, and that's very bad news for critical infrastructure",
       "url": "https://www.techradar.com/pro/security/ai-is-getting-closer-to-being-able-to-exploit-ot-and-thats-very-bad-news-for-critical-infrastructure",
@@ -4249,15 +4373,15 @@
       "primary_url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "e83cebf3bf6ea53e914fbbeb07e68977fe04de7e",
+          "id": "e4c149d5e61c155f7a118ebdb4471898b32e30d2",
           "title": "Introducing Muse Spark 1.3",
           "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-02T19:25:47Z"
         }
       ],
@@ -4837,6 +4961,28 @@
       "score": 7
     },
     {
+      "story_id": "story_d78b4d92",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+      "primary_url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "bdef904689d95522f3c6d0d72635db7aa977eda8",
+          "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+          "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T16:01:48Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_9e57a700",
       "title": "Caira’s AI mirrorless camera is getting ‘Nano Banana for video editing’ — but it only works on footage you’ve actually shot",
       "url": "https://www.techradar.com/cameras/mirrorless-cameras/cairas-ai-mirrorless-camera-is-getting-nano-banana-for-video-editing-but-it-only-works-on-footage-youve-actually-shot",
@@ -4903,25 +5049,33 @@
       "score": 7
     },
     {
-      "story_id": "story_86623607",
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "primary_url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "story_id": "story_f8036710",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
       "source_count": 1,
       "source_names": [
-        "The Verge"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "52503cc3a4f60bb2b869a5de781c53b8f04667ea",
-          "title": "Google is sending MrBeast into the wilderness, armed with AI",
-          "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-          "source": "The Verge",
+          "id": "adae495b004294fa195ef053e0e5a943ff912264",
+          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
+          "source": "Hacker News",
           "site_id": "techurls",
-          "published_at": "2026-09-02T15:47:03Z"
+          "published_at": "2026-09-02T15:44:06Z"
+        },
+        {
+          "id": "2fd5a5c31a2d8e83b230b541332d03f6e74398d1",
+          "title": "Gemini 3.8 Flash",
+          "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T15:12:40Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 7
     },
     {
@@ -5073,6 +5227,28 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-02T15:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6a024113",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+      "primary_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "f95293d127ea2a771f38db72abb76b0d6d0e6ced",
+          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+          "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T15:01:23Z"
         }
       ],
       "item_count": 1,
@@ -5469,72 +5645,6 @@
           "source": "HN Algolia · AI 24h",
           "site_id": "hackernews",
           "published_at": "2026-09-02T08:14:34Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_155ec5d7",
-      "title": "When Claude Code went rogue, years of Bengaluru heritage work disappeared",
-      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/when-claude-code-went-rogue-years-of-bengaluru-heritage-work-disappeared-4131958",
-      "primary_url": "https://www.deccanherald.com/india/karnataka/bengaluru/when-claude-code-went-rogue-years-of-bengaluru-heritage-work-disappeared-4131958",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "05cebc09a547a7ce0b551a3bee00b591645ab752",
-          "title": "When Claude Code went rogue, years of Bengaluru heritage work disappeared",
-          "url": "https://www.deccanherald.com/india/karnataka/bengaluru/when-claude-code-went-rogue-years-of-bengaluru-heritage-work-disappeared-4131958",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-02T08:01:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_86a9b38e",
-      "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
-      "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
-      "primary_url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "ceca20f417692cc1f829085d87de145056466e3d",
-          "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
-          "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-02T07:50:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_755997d0",
-      "title": "大型语言模型（LLM）推理的有效边界",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
-      "primary_url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
-      "source_count": 1,
-      "source_names": [
-        "www.baseten.co"
-      ],
-      "sources": [
-        {
-          "id": "3bdefcd0dc214fbbeda8cc764af4082374c57ac0",
-          "title": "大型语言模型（LLM）推理的有效边界",
-          "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
-          "source": "www.baseten.co",
-          "site_id": "buzzing",
-          "published_at": "2026-09-02T07:29:52.321000Z"
         }
       ],
       "item_count": 1,
