@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T08:43:41.790671Z",
+  "generated_at": "2026-09-03T09:44:29.395515Z",
   "window_hours": 24,
-  "total_stories": 244,
+  "total_stories": 256,
   "stories": [
     {
       "story_id": "story_36e5104f",
@@ -18,28 +18,6 @@
           "title": "Codex CLI 0.153.0",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_3f452d14",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "primary_url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "sources": [
-        {
-          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
-          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
-          "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "published_at": "2026-09-03T00:00:00Z"
         }
@@ -70,6 +48,28 @@
       "score": 10020
     },
     {
+      "story_id": "story_57353e2d",
+      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "sources": [
+        {
+          "id": "bd563b2236eec5a4715fcd7bc0eeaccbb60fcc68",
+          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+          "source": "Google DeepMind",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T16:18:31Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
       "story_id": "story_d23fc469",
       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
@@ -86,6 +86,50 @@
           "source": "Hugging Face Blog",
           "site_id": "official_ai",
           "published_at": "2026-09-02T13:49:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
+      "story_id": "story_21f8b896",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "primary_url": "https://openai.com/index/atv-big-air-tour",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
+          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "url": "https://openai.com/index/atv-big-air-tour",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 10020
+    },
+    {
+      "story_id": "story_3f452d14",
+      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "primary_url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face：Blog（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "683633ba97a679d3af1e2a04324f1cf25c00ac2e",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face：Blog（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T00:00:00Z"
         }
       ],
       "item_count": 1,
@@ -122,7 +166,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "metr.org",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -142,11 +186,11 @@
           "published_at": "2026-09-03T04:49:35.840000Z"
         },
         {
-          "id": "56d1a46beb49e63c8a6ca58942f3934b4b5f33d8",
+          "id": "9ee6ad863cd8137e62b27a01a971cc0f8bd43218",
           "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
           "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-02T23:08:47Z"
         }
       ],
@@ -183,6 +227,28 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_f30f7d9f",
+      "title": "腾讯 WorkBuddy 原生适配银河麒麟、统信 UOS，实现主流国产操作系统全覆盖",
+      "url": "https://www.aibase.com/news/30809",
+      "primary_url": "https://www.aibase.com/news/30809",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "1591487cb8b764f19e3eba6efad9bfb548f105e4",
+          "title": "腾讯 WorkBuddy 原生适配银河麒麟、统信 UOS，实现主流国产操作系统全覆盖",
+          "url": "https://www.aibase.com/news/30809",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T09:04:46.402572Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_d8e5a64f",
@@ -1641,37 +1707,6 @@
       "score": 9770
     },
     {
-      "story_id": "story_78268be4",
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-      "primary_url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-      "source_count": 2,
-      "source_names": [
-        "Wired",
-        "New York Times"
-      ],
-      "sources": [
-        {
-          "id": "c21964ebf91888ed137d7776d1f11b4388c21b9b",
-          "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-          "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T18:41:02Z"
-        },
-        {
-          "id": "8ee20cc994274cad6001a25f8b4eb160577bcb52",
-          "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
-          "url": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T18:48:36Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
-    },
-    {
       "story_id": "story_33aca323",
       "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
       "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
@@ -1709,6 +1744,160 @@
       ],
       "item_count": 3,
       "score": 9770
+    },
+    {
+      "story_id": "story_bb77df79",
+      "title": "苹果换帅：市值翻了13倍，AI还欠着账",
+      "url": "https://www.tmtpost.com/8126223.html",
+      "primary_url": "https://www.tmtpost.com/8126223.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "6441f6bf04a568ca25cf232b972f5c1515a2ed44",
+          "title": "苹果换帅：市值翻了13倍，AI还欠着账",
+          "url": "https://www.tmtpost.com/8126223.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T08:40:46Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c404a92d",
+      "title": "谷歌连发三款Flash，以“机海战术”再度加码AI企业端基本盘",
+      "url": "https://www.tmtpost.com/8127200.html",
+      "primary_url": "https://www.tmtpost.com/8127200.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "7635871e7b2a37f8e7e41a2991f02bdc76dd3140",
+          "title": "谷歌连发三款Flash，以“机海战术”再度加码AI企业端基本盘",
+          "url": "https://www.tmtpost.com/8127200.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T08:31:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_64c831c0",
+      "title": "当成年人拼命学习AI，纽约却开始让60万孩子远离AI",
+      "url": "https://www.huxiu.com/article/4888289.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4888289.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "ab8a0106df5586436bc878e0158e2e451bfbecc3",
+          "title": "当成年人拼命学习AI，纽约却开始让60万孩子远离AI",
+          "url": "https://www.huxiu.com/article/4888289.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T08:26:45Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_8b2fa949",
+      "title": "Gemini3.8 Flash深夜突袭，六周三更，谷歌到底在急什么？",
+      "url": "https://www.huxiu.com/article/4888290.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4888290.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "05f0db4e44c2a2c48fd7009f4eeb0e84e25bb3dc",
+          "title": "Gemini3.8 Flash深夜突袭，六周三更，谷歌到底在急什么？",
+          "url": "https://www.huxiu.com/article/4888290.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T08:25:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_61a326a0",
+      "title": "OpenAI’s Sam Altman tells G20 AI will be as essential as electricity",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/openais-sam-altman-tells-g20-ai-will-be-as-essential-as-electricity?traffic_source=rss",
+      "primary_url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/openais-sam-altman-tells-g20-ai-will-be-as-essential-as-electricity?traffic_source=rss",
+      "source_count": 1,
+      "source_names": [
+        "Al Jazeera English"
+      ],
+      "sources": [
+        {
+          "id": "1387abb63f503388bc04022f7bd2eb706c43b6a2",
+          "title": "OpenAI’s Sam Altman tells G20 AI will be as essential as electricity",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/openais-sam-altman-tells-g20-ai-will-be-as-essential-as-electricity?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T08:04:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9469afeb",
+      "title": "流量生意到头了！移动、电信卖算力，有胜算吗？",
+      "url": "https://www.huxiu.com/article/4888275.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4888275.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "b408fad915082be984533ad75f6df6b82b365f38",
+          "title": "流量生意到头了！移动、电信卖算力，有胜算吗？",
+          "url": "https://www.huxiu.com/article/4888275.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T07:50:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_e2bf9741",
+      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+      "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "primary_url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "e58f87aa4d081a3e19d9f3848e974802ac7992c2",
+          "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+          "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T07:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_41bbc6ea",
@@ -2173,6 +2362,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_fb7a79e1",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+      "primary_url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "4bb4e5a186fd997ac0b5267559b647ede9264851",
+          "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+          "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T01:32:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_76490981",
       "title": "BAT期中考：找对AI方向，想拿大结果",
       "url": "https://www.tmtpost.com/8126304.html",
@@ -2525,28 +2736,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_53d98970",
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "1fc1cc07c49cf240cbb03207c097e93c43a68056",
-          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T20:11:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_0a3f85a5",
       "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
       "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication",
@@ -2591,6 +2780,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_ce0f16ba",
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "6043f6763ffc304a390c9a4ef507fe9bcc476f29",
+          "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-02T17:58:33Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_dda93910",
       "title": "Amazon’s AI assistant can now spot fake emails from the company",
       "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
@@ -2607,28 +2818,6 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-09-02T17:52:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e0caec79",
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
-      "primary_url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1ebe907a58746e99643f2747da8d4938ba64814a",
-          "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-          "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T17:18:13Z"
         }
       ],
       "item_count": 1,
@@ -2665,28 +2854,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_57353e2d",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind Blog"
-      ],
-      "sources": [
-        {
-          "id": "9251b67f6eaa3ffc005eaf7777ff86c87faa0f9b",
-          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-          "source": "Google DeepMind Blog",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T16:18:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_fb00ea6e",
       "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
       "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
@@ -2703,6 +2870,28 @@
           "source": "The Verge",
           "site_id": "opmlrss",
           "published_at": "2026-09-02T16:12:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_d78b4d92",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+      "primary_url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "e971436add10ccf61a65b0e3f1e015950aa1da7e",
+          "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+          "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-02T16:01:48Z"
         }
       ],
       "item_count": 1,
@@ -2863,50 +3052,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_fe9bd735",
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
-      "primary_url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "2c703e61d143d73d6694dc87be4f46ceb8768173",
-          "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-          "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T12:09:42Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_21f8b896",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "primary_url": "https://openai.com/index/atv-big-air-tour",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "8fc860ef0a088291ad6904ef256e87957362a3df",
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "url": "https://openai.com/index/atv-big-air-tour",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_64970e39",
       "title": "Claude Desktop 被 Ollama 偷梁换柱",
       "url": "https://www.tmtpost.com/8125118.html",
@@ -3061,112 +3206,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_423a5a8b",
-      "title": "我国将打造更多禁化武履约领域人工智能公共产品",
-      "url": "http://www.news.cn/20260902/4905ad68767e48fa9b8e3f078fbe42d8/c.html",
-      "primary_url": "http://www.news.cn/20260902/4905ad68767e48fa9b8e3f078fbe42d8/c.html",
-      "source_count": 1,
-      "source_names": [
-        "新华网 / 新华社新闻"
-      ],
-      "sources": [
-        {
-          "id": "63ff53683142aae535a1fc6896901ea0897c61b8",
-          "title": "我国将打造更多禁化武履约领域人工智能公共产品",
-          "url": "http://www.news.cn/20260902/4905ad68767e48fa9b8e3f078fbe42d8/c.html",
-          "source": "新华网 / 新华社新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T08:46:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c90135df",
-      "title": "盖茨用6000字劝AI慢一点，却劝来了7500亿的油门",
-      "url": "https://www.tmtpost.com/8124978.html",
-      "primary_url": "https://www.tmtpost.com/8124978.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "6de7dd9fb54a50f147a3501dc2c2c2deaae43370",
-          "title": "盖茨用6000字劝AI慢一点，却劝来了7500亿的油门",
-          "url": "https://www.tmtpost.com/8124978.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T08:42:52Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_66c9b9bc",
-      "title": "微软、谷歌、亚马逊三大云巨头，现在要给Kimi交模型税了！",
-      "url": "https://www.tmtpost.com/8125170.html",
-      "primary_url": "https://www.tmtpost.com/8125170.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "e3b0913321f55c14e654e46c7d04db58ad3078c9",
-          "title": "微软、谷歌、亚马逊三大云巨头，现在要给Kimi交模型税了！",
-          "url": "https://www.tmtpost.com/8125170.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T08:42:46Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_79d8e65f",
-      "title": "除企业版外，Mistral 默认会根据用户输入进行训练",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "primary_url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "source_count": 3,
-      "source_names": [
-        "help.mistral.ai",
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "ac64e015859ee3f2026f9761058c8270b0558684",
-          "title": "除企业版外，Mistral 默认会根据用户输入进行训练",
-          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-          "source": "help.mistral.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-02T15:13:35.067000Z"
-        },
-        {
-          "id": "f65335039e7aa68696a13fc89aa5b0e02476331c",
-          "title": "Can I opt out of my input or output data being used for training?",
-          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-02T12:30:39Z"
-        },
-        {
-          "id": "21004881129e008df2d2a7200cc6fc8945d370ff",
-          "title": "Mistral now trains on user input by default, except on enterprise tier",
-          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-02T12:30:39Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
       "story_id": "story_165a3090",
       "title": "WebLLM：高性能的浏览器内大型语言模型推理引擎",
       "url": "https://github.com/mlc-ai/web-llm",
@@ -3174,7 +3213,7 @@
       "source_count": 2,
       "source_names": [
         "github.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3186,11 +3225,11 @@
           "published_at": "2026-09-03T05:21:23.808000Z"
         },
         {
-          "id": "0a1310ef045052e953e865d60494da3900e8762f",
+          "id": "7f683c1f25f2de2d89487e3624035ed072fdd22d",
           "title": "WebLLM: high-performance in-browser LLM inference engine",
           "url": "https://github.com/mlc-ai/web-llm",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-02T14:02:35Z"
         }
       ],
@@ -3205,7 +3244,7 @@
       "source_count": 2,
       "source_names": [
         "www.nytimes.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3217,12 +3256,43 @@
           "published_at": "2026-09-02T22:57:21.026000Z"
         },
         {
-          "id": "a389a91225eee76ab28db1d574d15c0aa451e13e",
+          "id": "82c3a240f7e73ee6c03ea5386894210ac5139d2a",
           "title": "Mamdani Bans AI in NYC Schools",
           "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-02T20:57:04Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_78268be4",
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
+      "primary_url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
+      "source_count": 2,
+      "source_names": [
+        "New York Times",
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "8ee20cc994274cad6001a25f8b4eb160577bcb52",
+          "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
+          "url": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T18:48:36Z"
+        },
+        {
+          "id": "314e13ccfc662863231de4b0bfc69577624fe4cd",
+          "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+          "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T18:41:02Z"
         }
       ],
       "item_count": 2,
@@ -3236,7 +3306,7 @@
       "source_count": 2,
       "source_names": [
         "claude.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3248,11 +3318,11 @@
           "published_at": "2026-09-02T17:53:19.500000Z"
         },
         {
-          "id": "83bcd5845142a5c29ce6c75e2e1de09024c75d20",
+          "id": "929aa998b91a96e33d31ffdd7e95f2583ec2090e",
           "title": "Check if a file was made with Claude",
           "url": "https://claude.com/check-content",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-02T12:23:20Z"
         }
       ],
@@ -3267,7 +3337,7 @@
       "source_count": 2,
       "source_names": [
         "aisle.com",
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3279,12 +3349,43 @@
           "published_at": "2026-09-02T16:49:18.744000Z"
         },
         {
-          "id": "30e0ce8985c2da7f2787081273c85318966007f2",
+          "id": "6424068d76731550c6e8b081d10eca086512bac6",
           "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
           "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-02T13:43:14Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_f8036710",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
+      "source_count": 2,
+      "source_names": [
+        "deepmind.google",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "7f967f3caa6f68b6c3e2881931f0dfb4d91f9334",
+          "title": "Gemini 3.8 Flash",
+          "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash",
+          "source": "deepmind.google",
+          "site_id": "buzzing",
+          "published_at": "2026-09-02T16:01:24.751000Z"
+        },
+        {
+          "id": "9cf8a994cf41ce83283093cfb15754ae7e6e26ce",
+          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-02T15:12:40Z"
         }
       ],
       "item_count": 2,
@@ -3298,7 +3399,7 @@
       "source_count": 2,
       "source_names": [
         "trellner.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3310,11 +3411,11 @@
           "published_at": "2026-09-02T15:29:36.290000Z"
         },
         {
-          "id": "3be4897761d6846460bf8e9a4d28607b11083bc6",
+          "id": "059e12399bfb9c8281d7d1745b10c1092cf6f4c6",
           "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
           "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-02T13:59:59Z"
         }
       ],
@@ -3351,6 +3452,155 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_79d8e65f",
+      "title": "除企业版外，Mistral 默认会根据用户输入进行训练",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "primary_url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "source_count": 2,
+      "source_names": [
+        "help.mistral.ai",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "ac64e015859ee3f2026f9761058c8270b0558684",
+          "title": "除企业版外，Mistral 默认会根据用户输入进行训练",
+          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+          "source": "help.mistral.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-02T15:13:35.067000Z"
+        },
+        {
+          "id": "fa2c14dfd6edc6f39c68f836ef190fcf50ae6b5a",
+          "title": "Can I opt out of my input or output data being used for training?",
+          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-02T12:30:39Z"
+        },
+        {
+          "id": "21004881129e008df2d2a7200cc6fc8945d370ff",
+          "title": "Mistral now trains on user input by default, except on enterprise tier",
+          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-02T12:30:39Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9570
+    },
+    {
+      "story_id": "story_1618a48b",
+      "title": "BYQ Supply MCP",
+      "url": "https://www.producthunt.com/products/byq-supply",
+      "primary_url": "https://www.producthunt.com/products/byq-supply",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "343cb4d100cb94fed4c4f4d1f5124512b4b5d0bd",
+          "title": "BYQ Supply MCP",
+          "url": "https://www.producthunt.com/products/byq-supply",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T09:05:07.082000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_bbe3d9a7",
+      "title": "SkillCopilotAI",
+      "url": "https://www.producthunt.com/products/skillcopilotai",
+      "primary_url": "https://www.producthunt.com/products/skillcopilotai",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "423b612de425bed5ba720093330129dcbda4cea2",
+          "title": "SkillCopilotAI",
+          "url": "https://www.producthunt.com/products/skillcopilotai",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T09:05:07.082000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6e62739f",
+      "title": "The AEO Prompt Library",
+      "url": "https://www.producthunt.com/products/the-aeo-prompt-library",
+      "primary_url": "https://www.producthunt.com/products/the-aeo-prompt-library",
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "sources": [
+        {
+          "id": "c1e0063ab95a6b0b8c73a15dbf9ff1cf7f789b4c",
+          "title": "The AEO Prompt Library",
+          "url": "https://www.producthunt.com/products/the-aeo-prompt-library",
+          "source": "producthunt",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T09:05:07.082000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f5f23491",
+      "title": "别让 Codex 一口气写完整个前端：5 组 Skills，把页面、逻辑、测试和构建拆清楚",
+      "url": "https://juejin.cn/post/7680500716225871910",
+      "primary_url": "https://juejin.cn/post/7680500716225871910",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "e9131144cdb5771252b0cad55bf22c8a3ac48087",
+          "title": "别让 Codex 一口气写完整个前端：5 组 Skills，把页面、逻辑、测试和构建拆清楚",
+          "url": "https://juejin.cn/post/7680500716225871910",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T09:05:07.082000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1127c451",
+      "title": "A cheap piece of software erased Booz Allen’s own AI threat ranking",
+      "url": "https://thenextweb.com/news/booz-allen-cyber-weapon-index-attack-harness",
+      "primary_url": "https://thenextweb.com/news/booz-allen-cyber-weapon-index-attack-harness",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "115af2c0f5f5fcb8de6b7b17758a66b3bad4d4be",
+          "title": "A cheap piece of software erased Booz Allen’s own AI threat ranking",
+          "url": "https://thenextweb.com/news/booz-allen-cyber-weapon-index-attack-harness",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T07:58:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_3c70251c",
@@ -3413,6 +3663,72 @@
           "source": "producthunt",
           "site_id": "newsnow",
           "published_at": "2026-09-03T07:41:15.912000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ef0a8d36",
+      "title": "Anker's New MindBase Home Hub Runs AI Locally, Doubles as NAS",
+      "url": "https://www.macrumors.com/2026/09/03/anker-mindbase-new-cameras",
+      "primary_url": "https://www.macrumors.com/2026/09/03/anker-mindbase-new-cameras",
+      "source_count": 1,
+      "source_names": [
+        "Mac Rumors"
+      ],
+      "sources": [
+        {
+          "id": "e4653c43ed4034460cee50903603614e3da70494",
+          "title": "Anker's New MindBase Home Hub Runs AI Locally, Doubles as NAS",
+          "url": "https://www.macrumors.com/2026/09/03/anker-mindbase-new-cameras",
+          "source": "Mac Rumors",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T07:30:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_17d1cd8f",
+      "title": "Anker Eufy at IFA 2026: New security cameras, plus a robot vacuum and a robot lawnmower",
+      "url": "https://www.engadget.com/2249106/anker-eufy-at-ifa-2026-new-security-cameras-plus-a-robot-vacuum-and-a-robot-lawnmower",
+      "primary_url": "https://www.engadget.com/2249106/anker-eufy-at-ifa-2026-new-security-cameras-plus-a-robot-vacuum-and-a-robot-lawnmower",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "1747a4977a77f0d091e380e2569a3f7a4673d311",
+          "title": "Anker Eufy at IFA 2026: New security cameras, plus a robot vacuum and a robot lawnmower",
+          "url": "https://www.engadget.com/2249106/anker-eufy-at-ifa-2026-new-security-cameras-plus-a-robot-vacuum-and-a-robot-lawnmower",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T07:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3d75879b",
+      "title": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
+      "url": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones",
+      "primary_url": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "90d86953de05b47de52106fbf34de233f5506238",
+          "title": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
+          "url": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T07:30:00Z"
         }
       ],
       "item_count": 1,
@@ -3729,28 +4045,6 @@
       "score": 7
     },
     {
-      "story_id": "story_fb7a79e1",
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
-      "primary_url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "5a3df06747458a4ea60724b1aeaff0cb40e47cf3",
-          "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-          "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T01:32:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_f082815b",
       "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
@@ -3999,15 +4293,15 @@
       "primary_url": "https://theyfell.com",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "4b5b0ccb7e027606a8450d09862b015e2569a150",
+          "id": "e3771b1ff584bfc30c139ec3ab17608c6a40f73f",
           "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
           "url": "https://theyfell.com",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-02T22:45:39Z"
         }
       ],
@@ -4235,6 +4529,28 @@
       "score": 7
     },
     {
+      "story_id": "story_53d98970",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "8da627dd103173f63ddb9def08af38201ad5ff7b",
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T20:11:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_db66a4ca",
       "title": "AI is getting closer to being able to exploit OT, and that's very bad news for critical infrastructure",
       "url": "https://www.techradar.com/pro/security/ai-is-getting-closer-to-being-able-to-exploit-ot-and-thats-very-bad-news-for-critical-infrastructure",
@@ -4285,15 +4601,15 @@
       "primary_url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "ecbc5f2f58d5132f6b734e506adb558d5c26b9a3",
+          "id": "722ca9846a1a3055719a9912baf71c08c4c692b1",
           "title": "AI Agents and the Refactoring That Never Happens",
           "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-02T19:51:39Z"
         }
       ],
@@ -4351,15 +4667,15 @@
       "primary_url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "76023f81f3dbbdae695c0e0dd110d1074ccc5427",
+          "id": "5d0ec67081bc558a297883bc4e73632f2cee4dc1",
           "title": "The Post-AI Internet Doesn't Look Great",
           "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-02T19:41:01Z"
         }
       ],
@@ -4373,15 +4689,15 @@
       "primary_url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "e4c149d5e61c155f7a118ebdb4471898b32e30d2",
+          "id": "08f518e2b5f976336eee61020e1ae7f3374a3055",
           "title": "Introducing Muse Spark 1.3",
           "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-02T19:25:47Z"
         }
       ],
@@ -4615,15 +4931,15 @@
       "primary_url": "https://marius.blog/firefox-155-ai-kill-switch-retest",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "78cb74de73fd999a2379fe678bef6aa904080513",
+          "id": "4cbceec78c09712e3a06e2c5e70f2bff6d2ed0a7",
           "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
           "url": "https://marius.blog/firefox-155-ai-kill-switch-retest",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-02T18:30:49Z"
         }
       ],
@@ -4697,28 +5013,6 @@
       "score": 7
     },
     {
-      "story_id": "story_ce0f16ba",
-      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "23855ae5c3415bb6f6dd3c018705f97197ade846",
-          "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-          "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T17:58:33Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_b7b85088",
       "title": "Mamdani expels AI from the classroom for 600,000 students",
       "url": "https://www.businessinsider.com/mamdani-new-york-ciy-schools-ai-moratorium-2026-09",
@@ -4735,6 +5029,28 @@
           "source": "Business Insider",
           "site_id": "techurls",
           "published_at": "2026-09-02T17:21:17Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e0caec79",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
+      "primary_url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "6c45f0250f806afa9acbbed8eae2017535a6a8bd",
+          "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+          "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T17:18:13Z"
         }
       ],
       "item_count": 1,
@@ -4769,15 +5085,15 @@
       "primary_url": "https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "99df7d2d5a24fd21ce8b97f52fb1313439dacba6",
+          "id": "fcc5d9df559325ce9600bf6b8ce00fbbd9741095",
           "title": "ChatGPT ad targeting is garbage",
           "url": "https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-02T17:04:58Z"
         }
       ],
@@ -4961,28 +5277,6 @@
       "score": 7
     },
     {
-      "story_id": "story_d78b4d92",
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
-      "primary_url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "bdef904689d95522f3c6d0d72635db7aa977eda8",
-          "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-          "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T16:01:48Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_9e57a700",
       "title": "Caira’s AI mirrorless camera is getting ‘Nano Banana for video editing’ — but it only works on footage you’ve actually shot",
       "url": "https://www.techradar.com/cameras/mirrorless-cameras/cairas-ai-mirrorless-camera-is-getting-nano-banana-for-video-editing-but-it-only-works-on-footage-youve-actually-shot",
@@ -5049,36 +5343,6 @@
       "score": 7
     },
     {
-      "story_id": "story_f8036710",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "adae495b004294fa195ef053e0e5a943ff912264",
-          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T15:44:06Z"
-        },
-        {
-          "id": "2fd5a5c31a2d8e83b230b541332d03f6e74398d1",
-          "title": "Gemini 3.8 Flash",
-          "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T15:12:40Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 7
-    },
-    {
       "story_id": "story_a978c46f",
       "title": "Outsource cutting the grass with 30% off the Ecovacs Goat A2000 LiDAR Pro robot lawn mower",
       "url": "https://mashable.com/life/sep-2-ecovacs-goat-a2000-lidar-pro-deal",
@@ -5107,15 +5371,15 @@
       "primary_url": "https://dbushell.com/ai",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "0b6399c0a66cbeb88b1d7529268dfc9d98007d7a",
+          "id": "972aaa7995a779888cd4c5537b977938ad676f77",
           "title": "AI Policy",
           "url": "https://dbushell.com/ai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-02T15:36:24Z"
         }
       ],
@@ -5481,16 +5745,38 @@
       "primary_url": "https://openteams.com/intelligence-vs-cost",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "b2fc07e98ee95edee1d52b1c76ff521249933cdc",
+          "id": "f7222c8b93221e4d7a5e7cb3a0541d8c24885f42",
           "title": "LLMs: Intelligence vs. Cost",
           "url": "https://openteams.com/intelligence-vs-cost",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-02T13:03:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fe9bd735",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
+      "primary_url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "0d118eef493b9c343172806e880926cc9cb9cdf7",
+          "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+          "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T12:09:42Z"
         }
       ],
       "item_count": 1,
@@ -5623,28 +5909,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-02T09:28:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_180d1def",
-      "title": "A Single Flaw Lets Untrusted Repos Run Code in Claude Code, Codex, Cursor, Grok",
-      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
-      "primary_url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "0ea62fc4d634f08f01acd3fcd163053e584d9ed7",
-          "title": "A Single Flaw Lets Untrusted Repos Run Code in Claude Code, Codex, Cursor, Grok",
-          "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-02T08:14:34Z"
         }
       ],
       "item_count": 1,
