@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T17:42:03.764320Z",
+  "generated_at": "2026-09-04T18:40:29.426439Z",
   "window_hours": 24,
-  "total_stories": 277,
+  "total_stories": 272,
   "stories": [
     {
       "story_id": "story_3163a1d0",
@@ -12,7 +12,7 @@
       "source_names": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "arcprize.org",
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -32,11 +32,11 @@
           "published_at": "2026-09-04T00:07:48.532000Z"
         },
         {
-          "id": "aaf05ca056405ab2c8e1dfafb5a9074ab24e7042",
+          "id": "7d390f02b74e00a25af601b85dceaacab5411929",
           "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
           "url": "https://arcprize.org/blog/astra",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-03T19:45:00Z"
         }
       ],
@@ -106,97 +106,26 @@
       "score": 9970
     },
     {
-      "story_id": "story_7b1f0bf4",
-      "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
-      "primary_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
-      "source_count": 2,
+      "story_id": "story_5d5dff76",
+      "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+      "primary_url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+      "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）",
-        "TechCrunch"
+        "The Decoder：AI News（RSS）"
       ],
       "sources": [
         {
-          "id": "69e08950184371e02181cb3758418f7128170d5f",
-          "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
-          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
+          "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
+          "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+          "source": "The Decoder：AI News（RSS）",
           "site_id": "aihot",
-          "published_at": "2026-09-03T18:01:45Z"
-        },
-        {
-          "id": "9be0895d6b081d44d29f312cdf0f5ac9637981af",
-          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T18:01:45Z"
+          "published_at": "2026-09-04T17:23:35Z"
         }
       ],
-      "item_count": 2,
-      "score": 9970
-    },
-    {
-      "story_id": "story_a94dc4fd",
-      "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "source_count": 2,
-      "source_names": [
-        "The Verge：AI（RSS）",
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "f275befccad5a19b17514d1c70958bc8aafb58d2",
-          "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-          "source": "The Verge：AI（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T18:00:00Z"
-        },
-        {
-          "id": "5f2dbcfef9ba458d05ce4c3f9d71b0b77c82d22f",
-          "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T18:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9970
-    },
-    {
-      "story_id": "story_cef1324a",
-      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-      "url": "https://ifm.ai/blog/k2",
-      "primary_url": "https://ifm.ai/blog/k2",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "ifm.ai"
-      ],
-      "sources": [
-        {
-          "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
-          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-          "url": "https://ifm.ai/blog/k2",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T17:35:09.004000Z"
-        },
-        {
-          "id": "a358cf099e44b982be454303e9e521b6774fd746",
-          "title": "K2 Horizon：前沿性能，极致开放",
-          "url": "https://ifm.ai/blog/k2",
-          "source": "ifm.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-03T17:35:09.004000Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9970
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_51304576",
@@ -1189,6 +1118,28 @@
       "score": 9920
     },
     {
+      "story_id": "story_76794e6c",
+      "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
+      "url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
+      "primary_url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
+      "source_count": 1,
+      "source_names": [
+        "Tomer Tunguz 博客（VC 分析）"
+      ],
+      "sources": [
+        {
+          "id": "e7af897a0e5fe08d25e2dd027a5bb38c729edaf5",
+          "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
+          "url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
+          "source": "Tomer Tunguz 博客（VC 分析）",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
       "story_id": "story_fbf12bd8",
       "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
       "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
@@ -1629,26 +1580,26 @@
       "score": 9920
     },
     {
-      "story_id": "story_18f94250",
-      "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
-      "url": "https://x.com/sundarpichai/status/2095569375373984139",
-      "primary_url": "https://x.com/sundarpichai/status/2095569375373984139",
+      "story_id": "story_68f1689d",
+      "title": "重磅！GPT‑6 Astra 案例大合集来了！价格、体验入口，一篇讲清楚",
+      "url": "https://waytoagi.feishu.cn/wiki/LgbKw4I75iKpJTkZqNlczLZSn5d?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/LgbKw4I75iKpJTkZqNlczLZSn5d?from=from_copylink",
       "source_count": 1,
       "source_names": [
-        "X：Sundar Pichai (@sundarpichai)"
+        "社区更新 · 2026-09-04"
       ],
       "sources": [
         {
-          "id": "37b8199c7eb252d4e6fd74cd183f65867bebde0a",
-          "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
-          "url": "https://x.com/sundarpichai/status/2095569375373984139",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T17:47:27Z"
+          "id": "33c63cdbc9e0acce4ffd3c890209aaff8003ff66",
+          "title": "重磅！GPT‑6 Astra 案例大合集来了！价格、体验入口，一篇讲清楚",
+          "url": "https://waytoagi.feishu.cn/wiki/LgbKw4I75iKpJTkZqNlczLZSn5d?from=from_copylink",
+          "source": "社区更新 · 2026-09-04",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-04T18:05:10.137746Z"
         }
       ],
       "item_count": 1,
-      "score": 9920
+      "score": 9820
     },
     {
       "story_id": "story_cd2886eb",
@@ -2206,6 +2157,50 @@
       "score": 9770
     },
     {
+      "story_id": "story_9fcc9737",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "e04abea383367e4aaee8e345e2e3e55958c3e669",
+          "title": "Roland is getting into generative AI music with Melody Flip",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T17:51:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_cb3d5678",
+      "title": "重视AI赋能，一道讲好亚太经济合作故事",
+      "url": "http://www.news.cn/20260905/11c4dd4f7a6d4fa0b83faede2a401075/c.html",
+      "primary_url": "http://www.news.cn/20260905/11c4dd4f7a6d4fa0b83faede2a401075/c.html",
+      "source_count": 1,
+      "source_names": [
+        "新华网 / 新华社新闻"
+      ],
+      "sources": [
+        {
+          "id": "64365109d97e136f7daeee9dfcf2b61a4c1c63a9",
+          "title": "重视AI赋能，一道讲好亚太经济合作故事",
+          "url": "http://www.news.cn/20260905/11c4dd4f7a6d4fa0b83faede2a401075/c.html",
+          "source": "新华网 / 新华社新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T16:37:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_fddc5071",
       "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
       "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight",
@@ -2222,28 +2217,6 @@
           "source": "ArsTechnica",
           "site_id": "opmlrss",
           "published_at": "2026-09-04T16:22:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_61f68ebc",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
-      "primary_url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "cb229e43d47ee3806e8abaaac685b21f4163abdb",
-          "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-          "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-04T16:21:11Z"
         }
       ],
       "item_count": 1,
@@ -2288,50 +2261,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-04T16:11:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_578c53fd",
-      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
-      "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive",
-      "primary_url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "b94d74885a47873bf18965d166f88480ac323949",
-          "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
-          "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-04T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_dbcf0c5c",
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
-      "primary_url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "d51f68e06d0df1697f6ddcea1d5ddbecfd085de5",
-          "title": "Google’s Gemini Spark can now manage your Google Photos library",
-          "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-04T14:47:11Z"
         }
       ],
       "item_count": 1,
@@ -2670,28 +2599,6 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-09-04T10:55:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_23e900ef",
-      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-      "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
-      "primary_url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "a719e5173182083e3168643bd30c7b7c0ce02cbf",
-          "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-          "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-04T10:00:00Z"
         }
       ],
       "item_count": 1,
@@ -3490,28 +3397,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_2ec390ba",
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
-      "primary_url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "40364498b287429ba27ddb62db936c19e36fca79",
-          "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T21:56:21Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_a09abdbe",
       "title": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion",
       "url": "https://www.france24.com/en/technology/20260903-nvidia-to-buy-hugging-face-for-12-93-billion-in-major-ai-expansion",
@@ -3600,6 +3485,28 @@
       "score": 9720
     },
     {
+      "story_id": "story_034ab9a9",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "primary_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "8b38e46b7654670011f1a8d0c329953739ff53d8",
+          "title": "Meta is paying to peek at how you use their latest AI model",
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T18:19:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_91d50650",
       "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
       "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human",
@@ -3622,78 +3529,72 @@
       "score": 9720
     },
     {
-      "story_id": "story_7add0330",
-      "title": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZHVzU0JISlZkT0p4eDBlMjlyRFFXVXI4eUNFM29DdWY3TXYtZXFwV0JqMkJfLUExdWMtcUZPRmJHWUZvYW9yWWZUakJra1FTdEVQUzdOZGl0Q0dDRmpySndMWDhGRk1HaDNzMlc2TjN4MlVvWjN5em0yazZwTVBjeGtTNWtYSmZPZEE?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZHVzU0JISlZkT0p4eDBlMjlyRFFXVXI4eUNFM29DdWY3TXYtZXFwV0JqMkJfLUExdWMtcUZPRmJHWUZvYW9yWWZUakJra1FTdEVQUzdOZGl0Q0dDRmpySndMWDhGRk1HaDNzMlc2TjN4MlVvWjN5em0yazZwTVBjeGtTNWtYSmZPZEE?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "AP World News"
-      ],
-      "sources": [
-        {
-          "id": "37da504af104358a9ce03696125f141f83b2bd56",
-          "title": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZHVzU0JISlZkT0p4eDBlMjlyRFFXVXI4eUNFM29DdWY3TXYtZXFwV0JqMkJfLUExdWMtcUZPRmJHWUZvYW9yWWZUakJra1FTdEVQUzdOZGl0Q0dDRmpySndMWDhGRk1HaDNzMlc2TjN4MlVvWjN5em0yazZwTVBjeGtTNWtYSmZPZEE?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T17:10:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d055f5ec",
-      "title": "Cerebras 平台上提供 Qwen 3.8 27B 版本，价格为 1500 个代币/秒",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "primary_url": "https://inference-docs.cerebras.ai/models/overview",
+      "story_id": "story_84764afd",
+      "title": "美国企业正逐渐迷上开源人工智能",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "primary_url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "source_count": 3,
       "source_names": [
-        "inference-docs.cerebras.ai",
+        "www.nytimes.com",
         "Hacker News (黑客新闻)",
-        "Hacker News"
+        "New York Times"
       ],
       "sources": [
         {
-          "id": "44020fc564977a4640834e1e8c4d11024d9ee627",
-          "title": "Cerebras 平台上提供 Qwen 3.8 27B 版本，价格为 1500 个代币/秒",
-          "url": "https://inference-docs.cerebras.ai/models/overview",
-          "source": "inference-docs.cerebras.ai",
+          "id": "e35c968af29bd6c6499315cda2cc385983c50e80",
+          "title": "美国企业正逐渐迷上开源人工智能",
+          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+          "source": "www.nytimes.com",
           "site_id": "buzzing",
-          "published_at": "2026-09-04T00:07:48.309000Z"
+          "published_at": "2026-09-04T17:19:15.067000Z"
         },
         {
-          "id": "8f81890e0714d4a6ddadd814ded0090f5f06b025",
-          "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
-          "url": "https://inference-docs.cerebras.ai/models/overview",
+          "id": "e8b154e0ad978bcb7ffb92e03ad7808f537699d6",
+          "title": "Corporate America is getting hooked on open-source AI",
+          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
           "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-09-03T18:32:13Z"
+          "published_at": "2026-09-04T15:33:45Z"
         },
         {
-          "id": "a52fc5582e5a709ece255e7d75223a36d30ffc9f",
-          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-          "url": "https://inference-docs.cerebras.ai/models/overview",
-          "source": "Hacker News",
+          "id": "79e990f95c9e59abf3ef407518f4dc7ae8f682b5",
+          "title": "Corporate America Is Getting Hooked on Open-Source A.I.",
+          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+          "source": "New York Times",
           "site_id": "techurls",
-          "published_at": "2026-09-03T18:32:13Z"
+          "published_at": "2026-09-04T14:55:38Z"
         }
       ],
       "item_count": 3,
       "score": 9580
     },
     {
-      "story_id": "story_14b7fef8",
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "url": "https://news.ycombinator.com/item?id=49557206",
-      "primary_url": "https://news.ycombinator.com/item?id=49557206",
+      "story_id": "story_3cb1fe7e",
+      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "url": "https://news.ycombinator.com/item?id=49567357",
+      "primary_url": "https://news.ycombinator.com/item?id=49567357",
       "source_count": 2,
       "source_names": [
         "hackernews",
         "news.ycombinator.com"
       ],
       "sources": [
+        {
+          "id": "25d47a5db7f0d506516fdabaa5fef37746dfb17e",
+          "title": "Corporate America is getting hooked on open-source AI",
+          "url": "https://news.ycombinator.com/item?id=49566137",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-04T17:40:01.243000Z"
+        },
+        {
+          "id": "599dbe8f261392f619c3bca3041ec307f9665a29",
+          "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+          "url": "https://news.ycombinator.com/item?id=49567357",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-04T17:40:01.243000Z"
+        },
         {
           "id": "9d78b54d0bf72bbdd98a0c62fb028e976a5e4c68",
           "title": "Ask HN: Who is using MCP in production?",
@@ -3807,7 +3708,38 @@
           "published_at": "2026-09-03T18:44:08.469000Z"
         }
       ],
-      "item_count": 14,
+      "item_count": 16,
+      "score": 9570
+    },
+    {
+      "story_id": "story_2ec390ba",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+      "primary_url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "d54f49894bf12ca50597013c6a904704c4b5632c",
+          "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-04T17:29:22Z"
+        },
+        {
+          "id": "272f19a38032ee2e67daabbb50cfbde38aafa961",
+          "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T21:56:21Z"
+        }
+      ],
+      "item_count": 2,
       "score": 9570
     },
     {
@@ -3849,7 +3781,7 @@
       "source_count": 2,
       "source_names": [
         "productrise.app",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3861,11 +3793,11 @@
           "published_at": "2026-09-04T14:55:31.836000Z"
         },
         {
-          "id": "cb76fccb573bfec69a6f0c89079de81f62085ac5",
+          "id": "ed67c27ca340c1d5fc8e35a4a06f7b8332fc9624",
           "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
           "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-04T11:59:15Z"
         }
       ],
@@ -3911,7 +3843,7 @@
       "source_count": 2,
       "source_names": [
         "armature.tech",
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3923,15 +3855,54 @@
           "published_at": "2026-09-04T02:23:17.343000Z"
         },
         {
-          "id": "c734dbc1572554b62495f531d200ae9ed3f30580",
+          "id": "b5d1e1cfdec9b78d8d941ca68ecdf36171825996",
           "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
           "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-03T21:20:34Z"
         }
       ],
       "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_d055f5ec",
+      "title": "Cerebras 平台上提供 Qwen 3.8 27B 版本，价格为 1500 个代币/秒",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "primary_url": "https://inference-docs.cerebras.ai/models/overview",
+      "source_count": 2,
+      "source_names": [
+        "inference-docs.cerebras.ai",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "44020fc564977a4640834e1e8c4d11024d9ee627",
+          "title": "Cerebras 平台上提供 Qwen 3.8 27B 版本，价格为 1500 个代币/秒",
+          "url": "https://inference-docs.cerebras.ai/models/overview",
+          "source": "inference-docs.cerebras.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T00:07:48.309000Z"
+        },
+        {
+          "id": "8f81890e0714d4a6ddadd814ded0090f5f06b025",
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
+          "url": "https://inference-docs.cerebras.ai/models/overview",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-03T18:32:13Z"
+        },
+        {
+          "id": "a4b06681e68b3d2c6ac902d13b534df41d197448",
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+          "url": "https://inference-docs.cerebras.ai/models/overview",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-03T18:32:13Z"
+        }
+      ],
+      "item_count": 3,
       "score": 9570
     },
     {
@@ -3942,7 +3913,7 @@
       "source_count": 2,
       "source_names": [
         "www.cnbc.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -3954,11 +3925,11 @@
           "published_at": "2026-09-04T00:07:47.862000Z"
         },
         {
-          "id": "88a70176437ba3e8e0b2bfe0961f549b58398333",
+          "id": "f6343b89d29795614dae6af39305c32174a577d2",
           "title": "OpenAI begins rolling out GPT-6 Astra",
           "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-03T18:18:22Z"
         }
       ],
@@ -3966,35 +3937,48 @@
       "score": 9570
     },
     {
-      "story_id": "story_329d6bc1",
-      "title": "'Welcome to the AGI Era,' OpenAI Says As GPT-6 Astra Debuts",
-      "url": "https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts",
-      "primary_url": "https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts",
-      "source_count": 2,
+      "story_id": "story_0949d8f7",
+      "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
+      "url": "https://sspai.com/post/114078",
+      "primary_url": "https://sspai.com/post/114078",
+      "source_count": 1,
       "source_names": [
-        "Slashdot",
-        "Hacker News · 24h最热"
+        "sspai"
       ],
       "sources": [
         {
-          "id": "8799aacc1c722202ecd1bbebf372b8ce7bae0a94",
-          "title": "'Welcome to the AGI Era,' OpenAI Says As GPT-6 Astra Debuts",
-          "url": "https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T20:00:00Z"
-        },
-        {
-          "id": "bb33d6aee4b30371aac646625bd4bfc1d9f116a4",
-          "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-          "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T18:01:56Z"
+          "id": "f3f5d3a073d6c03c1da39cec1a4ca3550e5b8b90",
+          "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
+          "url": "https://sspai.com/post/114078",
+          "source": "sspai",
+          "site_id": "newsnow",
+          "published_at": "2026-09-04T17:40:09.218000Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fe7558cb",
+      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+      "primary_url": "https://twitter.com/ggerganov/status/2095897173376618881",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "32faaa276aabdaf2e83ccd3f286fc2e414a24cdd",
+          "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+          "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-04T17:12:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_7eadebd3",
@@ -4041,6 +4025,94 @@
       "score": 7
     },
     {
+      "story_id": "story_057a8258",
+      "title": "Google brings its Lyria 3.5 music model to every Gemini user",
+      "url": "https://thenextweb.com/news/google-lyria-3-5-gemini-app-api-music-generation-gema-suno-munich-ruling-deezer-uploads",
+      "primary_url": "https://thenextweb.com/news/google-lyria-3-5-gemini-app-api-music-generation-gema-suno-munich-ruling-deezer-uploads",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "953730fdf067415bccae0b7d41e22bdb1ec918b7",
+          "title": "Google brings its Lyria 3.5 music model to every Gemini user",
+          "url": "https://thenextweb.com/news/google-lyria-3-5-gemini-app-api-music-generation-gema-suno-munich-ruling-deezer-uploads",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T16:48:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_077dd79a",
+      "title": "OpenAI says it has overtaken Anthropic with a model that sometimes tries to evade oversight",
+      "url": "https://thenextweb.com/news/openai-astra-agi-claim-cybersecurity-containment",
+      "primary_url": "https://thenextweb.com/news/openai-astra-agi-claim-cybersecurity-containment",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "118a3045e379ea4ba58bd1829a8c1a8b5a274a43",
+          "title": "OpenAI says it has overtaken Anthropic with a model that sometimes tries to evade oversight",
+          "url": "https://thenextweb.com/news/openai-astra-agi-claim-cybersecurity-containment",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T16:32:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_422645f3",
+      "title": "An interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more (Nilay Patel/The Verge)",
+      "url": "https://www.techmeme.com/260904/p22",
+      "primary_url": "https://www.techmeme.com/260904/p22",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "2d52aacdaddad3ba0d9908b90d67ae977e3bf5db",
+          "title": "An interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more (Nilay Patel/The Verge)",
+          "url": "https://www.techmeme.com/260904/p22",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T16:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_61f68ebc",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
+      "primary_url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "c4597a20a517bff3ea262a5c663e1f627b267d60",
+          "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+          "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T16:21:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_bd91a6db",
       "title": "Google Gemini error leaves California climbers stranded — Mount Shasta climbers admit ‘we relied too much on AI' after ascent went horribly wrong",
       "url": "https://www.techradar.com/ai-platforms-assistants/gemini/google-gemini-error-leaves-california-climbers-stranded-mount-shasta-climbers-admit-we-relied-too-much-on-ai-after-ascent-went-horribly-wrong",
@@ -4057,6 +4129,28 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-04T16:01:23Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3245cdbd",
+      "title": "OpenAI's ad for its latest model looks straight out of the movie 'WALL-E' — and people have thoughts",
+      "url": "https://www.businessinsider.com/openai-astra-ad-wall-e-her-dystopian-laziness-work-jobs-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-astra-ad-wall-e-her-dystopian-laziness-work-jobs-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "e656db1fc85453795c3ea67b9fd04c24ab9502b2",
+          "title": "OpenAI's ad for its latest model looks straight out of the movie 'WALL-E' — and people have thoughts",
+          "url": "https://www.businessinsider.com/openai-astra-ad-wall-e-her-dystopian-laziness-work-jobs-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T15:53:40Z"
         }
       ],
       "item_count": 1,
@@ -4393,6 +4487,28 @@
       "score": 7
     },
     {
+      "story_id": "story_578c53fd",
+      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+      "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive",
+      "primary_url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "aa4db5b64ce861ae5ac1ab4e2f34faa79c0d1d40",
+          "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+          "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_736fb6a2",
       "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
       "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
@@ -4415,22 +4531,22 @@
       "score": 7
     },
     {
-      "story_id": "story_84764afd",
-      "title": "Corporate America Is Getting Hooked on Open-Source A.I.",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "primary_url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "story_id": "story_dbcf0c5c",
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+      "primary_url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
       "source_count": 1,
       "source_names": [
-        "New York Times"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "79e990f95c9e59abf3ef407518f4dc7ae8f682b5",
-          "title": "Corporate America Is Getting Hooked on Open-Source A.I.",
-          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "source": "New York Times",
+          "id": "7c9a2132b8234a771d8b27cce60bbfbd6203bcef",
+          "title": "Google’s Gemini Spark can now manage your Google Photos library",
+          "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+          "source": "TechCrunch",
           "site_id": "techurls",
-          "published_at": "2026-09-04T14:55:38Z"
+          "published_at": "2026-09-04T14:47:11Z"
         }
       ],
       "item_count": 1,
@@ -4833,6 +4949,28 @@
       "score": 7
     },
     {
+      "story_id": "story_23e900ef",
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
+      "primary_url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "cdb8e4a944a0aa5bacdf4836f9484bcf6b6003dd",
+          "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+          "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_de325b41",
       "title": "DeepSeek plans large Huawei chip order for new Inner Mongolia data centre",
       "url": "https://thenextweb.com/news/deepseek-huawei-ai-chip-order-data-centre",
@@ -4871,6 +5009,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-04T09:45:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_3f3dede7",
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "primary_url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "6d17102e5b4d7d54892cb3c1f306c4edcda0aad3",
+          "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+          "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-04T09:03:00Z"
         }
       ],
       "item_count": 1,
@@ -5037,15 +5197,15 @@
       "primary_url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "3934ae6ce9ec54e901b6a6485f20525120a07bb1",
+          "id": "bedea3d93d4b177e922191e2bbb19b7d0ae14def",
           "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
           "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-04T03:40:26Z"
         }
       ],
@@ -5713,6 +5873,28 @@
       "score": 7
     },
     {
+      "story_id": "story_329d6bc1",
+      "title": "'Welcome to the AGI Era,' OpenAI Says As GPT-6 Astra Debuts",
+      "url": "https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts",
+      "primary_url": "https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts",
+      "source_count": 1,
+      "source_names": [
+        "Slashdot"
+      ],
+      "sources": [
+        {
+          "id": "8799aacc1c722202ecd1bbebf372b8ce7bae0a94",
+          "title": "'Welcome to the AGI Era,' OpenAI Says As GPT-6 Astra Debuts",
+          "url": "https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_66b9f2dc",
       "title": "Google's new AI weather model uses live satellite data for higher-resolution forecasts",
       "url": "https://www.engadget.com/2250687/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts",
@@ -5763,15 +5945,15 @@
       "primary_url": "https://three-llm.ben3d.ca",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "be35fd2c3aa38e1d9ad8d9379d831b8dba0d33e1",
+          "id": "9280dadaf500999ba8822a8cfc0db0355759ee5e",
           "title": "Three-LLM: Three.js-based WebGPU LLM inference engine",
           "url": "https://three-llm.ben3d.ca",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-03T19:46:54Z"
         }
       ],
@@ -5895,15 +6077,15 @@
       "primary_url": "https://openai.com/index/gpt-6-astra",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "660eafdaef591a4cd71324fa05692a0d315d3933",
+          "id": "f62d953029d7c19ff6939eb672d93481bf352455",
           "title": "GPT-6 Astra",
           "url": "https://openai.com/index/gpt-6-astra",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-03T18:41:05Z"
         }
       ],
@@ -5999,28 +6181,6 @@
       "score": 7
     },
     {
-      "story_id": "story_034ab9a9",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
-      "primary_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1d14466afe4af5c8cce16b553d1f49485945c172",
-          "title": "Meta is paying to peek at how you use their latest AI model",
-          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T18:19:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_a6450e63",
       "title": "OpenAI calls GPT-6 Astra the \"world's best computer use model\"; in tests, it booked DMV appointments and searched job listings faster than the average person (Maxwell Zeff/Wired)",
       "url": "https://www.techmeme.com/260903/p35",
@@ -6093,280 +6253,16 @@
       "primary_url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "123d73acae4a0fbbafe358dbfc6682651043aab3",
+          "id": "941c219deed209fb8a651a22e84cbf798d5dc5da",
           "title": "The Double Matthew Walker Knot by Fable 5.1",
           "url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T18:09:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f972daf5",
-      "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
-      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
-      "primary_url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "a2912d733d3dd62a548504ff202098f7b9e39b68",
-          "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
-          "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-03T18:02:40Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3e4203dd",
-      "title": "OpenAI's New Reasoning Technique Alarms AI Safety Experts",
-      "url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts",
-      "primary_url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts",
-      "source_count": 1,
-      "source_names": [
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "11221994e2bb4121aa2a0c94765547041a5e574b",
-          "title": "OpenAI's New Reasoning Technique Alarms AI Safety Experts",
-          "url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_40072d95",
-      "title": "The paradox of diffusion distillation (2024)",
-      "url": "https://sander.ai/2024/02/28/paradox.html",
-      "primary_url": "https://sander.ai/2024/02/28/paradox.html",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "6a14a05cd715dfcfaebe98d77a6b75c3ccd24239",
-          "title": "The paradox of diffusion distillation (2024)",
-          "url": "https://sander.ai/2024/02/28/paradox.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T17:45:25Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fc4464f1",
-      "title": "Agent Looker",
-      "url": "https://www.producthunt.com/products/agent-looker",
-      "primary_url": "https://www.producthunt.com/products/agent-looker",
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "sources": [
-        {
-          "id": "bacd0b968b845846f1796a8151a74a88fe9cf17e",
-          "title": "Agent Looker",
-          "url": "https://www.producthunt.com/products/agent-looker",
-          "source": "producthunt",
-          "site_id": "newsnow",
-          "published_at": "2026-09-03T17:44:57.281000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_546e2e2e",
-      "title": "Judge Tells RFK Jr. To Stop Using Fake AI Studies on Teen Pregnancy",
-      "url": "https://newrepublic.com/post/215001/judge-rfk-jr-hhs-fake-ai-studies-teen-pregnancy",
-      "primary_url": "https://newrepublic.com/post/215001/judge-rfk-jr-hhs-fake-ai-studies-teen-pregnancy",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "8017f57208823b2ac9007fa27bc6877a70c6cbc2",
-          "title": "Judge Tells RFK Jr. To Stop Using Fake AI Studies on Teen Pregnancy",
-          "url": "https://newrepublic.com/post/215001/judge-rfk-jr-hhs-fake-ai-studies-teen-pregnancy",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T17:33:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b8e60910",
-      "title": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-      "url": "https://www.techmeme.com/260903/p31",
-      "primary_url": "https://www.techmeme.com/260903/p31",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "85c940e408e33ef0f4132abbe41be803b96f4530",
-          "title": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-          "url": "https://www.techmeme.com/260903/p31",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T17:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_cc13f636",
-      "title": "Nvidia confirms it is buying Hugging Face for $12.93bn and promises to leave it open",
-      "url": "https://thenextweb.com/news/nvidia-hugging-face-acquisition-confirmed",
-      "primary_url": "https://thenextweb.com/news/nvidia-hugging-face-acquisition-confirmed",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "eece85691ea758f32de10d593a340501dff96c4b",
-          "title": "Nvidia confirms it is buying Hugging Face for $12.93bn and promises to leave it open",
-          "url": "https://thenextweb.com/news/nvidia-hugging-face-acquisition-confirmed",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T17:28:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1183365e",
-      "title": "ChatGPT down: OpenAI chatbot not working in major outage",
-      "url": "https://www.reddit.com/r/news/comments/1w6du8s/chatgpt_down_openai_chatbot_not_working_in_major",
-      "primary_url": "https://www.reddit.com/r/news/comments/1w6du8s/chatgpt_down_openai_chatbot_not_working_in_major",
-      "source_count": 1,
-      "source_names": [
-        "Reddit (热门)"
-      ],
-      "sources": [
-        {
-          "id": "18e171a807d4cdff950aef02fe7b49d4ce45ff29",
-          "title": "ChatGPT down: OpenAI chatbot not working in major outage",
-          "url": "https://www.reddit.com/r/news/comments/1w6du8s/chatgpt_down_openai_chatbot_not_working_in_major",
-          "source": "Reddit (热门)",
+          "source": "Hacker News (黑客新闻)",
           "site_id": "iris",
-          "published_at": "2026-09-03T17:23:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_63b77a10",
-      "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
-      "primary_url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "d2ef3bf948f05c2550b9f55fa6f46fe1dbd00ee4",
-          "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-          "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T17:20:29Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d536a805",
-      "title": "Why office workers are turning against AI",
-      "url": "https://www.bloodinthemachine.com/p/why-office-workers-are-turning-against",
-      "primary_url": "https://www.bloodinthemachine.com/p/why-office-workers-are-turning-against",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "4ce7bd261736f70820c227f62791d4bd54310772",
-          "title": "Why office workers are turning against AI",
-          "url": "https://www.bloodinthemachine.com/p/why-office-workers-are-turning-against",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T17:16:53Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_beb81164",
-      "title": "Yes, no (built-in) AI is now a feature – LibreOffice blog",
-      "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature",
-      "primary_url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "265e6f5d42c78cd1cbeb7727e84fac9058661dee",
-          "title": "Yes, no (built-in) AI is now a feature – LibreOffice blog",
-          "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T17:12:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d24ff692",
-      "title": "Sources: Cursor was a top-five OpenAI customer at the start of 2026; OpenAI estimated in spring that Cursor would bring in $1B+ in annualized revenue for OpenAI (Maxwell Zeff/Wired)",
-      "url": "https://www.techmeme.com/260903/p28",
-      "primary_url": "https://www.techmeme.com/260903/p28",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "9c105925ecb26250e911c1ef86830d563382149a",
-          "title": "Sources: Cursor was a top-five OpenAI customer at the start of 2026; OpenAI estimated in spring that Cursor would bring in $1B+ in annualized revenue for OpenAI (Maxwell Zeff/Wired)",
-          "url": "https://www.techmeme.com/260903/p28",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T17:05:01Z"
+          "published_at": "2026-09-03T18:09:37Z"
         }
       ],
       "item_count": 1,
