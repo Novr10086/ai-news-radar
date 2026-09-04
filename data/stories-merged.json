@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-09-03T21:42:26.628928Z",
+  "generated_at": "2026-09-04T01:42:59.380689Z",
   "window_hours": 24,
-  "total_stories": 300,
+  "total_stories": 307,
   "stories": [
     {
-      "story_id": "story_af3b8492",
-      "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "primary_url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "story_id": "story_989339a8",
+      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "primary_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）"
       ],
       "sources": [
         {
-          "id": "b897f9e2cc4fc9f5c8308c484538d7bac387d3bd",
-          "title": "Safety overview: GPT-6 Astra",
-          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-          "source": "OpenAI News",
+          "id": "afa803390cdebde1bac464b957ac4ea1b8e326ac",
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+          "source": "Google DeepMind",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
+          "published_at": "2026-09-03T15:02:08Z"
         },
         {
-          "id": "261f051bbfafad4ee0b16fceb406f66b3d38b54b",
-          "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "2ce61cfe8316633c46e8daecde2604beec30c201",
+          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+          "source": "Google DeepMind：Blog（RSS）",
           "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
+          "published_at": "2026-09-03T15:02:08Z"
         }
       ],
       "item_count": 2,
@@ -41,24 +41,24 @@
       "primary_url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "source_count": 2,
       "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "OpenAI News"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "sources": [
+        {
+          "id": "5804d8c9d0b5ba16cf8a938e1785fb440e9402a2",
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:15:00Z"
+        },
         {
           "id": "7badb4cb05132b3e750a7ab064265f6163d0eca6",
           "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
           "url": "https://openai.com/index/daybreak-for-frontline-defenders",
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "site_id": "aihot",
-          "published_at": "2026-09-03T13:15:00Z"
-        },
-        {
-          "id": "9854534335a60db85981f6ec6f869dad56c6f25b",
-          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
           "published_at": "2026-09-03T13:15:00Z"
         }
       ],
@@ -88,136 +88,84 @@
       "score": 10020
     },
     {
-      "story_id": "story_d54e7a3a",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source_count": 1,
+      "story_id": "story_3163a1d0",
+      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+      "url": "https://arcprize.org/blog/astra",
+      "primary_url": "https://arcprize.org/blog/astra",
+      "source_count": 3,
       "source_names": [
-        "OpenAI News"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "arcprize.org",
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_9a8f1e3a",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "primary_url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "sources": [
-        {
-          "id": "e9bf1c019727a4b6a36074a113cd08534b1fc298",
-          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_36e5104f",
-      "title": "Codex CLI 0.153.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "sources": [
-        {
-          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-          "title": "Codex CLI 0.153.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_980824ac",
-      "title": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "primary_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "sources": [
-        {
-          "id": "1d46fee4f597d8725792eef4fe9221191a315dd5",
-          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-          "source": "Hugging Face Blog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 10020
-    },
-    {
-      "story_id": "story_f01b512d",
-      "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-      "url": "https://huggingface.co/blog/funes",
-      "primary_url": "https://huggingface.co/blog/funes",
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face：Blog（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "6aa15e10e47ed83879a1100362ce5c85340f5e66",
-          "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-          "url": "https://huggingface.co/blog/funes",
-          "source": "Hugging Face：Blog（RSS）",
+          "id": "c7796974a79b0dc31d9e17758cd7136e5b88aa6a",
+          "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+          "url": "https://arcprize.org/blog/astra",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
+          "published_at": "2026-09-04T00:07:48.532000Z"
+        },
+        {
+          "id": "a3e9b5238b02867c9479b2bbc573f770ecc91b0a",
+          "title": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+          "url": "https://arcprize.org/blog/astra",
+          "source": "arcprize.org",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T00:07:48.532000Z"
+        },
+        {
+          "id": "8e70f720ad1e9aac50b1c898477f76bdd4aa4e86",
+          "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "url": "https://arcprize.org/blog/astra",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T19:45:00Z"
         }
       ],
-      "item_count": 1,
-      "score": 10020
+      "item_count": 3,
+      "score": 9980
     },
     {
-      "story_id": "story_3f452d14",
-      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "primary_url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source_count": 1,
+      "story_id": "story_ae21a556",
+      "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+      "primary_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+      "source_count": 3,
       "source_names": [
-        "Hugging Face：Blog（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "babyloniantwins.com",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "683633ba97a679d3af1e2a04324f1cf25c00ac2e",
-          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
-          "source": "Hugging Face：Blog（RSS）",
+          "id": "5632284eb332dbdc21c127f0c413d685d41f120e",
+          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
+          "published_at": "2026-09-04T00:07:47.851000Z"
+        },
+        {
+          "id": "e8e1cc352fbf42ac0ef529e79e05e7cd5993bc17",
+          "title": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+          "source": "babyloniantwins.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T00:07:47.851000Z"
+        },
+        {
+          "id": "9784ebd704070ddfe592e3cc255f0de65cc9611a",
+          "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-03T14:28:18Z"
         }
       ],
-      "item_count": 1,
-      "score": 10020
+      "item_count": 3,
+      "score": 9980
     },
     {
       "story_id": "story_cef1324a",
@@ -268,46 +216,6 @@
       "score": 9980
     },
     {
-      "story_id": "story_eb9f26e4",
-      "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-      "primary_url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-      "source_count": 3,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "metr.org",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
-          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T04:49:35.840000Z"
-        },
-        {
-          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
-          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "source": "metr.org",
-          "site_id": "buzzing",
-          "published_at": "2026-09-03T04:49:35.840000Z"
-        },
-        {
-          "id": "56d1a46beb49e63c8a6ca58942f3934b4b5f33d8",
-          "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T23:08:47Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9980
-    },
-    {
       "story_id": "story_7b1f0bf4",
       "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
       "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
@@ -327,11 +235,11 @@
           "published_at": "2026-09-03T18:01:45Z"
         },
         {
-          "id": "03a594677194add77eb525346b238cf4d0d98e04",
+          "id": "9be0895d6b081d44d29f312cdf0f5ac9637981af",
           "title": "OpenAI launches Astra, its powerful (and controversial) new model",
           "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
           "source": "TechCrunch",
-          "site_id": "techurls",
+          "site_id": "opmlrss",
           "published_at": "2026-09-03T18:01:45Z"
         }
       ],
@@ -370,35 +278,211 @@
       "score": 9970
     },
     {
-      "story_id": "story_989339a8",
-      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "primary_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "story_id": "story_eb9f26e4",
+      "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+      "primary_url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
       "source_count": 2,
       "source_names": [
-        "Google DeepMind：Blog（RSS）",
-        "Google DeepMind Blog"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "metr.org"
       ],
       "sources": [
         {
-          "id": "2ce61cfe8316633c46e8daecde2604beec30c201",
-          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-          "source": "Google DeepMind：Blog（RSS）",
+          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "site_id": "aihot",
-          "published_at": "2026-09-03T15:02:08Z"
+          "published_at": "2026-09-03T04:49:35.840000Z"
         },
         {
-          "id": "42b2b44eccec01db50d7579810e1244111de9b79",
-          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-          "source": "Google DeepMind Blog",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T15:02:08Z"
+          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
+          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "metr.org",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T04:49:35.840000Z"
         }
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_2eae7131",
+      "title": "谷歌推出 Gmail、Docs 与 Keep AI 语音功能，对话式交互全面落地 Workspace",
+      "url": "https://www.aibase.com/news/30815",
+      "primary_url": "https://www.aibase.com/news/30815",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "76a0533deb3fdd7c53e7d29a0d610a076687064d",
+          "title": "谷歌推出 Gmail、Docs 与 Keep AI 语音功能，对话式交互全面落地 Workspace",
+          "url": "https://www.aibase.com/news/30815",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T01:03:43.866810Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_fdc483fa",
+      "title": "黄仁勋回应 129 亿美元收购 Hugging Face：不是要把 AI 关进英伟达",
+      "url": "https://www.aibase.com/news/30814",
+      "primary_url": "https://www.aibase.com/news/30814",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "4f2e1f8e449db2225a81112c4d338ffacc3748dd",
+          "title": "黄仁勋回应 129 亿美元收购 Hugging Face：不是要把 AI 关进英伟达",
+          "url": "https://www.aibase.com/news/30814",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T01:03:43.866810Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_fbf12bd8",
+      "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
+      "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
+      "primary_url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "91c0336d9c9de7141ac868de55e40e88b8a35713",
+          "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
+          "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T23:24:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_9fd1eba5",
+      "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
+      "url": "https://www.ithome.com/0/998/208.htm",
+      "primary_url": "https://www.ithome.com/0/998/208.htm",
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "88668d12efc36de4d3889d01672c85d33cbb287b",
+          "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
+          "url": "https://www.ithome.com/0/998/208.htm",
+          "source": "IT之家（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T22:28:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_5a0f71e7",
+      "title": "Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和",
+      "url": "https://x.com/gdb/status/2095629409017614390",
+      "primary_url": "https://x.com/gdb/status/2095629409017614390",
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "sources": [
+        {
+          "id": "6e99b43045aba163873f4f193d65c772239b6ecc",
+          "title": "Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和",
+          "url": "https://x.com/gdb/status/2095629409017614390",
+          "source": "X：Greg Brockman (@gdb)",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T21:46:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_ffe56c03",
+      "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+      "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+      "primary_url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "8ce0ce55d6fca71709600be77bb102bc2fdce2e6",
+          "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+          "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+          "source": "MarkTechPost（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T21:16:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_5eef5169",
+      "title": "Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首",
+      "url": "https://x.com/AravSrinivas/status/2095621195131695352",
+      "primary_url": "https://x.com/AravSrinivas/status/2095621195131695352",
+      "source_count": 1,
+      "source_names": [
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "sources": [
+        {
+          "id": "867af2f4889ad41f7de2fccf54c0e456f25c68b5",
+          "title": "Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首",
+          "url": "https://x.com/AravSrinivas/status/2095621195131695352",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T21:13:22Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_6f636ba1",
+      "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
+      "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "sources": [
+        {
+          "id": "02ee83fd257807ae53e2ccd7322431a802eedb7a",
+          "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
+          "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T20:55:50Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_a908a9e8",
@@ -1369,94 +1453,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_878473a0",
-      "title": "Tom Tunguz 解析 Meta Muse Spark 双轨定价背后的数据换算力逻辑",
-      "url": "https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai",
-      "primary_url": "https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai",
-      "source_count": 1,
-      "source_names": [
-        "Tomer Tunguz 博客（VC 分析）"
-      ],
-      "sources": [
-        {
-          "id": "1abf5e4b86afaea46997ae2f27001385374228e4",
-          "title": "Tom Tunguz 解析 Meta Muse Spark 双轨定价背后的数据换算力逻辑",
-          "url": "https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai",
-          "source": "Tomer Tunguz 博客（VC 分析）",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_ed5342d1",
-      "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
-      "url": "https://x.ai/news/designing-grok-bot",
-      "primary_url": "https://x.ai/news/designing-grok-bot",
-      "source_count": 1,
-      "source_names": [
-        "xAI：News（网页）"
-      ],
-      "sources": [
-        {
-          "id": "5e47f1802bdbea2cfd14880ac75e77bb726c6c28",
-          "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
-          "url": "https://x.ai/news/designing-grok-bot",
-          "source": "xAI：News（网页）",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_f4c7262f",
-      "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
-      "url": "https://www.ithome.com/0/997/732.htm",
-      "primary_url": "https://www.ithome.com/0/997/732.htm",
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "fad2dfd74493c51695248651d542e181fd7d16ca",
-          "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
-          "url": "https://www.ithome.com/0/997/732.htm",
-          "source": "IT之家（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T23:50:05Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_a0140612",
-      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-      "url": "https://x.com/kimmonismus/status/2095265444999410146",
-      "primary_url": "https://x.com/kimmonismus/status/2095265444999410146",
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "sources": [
-        {
-          "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
-          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-          "url": "https://x.com/kimmonismus/status/2095265444999410146",
-          "source": "X：Kim (@kimmonismus)",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T21:39:44Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_6bd7a00b",
       "title": "昨晚，硅谷经历了AI诸神之战。",
       "url": "https://waytoagi.feishu.cn/wiki/BwyawEfLAims0UkBE4tc9aSanFf?from=from_copylink",
@@ -1620,161 +1616,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_e81ef6c2",
-      "title": "Replit is coming to London 🇬🇧 To celebrate Replit’s first international office in London, together with our friends @OpenAI, we're hosting a night of drinks, music, and a fireside chat with Paul Graham (@paulg). Thurs...",
-      "url": "https://x.com/amasad/status/2095291912706220410",
-      "primary_url": "https://x.com/amasad/status/2095291912706220410",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Amjad Masad"
-      ],
-      "sources": [
-        {
-          "id": "74cc19b2fcebec4f4f091355865ccee835481a9e",
-          "title": "Replit is coming to London 🇬🇧 To celebrate Replit’s first international office in London, together with our friends @OpenAI, we're hosting a night of drinks, music, and a fireside chat with Paul Graham (@paulg). Thurs...",
-          "url": "https://x.com/amasad/status/2095291912706220410",
-          "source": "Follow Builders · X · Amjad Masad",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-02T23:24:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_57439477",
-      "title": "ChatGPT 桌面应用现在是我的主要浏览器，我的工作效率从未如此高",
-      "url": "https://x.com/thsottiaux/status/2095288416292487289",
-      "primary_url": "https://x.com/thsottiaux/status/2095288416292487289",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
-      ],
-      "sources": [
-        {
-          "id": "ee5bff6cc953fbe6178810d9d9c2473fa8f66ac5",
-          "title": "The ChatGPT desktop app is now my main browser and my productivity has never been higher",
-          "url": "https://x.com/thsottiaux/status/2095288416292487289",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-02T23:11:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_ef20a4d0",
-      "title": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it bef...",
-      "url": "https://x.com/bcherny/status/2095276133214491086",
-      "primary_url": "https://x.com/bcherny/status/2095276133214491086",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Boris Cherny"
-      ],
-      "sources": [
-        {
-          "id": "ee57e1e8822b76990d563055237488a762dc4e30",
-          "title": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it bef...",
-          "url": "https://x.com/bcherny/status/2095276133214491086",
-          "source": "Follow Builders · X · Boris Cherny",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-02T22:22:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_002ad242",
-      "title": "Nvidia 斥资 129 亿美元收购 Hugging Face 开源 AI",
-      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
-      "primary_url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
-      "source_count": 4,
-      "source_names": [
-        "Wired",
-        "The Verge",
-        "New York Times",
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "e63383848a603fd584820803a2672fc8b290594f",
-          "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-          "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T12:43:09Z"
-        },
-        {
-          "id": "461cc856425becae21525658f5a2df4df0725d3d",
-          "title": "Nvidia is buying Hugging Face for almost $13 billion",
-          "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T12:12:06Z"
-        },
-        {
-          "id": "f36b1aa22683806d1ebf9b0714bed8b6e0866530",
-          "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-          "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T13:01:43Z"
-        },
-        {
-          "id": "7a0c676929266148081f9631aab7b949640321d4",
-          "title": "NVIDIA is buying Hugging Face for $12.93 billion",
-          "url": "https://www.engadget.com/2250197/nvidia-buys-hugging-face",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T12:18:21Z"
-        }
-      ],
-      "item_count": 4,
-      "score": 9790
-    },
-    {
-      "story_id": "story_cee71cf5",
-      "title": "英伟达确认将以 129 亿美元收购 Hugging Face",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
-      "primary_url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
-      "source_count": 3,
-      "source_names": [
-        "TechCrunch",
-        "blogs.nvidia.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "b011cebec56fb39ddfb1fa0732af71e2cf1955c1",
-          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T12:42:45Z"
-        },
-        {
-          "id": "e2207106467f84db1ca3a7e022f83a56bef44289",
-          "title": "英伟达将收购Hugging Face",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "blogs.nvidia.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-03T14:57:29.191000Z"
-        },
-        {
-          "id": "6864f473fdba822afbf4a77b79b5da19cf6462c7",
-          "title": "Nvidia to Acquire Hugging Face",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T12:10:33Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9780
-    },
-    {
       "story_id": "story_d0945218",
       "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
       "url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
@@ -1868,83 +1709,330 @@
       "score": 9770
     },
     {
-      "story_id": "story_e4fa5653",
-      "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
-      "source_count": 2,
-      "source_names": [
-        "AP World News",
-        "NPR Top News"
-      ],
-      "sources": [
-        {
-          "id": "517e9fe118e20eb871a79ec1dfab987856f15445",
-          "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T23:24:00Z"
-        },
-        {
-          "id": "42c5782d113b0cca15927913c750832b827d3a24",
-          "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - apnews.com",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
-          "source": "AP World News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T23:24:00Z"
-        },
-        {
-          "id": "fa7ae1ba7d32cd106b0cd19965d0689a2c6795aa",
-          "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
-          "url": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case",
-          "source": "NPR Top News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T21:59:14Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9770
-    },
-    {
-      "story_id": "story_833dfe15",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
-      "primary_url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+      "story_id": "story_9815baa2",
+      "title": "美国烧天然气“喂”AI，中国用绿电“养”算力",
+      "url": "https://www.huxiu.com/article/4888438.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4888438.html?f=rss",
       "source_count": 1,
       "source_names": [
-        "TechCrunch"
+        "虎嗅"
       ],
       "sources": [
         {
-          "id": "8a04ddeb433bf231a0c7a89ee7380e5e6a38abf8",
-          "title": "Abliteration.ai is making a business out of removing AI guardrails",
-          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
-          "source": "TechCrunch",
+          "id": "e7cacd3369372b19ef5193ea83c1822da79e52b2",
+          "title": "美国烧天然气“喂”AI，中国用绿电“养”算力",
+          "url": "https://www.huxiu.com/article/4888438.html?f=rss",
+          "source": "虎嗅",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T18:37:57Z"
+          "published_at": "2026-09-04T00:37:40Z"
         }
       ],
       "item_count": 1,
       "score": 9720
     },
     {
-      "story_id": "story_91d50650",
-      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-      "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human",
-      "primary_url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human",
+      "story_id": "story_8d7a85ad",
+      "title": "GPT-6 Astra上线，AGI时代真到来了吗？",
+      "url": "https://www.huxiu.com/article/4888432.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4888432.html?f=rss",
       "source_count": 1,
       "source_names": [
-        "Wired"
+        "虎嗅"
       ],
       "sources": [
         {
-          "id": "3320bda62f07e0ddbfe23eb49a59795843ba7169",
-          "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-          "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human",
-          "source": "Wired",
+          "id": "4944907c4827f8051edfc235e79ba9683b04e97c",
+          "title": "GPT-6 Astra上线，AGI时代真到来了吗？",
+          "url": "https://www.huxiu.com/article/4888432.html?f=rss",
+          "source": "虎嗅",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T18:06:24Z"
+          "published_at": "2026-09-04T00:25:49Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_d8d6bc33",
+      "title": "Edge AI Daily 早报（9月4日）",
+      "url": "https://www.tmtpost.com/8128131.html",
+      "primary_url": "https://www.tmtpost.com/8128131.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "c5cc4e75ecc73bd85df0edd6a19911e5a2d3dcc2",
+          "title": "Edge AI Daily 早报（9月4日）",
+          "url": "https://www.tmtpost.com/8128131.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T00:19:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_1c18ff6d",
+      "title": "GPT-6 Astra全面解析： “欢迎来到AGI时代。”",
+      "url": "https://www.huxiu.com/article/4888430.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4888430.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "ced6e32c0297049435787377819d0dc80ad2662b",
+          "title": "GPT-6 Astra全面解析： “欢迎来到AGI时代。”",
+          "url": "https://www.huxiu.com/article/4888430.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T00:07:17Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_11af7050",
+      "title": "上海国际艺术节扶青计划AI短剧征集中：设45万扶持资源包",
+      "url": "https://m.thepaper.cn/detail/33999057",
+      "primary_url": "https://m.thepaper.cn/detail/33999057",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "e8723dcf37d86a2cd22f13a92e71dce3f09832df",
+          "title": "上海国际艺术节扶青计划AI短剧征集中：设45万扶持资源包",
+          "url": "https://m.thepaper.cn/detail/33999057",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T23:37:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_0bc12144",
+      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+      "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+      "primary_url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "b70c3b89e61c6c1b56fbed8430ae56d98b7b54cc",
+          "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+          "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T23:37:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9ecdbb21",
+      "title": "Are Trump’s AI videos just memes or psychological warfare?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
+      "primary_url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
+      "source_count": 1,
+      "source_names": [
+        "Al Jazeera English"
+      ],
+      "sources": [
+        {
+          "id": "f25f205a02c14bb6590a9cc2cf46d2719d998687",
+          "title": "Are Trump’s AI videos just memes or psychological warfare?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T23:36:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_a82a5d65",
+      "title": "“不养懒人”的新加坡，如何面对AI风暴与低生育率？｜907编辑部",
+      "url": "https://m.thepaper.cn/detail/33994474",
+      "primary_url": "https://m.thepaper.cn/detail/33994474",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "83ee28f08a79bb10a8e76324992e9be9e91d7347",
+          "title": "“不养懒人”的新加坡，如何面对AI风暴与低生育率？｜907编辑部",
+          "url": "https://m.thepaper.cn/detail/33994474",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T23:24:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_851e5ae9",
+      "title": "【钛晨报】十部门发文“促中小企业发展”，加码直接融资、AI赋能等；燧原科技中签号出炉、康佳拟主动退市；“微信单删提示”冲上热搜，官方回应",
+      "url": "https://www.tmtpost.com/8127957.html",
+      "primary_url": "https://www.tmtpost.com/8127957.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "d44a53a472ec33d1929f75194b6157b07fa8bad5",
+          "title": "【钛晨报】十部门发文“促中小企业发展”，加码直接融资、AI赋能等；燧原科技中签号出炉、康佳拟主动退市；“微信单删提示”冲上热搜，官方回应",
+          "url": "https://www.tmtpost.com/8127957.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T23:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_262f2214",
+      "title": "虚构的百亿份额：中国大模型融资荒诞一幕",
+      "url": "https://www.huxiu.com/article/4888427.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4888427.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "abaf6337e3cad6d004f42f6557af2d047594f72a",
+          "title": "虚构的百亿份额：中国大模型融资荒诞一幕",
+          "url": "https://www.huxiu.com/article/4888427.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T23:17:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_0c282c66",
+      "title": "阿里又多了一个Agent赛马",
+      "url": "https://www.huxiu.com/article/4888426.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4888426.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "60cea1e85ae12f17b18885c96feea884dc945e0a",
+          "title": "阿里又多了一个Agent赛马",
+          "url": "https://www.huxiu.com/article/4888426.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T21:47:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_a09abdbe",
+      "title": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion",
+      "url": "https://www.france24.com/en/technology/20260903-nvidia-to-buy-hugging-face-for-12-93-billion-in-major-ai-expansion",
+      "primary_url": "https://www.france24.com/en/technology/20260903-nvidia-to-buy-hugging-face-for-12-93-billion-in-major-ai-expansion",
+      "source_count": 1,
+      "source_names": [
+        "France24 English"
+      ],
+      "sources": [
+        {
+          "id": "252784acbb3d5830c21f1291c1861882de0d5350",
+          "title": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion",
+          "url": "https://www.france24.com/en/technology/20260903-nvidia-to-buy-hugging-face-for-12-93-billion-in-major-ai-expansion",
+          "source": "France24 English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T21:34:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_a542b0a7",
+      "title": "NYC’s AI ban through grade 8 sets stage for rest of US, experts say",
+      "url": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
+      "primary_url": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
+      "source_count": 1,
+      "source_names": [
+        "Al Jazeera English"
+      ],
+      "sources": [
+        {
+          "id": "e7e060b86342d2984a1b40f6671001b1dace8d42",
+          "title": "NYC’s AI ban through grade 8 sets stage for rest of US, experts say",
+          "url": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T21:32:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c78848c5",
+      "title": "AI data centres are booming in Australia - but at what cost?",
+      "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "source_count": 1,
+      "source_names": [
+        "BBC World"
+      ],
+      "sources": [
+        {
+          "id": "64ac9b2237600bcde8600a6eff1232902cb09b10",
+          "title": "AI data centres are booming in Australia - but at what cost?",
+          "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T18:32:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_034ab9a9",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "primary_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "8b38e46b7654670011f1a8d0c329953739ff53d8",
+          "title": "Meta is paying to peek at how you use their latest AI model",
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T18:19:56Z"
         }
       ],
       "item_count": 1,
@@ -2022,6 +2110,50 @@
         }
       ],
       "item_count": 2,
+      "score": 9720
+    },
+    {
+      "story_id": "story_a6e3ba40",
+      "title": "Google says its AI weather model is getting better",
+      "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "primary_url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "fed456c36871ea21354e8ddc6105254ac47c5ded",
+          "title": "Google says its AI weather model is getting better",
+          "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9e08a3fd",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+      "primary_url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "e9850ad6cfac9ecbf864a8e87fa7058dc67f3524",
+          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
       "score": 9720
     },
     {
@@ -2179,6 +2311,50 @@
       "score": 9720
     },
     {
+      "story_id": "story_d54e7a3a",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "c98ecfffb03734af5280d2135b709709a3d4d0e1",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9a8f1e3a",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "primary_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "dea4f3665da4aeaa0cf6195f18a25f6f31b7d61d",
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_3ad5c146",
       "title": "国内最大住房建筑商要盖更多算力中心",
       "url": "https://www.huxiu.com/article/4888373.html?f=rss",
@@ -2195,6 +2371,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-03T11:59:09Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_f953b606",
+      "title": "这些新型割草机器人修剪你的边缘",
+      "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+      "primary_url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "860fe9bd1136f14c8305c85a29ad3f027e6ee39d",
+          "title": "These new robot lawnmowers trim your edges",
+          "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-03T11:55:00Z"
         }
       ],
       "item_count": 1,
@@ -2503,28 +2701,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-03T09:40:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_73a297fb",
-      "title": "智能马桶已经使用人工智能来分析你的粪便",
-      "url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
-      "primary_url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "2b461735c1d297afb7b9ebba3c15dd7f0e3c804b",
-          "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
-          "url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T09:30:00Z"
         }
       ],
       "item_count": 1,
@@ -3301,281 +3477,74 @@
       "score": 9720
     },
     {
-      "story_id": "story_cd823222",
-      "title": "AI对大型企业意味着什么？丨2026 ITValue Summit 前瞻：AI系统落地系列直播④",
-      "url": "https://www.tmtpost.com/8126123.html",
-      "primary_url": "https://www.tmtpost.com/8126123.html",
-      "source_count": 1,
+      "story_id": "story_f0909e6b",
+      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "primary_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "source_count": 4,
       "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "e89847479387185c5409842e100b58314eafee1b",
-          "title": "AI对大型企业意味着什么？丨2026 ITValue Summit 前瞻：AI系统落地系列直播④",
-          "url": "https://www.tmtpost.com/8126123.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T01:03:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_5e337a54",
-      "title": "三问AI办公：当智能成为标配，新的稀缺在哪里？",
-      "url": "https://www.tmtpost.com/8126197.html",
-      "primary_url": "https://www.tmtpost.com/8126197.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "6ab5452dccebecbd7ff333f27ccf957baef94ed4",
-          "title": "三问AI办公：当智能成为标配，新的稀缺在哪里？",
-          "url": "https://www.tmtpost.com/8126197.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:58:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d291b8cb",
-      "title": "AI的两个世界：高门槛的产业，低门槛的致富故事",
-      "url": "https://www.tmtpost.com/8126269.html",
-      "primary_url": "https://www.tmtpost.com/8126269.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "7d68412e0cf0e0a08f3e63db86b059043a0aff69",
-          "title": "AI的两个世界：高门槛的产业，低门槛的致富故事",
-          "url": "https://www.tmtpost.com/8126269.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:46:13Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d4b88168",
-      "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
-      "url": "https://sspai.com/post/114113",
-      "primary_url": "https://sspai.com/post/114113",
-      "source_count": 1,
-      "source_names": [
-        "少数派"
-      ],
-      "sources": [
-        {
-          "id": "725fd36d0c0c2768c2a68a36c28499a09c6cab01",
-          "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
-          "url": "https://sspai.com/post/114113",
-          "source": "少数派",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:31:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e78573e3",
-      "title": "存力接棒算力：AI智能体把存储推上主战场",
-      "url": "https://www.tmtpost.com/8123421.html",
-      "primary_url": "https://www.tmtpost.com/8123421.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "a66b0f83679ff7083fb0b02e44a06e14de1ac207",
-          "title": "存力接棒算力：AI智能体把存储推上主战场",
-          "url": "https://www.tmtpost.com/8123421.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:29:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_031c748e",
-      "title": "专访《后西游记》主创团队：AI长剧“上星”开创影视创作新范式",
-      "url": "https://m.thepaper.cn/detail/33998082",
-      "primary_url": "https://m.thepaper.cn/detail/33998082",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "368ab719f512957a0b865e19726842873baba8a3",
-          "title": "专访《后西游记》主创团队：AI长剧“上星”开创影视创作新范式",
-          "url": "https://m.thepaper.cn/detail/33998082",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:22:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c406716d",
-      "title": "Edge AI Daily 早报（9月3日）",
-      "url": "https://www.tmtpost.com/8126450.html",
-      "primary_url": "https://www.tmtpost.com/8126450.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "9e62139f63f1055546e60d9f2b97120130cff500",
-          "title": "Edge AI Daily 早报（9月3日）",
-          "url": "https://www.tmtpost.com/8126450.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:13:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_65dcd36c",
-      "title": "给地球降温10亿年，跟马斯克的太空AI有什么关系？",
-      "url": "https://www.huxiu.com/article/4887680.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4887680.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "74965eb3a8bd9e40405771aefb2fe5b4fcacf643",
-          "title": "给地球降温10亿年，跟马斯克的太空AI有什么关系？",
-          "url": "https://www.huxiu.com/article/4887680.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_2da205b9",
-      "title": "【钛晨报】央行行长潘功胜出席G20财长和央行行长会议，强调继续实施好适度宽松的货币政策；CrowdStrike与OpenAI扩大合作；港股通买入Minimax规模超越阿里巴巴和腾讯",
-      "url": "https://www.tmtpost.com/8126299.html",
-      "primary_url": "https://www.tmtpost.com/8126299.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "7246fc80e4318d68dd6105c29e462183a47bffe0",
-          "title": "【钛晨报】央行行长潘功胜出席G20财长和央行行长会议，强调继续实施好适度宽松的货币政策；CrowdStrike与OpenAI扩大合作；港股通买入Minimax规模超越阿里巴巴和腾讯",
-          "url": "https://www.tmtpost.com/8126299.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T23:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_d5066aad",
-      "title": "TechCrunch Disrupt 2026 的全新真实世界人工智能舞台以 Nvidia、机器人和灭绝动物为特色",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
-      "primary_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
-      "source_count": 1,
-      "source_names": [
+        "blogs.nvidia.com",
+        "Hacker News",
+        "New York Times",
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "84ed8eade82cb892525e22bce10456d9c9357998",
-          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+          "id": "e2207106467f84db1ca3a7e022f83a56bef44289",
+          "title": "英伟达将收购Hugging Face",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "blogs.nvidia.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T14:57:29.191000Z"
+        },
+        {
+          "id": "d4f66e7215f2e0fbf99d9ac91197d0e72c3e634b",
+          "title": "Nvidia to Acquire Hugging Face",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T12:10:33Z"
+        },
+        {
+          "id": "f36b1aa22683806d1ebf9b0714bed8b6e0866530",
+          "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+          "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T13:01:43Z"
+        },
+        {
+          "id": "51187600c5376b280504c1c9f659a9435679615d",
+          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
           "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T22:24:09Z"
+          "site_id": "techurls",
+          "published_at": "2026-09-03T12:42:45Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 4,
+      "score": 9590
     },
     {
-      "story_id": "story_e536813b",
-      "title": "OpenAI 因 Tumbler Ridge 大规模枪击悲剧面临新诉讼",
-      "url": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "050b76039a928de2aa9ce7c9b0e2ceb86b63c09f",
-          "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
-          "url": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T22:15:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_403566e7",
-      "title": "好莱坞电影人的困境：教AI如何取代自己",
-      "url": "https://m.thepaper.cn/detail/33992923",
-      "primary_url": "https://m.thepaper.cn/detail/33992923",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "a3c96573bcfebef7557b9bc2e19fba26a804ccc8",
-          "title": "好莱坞电影人的困境：教AI如何取代自己",
-          "url": "https://m.thepaper.cn/detail/33992923",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T22:10:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_569146cd",
-      "title": "GPT-6-Astra: infinitely pairs of consecutive primes with distance at most 186",
-      "url": "https://news.ycombinator.com/item?id=49555257",
-      "primary_url": "https://news.ycombinator.com/item?id=49555257",
+      "story_id": "story_14b7fef8",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://news.ycombinator.com/item?id=49557206",
+      "primary_url": "https://news.ycombinator.com/item?id=49557206",
       "source_count": 3,
       "source_names": [
         "hackernews",
         "news.ycombinator.com",
-        "Hacker News (黑客新闻)"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
+        {
+          "id": "17fa1ce1acf17a0f7a5336b40fa55b986952c8e7",
+          "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+          "url": "https://news.ycombinator.com/item?id=49557206",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-04T01:04:01.427000Z"
+        },
         {
           "id": "e91863598213042be8151470451ef96349f8389f",
           "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
@@ -3607,6 +3576,14 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-09-03T19:44:22.461000Z"
+        },
+        {
+          "id": "eed4309c8384db4e70bc92eb06a51b28151a0cad",
+          "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+          "url": "https://news.ycombinator.com/item?id=49551096",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T18:44:08.469000Z"
         },
         {
           "id": "ed7768ed80e896ebcc69d050037a86565d870522",
@@ -3665,14 +3642,6 @@
           "published_at": "2026-09-03T16:43:41.641000Z"
         },
         {
-          "id": "962b46fc1cf8d7e9c145e28b9aa9a63f3f35405a",
-          "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
-          "url": "https://news.ycombinator.com/item?id=49551096",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-03T15:43:36.885000Z"
-        },
-        {
           "id": "a6e2cee2511cd9e09bcd577dc5ce96c805cdbb8d",
           "title": "ChatGPT, Claude, and Grok Are Down",
           "url": "https://news.ycombinator.com/item?id=49551658",
@@ -3689,11 +3658,11 @@
           "published_at": "2026-09-03T15:43:36.885000Z"
         },
         {
-          "id": "6c66f6e4c495856600f21d3d6201dcbbc262278a",
-          "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+          "id": "2097cdb9a0d64c74dabe9e3c52ae16b7c5758c2f",
+          "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
           "url": "https://news.ycombinator.com/item?id=49551096",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-03T15:07:01Z"
         },
         {
@@ -3759,33 +3728,89 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-09-03T01:56:36.477000Z"
-        },
-        {
-          "id": "b91d7da454e5aee8758469aeb73f006c3cb91b4f",
-          "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-          "url": "https://news.ycombinator.com/item?id=49543841",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-03T00:07:37.229000Z"
-        },
-        {
-          "id": "eed410462a382f1c9d0a7a496f41bc8a8333511e",
-          "title": "Reasons robotics is hard",
-          "url": "https://news.ycombinator.com/item?id=49543191",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-03T00:07:37.229000Z"
-        },
-        {
-          "id": "623653a876e9808af7b32bac4afbf12f0d2cfafb",
-          "title": "Mamdani Bans AI in NYC Schools",
-          "url": "https://news.ycombinator.com/item?id=49542443",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-02T21:35:09.913000Z"
         }
       ],
-      "item_count": 26,
+      "item_count": 24,
+      "score": 9580
+    },
+    {
+      "story_id": "story_d055f5ec",
+      "title": "Cerebras 平台上提供 Qwen 3.8 27B 版本，价格为 1500 个代币/秒",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "primary_url": "https://inference-docs.cerebras.ai/models/overview",
+      "source_count": 3,
+      "source_names": [
+        "inference-docs.cerebras.ai",
+        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "44020fc564977a4640834e1e8c4d11024d9ee627",
+          "title": "Cerebras 平台上提供 Qwen 3.8 27B 版本，价格为 1500 个代币/秒",
+          "url": "https://inference-docs.cerebras.ai/models/overview",
+          "source": "inference-docs.cerebras.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T00:07:48.309000Z"
+        },
+        {
+          "id": "f77fcd9ef2e1f09f1f6e7b85fe4e8cab96d0a54f",
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
+          "url": "https://inference-docs.cerebras.ai/models/overview",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T18:32:13Z"
+        },
+        {
+          "id": "a4b06681e68b3d2c6ac902d13b534df41d197448",
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+          "url": "https://inference-docs.cerebras.ai/models/overview",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-03T18:32:13Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9580
+    },
+    {
+      "story_id": "story_f082815b",
+      "title": "申九段以让两子的优势击败了AI“KataGo”",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "primary_url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "source_count": 3,
+      "source_names": [
+        "www.kedglobal.com",
+        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "81c2e3dca71a3eaedd7a63f1c3e47b3ad6b0c0cc",
+          "title": "申九段以让两子的优势击败了AI“KataGo”",
+          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+          "source": "www.kedglobal.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T00:07:46.457000Z"
+        },
+        {
+          "id": "3e25f487302a8546364e67758ff39deb1308454d",
+          "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T01:11:22Z"
+        },
+        {
+          "id": "48138487fbfc7a872991ecf85c25c5b5645efce3",
+          "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-03T01:11:22Z"
+        }
+      ],
+      "item_count": 3,
       "score": 9580
     },
     {
@@ -3796,7 +3821,7 @@
       "source_count": 3,
       "source_names": [
         "github.com",
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -3809,11 +3834,11 @@
           "published_at": "2026-09-03T16:47:58.260000Z"
         },
         {
-          "id": "a02553e2e73089718b562de919e8366155d32403",
+          "id": "f274468cd97e0686b301579cc9d6cdb7ea426ac6",
           "title": "Codex Is Down",
           "url": "https://github.com/openai/codex/issues/28756",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-03T14:54:31Z"
         },
         {
@@ -3836,7 +3861,7 @@
       "source_count": 3,
       "source_names": [
         "chatgpt.com",
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -3849,11 +3874,11 @@
           "published_at": "2026-09-03T15:13:38.706000Z"
         },
         {
-          "id": "ba82e5012982bdeffec0e77671f499efc3c98ca1",
+          "id": "b26e07bd42349ecd9bb4f760399ee8377e41433a",
           "title": "ChatGPT Is Throwing 404",
           "url": "https://chatgpt.com",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-03T14:46:47Z"
         },
         {
@@ -3869,44 +3894,106 @@
       "score": 9580
     },
     {
-      "story_id": "story_ea622c80",
-      "title": "多种模型的错误率升高",
-      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-      "primary_url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "story_id": "story_002ad242",
+      "title": "Nvidia 斥资 129 亿美元收购 Hugging Face 开源 AI",
+      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
+      "primary_url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
       "source_count": 3,
       "source_names": [
-        "status.claude.com",
-        "Hacker News · 24h最热",
-        "Hacker News"
+        "Wired",
+        "Engadget",
+        "The Verge"
       ],
       "sources": [
         {
-          "id": "e092d4f5da38eda1fb30a6f8525cbc5fca86fb05",
-          "title": "多种模型的错误率升高",
-          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-          "source": "status.claude.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-03T14:57:29.194000Z"
-        },
-        {
-          "id": "9def0ab456c0fd275f9bc9c8f089a909c55c137e",
-          "title": "Claude outage – Resolved",
-          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T13:29:12Z"
-        },
-        {
-          "id": "d8fc25778cee233e80504e522db1fab7c45d139f",
-          "title": "Elevated Errors for Multiple Models",
-          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-          "source": "Hacker News",
+          "id": "3c33bd135d8964a0766e74753f30df9d768e3f72",
+          "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+          "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai",
+          "source": "Wired",
           "site_id": "techurls",
-          "published_at": "2026-09-03T13:29:12Z"
+          "published_at": "2026-09-03T12:43:09Z"
+        },
+        {
+          "id": "7a0c676929266148081f9631aab7b949640321d4",
+          "title": "NVIDIA is buying Hugging Face for $12.93 billion",
+          "url": "https://www.engadget.com/2250197/nvidia-buys-hugging-face",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T12:18:21Z"
+        },
+        {
+          "id": "609621ddb72418617c4de84e743c47b7d3eba7a8",
+          "title": "Nvidia is buying Hugging Face for almost $13 billion",
+          "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T12:12:06Z"
         }
       ],
       "item_count": 3,
       "score": 9580
+    },
+    {
+      "story_id": "story_28f7d1af",
+      "title": "OpenAI 开始推出 GPT-6 Astra",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "primary_url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "source_count": 2,
+      "source_names": [
+        "www.cnbc.com",
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "eb32a3c8dccae0f94d83a9d10cdfa6f79f54e7eb",
+          "title": "OpenAI 开始推出 GPT-6 Astra",
+          "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+          "source": "www.cnbc.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T00:07:47.862000Z"
+        },
+        {
+          "id": "154fe57c92ca58488f84608993966bc2cfa37a2e",
+          "title": "OpenAI begins rolling out GPT-6 Astra",
+          "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-03T18:18:22Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_4466e23d",
+      "title": "Four Major AI Models Suffer Rare Overlapping Downtime",
+      "url": "https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime",
+      "primary_url": "https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime",
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "187d7a18c0bdc79d8feae5b5431b2f087dcaccf8",
+          "title": "Four Major AI Models Suffer Rare Overlapping Downtime",
+          "url": "https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T23:00:00Z"
+        },
+        {
+          "id": "2be778bc4e9546785486acecc6b813e2dfe358ff",
+          "title": "Four major AI models suffer rare overlapping downtime",
+          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T18:10:19Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
     },
     {
       "story_id": "story_329d6bc1",
@@ -4002,35 +4089,549 @@
       "score": 9570
     },
     {
-      "story_id": "story_203ff3b7",
-      "title": "机器人技术为何如此困难",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-      "primary_url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "story_id": "story_ea622c80",
+      "title": "多种模型的错误率升高",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "primary_url": "https://status.claude.com/incidents/461yvfrzpwtt",
       "source_count": 2,
       "source_names": [
-        "secondthoughts.ai",
-        "Hacker News"
+        "status.claude.com",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "3d892f3ae78d4acb6e5837e602c06140ed91b673",
-          "title": "机器人技术为何如此困难",
-          "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-          "source": "secondthoughts.ai",
+          "id": "e092d4f5da38eda1fb30a6f8525cbc5fca86fb05",
+          "title": "多种模型的错误率升高",
+          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+          "source": "status.claude.com",
           "site_id": "buzzing",
-          "published_at": "2026-09-03T10:41:16.699000Z"
+          "published_at": "2026-09-03T14:57:29.194000Z"
         },
         {
-          "id": "581d5fb693cf9fb81f1c96ed097d753dd0617d35",
-          "title": "Reasons robotics is hard",
-          "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T22:02:30Z"
+          "id": "9def0ab456c0fd275f9bc9c8f089a909c55c137e",
+          "title": "Claude outage – Resolved",
+          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T13:29:12Z"
+        },
+        {
+          "id": "1b7e2e0475fec51d4d66e45819aa4db85a7d69d4",
+          "title": "Elevated Errors for Multiple Models",
+          "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T13:29:12Z"
         }
       ],
-      "item_count": 2,
+      "item_count": 3,
       "score": 9570
+    },
+    {
+      "story_id": "story_dbc946ff",
+      "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
+      "url": "https://juejin.cn/post/7680471403955191814",
+      "primary_url": "https://juejin.cn/post/7680471403955191814",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "8f8fb21a4ed3bc37917dfffdadb814e31efa6881",
+          "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
+          "url": "https://juejin.cn/post/7680471403955191814",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-09-04T01:04:01.427000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_65a8dbfc",
+      "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+      "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+      "primary_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "d8f7552fc6d79fa6d5893dca367e559e9fd11afb",
+          "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+          "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T00:06:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e1383642",
+      "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
+      "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
+      "primary_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "7b36ec5b8ec1d0de06e4e0027fb75a83626a0013",
+          "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
+          "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T00:02:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_1d86f978",
+      "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+      "primary_url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "709e32c43d815b2103b68c4c74131e0707078091",
+          "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T23:14:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_8cef11e3",
+      "title": "Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest (Alex Konrad/Upstarts Media)",
+      "url": "https://www.techmeme.com/260903/p47",
+      "primary_url": "https://www.techmeme.com/260903/p47",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "a3423d4b4999f9f273023619718aa712652290d0",
+          "title": "Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest (Alex Konrad/Upstarts Media)",
+          "url": "https://www.techmeme.com/260903/p47",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T23:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_33dda8c9",
+      "title": "Protecting Engineers' Skills in the AI Era",
+      "url": "https://spectrum.ieee.org/ai-engineer-skills",
+      "primary_url": "https://spectrum.ieee.org/ai-engineer-skills",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "cd062b8f9a46e39c86a1a1378320c98411fc4b9a",
+          "title": "Protecting Engineers' Skills in the AI Era",
+          "url": "https://spectrum.ieee.org/ai-engineer-skills",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T23:00:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_57e262c3",
+      "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
+      "url": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world",
+      "primary_url": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "7b9fa88b636983da4a1a8951baae710ffc9d36d2",
+          "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
+          "url": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T22:58:12Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_342fc323",
+      "title": "OpenAI rolls out GPT-6 Astra, and Greg Brockman says AGI has arrived",
+      "url": "https://thenextweb.com/news/openai-gpt-6-astra-brockman-agi-claim-us-voluntary-prerelease-review-eu-article-92-evaluations",
+      "primary_url": "https://thenextweb.com/news/openai-gpt-6-astra-brockman-agi-claim-us-voluntary-prerelease-review-eu-article-92-evaluations",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "67741754d099671ce2bd50b725d08690973220a8",
+          "title": "OpenAI rolls out GPT-6 Astra, and Greg Brockman says AGI has arrived",
+          "url": "https://thenextweb.com/news/openai-gpt-6-astra-brockman-agi-claim-us-voluntary-prerelease-review-eu-article-92-evaluations",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T22:39:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c04168b0",
+      "title": "T-Mobile’s Gopalan turns to home internet and AI after a 25% slide",
+      "url": "https://thenextweb.com/news/deutsche-telekom-t-mobile-merger-elliott-stake-german-state-blocking-minority-ireland-holdco",
+      "primary_url": "https://thenextweb.com/news/deutsche-telekom-t-mobile-merger-elliott-stake-german-state-blocking-minority-ireland-holdco",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "b0567f7fa64aaa3e431cccf817f2a2e1754a5cb4",
+          "title": "T-Mobile’s Gopalan turns to home internet and AI after a 25% slide",
+          "url": "https://thenextweb.com/news/deutsche-telekom-t-mobile-merger-elliott-stake-german-state-blocking-minority-ireland-holdco",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T22:16:57Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_50db98a7",
+      "title": "Sam Altman says AI developers have fumbled at communicating the technology’s benefits",
+      "url": "https://thenextweb.com/news/altman-says-industry-fumbled-communicating-ai-benefits-data-centre-backlash-europe-grid-eed-reporting",
+      "primary_url": "https://thenextweb.com/news/altman-says-industry-fumbled-communicating-ai-benefits-data-centre-backlash-europe-grid-eed-reporting",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "bcd3973e4b36f62371b832fd48073ccf9d3a722f",
+          "title": "Sam Altman says AI developers have fumbled at communicating the technology’s benefits",
+          "url": "https://thenextweb.com/news/altman-says-industry-fumbled-communicating-ai-benefits-data-centre-backlash-europe-grid-eed-reporting",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T22:02:39Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_da86f310",
+      "title": "Ugreen's new smart home ecosystem is built around local AI hubs",
+      "url": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs",
+      "primary_url": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "86d3b2393c3997c30cf6f911ff76fb7ea0deb73f",
+          "title": "Ugreen's new smart home ecosystem is built around local AI hubs",
+          "url": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2ec390ba",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+      "primary_url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "272f19a38032ee2e67daabbb50cfbde38aafa961",
+          "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T21:56:21Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_b59895b7",
+      "title": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
+      "url": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners",
+      "primary_url": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "a1871e8a6b780e535c555b5e37ff697701b8f1b8",
+          "title": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
+          "url": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T21:52:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e18ed0db",
+      "title": "Why video is the first frontier as AI learns to read the physical world",
+      "url": "https://thenextweb.com/news/video-first-frontier-ai-physical-world-lumana",
+      "primary_url": "https://thenextweb.com/news/video-first-frontier-ai-physical-world-lumana",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "826b034e0002486f19f5d649e84b2e19ddf5f9a6",
+          "title": "Why video is the first frontier as AI learns to read the physical world",
+          "url": "https://thenextweb.com/news/video-first-frontier-ai-physical-world-lumana",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T21:46:14Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_93946599",
+      "title": "OpenAI officially launches GPT-6 Astra, a boundary-breaking new model",
+      "url": "https://mashable.com/tech/openai-gpt-6-astra-launch-pricing-safety-benchmarks",
+      "primary_url": "https://mashable.com/tech/openai-gpt-6-astra-launch-pricing-safety-benchmarks",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "5fb5509214afe6c440de44088f3b322764e4f736",
+          "title": "OpenAI officially launches GPT-6 Astra, a boundary-breaking new model",
+          "url": "https://mashable.com/tech/openai-gpt-6-astra-launch-pricing-safety-benchmarks",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T21:36:15Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d88bb5ba",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "primary_url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "b5d1e1cfdec9b78d8d941ca68ecdf36171825996",
+          "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+          "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-03T21:20:34Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_60cee5ad",
+      "title": "Tasklet (YC P26) 正在招聘客户成功工程师",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "primary_url": "https://tasklet.ai/careers/customer-success-engineer",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "8d854ac1cd4e0763f01cde59bfc999434bf69796",
+          "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+          "url": "https://tasklet.ai/careers/customer-success-engineer",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-03T21:01:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_c2e7722b",
+      "title": "The 10 best autonomous pentesting tools, ranked by proof of exploit (2026)",
+      "url": "https://thenextweb.com/news/best-autonomous-pentesting-tools-proof-exploit-2026",
+      "primary_url": "https://thenextweb.com/news/best-autonomous-pentesting-tools-proof-exploit-2026",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "a424f06e8e4ee4f1178e93370d773bdf0b8e0434",
+          "title": "The 10 best autonomous pentesting tools, ranked by proof of exploit (2026)",
+          "url": "https://thenextweb.com/news/best-autonomous-pentesting-tools-proof-exploit-2026",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T20:52:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fee5b904",
+      "title": "OpenAI does a victory lap for its new AI model: 'Welcome to the AGI era'",
+      "url": "https://www.businessinsider.com/astra-model-launch-agi-milestone-openai-greg-brockman-2026-9",
+      "primary_url": "https://www.businessinsider.com/astra-model-launch-agi-milestone-openai-greg-brockman-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "d51fedb7ddd85cfadcb55f744876d6c2d0e16235",
+          "title": "OpenAI does a victory lap for its new AI model: 'Welcome to the AGI era'",
+          "url": "https://www.businessinsider.com/astra-model-launch-agi-milestone-openai-greg-brockman-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T20:47:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_babccaa9",
+      "title": "OpenAI commits $1B in subsidized model access, training, support, and partnerships to a new initiative aimed at protecting essential services around the world (Sam Sabin/Axios)",
+      "url": "https://www.techmeme.com/260903/p42",
+      "primary_url": "https://www.techmeme.com/260903/p42",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "14677fef2fc1d9df250f5dd7b6b211e6426b1f15",
+          "title": "OpenAI commits $1B in subsidized model access, training, support, and partnerships to a new initiative aimed at protecting essential services around the world (Sam Sabin/Axios)",
+          "url": "https://www.techmeme.com/260903/p42",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T20:40:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d6ac65a0",
+      "title": "OpenAI is about to make its biggest push yet into the legal industry",
+      "url": "https://www.businessinsider.com/openai-chatgpt-legal-ai-launch-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-chatgpt-legal-ai-launch-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "5cda7d6085229ce919788dff299ca77ff1f6fb70",
+          "title": "OpenAI is about to make its biggest push yet into the legal industry",
+          "url": "https://www.businessinsider.com/openai-chatgpt-legal-ai-launch-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T20:28:56Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e57eae8b",
+      "title": "Sources: Crusoe signed a ~$13B, five-year deal with Jane Street to provide GPUs and other infrastructure for AI training and inference via its cloud platform (Bloomberg)",
+      "url": "https://www.techmeme.com/260903/p41",
+      "primary_url": "https://www.techmeme.com/260903/p41",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "7def382a67960f95528c03c239bb4ec28ed022c5",
+          "title": "Sources: Crusoe signed a ~$13B, five-year deal with Jane Street to provide GPUs and other infrastructure for AI training and inference via its cloud platform (Bloomberg)",
+          "url": "https://www.techmeme.com/260903/p41",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T20:25:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_893060d1",
+      "title": "Federal agencies sued amid allegations Trump admin could be using AI safety framework to hide AI manipulation and corruption",
+      "url": "https://www.techradar.com/pro/federal-agencies-sued-amid-allegations-trump-admin-could-be-using-ai-safety-framework-to-hide-ai-manipulation-and-corruption",
+      "primary_url": "https://www.techradar.com/pro/federal-agencies-sued-amid-allegations-trump-admin-could-be-using-ai-safety-framework-to-hide-ai-manipulation-and-corruption",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "bee6c1754a17eeb19b3393b0c5a3269ccbfb37d7",
+          "title": "Federal agencies sued amid allegations Trump admin could be using AI safety framework to hide AI manipulation and corruption",
+          "url": "https://www.techradar.com/pro/federal-agencies-sued-amid-allegations-trump-admin-could-be-using-ai-safety-framework-to-hide-ai-manipulation-and-corruption",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T20:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_e9e47a9f",
@@ -4039,16 +4640,38 @@
       "primary_url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "026d3c2af89d24134402244de2bcc18aae8360b8",
+          "id": "e72684cd0e3a8d86b81d660946ab6a87abea5f13",
           "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
           "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-03T20:11:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6b1378db",
+      "title": "GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% (Greg Kamradt/ARC Prize)",
+      "url": "https://www.techmeme.com/260903/p40",
+      "primary_url": "https://www.techmeme.com/260903/p40",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "0bdf8bd9904119e7e980df5f62ef792955c41575",
+          "title": "GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% (Greg Kamradt/ARC Prize)",
+          "url": "https://www.techmeme.com/260903/p40",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T20:05:01Z"
         }
       ],
       "item_count": 1,
@@ -4105,38 +4728,16 @@
       "primary_url": "https://three-llm.ben3d.ca",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "9280dadaf500999ba8822a8cfc0db0355759ee5e",
+          "id": "be35fd2c3aa38e1d9ad8d9379d831b8dba0d33e1",
           "title": "Three-LLM: Three.js-based WebGPU LLM inference engine",
           "url": "https://three-llm.ben3d.ca",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-03T19:46:54Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3163a1d0",
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra",
-      "primary_url": "https://arcprize.org/blog/astra",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "7d390f02b74e00a25af601b85dceaacab5411929",
-          "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-          "url": "https://arcprize.org/blog/astra",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T19:45:00Z"
         }
       ],
       "item_count": 1,
@@ -4159,17 +4760,31 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-03T19:30:38Z"
-        },
-        {
-          "id": "660eafdaef591a4cd71324fa05692a0d315d3933",
-          "title": "GPT-6 Astra",
-          "url": "https://openai.com/index/gpt-6-astra",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T18:41:05Z"
         }
       ],
-      "item_count": 2,
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fc0f8bfd",
+      "title": "DOD's Emil Michael says Anthropic is still a designated supply chain risk, a day after Howard Lutnick said it resolved its issues with the Trump administration (Maggie Eastland/Bloomberg)",
+      "url": "https://www.techmeme.com/260903/p39",
+      "primary_url": "https://www.techmeme.com/260903/p39",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "abc9dede1de506397b7f2b40532d299643387894",
+          "title": "DOD's Emil Michael says Anthropic is still a designated supply chain risk, a day after Howard Lutnick said it resolved its issues with the Trump administration (Maggie Eastland/Bloomberg)",
+          "url": "https://www.techmeme.com/260903/p39",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T19:30:13Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -4239,6 +4854,28 @@
       "score": 7
     },
     {
+      "story_id": "story_8b954ea2",
+      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "primary_url": "https://openai.com/index/gpt-6-astra",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "f62d953029d7c19ff6939eb672d93481bf352455",
+          "title": "GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T18:41:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_ee6d52d7",
       "title": "I'm a VC with 5 kids. I encourage them to use AI and not to pick the safest career.",
       "url": "https://www.businessinsider.com/lori-cashman-visible-ventures-gen-z-kids-ai-2026-9",
@@ -4261,33 +4898,25 @@
       "score": 7
     },
     {
-      "story_id": "story_d055f5ec",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "primary_url": "https://inference-docs.cerebras.ai/models/overview",
+      "story_id": "story_833dfe15",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+      "primary_url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "f77fcd9ef2e1f09f1f6e7b85fe4e8cab96d0a54f",
-          "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
-          "url": "https://inference-docs.cerebras.ai/models/overview",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T18:32:13Z"
-        },
-        {
-          "id": "5ece638b3b824645876cffc187ef8464d2b341bd",
-          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-          "url": "https://inference-docs.cerebras.ai/models/overview",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T18:32:13Z"
+          "id": "2119f5654e3e9d1538a4039330ef6a2827e90a8f",
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T18:37:57Z"
         }
       ],
-      "item_count": 2,
+      "item_count": 1,
       "score": 7
     },
     {
@@ -4357,28 +4986,6 @@
       "score": 7
     },
     {
-      "story_id": "story_034ab9a9",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
-      "primary_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1d14466afe4af5c8cce16b553d1f49485945c172",
-          "title": "Meta is paying to peek at how you use their latest AI model",
-          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T18:19:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_a6450e63",
       "title": "OpenAI calls GPT-6 Astra the \"world's best computer use model\"; in tests, it booked DMV appointments and searched job listings faster than the average person (Maxwell Zeff/Wired)",
       "url": "https://www.techmeme.com/260903/p35",
@@ -4401,28 +5008,6 @@
       "score": 7
     },
     {
-      "story_id": "story_28f7d1af",
-      "title": "OpenAI begins rolling out GPT-6 Astra",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "primary_url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "source_count": 1,
-      "source_names": [
-        "HN Algolia · AI 24h"
-      ],
-      "sources": [
-        {
-          "id": "154fe57c92ca58488f84608993966bc2cfa37a2e",
-          "title": "OpenAI begins rolling out GPT-6 Astra",
-          "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-03T18:18:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_ccffc790",
       "title": "OpenAI prices GPT-6 Astra at $10/1M input tokens and $50/1M output tokens, matching Anthropic's pricing for Claude Fable 5.1 (The Deep View)",
       "url": "https://www.techmeme.com/260903/p34",
@@ -4439,28 +5024,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-03T18:15:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_6fc6890b",
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime",
-      "primary_url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "2be778bc4e9546785486acecc6b813e2dfe358ff",
-          "title": "Four major AI models suffer rare overlapping downtime",
-          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T18:10:19Z"
         }
       ],
       "item_count": 1,
@@ -4495,16 +5058,38 @@
       "primary_url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "123d73acae4a0fbbafe358dbfc6682651043aab3",
+          "id": "941c219deed209fb8a651a22e84cbf798d5dc5da",
           "title": "The Double Matthew Walker Knot by Fable 5.1",
           "url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-03T18:09:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_91d50650",
+      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+      "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human",
+      "primary_url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "03245ebe9abacc5d7bb6abf367dcfc4dd558f5a8",
+          "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+          "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T18:06:24Z"
         }
       ],
       "item_count": 1,
@@ -4635,15 +5220,15 @@
       "primary_url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "971729fea39c59d8f1c325aeac59778c1e23c17a",
+          "id": "d2ef3bf948f05c2550b9f55fa6f46fe1dbd00ee4",
           "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
           "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-03T17:20:29Z"
         }
       ],
@@ -5097,15 +5682,15 @@
       "primary_url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "23a68da9ca269c056f7b52fbc6a760d4ad1756ad",
+          "id": "5359b45505c2109df8bb062ec440d868f657cf07",
           "title": "ChatGPT, Claude, and Grok Are Down",
           "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-03T15:30:10Z"
         }
       ],
@@ -5217,50 +5802,6 @@
           "source": "Android Police",
           "site_id": "techurls",
           "published_at": "2026-09-03T15:00:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_a6e3ba40",
-      "title": "Google says its AI weather model is getting better",
-      "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-      "primary_url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "6fa1435394be67c2064ca4baf3cfe21597aebee3",
-          "title": "Google says its AI weather model is getting better",
-          "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9e08a3fd",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
-      "primary_url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "3e308f62a76b8abe278a2bcb5496e922737a8d51",
-          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T15:00:00Z"
         }
       ],
       "item_count": 1,
@@ -5393,28 +5934,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-03T14:30:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ae21a556",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-      "primary_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "9784ebd704070ddfe592e3cc255f0de65cc9611a",
-          "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-03T14:28:18Z"
         }
       ],
       "item_count": 1,
@@ -5713,15 +6232,15 @@
       "primary_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "8f028038f61ddb44cc28ff40a4e49bf55b818af0",
+          "id": "598aec712894b8e446a0b52bd79ef82a52918339",
           "title": "Nvidia to acquire Hugging Face",
           "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-03T12:10:33Z"
         }
       ],
@@ -5839,28 +6358,6 @@
       "score": 7
     },
     {
-      "story_id": "story_f953b606",
-      "title": "这些新型割草机器人修剪你的边缘",
-      "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
-      "primary_url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "1d2ca19e714484a36c761f2ac5846314af3d982c",
-          "title": "These new robot lawnmowers trim your edges",
-          "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T11:55:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_aac26c72",
       "title": "2026 年开展业务？使用这 7 个人工智能工具",
       "url": "https://www.techradar.com/pro/launching-a-business-in-2026-use-these-7-ai-tools",
@@ -5921,6 +6418,28 @@
           "source": "Slashdot",
           "site_id": "techurls",
           "published_at": "2026-09-03T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_203ff3b7",
+      "title": "机器人技术为何如此困难",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "primary_url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "source_count": 1,
+      "source_names": [
+        "secondthoughts.ai"
+      ],
+      "sources": [
+        {
+          "id": "3d892f3ae78d4acb6e5837e602c06140ed91b673",
+          "title": "机器人技术为何如此困难",
+          "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+          "source": "secondthoughts.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T10:41:16.699000Z"
         }
       ],
       "item_count": 1,
@@ -6141,6 +6660,28 @@
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-03T09:37:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_73a297fb",
+      "title": "智能马桶已经使用人工智能来分析你的粪便",
+      "url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
+      "primary_url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "ac6fb498b3ac407761c03fe6071ca6c2566c54e4",
+          "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
+          "url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T09:30:00Z"
         }
       ],
       "item_count": 1,
@@ -6735,388 +7276,6 @@
           "source": "Wired",
           "site_id": "techurls",
           "published_at": "2026-09-03T01:32:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f082815b",
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "primary_url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "3e25f487302a8546364e67758ff39deb1308454d",
-          "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
-          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T01:11:22Z"
-        },
-        {
-          "id": "0dfa80c55d7c2231bbdc2a27120bd97ff693d203",
-          "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T01:11:22Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 7
-    },
-    {
-      "story_id": "story_33aca323",
-      "title": "美国政府在LLM受版权材料培训问题上支持 OpenAI",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
-      "primary_url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "864f1cd0933a9f136de34492abc73e1be801c847",
-          "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
-          "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T00:54:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ca7ef424",
-      "title": "沃尔玛新的点击支付标志让互联网热捧其人工智能艺术",
-      "url": "https://mashable.com/life/walmart-tap-to-pay-sign-ai-art",
-      "primary_url": "https://mashable.com/life/walmart-tap-to-pay-sign-ai-art",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "95f7a7120831373013183a58ecb417f416a8ccbc",
-          "title": "Walmart’s new tap-to-pay sign has the internet roasting its AI art",
-          "url": "https://mashable.com/life/walmart-tap-to-pay-sign-ai-art",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T00:46:45Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_85d684fc",
-      "title": "Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox (Stephen Nakrosis/Wall Street Journal)",
-      "url": "https://www.techmeme.com/260902/p47",
-      "primary_url": "https://www.techmeme.com/260902/p47",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "5d432840349abb03f4efe89b35736432e7aac6c6",
-          "title": "Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox (Stephen Nakrosis/Wall Street Journal)",
-          "url": "https://www.techmeme.com/260902/p47",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T00:15:27Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2aad44bc",
-      "title": "OpenAI 告诉众议院民主党人，它正在构建自动关闭功能",
-      "url": "https://thenextweb.com/news/openai-automated-shutdown-house-democrats-logs-withheld-eu-ai-act-article-93-withdraw-recall",
-      "primary_url": "https://thenextweb.com/news/openai-automated-shutdown-house-democrats-logs-withheld-eu-ai-act-article-93-withdraw-recall",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "ade1d4c35764c2fab5c92fb96e64ac70a89af85d",
-          "title": "OpenAI tells House Democrats it is building automated shutdown capability",
-          "url": "https://thenextweb.com/news/openai-automated-shutdown-house-democrats-logs-withheld-eu-ai-act-article-93-withdraw-recall",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T23:59:43Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9882c997",
-      "title": "对美国人净资产的思考",
-      "url": "https://www.betonit.ai/p/reflections-on-americans-net-worth",
-      "primary_url": "https://www.betonit.ai/p/reflections-on-americans-net-worth",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "5e49010a054cab21f2697eb24e067ee577b654fb",
-          "title": "Reflections on Americans' Net Worth",
-          "url": "https://www.betonit.ai/p/reflections-on-americans-net-worth",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-02T23:57:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9bc90cf3",
-      "title": "CrowdStrike 推出跨五个领域的协调多代理调查",
-      "url": "https://thenextweb.com/news/crowdstrike-agentic-soc-multi-agent-investigations-nis2-article-23-24-hour-clock-article-20-liability",
-      "primary_url": "https://thenextweb.com/news/crowdstrike-agentic-soc-multi-agent-investigations-nis2-article-23-24-hour-clock-article-20-liability",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "3f02e6e7431b53e9a06e556da1c9de63520f98f3",
-          "title": "CrowdStrike unveils coordinated multi-agent investigations across five domains",
-          "url": "https://thenextweb.com/news/crowdstrike-agentic-soc-multi-agent-investigations-nis2-article-23-24-hour-clock-article-20-liability",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T23:43:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_b04362fb",
-      "title": "Uber launches London's first commercial robotaxi service; the vehicles use Wayve's autonomous driving tech and will initially have human safety drivers (Andrew J. Hawkins/The Verge)",
-      "url": "https://www.techmeme.com/260902/p45",
-      "primary_url": "https://www.techmeme.com/260902/p45",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "9bda8157c3e7381a5d174491a49b1edd7cc21fd7",
-          "title": "Uber launches London's first commercial robotaxi service; the vehicles use Wayve's autonomous driving tech and will initially have human safety drivers (Andrew J. Hawkins/The Verge)",
-          "url": "https://www.techmeme.com/260902/p45",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T23:25:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_22291864",
-      "title": "Meta 的人工智能负责人表示，Meta 的新人工智能模型更接近 OpenAI 和 Anthropic",
-      "url": "https://thenextweb.com/news/meta-muse-spark-1-3-undecided-weights-eu-ai-act-article-53-open-source-exemption-systemic-risk",
-      "primary_url": "https://thenextweb.com/news/meta-muse-spark-1-3-undecided-weights-eu-ai-act-article-53-open-source-exemption-systemic-risk",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "2cd10ffcfeb4157097674a5c7509bbb5e6c7f020",
-          "title": "Meta’s new AI model edges closer to OpenAI and Anthropic, its AI Chief says",
-          "url": "https://thenextweb.com/news/meta-muse-spark-1-3-undecided-weights-eu-ai-act-article-53-open-source-exemption-systemic-risk",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T23:19:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0cc087dc",
-      "title": "纽约在小学禁止人工智能，三个月后挪威就禁止了",
-      "url": "https://thenextweb.com/news/nyc-schools-generative-ai-moratorium-norway-ban-eu-ai-act-annex-iii-italy-law-132-2025",
-      "primary_url": "https://thenextweb.com/news/nyc-schools-generative-ai-moratorium-norway-ban-eu-ai-act-annex-iii-italy-law-132-2025",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "c6d1f5bd06bde6b374e2a9a2e0763f8bb982c1f9",
-          "title": "New York bans AI in primary school, three months after Norway did",
-          "url": "https://thenextweb.com/news/nyc-schools-generative-ai-moratorium-norway-ban-eu-ai-act-annex-iii-italy-law-132-2025",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T23:05:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_91f5f101",
-      "title": "Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale (Marina Temkin/TechCrunch)",
-      "url": "https://www.techmeme.com/260902/p44",
-      "primary_url": "https://www.techmeme.com/260902/p44",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "7d60b0c402b1c9206d2d5f6650ce0d397b6daad0",
-          "title": "Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale (Marina Temkin/TechCrunch)",
-          "url": "https://www.techmeme.com/260902/p44",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T23:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ff55a80e",
-      "title": "Vodafone’s new premier connectivity plan is designed for a future in which Meta Glasses are as ubiquitous as phones: ‘If you believe in the potential of AI, then you also believe in the potential of SuperMobile’",
-      "url": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
-      "primary_url": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "d00a64bf816919b5d4a99e6ac0334473920c9509",
-          "title": "Vodafone’s new premier connectivity plan is designed for a future in which Meta Glasses are as ubiquitous as phones: ‘If you believe in the potential of AI, then you also believe in the potential of SuperMobile’",
-          "url": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T23:01:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1fa5e007",
-      "title": "曼达尼在纽约市学校禁止使用人工智能",
-      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-      "primary_url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-      "source_count": 1,
-      "source_names": [
-        "www.nytimes.com"
-      ],
-      "sources": [
-        {
-          "id": "6c2db167717125f98fef66e66b63c80c31409f58",
-          "title": "曼达尼在纽约市学校禁止使用人工智能",
-          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-          "source": "www.nytimes.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-02T22:57:21.026000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f1da7a8c",
-      "title": "Show HN：每个人工智能都同意你的观点。这会写你的初创公司的讣告",
-      "url": "https://theyfell.com",
-      "primary_url": "https://theyfell.com",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "4b5b0ccb7e027606a8450d09862b015e2569a150",
-          "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
-          "url": "https://theyfell.com",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T22:45:39Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d8ef0eb6",
-      "title": "人工智能技能差距日益扩大，学校等待完美答案",
-      "url": "https://thenextweb.com/news/ai-skills-gap-schools-education",
-      "primary_url": "https://thenextweb.com/news/ai-skills-gap-schools-education",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "80eef9365a22788b2ecffd120a1ec433808ce9de",
-          "title": "The AI skills gap is growing while schools wait for perfect answers",
-          "url": "https://thenextweb.com/news/ai-skills-gap-schools-education",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T22:14:04Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_eca02b13",
-      "title": "司法部在出版商版权纠纷中支持 OpenAI",
-      "url": "https://thenextweb.com/news/doj-statement-of-interest-openai-copyright-fair-use-eu-ai-act-recital-106-tdm-opt-out",
-      "primary_url": "https://thenextweb.com/news/doj-statement-of-interest-openai-copyright-fair-use-eu-ai-act-recital-106-tdm-opt-out",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "e1d7d66a930046962819b346469cf9018b3b5924",
-          "title": "Justice Department sides with OpenAI in publishers’ copyright fight",
-          "url": "https://thenextweb.com/news/doj-statement-of-interest-openai-copyright-fair-use-eu-ai-act-recital-106-tdm-opt-out",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T22:10:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_62e637e0",
-      "title": "美国人热爱人工智能。他们不想要为其提供动力的数据中心。",
-      "url": "https://www.businessinsider.com/americans-love-ai-they-dont-want-the-data-centers-2026-9",
-      "primary_url": "https://www.businessinsider.com/americans-love-ai-they-dont-want-the-data-centers-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "c671a496c697135ce6a71a969f334701182e8980",
-          "title": "Americans love AI. They don't want the data centers that power it.",
-          "url": "https://www.businessinsider.com/americans-love-ai-they-dont-want-the-data-centers-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-02T21:13:24Z"
         }
       ],
       "item_count": 1,
