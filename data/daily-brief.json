@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-09-04T18:40:29.424056Z",
+  "generated_at": "2026-09-04T19:35:28.867723Z",
   "window_hours": 24,
   "total_items": 19,
   "items": [
+    {
+      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+      "title_zh": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-04T18:37:00.305000Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+      "title_zh": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+      "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-04T17:45:09Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
+    {
+      "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+      "title_zh": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
+      "source": "Simon Willison 博客",
+      "source_tier_rank": 1,
+      "source_tier_label": "AI垂直源",
+      "published_at": "2026-09-04T17:38:48Z",
+      "ai_is_related": true,
+      "ai_score": 1.0
+    },
     {
       "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
       "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
@@ -77,39 +110,6 @@
       "source_tier_rank": 1,
       "source_tier_label": "AI垂直源",
       "published_at": "2026-09-04T12:41:05Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
-      "title_zh": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
-      "url": "https://x.com/kimmonismus/status/2095837763517988869",
-      "source": "X：Kim (@kimmonismus)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-04T11:33:56Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-      "title_zh": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-      "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-      "source": "The Decoder：AI News（RSS）",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-04T11:07:36Z",
-      "ai_is_related": true,
-      "ai_score": 1.0
-    },
-    {
-      "title": "GPT-6 Astra 上线 Microsoft Foundry，早期客户已在 Azure 上使用",
-      "title_zh": "GPT-6 Astra 上线 Microsoft Foundry，早期客户已在 Azure 上使用",
-      "url": "https://x.com/satyanadella/status/2095713765446840591",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_tier_rank": 1,
-      "source_tier_label": "AI垂直源",
-      "published_at": "2026-09-04T03:21:12Z",
       "ai_is_related": true,
       "ai_score": 1.0
     },
@@ -205,7 +205,7 @@
       "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
       "title_zh": null,
       "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness",
-      "source": "Hacker News · 24h最热",
+      "source": "Hacker News (黑客新闻)",
       "source_tier_rank": 5,
       "source_tier_label": "热议参考",
       "published_at": "2026-09-04T03:40:26Z",
