@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-09-05T09:34:29.527634Z",
+  "generated_at": "2026-09-05T10:34:32.270713Z",
   "window_hours": 24,
-  "total_stories": 212,
+  "total_stories": 214,
   "stories": [
+    {
+      "story_id": "story_7036feb3",
+      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）",
+        "www.anthropic.com"
+      ],
+      "sources": [
+        {
+          "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
+          "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T18:37:00.305000Z"
+        },
+        {
+          "id": "8c34c0072e380e85f6661975d4448377a7b8aa5a",
+          "title": "费马最后定理的形式化",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "www.anthropic.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T19:43:18.339000Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9970
+    },
     {
       "story_id": "story_48865e80",
       "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
@@ -1078,35 +1109,26 @@
       "score": 9780
     },
     {
-      "story_id": "story_ee9255c2",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
-      "primary_url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
-      "source_count": 2,
+      "story_id": "story_d432d0a5",
+      "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
+      "url": "http://www.news.cn/20260905/0d4ab5e7c27147948b67222c8490c5f3/c.html",
+      "primary_url": "http://www.news.cn/20260905/0d4ab5e7c27147948b67222c8490c5f3/c.html",
+      "source_count": 1,
       "source_names": [
-        "ArsTechnica",
-        "Slashdot"
+        "新华网 / 新华社新闻"
       ],
       "sources": [
         {
-          "id": "e548763494bb2aef89036f6ac44df3cd02ad93c5",
-          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-          "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
-          "source": "ArsTechnica",
+          "id": "39e53aaca574557a0a30b7550fbcf5ffc344b060",
+          "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
+          "url": "http://www.news.cn/20260905/0d4ab5e7c27147948b67222c8490c5f3/c.html",
+          "source": "新华网 / 新华社新闻",
           "site_id": "opmlrss",
-          "published_at": "2026-09-04T22:17:36Z"
-        },
-        {
-          "id": "1dc7ec90304b5db2e2741c73926976cd7b8df70d",
-          "title": "OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox",
-          "url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T07:50:00Z"
+          "published_at": "2026-09-05T08:48:55Z"
         }
       ],
-      "item_count": 2,
-      "score": 9770
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_81ad8d42",
@@ -1777,22 +1799,66 @@
       "score": 9720
     },
     {
-      "story_id": "story_4ea4896b",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-      "primary_url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+      "story_id": "story_91e0cf54",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+      "primary_url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
       "source_count": 1,
       "source_names": [
         "TechCrunch"
       ],
       "sources": [
         {
-          "id": "8f4e5b6602aca6e14f9cee9f17f4abe1f88c11c3",
-          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+          "id": "517bb8bd00299a1accd54a2a472ad40b6d9c88fd",
+          "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
           "source": "TechCrunch",
           "site_id": "opmlrss",
-          "published_at": "2026-09-04T21:12:11Z"
+          "published_at": "2026-09-04T23:15:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_9fcc9737",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "e04abea383367e4aaee8e345e2e3e55958c3e669",
+          "title": "Roland is getting into generative AI music with Melody Flip",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T17:51:35Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_d0fc5440",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
+      "primary_url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "3439d583c502fa6cbbcfcf48bad5dec081ec4331",
+          "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+          "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T17:18:12Z"
         }
       ],
       "item_count": 1,
@@ -1815,6 +1881,28 @@
           "source": "新华网 / 新华社新闻",
           "site_id": "opmlrss",
           "published_at": "2026-09-04T16:37:03Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_fddc5071",
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight",
+      "primary_url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight",
+      "source_count": 1,
+      "source_names": [
+        "ArsTechnica"
+      ],
+      "sources": [
+        {
+          "id": "f6b2a147820db335c9a825495b3b4a59942a59b3",
+          "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+          "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight",
+          "source": "ArsTechnica",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T16:22:18Z"
         }
       ],
       "item_count": 1,
@@ -1859,6 +1947,28 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-04T16:11:40Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_dbcf0c5c",
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+      "primary_url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "d51f68e06d0df1697f6ddcea1d5ddbecfd085de5",
+          "title": "Google’s Gemini Spark can now manage your Google Photos library",
+          "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T14:47:11Z"
         }
       ],
       "item_count": 1,
@@ -2225,58 +2335,15 @@
       "score": 9720
     },
     {
-      "story_id": "story_d9ef5095",
-      "title": "Israel takes its war on Palestine into the AI age",
-      "url": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "eec3a202a762896dd0313d4b107fed4358f991a4",
-          "title": "Israel takes its war on Palestine into the AI age",
-          "url": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-04T09:42:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_e7a9ede1",
-      "title": "阿里又多了一个Agent赛马",
-      "url": "https://www.tmtpost.com/8128120.html",
-      "primary_url": "https://www.tmtpost.com/8128120.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "1983a371433caa1f87360f937257a8ef06d8e07a",
-          "title": "阿里又多了一个Agent赛马",
-          "url": "https://www.tmtpost.com/8128120.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-04T09:24:51Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_85756017",
       "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
       "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
       "primary_url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "gmcgoldr.github.io",
         "Hacker News (黑客新闻)",
+        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "sources": [
@@ -2297,24 +2364,24 @@
           "published_at": "2026-09-04T17:09:24Z"
         },
         {
-          "id": "c129b5237bc5a24384b4171f80daa6fd18c3ffd8",
+          "id": "5a2df0be8fdd82fc6ee2c13bf8fb3ddd137c47ae",
           "title": "Stop Thinking of LLMs as Next-Token Predictors",
+          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T17:09:24Z"
+        },
+        {
+          "id": "4138291cd17d4c62904f1354e50d144913bb62af",
+          "title": "“Next-token predictor” is the wrong mental model for LLMs",
           "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
           "source": "Hacker News · 24h最热",
           "site_id": "zeli",
           "published_at": "2026-09-04T17:09:24Z"
-        },
-        {
-          "id": "0e1572f6c77965237c5e72aca94c0bf41dc54b61",
-          "title": "“Next-token predictor” is the wrong mental model for LLMs",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-04T17:09:24Z"
         }
       ],
       "item_count": 4,
-      "score": 9580
+      "score": 9590
     },
     {
       "story_id": "story_84764afd",
@@ -2324,7 +2391,7 @@
       "source_count": 3,
       "source_names": [
         "www.nytimes.com",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "New York Times"
       ],
       "sources": [
@@ -2337,11 +2404,11 @@
           "published_at": "2026-09-04T17:19:15.067000Z"
         },
         {
-          "id": "e8b154e0ad978bcb7ffb92e03ad7808f537699d6",
+          "id": "a6931ea8112778b1acde80a37f07d69efd62fc83",
           "title": "Corporate America is getting hooked on open-source AI",
           "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-04T15:33:45Z"
         },
         {
@@ -2508,6 +2575,37 @@
       "score": 9570
     },
     {
+      "story_id": "story_37018380",
+      "title": "OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox",
+      "url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
+      "primary_url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "1dc7ec90304b5db2e2741c73926976cd7b8df70d",
+          "title": "OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox",
+          "url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T07:50:00Z"
+        },
+        {
+          "id": "0520ba29d4eeafce4c494e3515b18f5cbb79950e",
+          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+          "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T22:17:36Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_e4e6c40d",
       "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
       "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
@@ -2515,7 +2613,7 @@
       "source_count": 2,
       "source_names": [
         "engineering.atspotify.com",
-        "Hacker News (黑客新闻)"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
@@ -2527,11 +2625,11 @@
           "published_at": "2026-09-05T07:26:09.234000Z"
         },
         {
-          "id": "b49035344b6193dfe35ee03e3bcd765be33079ce",
+          "id": "19b50b3c48d006843ae4c7437210bea7124985cd",
           "title": "Portal by Spotify cut my Claude Code token usage by 90%",
           "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-04T23:38:50Z"
         }
       ],
@@ -2577,7 +2675,7 @@
       "source_count": 2,
       "source_names": [
         "openrouter.ai",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -2589,11 +2687,11 @@
           "published_at": "2026-09-05T00:47:17.607000Z"
         },
         {
-          "id": "0aafdb0eae90a6fe39f529d3578256908741d9d9",
+          "id": "f0e7549324f1ae375428c5bfe4fdbac3da09ff36",
           "title": "GPT-6 Astra on OpenRouter",
           "url": "https://openrouter.ai/openai/gpt-6-astra",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-04T21:39:19Z"
         }
       ],
@@ -2663,37 +2761,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_7036feb3",
-      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source_count": 2,
-      "source_names": [
-        "www.anthropic.com",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "8c34c0072e380e85f6661975d4448377a7b8aa5a",
-          "title": "费马最后定理的形式化",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "www.anthropic.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T19:43:18.339000Z"
-        },
-        {
-          "id": "9f1776cfdc0d479284bbcd118531fef00ead403d",
-          "title": "Formalizing Fermat's Last Theorem",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-04T18:42:56Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_2ec390ba",
       "title": "没人解释OpenAI和Anthropic为何出现服务中断",
       "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
@@ -2732,7 +2799,7 @@
       "source_count": 2,
       "source_names": [
         "productrise.app",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -2744,11 +2811,11 @@
           "published_at": "2026-09-04T14:55:31.836000Z"
         },
         {
-          "id": "ed67c27ca340c1d5fc8e35a4a06f7b8332fc9624",
+          "id": "cb76fccb573bfec69a6f0c89079de81f62085ac5",
           "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
           "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-04T11:59:15Z"
         }
       ],
@@ -2785,6 +2852,138 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_7954d659",
+      "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+      "url": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+      "primary_url": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "1080695b24912da48af6f1a883cef4b6deaa87d0",
+          "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+          "url": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T09:03:10Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6fbbe6fb",
+      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+      "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+      "primary_url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+      "source_count": 1,
+      "source_names": [
+        "New York Times"
+      ],
+      "sources": [
+        {
+          "id": "3e7b15d78d9228c0d824a8f42e3bc39ca3783fc9",
+          "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+          "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+          "source": "New York Times",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T09:02:13Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_694b1137",
+      "title": "This $40 AI tool could turn your side-hustle idea into an actual app",
+      "url": "https://mashable.com/tech/sept-5-swiftspeed-ai-app-builder-pro-plan-lifetime",
+      "primary_url": "https://mashable.com/tech/sept-5-swiftspeed-ai-app-builder-pro-plan-lifetime",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "775543b6089362a3f1c5b0ef13e19db08f05deef",
+          "title": "This $40 AI tool could turn your side-hustle idea into an actual app",
+          "url": "https://mashable.com/tech/sept-5-swiftspeed-ai-app-builder-pro-plan-lifetime",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6aac5302",
+      "title": "Why pick one? Own ChatGPT, Claude, and Gemini for just $69.97 with this Labor Day sale.",
+      "url": "https://mashable.com/tech/sep-5-1minai-advanced-business-plan-lifetime-subscription",
+      "primary_url": "https://mashable.com/tech/sep-5-1minai-advanced-business-plan-lifetime-subscription",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "fd7f2b2534a5d9ea527c26e9fa8ce4ff76eec4aa",
+          "title": "Why pick one? Own ChatGPT, Claude, and Gemini for just $69.97 with this Labor Day sale.",
+          "url": "https://mashable.com/tech/sep-5-1minai-advanced-business-plan-lifetime-subscription",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_9d91148a",
+      "title": "ICYMI: the 7 biggest tech stories of the week, from the best gadgets of IFA 2026 to GPT-6 Astra and 'the AGI era'",
+      "url": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-the-best-gadgets-of-ifa-2026-to-gpt-6-astra-and-the-agi-era",
+      "primary_url": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-the-best-gadgets-of-ifa-2026-to-gpt-6-astra-and-the-agi-era",
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "sources": [
+        {
+          "id": "94817d778c8a1f4004a5e4979492015f787725b9",
+          "title": "ICYMI: the 7 biggest tech stories of the week, from the best gadgets of IFA 2026 to GPT-6 Astra and 'the AGI era'",
+          "url": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-the-best-gadgets-of-ifa-2026-to-gpt-6-astra-and-the-agi-era",
+          "source": "TechRadar",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T08:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_47dbbec5",
+      "title": "Hikers 'relied too much' on AI and had to be rescued. A ranger says it wasn't the first AI-related mishap he's seen.",
+      "url": "https://www.businessinsider.com/hikers-rescued-relied-on-ai-new-trend-ranger-2026-9",
+      "primary_url": "https://www.businessinsider.com/hikers-rescued-relied-on-ai-new-trend-ranger-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "746f2298229de1cd64445f2472dfc831a9509045",
+          "title": "Hikers 'relied too much' on AI and had to be rescued. A ranger says it wasn't the first AI-related mishap he's seen.",
+          "url": "https://www.businessinsider.com/hikers-rescued-relied-on-ai-new-trend-ranger-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T08:11:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_04aa3acd",
@@ -3101,15 +3300,15 @@
       "primary_url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "b0628b8c29ccab104bb3e83db1159f4473e4fc8e",
+          "id": "b2500612f963e9d9a5c45c5e7b9357c40edcf23b",
           "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
           "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-05T03:38:56Z"
         }
       ],
@@ -3233,15 +3432,15 @@
       "primary_url": "https://moadim.io",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "dd9fc87f9c0f2d17622d15b8f24d1fa66410c71e",
+          "id": "210db969a403d226a94b5253c4bd18a627c1dbdd",
           "title": "Show HN: Moadim.io – A scheduler for agents",
           "url": "https://moadim.io",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-04T23:50:29Z"
         }
       ],
@@ -3293,43 +3492,21 @@
       "score": 7
     },
     {
-      "story_id": "story_91e0cf54",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
-      "primary_url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "bcc07f22db76ff0e37c8faba73bd803dbf3dfe35",
-          "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T23:15:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_adbaf53d",
       "title": "Gimlet's Series B",
       "url": "https://gimletlabs.ai/blog/announcing-series-b",
       "primary_url": "https://gimletlabs.ai/blog/announcing-series-b",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "fcc62f94dcb9343911d8cbb6557a2ab92c0d0b41",
+          "id": "1c068eacb675ef975c1afe710650d307fb7a9654",
           "title": "Gimlet's Series B",
           "url": "https://gimletlabs.ai/blog/announcing-series-b",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-04T23:09:18Z"
         }
       ],
@@ -3365,15 +3542,15 @@
       "primary_url": "https://github.com/NeoLabHQ/context-engineering-kit",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
-          "id": "f26fc573726ae653027f65dcb07dcccff1f61cad",
+          "id": "867cba15924d43f1d7888d3b8a9ec94f5dbf9cbf",
           "title": "Claude Code skills for advanced context engineering techniques and patterns",
           "url": "https://github.com/NeoLabHQ/context-engineering-kit",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-04T22:52:14Z"
         }
       ],
@@ -3397,6 +3574,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-04T21:55:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4ea4896b",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+      "primary_url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "1a7a2588f2da17df4d212a87022e33baced45eda",
+          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T21:12:11Z"
         }
       ],
       "item_count": 1,
@@ -3777,28 +3976,6 @@
       "score": 7
     },
     {
-      "story_id": "story_9fcc9737",
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "03b704e639fa1217ec9b530280da76b413a20e4b",
-          "title": "Roland is getting into generative AI music with Melody Flip",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T17:51:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_3334a086",
       "title": "Luka’s new AI projector starts the drawing and leaves the rest to kids",
       "url": "https://thenextweb.com/news/luka-kids-ai-drawing-projector-ifa-2026-eu-toy-safety-regulation-2025-2509-mental-health-ai-act",
@@ -3887,43 +4064,21 @@
       "score": 7
     },
     {
-      "story_id": "story_d0fc5440",
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
-      "primary_url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "e4ea6a40bd97ea22040a558582c69ad754574552",
-          "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-          "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T17:18:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_fe7558cb",
       "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
       "url": "https://twitter.com/ggerganov/status/2095897173376618881",
       "primary_url": "https://twitter.com/ggerganov/status/2095897173376618881",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "32faaa276aabdaf2e83ccd3f286fc2e414a24cdd",
+          "id": "2adaf6fc325510ae842bc912f25c3c1e4df5d077",
           "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
           "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-04T17:12:22Z"
         }
       ],
@@ -4035,28 +4190,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-04T16:30:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fddc5071",
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight",
-      "primary_url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "63b70d4b9898b887440a6b8a970dcb4f8a569507",
-          "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-          "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T16:22:18Z"
         }
       ],
       "item_count": 1,
@@ -4481,28 +4614,6 @@
       "score": 7
     },
     {
-      "story_id": "story_dbcf0c5c",
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
-      "primary_url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "7c9a2132b8234a771d8b27cce60bbfbd6203bcef",
-          "title": "Google’s Gemini Spark can now manage your Google Photos library",
-          "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T14:47:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_de65f35c",
       "title": "How OpenAI limited METR's probe into the Hugging Face incident, dictating terms and restricting its scope to the single week when agents attacked Hugging Face (Dylan Freedman/New York Times)",
       "url": "https://www.techmeme.com/260904/p17",
@@ -4861,15 +4972,15 @@
       "primary_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "b18edc3a603517b3d6dddfc8c53a381d2c4ec353",
+          "id": "38e2f7204515dbcaf0823fa1acf7ed6aedfe5f10",
           "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
           "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-04T10:30:57Z"
         }
       ],
@@ -4893,72 +5004,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-04T10:30:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_23e900ef",
-      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-      "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
-      "primary_url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "cdb8e4a944a0aa5bacdf4836f9484bcf6b6003dd",
-          "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-          "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_de325b41",
-      "title": "DeepSeek plans large Huawei chip order for new Inner Mongolia data centre",
-      "url": "https://thenextweb.com/news/deepseek-huawei-ai-chip-order-data-centre",
-      "primary_url": "https://thenextweb.com/news/deepseek-huawei-ai-chip-order-data-centre",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "c3461370a7ba6081ea707d9ec7c34479d23cf07d",
-          "title": "DeepSeek plans large Huawei chip order for new Inner Mongolia data centre",
-          "url": "https://thenextweb.com/news/deepseek-huawei-ai-chip-order-data-centre",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T09:45:31Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_94387676",
-      "title": "Nvidia becomes a leading global strategic tech backer, with the value of its equity investments up 10x in the past year to $99B, as it bolsters the AI sector (Kai Nicol-Schwarz/CNBC)",
-      "url": "https://www.techmeme.com/260904/p4",
-      "primary_url": "https://www.techmeme.com/260904/p4",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "317ddd26665e6c70592afd6dbb7e6681a65fc8b0",
-          "title": "Nvidia becomes a leading global strategic tech backer, with the value of its equity investments up 10x in the past year to $99B, as it bolsters the AI sector (Kai Nicol-Schwarz/CNBC)",
-          "url": "https://www.techmeme.com/260904/p4",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T09:45:02Z"
         }
       ],
       "item_count": 1,
