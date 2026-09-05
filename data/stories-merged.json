@@ -1,29 +1,38 @@
 {
-  "generated_at": "2026-09-04T23:34:33.974391Z",
+  "generated_at": "2026-09-05T00:35:58.560840Z",
   "window_hours": 24,
-  "total_stories": 238,
+  "total_stories": 226,
   "stories": [
     {
-      "story_id": "story_36e5104f",
-      "title": "Codex CLI 0.153.3",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source_count": 1,
+      "story_id": "story_7036feb3",
+      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source_count": 2,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "Anthropic：Research（发表成果 · 网页）",
+        "www.anthropic.com"
       ],
       "sources": [
         {
-          "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-          "title": "Codex CLI 0.153.3",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
+          "id": "06d9cf80aa9eeb45e29cbd0ace74fd82721dcb07",
+          "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T18:37:00.305000Z"
+        },
+        {
+          "id": "8c34c0072e380e85f6661975d4448377a7b8aa5a",
+          "title": "费马最后定理的形式化",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "www.anthropic.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T19:43:18.339000Z"
         }
       ],
-      "item_count": 1,
-      "score": 10020
+      "item_count": 2,
+      "score": 9970
     },
     {
       "story_id": "story_5903a6bd",
@@ -117,6 +126,50 @@
       ],
       "item_count": 2,
       "score": 9970
+    },
+    {
+      "story_id": "story_9af4fd63",
+      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "url": "https://www.ithome.com/0/998/630.htm",
+      "primary_url": "https://www.ithome.com/0/998/630.htm",
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "sources": [
+        {
+          "id": "99c5b5a748c4f9b82757c6efd65bbffa53d68f3f",
+          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "url": "https://www.ithome.com/0/998/630.htm",
+          "source": "IT之家（RSS）",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:38Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_445b9ba6",
+      "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+      "url": "https://x.com/sama/status/2096008528834244741",
+      "primary_url": "https://x.com/sama/status/2096008528834244741",
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "sources": [
+        {
+          "id": "c43da0a6aa7b58f4daeb4b4757c5baf76411a510",
+          "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+          "url": "https://x.com/sama/status/2096008528834244741",
+          "source": "X：Sam Altman (@sama)",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:29Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_c618eef1",
@@ -1263,72 +1316,6 @@
       "score": 9920
     },
     {
-      "story_id": "story_76794e6c",
-      "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
-      "url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
-      "primary_url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
-      "source_count": 1,
-      "source_names": [
-        "Tomer Tunguz 博客（VC 分析）"
-      ],
-      "sources": [
-        {
-          "id": "e7af897a0e5fe08d25e2dd027a5bb38c729edaf5",
-          "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
-          "url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
-          "source": "Tomer Tunguz 博客（VC 分析）",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_27d6ab5e",
-      "title": "xAI 让 Grok Bot 承担采购工作，Haggle Bot 找出超 10 万美元直接节省",
-      "url": "https://x.ai/news/grok-bot-procurement",
-      "primary_url": "https://x.ai/news/grok-bot-procurement",
-      "source_count": 1,
-      "source_names": [
-        "xAI：News（网页）"
-      ],
-      "sources": [
-        {
-          "id": "8a8922d29e2987cd33b817d4430d038c4ccb4b13",
-          "title": "xAI 让 Grok Bot 承担采购工作，Haggle Bot 找出超 10 万美元直接节省",
-          "url": "https://x.ai/news/grok-bot-procurement",
-          "source": "xAI：News（网页）",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_fbf12bd8",
-      "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
-      "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
-      "primary_url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "sources": [
-        {
-          "id": "91c0336d9c9de7141ac868de55e40e88b8a35713",
-          "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
-          "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T23:24:50Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
       "story_id": "story_563b9f58",
       "title": "AI 工程技能图谱：使用编码智能体",
       "url": "https://waytoagi.feishu.cn/wiki/Xq2gwgBaOixKZWkQQYCcs0q1nif?from=from_copylink",
@@ -1549,110 +1536,22 @@
       "score": 9820
     },
     {
-      "story_id": "story_4f78727d",
-      "title": "I live in Codex and think it's the best software shipped in the past 5 years. But the combination of influencers posting non-stop about how great Astra is and paid users unable to get access at the same time is pretty...",
-      "url": "https://x.com/petergyang/status/2095662778459766984",
-      "primary_url": "https://x.com/petergyang/status/2095662778459766984",
+      "story_id": "story_ae68036d",
+      "title": "明查｜美伊交火AI“现场”充斥网络，爆火视频“一眼假”",
+      "url": "https://m.thepaper.cn/detail/34009095",
+      "primary_url": "https://m.thepaper.cn/detail/34009095",
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Peter Yang"
+        "澎湃新闻"
       ],
       "sources": [
         {
-          "id": "95da0a3281217ba4254b79f941327e7051354f8a",
-          "title": "I live in Codex and think it's the best software shipped in the past 5 years. But the combination of influencers posting non-stop about how great Astra is and paid users unable to get access at the same time is pretty...",
-          "url": "https://x.com/petergyang/status/2095662778459766984",
-          "source": "Follow Builders · X · Peter Yang",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-03T23:58:36Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_0cf4f8d1",
-      "title": "This is wild. ARC-AGI was built to resist the LLM scaling paradigm o1 despite early reasoning struggled mightily in 2024 with 18% Then ARC-AGI-3, an even harder test, launched in 2026. Frontier AI was at 0.5% And now...",
-      "url": "https://x.com/mattturck/status/2095653093148885274",
-      "primary_url": "https://x.com/mattturck/status/2095653093148885274",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Matt Turck"
-      ],
-      "sources": [
-        {
-          "id": "cead5115337f0289e762a87341ffbd65f12b3556",
-          "title": "This is wild. ARC-AGI was built to resist the LLM scaling paradigm o1 despite early reasoning struggled mightily in 2024 with 18% Then ARC-AGI-3, an even harder test, launched in 2026. Frontier AI was at 0.5% And now...",
-          "url": "https://x.com/mattturck/status/2095653093148885274",
-          "source": "Follow Builders · X · Matt Turck",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-03T23:20:07Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_d9861f37",
-      "title": "We’re working on making Claude Code way more hackable, give us feedback! https://t.co/NJXXRRW1xo",
-      "url": "https://x.com/trq212/status/2095653053282292013",
-      "primary_url": "https://x.com/trq212/status/2095653053282292013",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Thariq"
-      ],
-      "sources": [
-        {
-          "id": "0381a9a77f5f2b4d59da13d9694493662b6bfb39",
-          "title": "We’re working on making Claude Code way more hackable, give us feedback! https://t.co/NJXXRRW1xo",
-          "url": "https://x.com/trq212/status/2095653053282292013",
-          "source": "Follow Builders · X · Thariq",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-03T23:19:57Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_7fb7a8d9",
-      "title": "We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today. Team is moving mountains to give access as fast as we can. First one will land in ~ 3 hours. There...",
-      "url": "https://x.com/thsottiaux/status/2095651088502591861",
-      "primary_url": "https://x.com/thsottiaux/status/2095651088502591861",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
-      ],
-      "sources": [
-        {
-          "id": "55eae792416ea1ef0e7117355a085ab2f99f118e",
-          "title": "We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today. Team is moving mountains to give access as fast as we can. First one will land in ~ 3 hours. There...",
-          "url": "https://x.com/thsottiaux/status/2095651088502591861",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-03T23:12:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
-      "story_id": "story_4ea4896b",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-      "primary_url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "8f4e5b6602aca6e14f9cee9f17f4abe1f88c11c3",
-          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-          "source": "TechCrunch",
+          "id": "e018370df7b629f84fe8cac8e69fe7f00943a6a2",
+          "title": "明查｜美伊交火AI“现场”充斥网络，爆火视频“一眼假”",
+          "url": "https://m.thepaper.cn/detail/34009095",
+          "source": "澎湃新闻",
           "site_id": "opmlrss",
-          "published_at": "2026-09-04T21:12:11Z"
+          "published_at": "2026-09-04T23:22:31Z"
         }
       ],
       "item_count": 1,
@@ -2877,138 +2776,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_a42dfeb7",
-      "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
-      "url": "https://www.nature.com/articles/d41586-026-02643-w",
-      "primary_url": "https://www.nature.com/articles/d41586-026-02643-w",
-      "source_count": 1,
-      "source_names": [
-        "Nature"
-      ],
-      "sources": [
-        {
-          "id": "fb258dbc6deb8b52ddea57ef36dc6976e2594b52",
-          "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
-          "url": "https://www.nature.com/articles/d41586-026-02643-w",
-          "source": "Nature",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-04T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_11af7050",
-      "title": "上海国际艺术节扶青计划AI短剧征集中：设45万扶持资源包",
-      "url": "https://m.thepaper.cn/detail/33999057",
-      "primary_url": "https://m.thepaper.cn/detail/33999057",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "e8723dcf37d86a2cd22f13a92e71dce3f09832df",
-          "title": "上海国际艺术节扶青计划AI短剧征集中：设45万扶持资源包",
-          "url": "https://m.thepaper.cn/detail/33999057",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T23:37:56Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_9ecdbb21",
-      "title": "Are Trump’s AI videos just memes or psychological warfare?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
-      "primary_url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
-      "source_count": 1,
-      "source_names": [
-        "Al Jazeera English"
-      ],
-      "sources": [
-        {
-          "id": "f25f205a02c14bb6590a9cc2cf46d2719d998687",
-          "title": "Are Trump’s AI videos just memes or psychological warfare?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
-          "source": "Al Jazeera English",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T23:36:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_a82a5d65",
-      "title": "“不养懒人”的新加坡，如何面对AI风暴与低生育率？｜907编辑部",
-      "url": "https://m.thepaper.cn/detail/33994474",
-      "primary_url": "https://m.thepaper.cn/detail/33994474",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
-        {
-          "id": "83ee28f08a79bb10a8e76324992e9be9e91d7347",
-          "title": "“不养懒人”的新加坡，如何面对AI风暴与低生育率？｜907编辑部",
-          "url": "https://m.thepaper.cn/detail/33994474",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T23:24:20Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_851e5ae9",
-      "title": "【钛晨报】十部门发文“促中小企业发展”，加码直接融资、AI赋能等；燧原科技中签号出炉、康佳拟主动退市；“微信单删提示”冲上热搜，官方回应",
-      "url": "https://www.tmtpost.com/8127957.html",
-      "primary_url": "https://www.tmtpost.com/8127957.html",
-      "source_count": 1,
-      "source_names": [
-        "钛媒体 TMTPost"
-      ],
-      "sources": [
-        {
-          "id": "d44a53a472ec33d1929f75194b6157b07fa8bad5",
-          "title": "【钛晨报】十部门发文“促中小企业发展”，加码直接融资、AI赋能等；燧原科技中签号出炉、康佳拟主动退市；“微信单删提示”冲上热搜，官方回应",
-          "url": "https://www.tmtpost.com/8127957.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T23:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_262f2214",
-      "title": "虚构的百亿份额：中国大模型融资荒诞一幕",
-      "url": "https://www.huxiu.com/article/4888427.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4888427.html?f=rss",
-      "source_count": 1,
-      "source_names": [
-        "虎嗅"
-      ],
-      "sources": [
-        {
-          "id": "abaf6337e3cad6d004f42f6557af2d047594f72a",
-          "title": "虚构的百亿份额：中国大模型融资荒诞一幕",
-          "url": "https://www.huxiu.com/article/4888427.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T23:17:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
       "story_id": "story_84764afd",
       "title": "美国企业正逐渐迷上开源人工智能",
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
@@ -3174,16 +2941,16 @@
       "primary_url": "https://openrouter.ai/openai/gpt-6-astra",
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News",
         "producthunt"
       ],
       "sources": [
         {
-          "id": "0aafdb0eae90a6fe39f529d3578256908741d9d9",
+          "id": "f0e7549324f1ae375428c5bfe4fdbac3da09ff36",
           "title": "GPT-6 Astra on OpenRouter",
           "url": "https://openrouter.ai/openai/gpt-6-astra",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-04T21:39:19Z"
         },
         {
@@ -3199,37 +2966,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_7036feb3",
-      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source_count": 2,
-      "source_names": [
-        "www.anthropic.com",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "8c34c0072e380e85f6661975d4448377a7b8aa5a",
-          "title": "费马最后定理的形式化",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "www.anthropic.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T19:43:18.339000Z"
-        },
-        {
-          "id": "7d7ba3a4b2f4a98ffc278d5242c8c1d66725fd4f",
-          "title": "Formalizing Fermat's Last Theorem",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T18:42:56Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
       "story_id": "story_2ec390ba",
       "title": "没人解释OpenAI和Anthropic为何出现服务中断",
       "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
@@ -3237,7 +2973,7 @@
       "source_count": 2,
       "source_names": [
         "www.wired.com",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3249,43 +2985,12 @@
           "published_at": "2026-09-04T18:55:26.092000Z"
         },
         {
-          "id": "19c6a57485b3e4bb9abdc414222d3dbb60a3913f",
+          "id": "be53f45c983bd03f335cad1d002a73e99215d780",
           "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
           "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-04T17:29:22Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_85756017",
-      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
-      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "primary_url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "910f61e4e8bc9efb4c336cdb4c553c6efc18c1e6",
-          "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-04T17:09:24Z"
-        },
-        {
-          "id": "5a2df0be8fdd82fc6ee2c13bf8fb3ddd137c47ae",
-          "title": "Stop Thinking of LLMs as Next-Token Predictors",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T17:09:24Z"
         }
       ],
       "item_count": 2,
@@ -3299,7 +3004,7 @@
       "source_count": 2,
       "source_names": [
         "productrise.app",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -3311,11 +3016,11 @@
           "published_at": "2026-09-04T14:55:31.836000Z"
         },
         {
-          "id": "ed67c27ca340c1d5fc8e35a4a06f7b8332fc9624",
+          "id": "2b758859a3bf643c1cfc0d238249e7f203ded0b8",
           "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
           "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-04T11:59:15Z"
         }
       ],
@@ -3330,7 +3035,7 @@
       "source_count": 2,
       "source_names": [
         "collusion.wiki",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -3342,16 +3047,104 @@
           "published_at": "2026-09-04T13:04:25.837000Z"
         },
         {
-          "id": "a416ad5873def8a99e883c70f0d47d72c1aa77d0",
+          "id": "9c8507d7580e387c2e6ea8321be64f40c5360baf",
           "title": "Discovery of a new OpenAI agent message board",
           "url": "https://collusion.wiki",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-04T11:54:53Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_91e0cf54",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+      "primary_url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "bcc07f22db76ff0e37c8faba73bd803dbf3dfe35",
+          "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T23:15:11Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_adbaf53d",
+      "title": "Gimlet's Series B",
+      "url": "https://gimletlabs.ai/blog/announcing-series-b",
+      "primary_url": "https://gimletlabs.ai/blog/announcing-series-b",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "1c068eacb675ef975c1afe710650d307fb7a9654",
+          "title": "Gimlet's Series B",
+          "url": "https://gimletlabs.ai/blog/announcing-series-b",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-04T23:09:18Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f258c2ed",
+      "title": "Sources: Anthropic is expected to make its IPO prospectus public late September and complete the listing days before the US midterm elections in November (Echo Wang/Reuters)",
+      "url": "https://www.techmeme.com/260904/p31",
+      "primary_url": "https://www.techmeme.com/260904/p31",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "3bb458088ed5b0c177a0d3e6be8bffcd4133e7c0",
+          "title": "Sources: Anthropic is expected to make its IPO prospectus public late September and complete the listing days before the US midterm elections in November (Echo Wang/Reuters)",
+          "url": "https://www.techmeme.com/260904/p31",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T22:55:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_ee9255c2",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+      "primary_url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "0520ba29d4eeafce4c494e3515b18f5cbb79950e",
+          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+          "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T22:17:36Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_54f57189",
@@ -3370,6 +3163,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-04T21:55:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_4ea4896b",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+      "primary_url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "1a7a2588f2da17df4d212a87022e33baced45eda",
+          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T21:12:11Z"
         }
       ],
       "item_count": 1,
@@ -3426,15 +3241,15 @@
       "primary_url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "cf59896e72f2fadf38ff02146d489d8320c901e9",
+          "id": "0d290e1adc8504b633d0b4b7767e51d30d80bbf0",
           "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
           "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-04T21:00:02Z"
         }
       ],
@@ -3866,19 +3681,57 @@
       "primary_url": "https://twitter.com/ggerganov/status/2095897173376618881",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "32faaa276aabdaf2e83ccd3f286fc2e414a24cdd",
+          "id": "2adaf6fc325510ae842bc912f25c3c1e4df5d077",
           "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
           "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-04T17:12:22Z"
         }
       ],
       "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_85756017",
+      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "primary_url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "910f61e4e8bc9efb4c336cdb4c553c6efc18c1e6",
+          "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-04T17:09:24Z"
+        },
+        {
+          "id": "c129b5237bc5a24384b4171f80daa6fd18c3ffd8",
+          "title": "Stop Thinking of LLMs as Next-Token Predictors",
+          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-04T17:09:24Z"
+        },
+        {
+          "id": "4138291cd17d4c62904f1354e50d144913bb62af",
+          "title": "“Next-token predictor” is the wrong mental model for LLMs",
+          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-04T17:09:24Z"
+        }
+      ],
+      "item_count": 3,
       "score": 7
     },
     {
@@ -4768,15 +4621,15 @@
       "primary_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "38e2f7204515dbcaf0823fa1acf7ed6aedfe5f10",
+          "id": "b18edc3a603517b3d6dddfc8c53a381d2c4ec353",
           "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
           "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-04T10:30:57Z"
         }
       ],
@@ -4878,15 +4731,15 @@
       "primary_url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "218476ce6dd1ab33c8f7afb9b8ea2423ff3b53cb",
+          "id": "6d17102e5b4d7d54892cb3c1f306c4edcda0aad3",
           "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
           "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-04T09:03:00Z"
         }
       ],
@@ -5076,15 +4929,15 @@
       "primary_url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "bedea3d93d4b177e922191e2bbb19b7d0ae14def",
+          "id": "3934ae6ce9ec54e901b6a6485f20525120a07bb1",
           "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
           "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-04T03:40:26Z"
         }
       ],
@@ -5328,116 +5181,6 @@
           "source": "www.kedglobal.com",
           "site_id": "buzzing",
           "published_at": "2026-09-04T00:07:46.457000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_65a8dbfc",
-      "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
-      "primary_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
-      "source_count": 1,
-      "source_names": [
-        "New York Times"
-      ],
-      "sources": [
-        {
-          "id": "d8f7552fc6d79fa6d5893dca367e559e9fd11afb",
-          "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-          "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T00:06:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e1383642",
-      "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
-      "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
-      "primary_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
-      "source_count": 1,
-      "source_names": [
-        "New York Times"
-      ],
-      "sources": [
-        {
-          "id": "7b36ec5b8ec1d0de06e4e0027fb75a83626a0013",
-          "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
-          "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T00:02:47Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0bc12144",
-      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-      "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-      "primary_url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "ffd4f60afedaad3d8c5f99bfeb6e597e4a3130a0",
-          "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-          "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T23:37:37Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_1d86f978",
-      "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
-      "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
-      "primary_url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "709e32c43d815b2103b68c4c74131e0707078091",
-          "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
-          "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T23:14:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_8cef11e3",
-      "title": "Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest (Alex Konrad/Upstarts Media)",
-      "url": "https://www.techmeme.com/260903/p47",
-      "primary_url": "https://www.techmeme.com/260903/p47",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "a3423d4b4999f9f273023619718aa712652290d0",
-          "title": "Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest (Alex Konrad/Upstarts Media)",
-          "url": "https://www.techmeme.com/260903/p47",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-03T23:10:01Z"
         }
       ],
       "item_count": 1,
