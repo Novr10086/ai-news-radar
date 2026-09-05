@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T17:27:44.328003Z",
+  "generated_at": "2026-09-05T18:26:36.978435Z",
   "window_hours": 24,
-  "total_stories": 164,
+  "total_stories": 158,
   "stories": [
     {
       "story_id": "story_9a827014",
@@ -12,7 +12,7 @@
       "source_names": [
         "IT之家（RSS）",
         "www.anthropic.com",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -32,11 +32,11 @@
           "published_at": "2026-09-04T19:43:18.339000Z"
         },
         {
-          "id": "9f1776cfdc0d479284bbcd118531fef00ead403d",
+          "id": "569a7f3a8c5a365af6b7e91dcf48279e7eaa868f",
           "title": "Formalizing Fermat's Last Theorem",
           "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-04T18:42:56Z"
         }
       ],
@@ -405,70 +405,92 @@
       "score": 9920
     },
     {
-      "story_id": "story_237122fa",
-      "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
-      "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+      "story_id": "story_60c0479c",
+      "title": "2026最新大模型地图导览，万字长文教你认识模型，选对模型，用好模型——人工智能应用基础教程首课",
+      "url": "https://waytoagi.feishu.cn/wiki/SJzGw1RIbi0CwWkx0nncmBYynVe?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/SJzGw1RIbi0CwWkx0nncmBYynVe?from=from_copylink",
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "社区更新 · 2026-09-05"
       ],
       "sources": [
         {
-          "id": "7d7c2c0a1de767ba77d63e170b40817786815819",
-          "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
-          "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:45:09Z"
+          "id": "c48be3efdf0a42f7e188baff0d7ffbc5014aec99",
+          "title": "2026最新大模型地图导览，万字长文教你认识模型，选对模型，用好模型——人工智能应用基础教程首课",
+          "url": "https://waytoagi.feishu.cn/wiki/SJzGw1RIbi0CwWkx0nncmBYynVe?from=from_copylink",
+          "source": "社区更新 · 2026-09-05",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:04:43.837125Z"
         }
       ],
       "item_count": 1,
-      "score": 9920
+      "score": 9820
     },
     {
-      "story_id": "story_4e4ae9cd",
-      "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
-      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-      "primary_url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
+      "story_id": "story_fd70ab03",
+      "title": "AI网站前端设计工作流：小白保姆级教程",
+      "url": "https://waytoagi.feishu.cn/wiki/LzBzwQcnJiejvsk1oejcIN3ZnTh?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/LzBzwQcnJiejvsk1oejcIN3ZnTh?from=from_copylink",
       "source_count": 1,
       "source_names": [
-        "Simon Willison 博客"
+        "社区更新 · 2026-09-05"
       ],
       "sources": [
         {
-          "id": "3c142761bee0dcd7e241f5b7408988c17e3bc21b",
-          "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
-          "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-          "source": "Simon Willison 博客",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:38:48Z"
+          "id": "516d6d79c01031e19b249d9caa36dfcc9d183e2c",
+          "title": "AI网站前端设计工作流：小白保姆级教程",
+          "url": "https://waytoagi.feishu.cn/wiki/LzBzwQcnJiejvsk1oejcIN3ZnTh?from=from_copylink",
+          "source": "社区更新 · 2026-09-05",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:04:43.837125Z"
         }
       ],
       "item_count": 1,
-      "score": 9920
+      "score": 9820
     },
     {
-      "story_id": "story_5d5dff76",
-      "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-      "primary_url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+      "story_id": "story_a04130b3",
+      "title": "图解 ASR 和 TTS：HuggingFace 开源模型测评",
+      "url": "https://waytoagi.feishu.cn/wiki/EgF7wL21Dig44Lkp0PIcZNUhn5g?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/EgF7wL21Dig44Lkp0PIcZNUhn5g?from=from_copylink",
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "社区更新 · 2026-09-05"
       ],
       "sources": [
         {
-          "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
-          "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-          "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-          "source": "The Decoder：AI News（RSS）",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:23:35Z"
+          "id": "b58735830e0be7aafd47c99163c62320c91c6ad1",
+          "title": "图解 ASR 和 TTS：HuggingFace 开源模型测评",
+          "url": "https://waytoagi.feishu.cn/wiki/EgF7wL21Dig44Lkp0PIcZNUhn5g?from=from_copylink",
+          "source": "社区更新 · 2026-09-05",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:04:43.837125Z"
         }
       ],
       "item_count": 1,
-      "score": 9920
+      "score": 9820
+    },
+    {
+      "story_id": "story_3c48fb8c",
+      "title": "大模型评测终极指南",
+      "url": "https://waytoagi.feishu.cn/wiki/K3uvwXVyHi0FoSkatvacuTuVnef?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/K3uvwXVyHi0FoSkatvacuTuVnef?from=from_copylink",
+      "source_count": 1,
+      "source_names": [
+        "社区更新 · 2026-09-05"
+      ],
+      "sources": [
+        {
+          "id": "9496812f53c062f5a60f1e1bd51111a65e5ec8b1",
+          "title": "大模型评测终极指南",
+          "url": "https://waytoagi.feishu.cn/wiki/K3uvwXVyHi0FoSkatvacuTuVnef?from=from_copylink",
+          "source": "社区更新 · 2026-09-05",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:04:43.837125Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
     },
     {
       "story_id": "story_e7d54ede",
@@ -713,28 +735,6 @@
       "score": 9820
     },
     {
-      "story_id": "story_d96072a9",
-      "title": "AI software factories will yield bug-free, self-improving software https://t.co/m8J9LT2wbR",
-      "url": "https://x.com/rauchg/status/2095926173293572467",
-      "primary_url": "https://x.com/rauchg/status/2095926173293572467",
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Guillermo Rauch"
-      ],
-      "sources": [
-        {
-          "id": "a8cd2bd1f3825834fdee43562a89d04b1ce7ec19",
-          "title": "AI software factories will yield bug-free, self-improving software https://t.co/m8J9LT2wbR",
-          "url": "https://x.com/rauchg/status/2095926173293572467",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-04T17:25:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9820
-    },
-    {
       "story_id": "story_e4cfae61",
       "title": "万元AI研学营，正在批量收割家长",
       "url": "https://www.tmtpost.com/8129346.html",
@@ -773,37 +773,6 @@
       ],
       "item_count": 3,
       "score": 9780
-    },
-    {
-      "story_id": "story_ee9255c2",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
-      "primary_url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
-      "source_count": 2,
-      "source_names": [
-        "ArsTechnica",
-        "Slashdot"
-      ],
-      "sources": [
-        {
-          "id": "e548763494bb2aef89036f6ac44df3cd02ad93c5",
-          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-          "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
-          "source": "ArsTechnica",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-04T22:17:36Z"
-        },
-        {
-          "id": "1dc7ec90304b5db2e2741c73926976cd7b8df70d",
-          "title": "OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox",
-          "url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T07:50:00Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9770
     },
     {
       "story_id": "story_565ce012",
@@ -998,6 +967,28 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-09-05T11:12:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_ea544b8a",
+      "title": "OpenAI Agents Hacked Another Website",
+      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
+      "primary_url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "be4fa49042e226ef354b4834ac07fcc3a3c39719",
+          "title": "OpenAI Agents Hacked Another Website",
+          "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
+          "source": "Wired",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T10:30:00Z"
         }
       ],
       "item_count": 1,
@@ -1708,52 +1699,26 @@
       "score": 9720
     },
     {
-      "story_id": "story_85756017",
-      "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
-      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "primary_url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "source_count": 3,
+      "story_id": "story_91e0cf54",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+      "primary_url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+      "source_count": 1,
       "source_names": [
-        "gmcgoldr.github.io",
-        "Hacker News (黑客新闻)",
-        "Hacker News"
+        "TechCrunch"
       ],
       "sources": [
         {
-          "id": "868a4eb235448a81931f8b771337a63322ef36ee",
-          "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "gmcgoldr.github.io",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T06:06:08.624000Z"
-        },
-        {
-          "id": "c4cc01bb0a7cd4c00a4d4d92653d259bde25d030",
-          "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-04T17:09:24Z"
-        },
-        {
-          "id": "5a2df0be8fdd82fc6ee2c13bf8fb3ddd137c47ae",
-          "title": "Stop Thinking of LLMs as Next-Token Predictors",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T17:09:24Z"
-        },
-        {
-          "id": "0e1572f6c77965237c5e72aca94c0bf41dc54b61",
-          "title": "“Next-token predictor” is the wrong mental model for LLMs",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-04T17:09:24Z"
+          "id": "517bb8bd00299a1accd54a2a472ad40b6d9c88fd",
+          "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-04T23:15:11Z"
         }
       ],
-      "item_count": 4,
-      "score": 9580
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_c8deeb70",
@@ -1763,7 +1728,7 @@
       "source_count": 2,
       "source_names": [
         "www.sylvainkalache.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1775,12 +1740,43 @@
           "published_at": "2026-09-05T10:17:42.890000Z"
         },
         {
-          "id": "99c732175cd3a66a109aa0b748b89a04388e0a24",
+          "id": "e81ab9955f2ec540751a21782e56ca5b5cd90980",
           "title": "AI handles incidents, engineers lose touch with their systems",
           "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-05T07:52:50Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_37018380",
+      "title": "OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox",
+      "url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
+      "primary_url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "Ars Technica"
+      ],
+      "sources": [
+        {
+          "id": "1dc7ec90304b5db2e2741c73926976cd7b8df70d",
+          "title": "OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox",
+          "url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T07:50:00Z"
+        },
+        {
+          "id": "0520ba29d4eeafce4c494e3515b18f5cbb79950e",
+          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+          "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+          "source": "Ars Technica",
+          "site_id": "techurls",
+          "published_at": "2026-09-04T22:17:36Z"
         }
       ],
       "item_count": 2,
@@ -1794,7 +1790,7 @@
       "source_count": 2,
       "source_names": [
         "engineering.atspotify.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1806,11 +1802,11 @@
           "published_at": "2026-09-05T07:26:09.234000Z"
         },
         {
-          "id": "e488e970f93a216faa8c09e692e7d0262bed6141",
+          "id": "066bcabe93cb9be7f4b1cf7c28fa404af874b6f9",
           "title": "Portal by Spotify cut my Claude Code token usage by 90%",
           "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-04T23:38:50Z"
         }
       ],
@@ -1825,7 +1821,7 @@
       "source_count": 2,
       "source_names": [
         "artificialanalysis.ai",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1837,11 +1833,11 @@
           "published_at": "2026-09-05T06:37:51.877000Z"
         },
         {
-          "id": "40cd5fb05dc6ba1a17b5ad5b6cedf3bddfb44f8e",
+          "id": "6c8822a1fa770790f17534bef4f6b175382f5d64",
           "title": "Artificial Analysis Intelligence Index v4.2",
           "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-05T00:04:14Z"
         }
       ],
@@ -1856,7 +1852,7 @@
       "source_count": 2,
       "source_names": [
         "openrouter.ai",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1868,11 +1864,11 @@
           "published_at": "2026-09-05T00:47:17.607000Z"
         },
         {
-          "id": "f0e7549324f1ae375428c5bfe4fdbac3da09ff36",
+          "id": "0aafdb0eae90a6fe39f529d3578256908741d9d9",
           "title": "GPT-6 Astra on OpenRouter",
           "url": "https://openrouter.ai/openai/gpt-6-astra",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-04T21:39:19Z"
         }
       ],
@@ -1887,7 +1883,7 @@
       "source_count": 2,
       "source_names": [
         "eebench.org",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1899,11 +1895,11 @@
           "published_at": "2026-09-04T23:59:17.240000Z"
         },
         {
-          "id": "e3daac3e050ae0cc8c20818a87de9de06e7f740c",
+          "id": "50c2480c1eaea98ac8f6fceaf03db26b08e422c2",
           "title": "Can AI design circuit boards yet?",
           "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-04T19:48:29Z"
         }
       ],
@@ -1911,35 +1907,70 @@
       "score": 9570
     },
     {
-      "story_id": "story_2ec390ba",
-      "title": "没人解释OpenAI和Anthropic为何出现服务中断",
-      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
-      "primary_url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
-      "source_count": 2,
+      "story_id": "story_79eb5ed9",
+      "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+      "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+      "primary_url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+      "source_count": 1,
       "source_names": [
-        "www.wired.com",
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "50b2487218d06ec3cd3c5d7189d0fd68900053da",
-          "title": "没人解释OpenAI和Anthropic为何出现服务中断",
-          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
-          "source": "www.wired.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T18:55:26.092000Z"
-        },
-        {
-          "id": "a4662c1e2edb569f2cdc0b62c03cb7f8fcecbdc1",
-          "title": "Nobody is saying why OpenAI and Anthropic had outages",
-          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
-          "published_at": "2026-09-04T17:29:22Z"
+          "id": "8390f6866622ca297ba2ff53f8660c8f525a35d8",
+          "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:32:20Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_55ab4ebe",
+      "title": "Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)",
+      "url": "https://www.techmeme.com/260905/p9",
+      "primary_url": "https://www.techmeme.com/260905/p9",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "63b72a3c0feeb7ac0043d2ce296503c2ca5806bd",
+          "title": "Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)",
+          "url": "https://www.techmeme.com/260905/p9",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T16:45:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e4e43711",
+      "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails",
+      "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
+          "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T16:09:59Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_35bcae6b",
@@ -1986,10 +2017,10 @@
       "score": 7
     },
     {
-      "story_id": "story_3cb1fe7e",
-      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-      "url": "https://news.ycombinator.com/item?id=49567357",
-      "primary_url": "https://news.ycombinator.com/item?id=49567357",
+      "story_id": "story_ed31a33f",
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://news.ycombinator.com/item?id=49562219",
+      "primary_url": "https://news.ycombinator.com/item?id=49562219",
       "source_count": 1,
       "source_names": [
         "hackernews"
@@ -2090,25 +2121,9 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-09-04T18:40:04.720000Z"
-        },
-        {
-          "id": "25d47a5db7f0d506516fdabaa5fef37746dfb17e",
-          "title": "Corporate America is getting hooked on open-source AI",
-          "url": "https://news.ycombinator.com/item?id=49566137",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T17:40:01.243000Z"
-        },
-        {
-          "id": "599dbe8f261392f619c3bca3041ec307f9665a29",
-          "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-          "url": "https://news.ycombinator.com/item?id=49567357",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T17:40:01.243000Z"
         }
       ],
-      "item_count": 14,
+      "item_count": 12,
       "score": 7
     },
     {
@@ -2238,6 +2253,28 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-05T13:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_56580f28",
+      "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+      "primary_url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "5f3ed90405012662c56131f2b9e20a90ec8a8e6f",
+          "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T13:09:53Z"
         }
       ],
       "item_count": 1,
@@ -2382,38 +2419,16 @@
       "primary_url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "9b1a7d551a5ff71890d1a1ba7fb794ba5b37325e",
+          "id": "96684d04d10bd9dd1be6b217a10b50ce8912aa33",
           "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
           "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-05T10:32:09Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ea544b8a",
-      "title": "OpenAI Agents Hacked Another Website",
-      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
-      "primary_url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "b6d989fda7d8c6c5c8e92d08042e8e270d583d49",
-          "title": "OpenAI Agents Hacked Another Website",
-          "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
-          "source": "Wired",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T10:30:00Z"
         }
       ],
       "item_count": 1,
@@ -2794,6 +2809,28 @@
       "score": 7
     },
     {
+      "story_id": "story_85756017",
+      "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "primary_url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "source_count": 1,
+      "source_names": [
+        "gmcgoldr.github.io"
+      ],
+      "sources": [
+        {
+          "id": "868a4eb235448a81931f8b771337a63322ef36ee",
+          "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
+          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+          "source": "gmcgoldr.github.io",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T06:06:08.624000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_e6588b1f",
       "title": "Microsoft says email spammers are adopting ASCII smuggling, an AI prompt injection tactic used to hide malicious instructions, to evade email platform filters (Dan Goodin/Ars Technica)",
       "url": "https://www.techmeme.com/260905/p4",
@@ -2910,15 +2947,15 @@
       "primary_url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "b0628b8c29ccab104bb3e83db1159f4473e4fc8e",
+          "id": "b2500612f963e9d9a5c45c5e7b9357c40edcf23b",
           "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
           "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-05T03:38:56Z"
         }
       ],
@@ -3042,15 +3079,15 @@
       "primary_url": "https://moadim.io",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "210db969a403d226a94b5253c4bd18a627c1dbdd",
+          "id": "5639ec983395dafaa4e11b8d5d6abd5a8d0970e9",
           "title": "Show HN: Moadim.io – A scheduler for agents",
           "url": "https://moadim.io",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-04T23:50:29Z"
         }
       ],
@@ -3102,43 +3139,21 @@
       "score": 7
     },
     {
-      "story_id": "story_91e0cf54",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
-      "primary_url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "bcc07f22db76ff0e37c8faba73bd803dbf3dfe35",
-          "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T23:15:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_adbaf53d",
       "title": "Gimlet's Series B",
       "url": "https://gimletlabs.ai/blog/announcing-series-b",
       "primary_url": "https://gimletlabs.ai/blog/announcing-series-b",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "fcc62f94dcb9343911d8cbb6557a2ab92c0d0b41",
+          "id": "1c068eacb675ef975c1afe710650d307fb7a9654",
           "title": "Gimlet's Series B",
           "url": "https://gimletlabs.ai/blog/announcing-series-b",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-04T23:09:18Z"
         }
       ],
@@ -3284,15 +3299,15 @@
       "primary_url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "0d290e1adc8504b633d0b4b7767e51d30d80bbf0",
+          "id": "cf59896e72f2fadf38ff02146d489d8320c901e9",
           "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
           "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-04T21:00:02Z"
         }
       ],
@@ -3416,15 +3431,15 @@
       "primary_url": "https://fi-le.net/vanderbilt",
       "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "39803ad2b85b61418ee500e3c5a6aa9812b3e69f",
+          "id": "07fff6c172c6eff35fbf43df8f4860a904e5f143",
           "title": "More Targets of the OpenAI Agent Swarm",
           "url": "https://fi-le.net/vanderbilt",
-          "source": "HN Algolia · AI 24h",
-          "site_id": "hackernews",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-04T19:31:04Z"
         }
       ],
@@ -3492,6 +3507,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-04T19:05:07Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2ec390ba",
+      "title": "没人解释OpenAI和Anthropic为何出现服务中断",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+      "primary_url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+      "source_count": 1,
+      "source_names": [
+        "www.wired.com"
+      ],
+      "sources": [
+        {
+          "id": "50b2487218d06ec3cd3c5d7189d0fd68900053da",
+          "title": "没人解释OpenAI和Anthropic为何出现服务中断",
+          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+          "source": "www.wired.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T18:55:26.092000Z"
         }
       ],
       "item_count": 1,
@@ -3624,226 +3661,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-04T18:05:58Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9fcc9737",
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "03b704e639fa1217ec9b530280da76b413a20e4b",
-          "title": "Roland is getting into generative AI music with Melody Flip",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-          "source": "The Verge",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T17:51:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3334a086",
-      "title": "Luka’s new AI projector starts the drawing and leaves the rest to kids",
-      "url": "https://thenextweb.com/news/luka-kids-ai-drawing-projector-ifa-2026-eu-toy-safety-regulation-2025-2509-mental-health-ai-act",
-      "primary_url": "https://thenextweb.com/news/luka-kids-ai-drawing-projector-ifa-2026-eu-toy-safety-regulation-2025-2509-mental-health-ai-act",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "1938a648bf456c95837cf3aa27dabb6cc4f888cc",
-          "title": "Luka’s new AI projector starts the drawing and leaves the rest to kids",
-          "url": "https://thenextweb.com/news/luka-kids-ai-drawing-projector-ifa-2026-eu-toy-safety-regulation-2025-2509-mental-health-ai-act",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T17:49:08Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_67c75322",
-      "title": "Every binding AI review Washington has proposed has come back voluntary. Zuckerberg reportedly rang Trump about the latest one.",
-      "url": "https://thenextweb.com/news/every-binding-ai-review-washington-has-proposed-has-come-back-voluntary-zuckerberg-reportedly-rang-trump-about-the-latest-one",
-      "primary_url": "https://thenextweb.com/news/every-binding-ai-review-washington-has-proposed-has-come-back-voluntary-zuckerberg-reportedly-rang-trump-about-the-latest-one",
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "sources": [
-        {
-          "id": "102fc70e0fda489b2f097a43183625535d36580f",
-          "title": "Every binding AI review Washington has proposed has come back voluntary. Zuckerberg reportedly rang Trump about the latest one.",
-          "url": "https://thenextweb.com/news/every-binding-ai-review-washington-has-proposed-has-come-back-voluntary-zuckerberg-reportedly-rang-trump-about-the-latest-one",
-          "source": "The Next Web",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T17:45:24Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0949d8f7",
-      "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
-      "url": "https://sspai.com/post/114078",
-      "primary_url": "https://sspai.com/post/114078",
-      "source_count": 1,
-      "source_names": [
-        "sspai"
-      ],
-      "sources": [
-        {
-          "id": "f3f5d3a073d6c03c1da39cec1a4ca3550e5b8b90",
-          "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
-          "url": "https://sspai.com/post/114078",
-          "source": "sspai",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T17:40:09.218000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_28604356",
-      "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
-      "url": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html",
-      "primary_url": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html",
-      "source_count": 1,
-      "source_names": [
-        "New York Times"
-      ],
-      "sources": [
-        {
-          "id": "f9e2504c25414f09b19b483d25ae36642ea48cbc",
-          "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
-          "url": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html",
-          "source": "New York Times",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T17:19:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_84764afd",
-      "title": "美国企业正逐渐迷上开源人工智能",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "primary_url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "source_count": 1,
-      "source_names": [
-        "www.nytimes.com"
-      ],
-      "sources": [
-        {
-          "id": "e35c968af29bd6c6499315cda2cc385983c50e80",
-          "title": "美国企业正逐渐迷上开源人工智能",
-          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-          "source": "www.nytimes.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T17:19:15.067000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_d0fc5440",
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
-      "primary_url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "e4ea6a40bd97ea22040a558582c69ad754574552",
-          "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-          "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T17:18:12Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_fe7558cb",
-      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-      "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-      "primary_url": "https://twitter.com/ggerganov/status/2095897173376618881",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "6deb95742928035f36660d1f6da09358fdc39e85",
-          "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-          "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-04T17:12:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_7eadebd3",
-      "title": "刚刚，Claude 5.1 发布！全球最强模型来了？",
-      "url": "https://juejin.cn/post/7680471403955683334",
-      "primary_url": "https://juejin.cn/post/7680471403955683334",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "abbc76feaf0ee61a70017ccab78de6ca5c2f7a72",
-          "title": "刚刚，Claude 5.1 发布！全球最强模型来了？",
-          "url": "https://juejin.cn/post/7680471403955683334",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T17:05:06.064000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f92349ad",
-      "title": "天才陨落了！三大 AI 集体不可用！",
-      "url": "https://juejin.cn/post/7681160462331772969",
-      "primary_url": "https://juejin.cn/post/7681160462331772969",
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "sources": [
-        {
-          "id": "ed2bf0cae4ebe530cfc80c587bc8055057ed5d41",
-          "title": "天才陨落了！三大 AI 集体不可用！",
-          "url": "https://juejin.cn/post/7681160462331772969",
-          "source": "juejin",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T17:05:06.064000Z"
         }
       ],
       "item_count": 1,
