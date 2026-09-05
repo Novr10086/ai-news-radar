@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T21:23:46.155295Z",
+  "generated_at": "2026-09-05T22:23:37.957345Z",
   "window_hours": 24,
-  "total_stories": 144,
+  "total_stories": 142,
   "stories": [
     {
       "story_id": "story_21df7f7f",
@@ -23,11 +23,11 @@
           "published_at": "2026-09-05T18:05:27Z"
         },
         {
-          "id": "9d43d52e0652c87c912e0ed905c363c1f1971818",
+          "id": "eea4f08fa50bdcf69f4f4d0d2cc5444ef6dd8383",
           "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
           "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
           "source": "TechCrunch",
-          "site_id": "opmlrss",
+          "site_id": "techurls",
           "published_at": "2026-09-05T18:05:27Z"
         }
       ],
@@ -54,11 +54,11 @@
           "published_at": "2026-09-05T11:15:55Z"
         },
         {
-          "id": "b0778f2f19cda3066df926ea12c56840995e3cde",
+          "id": "700055cb00e89387edc1fef4e51f4b801f65b648",
           "title": "OpenAI admits to German wiki ‘incident’",
           "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
           "source": "The Verge",
-          "site_id": "opmlrss",
+          "site_id": "techurls",
           "published_at": "2026-09-05T11:15:55Z"
         }
       ],
@@ -568,26 +568,35 @@
       "score": 9780
     },
     {
-      "story_id": "story_aa68d795",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
-      "primary_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
-      "source_count": 1,
+      "story_id": "story_ee9255c2",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+      "primary_url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+      "source_count": 2,
       "source_names": [
-        "TechCrunch"
+        "ArsTechnica",
+        "Slashdot"
       ],
       "sources": [
         {
-          "id": "ac8a8cca6278a1c9ca594393fd516caffcd893e3",
-          "title": "Hikers rescued after using Google Gemini for planning",
-          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
-          "source": "TechCrunch",
+          "id": "e548763494bb2aef89036f6ac44df3cd02ad93c5",
+          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+          "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+          "source": "ArsTechnica",
           "site_id": "opmlrss",
-          "published_at": "2026-09-05T19:35:24Z"
+          "published_at": "2026-09-04T22:17:36Z"
+        },
+        {
+          "id": "1dc7ec90304b5db2e2741c73926976cd7b8df70d",
+          "title": "OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox",
+          "url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
+          "source": "Slashdot",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T07:50:00Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 2,
+      "score": 9770
     },
     {
       "story_id": "story_c49449af",
@@ -1543,7 +1552,7 @@
       "source_count": 2,
       "source_names": [
         "www.sylvainkalache.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1555,43 +1564,12 @@
           "published_at": "2026-09-05T10:17:42.890000Z"
         },
         {
-          "id": "99c732175cd3a66a109aa0b748b89a04388e0a24",
+          "id": "e81ab9955f2ec540751a21782e56ca5b5cd90980",
           "title": "AI handles incidents, engineers lose touch with their systems",
           "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-05T07:52:50Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_37018380",
-      "title": "OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox",
-      "url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
-      "primary_url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
-      "source_count": 2,
-      "source_names": [
-        "Slashdot",
-        "Ars Technica"
-      ],
-      "sources": [
-        {
-          "id": "1dc7ec90304b5db2e2741c73926976cd7b8df70d",
-          "title": "OpenAI Agents Hijacked a German Wiki to Discuss Ways to Escape Their Sandbox",
-          "url": "https://slashdot.org/story/26/09/05/049215/openai-agents-hijacked-a-german-wiki-to-discuss-ways-to-escape-their-sandbox",
-          "source": "Slashdot",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T07:50:00Z"
-        },
-        {
-          "id": "0520ba29d4eeafce4c494e3515b18f5cbb79950e",
-          "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-          "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
-          "source": "Ars Technica",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T22:17:36Z"
         }
       ],
       "item_count": 2,
@@ -1605,7 +1583,7 @@
       "source_count": 2,
       "source_names": [
         "engineering.atspotify.com",
-        "Hacker News (黑客新闻)"
+        "HN Algolia · AI 24h"
       ],
       "sources": [
         {
@@ -1617,11 +1595,11 @@
           "published_at": "2026-09-05T07:26:09.234000Z"
         },
         {
-          "id": "b49035344b6193dfe35ee03e3bcd765be33079ce",
+          "id": "19b50b3c48d006843ae4c7437210bea7124985cd",
           "title": "Portal by Spotify cut my Claude Code token usage by 90%",
           "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
           "published_at": "2026-09-04T23:38:50Z"
         }
       ],
@@ -1636,7 +1614,7 @@
       "source_count": 2,
       "source_names": [
         "artificialanalysis.ai",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1648,11 +1626,11 @@
           "published_at": "2026-09-05T06:37:51.877000Z"
         },
         {
-          "id": "96201cca149c6766f5379146dafdf78f540ca32e",
+          "id": "40cd5fb05dc6ba1a17b5ad5b6cedf3bddfb44f8e",
           "title": "Artificial Analysis Intelligence Index v4.2",
           "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-05T00:04:14Z"
         }
       ],
@@ -1660,35 +1638,104 @@
       "score": 9570
     },
     {
-      "story_id": "story_a4ca6138",
-      "title": "OpenRouter 上的 GPT-6 Astra",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "primary_url": "https://openrouter.ai/openai/gpt-6-astra",
-      "source_count": 2,
+      "story_id": "story_ef7ac181",
+      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+      "url": "https://news.ycombinator.com/item?id=49575143",
+      "primary_url": "https://news.ycombinator.com/item?id=49575143",
+      "source_count": 1,
       "source_names": [
-        "openrouter.ai",
-        "Hacker News (黑客新闻)"
+        "hackernews"
       ],
       "sources": [
         {
-          "id": "e09384b824f805a4b429fd03de75627d5b4b085a",
-          "title": "OpenRouter 上的 GPT-6 Astra",
-          "url": "https://openrouter.ai/openai/gpt-6-astra",
-          "source": "openrouter.ai",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T00:47:17.607000Z"
+          "id": "0093c1b64757a889a88bd1ac074ff0d2fb7d2297",
+          "title": "LLMs as a Cognitive Virus",
+          "url": "https://news.ycombinator.com/item?id=49580164",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T22:04:22.750000Z"
         },
         {
-          "id": "df024b869b604f7154a9b7ea2eaf17c93dc582ea",
+          "id": "c9e4f6d73606ef6d010eff9270a6561036a746d7",
+          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "url": "https://news.ycombinator.com/item?id=49575143",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T15:04:19.146000Z"
+        },
+        {
+          "id": "1c6f0994b9cf2505e32c8445a56f698be8d4bece",
+          "title": "AI handles incidents, engineers lose touch with their systems",
+          "url": "https://news.ycombinator.com/item?id=49574167",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T08:54:00.421000Z"
+        },
+        {
+          "id": "cdf723d245a48d3b23b1834a77155cce2b59bec0",
+          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+          "url": "https://news.ycombinator.com/item?id=49572875",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T05:53:18.568000Z"
+        },
+        {
+          "id": "d9d042840c7eb5f93caeb9dd9ffe59655cce2d4b",
+          "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "url": "https://news.ycombinator.com/item?id=49571465",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T00:40:44.711000Z"
+        },
+        {
+          "id": "a1dd5414863b60f9543950c185e54478a6ceacab",
+          "title": "Show HN: Moadim.io – A scheduler for agents",
+          "url": "https://news.ycombinator.com/item?id=49571537",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T00:40:44.711000Z"
+        },
+        {
+          "id": "eecea32b1707ef76075660e5124aff2ee71cf8e4",
+          "title": "“Next-token predictor” is the wrong mental model for LLMs",
+          "url": "https://news.ycombinator.com/item?id=49567310",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T00:40:44.711000Z"
+        },
+        {
+          "id": "db7ccd3f93a12c5daa69e28f8e01750e918adb93",
           "title": "GPT-6 Astra on OpenRouter",
-          "url": "https://openrouter.ai/openai/gpt-6-astra",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-04T21:39:19Z"
+          "url": "https://news.ycombinator.com/item?id=49570545",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-04T22:40:31.671000Z"
         }
       ],
-      "item_count": 2,
-      "score": 9570
+      "item_count": 8,
+      "score": 7
+    },
+    {
+      "story_id": "story_0834a1ce",
+      "title": "The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)",
+      "url": "https://www.techmeme.com/260905/p13",
+      "primary_url": "https://www.techmeme.com/260905/p13",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "78f1ccca2317fdb2d11104e33223deea5b7ed6d6",
+          "title": "The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)",
+          "url": "https://www.techmeme.com/260905/p13",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:50:47Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_20dc0b47",
@@ -1751,6 +1798,50 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-05T19:49:28Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_aa68d795",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+      "primary_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "a8d6dfdc52c2abef26c8d0afe7b00cda39deea9f",
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+          "source": "TechCrunch",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T19:35:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_6b2d1dcb",
+      "title": "Show HN: Claude Skill – Interns must review (your agent's design choices)",
+      "url": "https://github.com/alpbahadur/interns-review-plugin",
+      "primary_url": "https://github.com/alpbahadur/interns-review-plugin",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "cf28768c7b1d0a0de9c6a002f6a7bcb06f808b0b",
+          "title": "Show HN: Claude Skill – Interns must review (your agent's design choices)",
+          "url": "https://github.com/alpbahadur/interns-review-plugin",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-05T19:27:47Z"
         }
       ],
       "item_count": 1,
@@ -1996,76 +2087,6 @@
         }
       ],
       "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_ef7ac181",
-      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-      "url": "https://news.ycombinator.com/item?id=49575143",
-      "primary_url": "https://news.ycombinator.com/item?id=49575143",
-      "source_count": 1,
-      "source_names": [
-        "hackernews"
-      ],
-      "sources": [
-        {
-          "id": "c9e4f6d73606ef6d010eff9270a6561036a746d7",
-          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-          "url": "https://news.ycombinator.com/item?id=49575143",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T15:04:19.146000Z"
-        },
-        {
-          "id": "1c6f0994b9cf2505e32c8445a56f698be8d4bece",
-          "title": "AI handles incidents, engineers lose touch with their systems",
-          "url": "https://news.ycombinator.com/item?id=49574167",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T08:54:00.421000Z"
-        },
-        {
-          "id": "cdf723d245a48d3b23b1834a77155cce2b59bec0",
-          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "url": "https://news.ycombinator.com/item?id=49572875",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T05:53:18.568000Z"
-        },
-        {
-          "id": "d9d042840c7eb5f93caeb9dd9ffe59655cce2d4b",
-          "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-          "url": "https://news.ycombinator.com/item?id=49571465",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T00:40:44.711000Z"
-        },
-        {
-          "id": "a1dd5414863b60f9543950c185e54478a6ceacab",
-          "title": "Show HN: Moadim.io – A scheduler for agents",
-          "url": "https://news.ycombinator.com/item?id=49571537",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T00:40:44.711000Z"
-        },
-        {
-          "id": "eecea32b1707ef76075660e5124aff2ee71cf8e4",
-          "title": "“Next-token predictor” is the wrong mental model for LLMs",
-          "url": "https://news.ycombinator.com/item?id=49567310",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T00:40:44.711000Z"
-        },
-        {
-          "id": "db7ccd3f93a12c5daa69e28f8e01750e918adb93",
-          "title": "GPT-6 Astra on OpenRouter",
-          "url": "https://news.ycombinator.com/item?id=49570545",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T22:40:31.671000Z"
-        }
-      ],
-      "item_count": 7,
       "score": 7
     },
     {
@@ -2361,15 +2382,15 @@
       "primary_url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "79a6cb78a015305e0e8ccf2581b5b1e5ca0412b1",
+          "id": "9b1a7d551a5ff71890d1a1ba7fb794ba5b37325e",
           "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
           "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-05T10:32:09Z"
         }
       ],
@@ -2911,15 +2932,15 @@
       "primary_url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "748bc783fe1d8d241d54850ac827cb178f6dc52d",
+          "id": "b2500612f963e9d9a5c45c5e7b9357c40edcf23b",
           "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
           "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-05T03:38:56Z"
         }
       ],
@@ -2987,6 +3008,28 @@
           "source": "HN Algolia · AI 24h",
           "site_id": "hackernews",
           "published_at": "2026-09-05T01:17:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a4ca6138",
+      "title": "OpenRouter 上的 GPT-6 Astra",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "primary_url": "https://openrouter.ai/openai/gpt-6-astra",
+      "source_count": 1,
+      "source_names": [
+        "openrouter.ai"
+      ],
+      "sources": [
+        {
+          "id": "e09384b824f805a4b429fd03de75627d5b4b085a",
+          "title": "OpenRouter 上的 GPT-6 Astra",
+          "url": "https://openrouter.ai/openai/gpt-6-astra",
+          "source": "openrouter.ai",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T00:47:17.607000Z"
         }
       ],
       "item_count": 1,
@@ -3207,94 +3250,6 @@
           "source": "HN Algolia · AI 24h",
           "site_id": "hackernews",
           "published_at": "2026-09-04T22:52:14Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_54f57189",
-      "title": "California AG Rob Bonta is investigating OpenAI over the Hugging Face hack in July, after more than a dozen states joined Alabama in its investigation (Chase DiFeliciantonio/Politico)",
-      "url": "https://www.techmeme.com/260904/p30",
-      "primary_url": "https://www.techmeme.com/260904/p30",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "a05239bc6f13d296b5c7e54446ec1847161e3eb4",
-          "title": "California AG Rob Bonta is investigating OpenAI over the Hugging Face hack in July, after more than a dozen states joined Alabama in its investigation (Chase DiFeliciantonio/Politico)",
-          "url": "https://www.techmeme.com/260904/p30",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T21:55:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4ea4896b",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-      "primary_url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "1a7a2588f2da17df4d212a87022e33baced45eda",
-          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T21:12:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e258c5cc",
-      "title": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-      "url": "https://www.techmeme.com/260904/p29",
-      "primary_url": "https://www.techmeme.com/260904/p29",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "baf17f37331c6ef17eb6f007c741b0a303d9f839",
-          "title": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-          "url": "https://www.techmeme.com/260904/p29",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T21:10:01Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_01960e52",
-      "title": "Apple Planning AI Home Security Camera and Service for 2027",
-      "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027",
-      "primary_url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027",
-      "source_count": 1,
-      "source_names": [
-        "Mac Rumors"
-      ],
-      "sources": [
-        {
-          "id": "00545d4c405360882bf5f1e7e13b56da81286294",
-          "title": "Apple Planning AI Home Security Camera and Service for 2027",
-          "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027",
-          "source": "Mac Rumors",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T21:05:45Z"
         }
       ],
       "item_count": 1,
