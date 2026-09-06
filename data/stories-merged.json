@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T20:19:51.408602Z",
+  "generated_at": "2026-09-06T21:20:35.508610Z",
   "window_hours": 24,
-  "total_stories": 106,
+  "total_stories": 111,
   "stories": [
     {
       "story_id": "story_2b36e6db",
@@ -11,7 +11,7 @@
       "source_count": 2,
       "source_names": [
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -23,11 +23,11 @@
           "published_at": "2026-09-06T08:00:00Z"
         },
         {
-          "id": "0799e5d3a85065759ca6d5774d9940ede2f9dd47",
+          "id": "16cd7c2c31702130f91ae681c5f0361456eb1505",
           "title": "Research acceleration: The view inside OpenAI",
           "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T15:08:44Z"
         }
       ],
@@ -209,6 +209,28 @@
       ],
       "item_count": 1,
       "score": 9820
+    },
+    {
+      "story_id": "story_ab165529",
+      "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+      "primary_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "ddc24b0de5aecf1f66a3d0ed61d44382fe395e4b",
+          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-06T20:47:37Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
     },
     {
       "story_id": "story_7b52a82e",
@@ -901,6 +923,86 @@
       "score": 9720
     },
     {
+      "story_id": "story_c0eeb1f9",
+      "title": "OpenAI: We monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "0a941a1961d8acb99621a69a466de79a90802697",
+          "title": "We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-06T16:37:55Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9580
+    },
+    {
+      "story_id": "story_2905b2c1",
+      "title": "我对人工智能的看法",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "source_count": 3,
+      "source_names": [
+        "beza1e1.tuxen.de",
+        "Hacker News · 24h最热",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
+          "title": "我对人工智能的看法",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "beza1e1.tuxen.de",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T16:12:11.446000Z"
+        },
+        {
+          "id": "2702175e96021b1ab424f51a5850c37637c74000",
+          "title": "How I feel about AI",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T15:00:19Z"
+        },
+        {
+          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
+          "title": "I Feel about AI",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T15:00:19Z"
+        }
+      ],
+      "item_count": 3,
+      "score": 9580
+    },
+    {
       "story_id": "story_bd3c3040",
       "title": "Running a personal AI agent on an old Android phone instead of a server",
       "url": "https://news.ycombinator.com/item?id=49517567",
@@ -1043,84 +1145,6 @@
       "score": 9570
     },
     {
-      "story_id": "story_c0eeb1f9",
-      "title": "OpenAI: We monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "4fac2b44125836ca1e6e6107f95e4029241ac24f",
-          "title": "We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9570
-    },
-    {
-      "story_id": "story_2905b2c1",
-      "title": "我对人工智能的看法",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "source_count": 2,
-      "source_names": [
-        "beza1e1.tuxen.de",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
-        },
-        {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "How I feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        },
-        {
-          "id": "2300ddc4e461dd778457ae57228687be3f672744",
-          "title": "I Feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9570
-    },
-    {
       "story_id": "story_4435d37c",
       "title": "人工智能关机——保持人性",
       "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
@@ -1128,7 +1152,7 @@
       "source_count": 2,
       "source_names": [
         "keepitfree.ai",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1140,11 +1164,11 @@
           "published_at": "2026-09-06T15:26:17.429000Z"
         },
         {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
+          "id": "278cc6afca0b99a712745da288303508181ee01f",
           "title": "A/I shuts down – Stay human",
           "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-06T14:34:34Z"
         }
       ],
@@ -1190,7 +1214,7 @@
       "source_count": 2,
       "source_names": [
         "openai.robocurve.org",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1202,16 +1226,104 @@
           "published_at": "2026-09-06T04:56:10.649000Z"
         },
         {
-          "id": "2cb5943154d4f0ac1742ffdf7c5c7c5001a628eb",
+          "id": "11c242abc23cebdcce3261b11e77fba0139ddbb4",
           "title": "GPT-6 Astra on robot arms",
           "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-06T01:52:45Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_613ce422",
+      "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+      "url": "https://github.com/mmeyerlein/meclaw",
+      "primary_url": "https://github.com/mmeyerlein/meclaw",
+      "source_count": 1,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "sources": [
+        {
+          "id": "93bb7d420560c6bc9cfa03f600f69e46f5f33ce5",
+          "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+          "url": "https://github.com/mmeyerlein/meclaw",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-06T20:07:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d0bfa839",
+      "title": "Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade (Valida Pau/The Information)",
+      "url": "https://www.techmeme.com/260906/p7",
+      "primary_url": "https://www.techmeme.com/260906/p7",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "f22239f742be1030264a4320fb686f7be86dd43a",
+          "title": "Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade (Valida Pau/The Information)",
+          "url": "https://www.techmeme.com/260906/p7",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T19:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_a3524fd5",
+      "title": "OpenAI says it reached its goal of creating an automated research intern",
+      "url": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern",
+      "primary_url": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern",
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "sources": [
+        {
+          "id": "af21454237c6d538e2fcf8ce7b485b194d623060",
+          "title": "OpenAI says it reached its goal of creating an automated research intern",
+          "url": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern",
+          "source": "Engadget",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T19:26:52Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_55a9fbb4",
+      "title": "OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences'",
+      "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
+      "source_count": 1,
+      "source_names": [
+        "Business Insider"
+      ],
+      "sources": [
+        {
+          "id": "a736d65ad0abfb3632e17e44fa2588d3372a6572",
+          "title": "OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences'",
+          "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
+          "source": "Business Insider",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T19:26:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_be6563f4",
@@ -1230,6 +1342,28 @@
           "source": "Daring Fireball",
           "site_id": "techurls",
           "published_at": "2026-09-06T19:06:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_47dccffe",
+      "title": "OpenAI says it hit its \"automated research intern\" goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens (OpenAI)",
+      "url": "https://www.techmeme.com/260906/p6",
+      "primary_url": "https://www.techmeme.com/260906/p6",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "46f6171b62522888f9f13c155631eac74280dbcc",
+          "title": "OpenAI says it hit its \"automated research intern\" goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens (OpenAI)",
+          "url": "https://www.techmeme.com/260906/p6",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T19:00:01Z"
         }
       ],
       "item_count": 1,
@@ -1792,15 +1926,15 @@
       "primary_url": "https://github.com/pigeonlabsHQ/pigeon",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "55dab66e7dfa6d5ff3018054e5fbdf35cdee57d3",
+          "id": "76846b2f8d854bcfb5936bf671fb55c6f1d3e44b",
           "title": "Pigeon, a signed Pass for what a sub-agent may do",
           "url": "https://github.com/pigeonlabsHQ/pigeon",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-06T10:47:19Z"
         }
       ],
@@ -2342,15 +2476,15 @@
       "primary_url": "https://github.com/okf-memory/okf-agent-memory",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "7169d8ff80c698e3e571469b77e94308d5fd557b",
+          "id": "c062a2e88ba46358d824a63e526a5aa688ad9ae5",
           "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
           "url": "https://github.com/okf-memory/okf-agent-memory",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-05T22:15:52Z"
         }
       ],
@@ -2474,38 +2608,16 @@
       "primary_url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "2059ab3cadc6a6872dc9edc9fe88f397196c0c54",
+          "id": "a00187d1fa1c3376864e6d90c5fc032e0fdf99db",
           "title": "How AI is breaking the British state",
           "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-05T21:05:35Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_0834a1ce",
-      "title": "The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)",
-      "url": "https://www.techmeme.com/260905/p13",
-      "primary_url": "https://www.techmeme.com/260905/p13",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "78f1ccca2317fdb2d11104e33223deea5b7ed6d6",
-          "title": "The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)",
-          "url": "https://www.techmeme.com/260905/p13",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T20:50:47Z"
         }
       ],
       "item_count": 1,
