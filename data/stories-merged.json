@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T21:20:35.508610Z",
+  "generated_at": "2026-09-06T22:20:28.769933Z",
   "window_hours": 24,
-  "total_stories": 111,
+  "total_stories": 108,
   "stories": [
     {
       "story_id": "story_2b36e6db",
@@ -11,7 +11,7 @@
       "source_count": 2,
       "source_names": [
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "Hacker News (黑客新闻)"
+        "OpenAI News"
       ],
       "sources": [
         {
@@ -23,12 +23,12 @@
           "published_at": "2026-09-06T08:00:00Z"
         },
         {
-          "id": "16cd7c2c31702130f91ae681c5f0361456eb1505",
+          "id": "a577b95089ed60d5a56f735101c26fac59c59e92",
           "title": "Research acceleration: The view inside OpenAI",
           "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-06T15:08:44Z"
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-06T08:00:00Z"
         }
       ],
       "item_count": 2,
@@ -73,28 +73,6 @@
           "source": "IT之家（RSS）",
           "site_id": "aihot",
           "published_at": "2026-09-06T06:46:16Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9920
-    },
-    {
-      "story_id": "story_72c926bd",
-      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-      "url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "primary_url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "sources": [
-        {
-          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://x.com/testingcatalog/status/2096350628054176240",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
         }
       ],
       "item_count": 1,
@@ -212,7 +190,7 @@
     },
     {
       "story_id": "story_ab165529",
-      "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
       "primary_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
       "source_count": 1,
@@ -220,6 +198,14 @@
         "TechCrunch"
       ],
       "sources": [
+        {
+          "id": "02d9dae0b31276f524df592808eebc41bbb93888",
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-06T20:47:37Z"
+        },
         {
           "id": "ddc24b0de5aecf1f66a3d0ed61d44382fe395e4b",
           "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
@@ -229,7 +215,7 @@
           "published_at": "2026-09-06T20:47:37Z"
         }
       ],
-      "item_count": 1,
+      "item_count": 2,
       "score": 9720
     },
     {
@@ -963,46 +949,6 @@
       "score": 9580
     },
     {
-      "story_id": "story_2905b2c1",
-      "title": "我对人工智能的看法",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "source_count": 3,
-      "source_names": [
-        "beza1e1.tuxen.de",
-        "Hacker News · 24h最热",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
-        },
-        {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "How I feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        },
-        {
-          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
-          "title": "I Feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T15:00:19Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
       "story_id": "story_bd3c3040",
       "title": "Running a personal AI agent on an old Android phone instead of a server",
       "url": "https://news.ycombinator.com/item?id=49517567",
@@ -1121,7 +1067,7 @@
       "source_count": 2,
       "source_names": [
         "openai.com",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1133,15 +1079,54 @@
           "published_at": "2026-09-06T18:33:46.745000Z"
         },
         {
-          "id": "ccf79e17c723cade588aed5a17db7cd1cb416cde",
+          "id": "074d96b5c7a75645e5d9c5adab02e940438eef4b",
           "title": "An Alien Mind",
           "url": "https://openai.com/index/an-alien-mind",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-06T16:27:05Z"
         }
       ],
       "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_2905b2c1",
+      "title": "我对人工智能的看法",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "source_count": 2,
+      "source_names": [
+        "beza1e1.tuxen.de",
+        "Hacker News · 24h最热"
+      ],
+      "sources": [
+        {
+          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
+          "title": "我对人工智能的看法",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "beza1e1.tuxen.de",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T16:12:11.446000Z"
+        },
+        {
+          "id": "2702175e96021b1ab424f51a5850c37637c74000",
+          "title": "How I feel about AI",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T15:00:19Z"
+        },
+        {
+          "id": "2300ddc4e461dd778457ae57228687be3f672744",
+          "title": "I Feel about AI",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T15:00:19Z"
+        }
+      ],
+      "item_count": 3,
       "score": 9570
     },
     {
@@ -1183,7 +1168,7 @@
       "source_count": 2,
       "source_names": [
         "www.ben-evans.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1195,11 +1180,11 @@
           "published_at": "2026-09-06T14:22:15.057000Z"
         },
         {
-          "id": "76ba457e09973ac9f9d2633d5f022bb5fbe4f9a9",
+          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
           "title": "AI, Tools and Transformation",
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-06T02:12:46Z"
         }
       ],
@@ -1214,7 +1199,7 @@
       "source_count": 2,
       "source_names": [
         "openai.robocurve.org",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1226,16 +1211,82 @@
           "published_at": "2026-09-06T04:56:10.649000Z"
         },
         {
-          "id": "11c242abc23cebdcce3261b11e77fba0139ddbb4",
+          "id": "2cb5943154d4f0ac1742ffdf7c5c7c5001a628eb",
           "title": "GPT-6 Astra on robot arms",
           "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T01:52:45Z"
         }
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_fe269885",
+      "title": "Meta AI Has a Native Mac App Now, and It Seems Decent",
+      "url": "https://daringfireball.net/linked/2026/09/06/meta-ai-mac-app",
+      "primary_url": "https://daringfireball.net/linked/2026/09/06/meta-ai-mac-app",
+      "source_count": 1,
+      "source_names": [
+        "Daring Fireball"
+      ],
+      "sources": [
+        {
+          "id": "74d8a54134550ec09608cc1cabe7b8f6522b7d18",
+          "title": "Meta AI Has a Native Mac App Now, and It Seems Decent",
+          "url": "https://daringfireball.net/linked/2026/09/06/meta-ai-mac-app",
+          "source": "Daring Fireball",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T20:44:27Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_73df422d",
+      "title": "OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace (OpenAI)",
+      "url": "https://www.techmeme.com/260906/p8",
+      "primary_url": "https://www.techmeme.com/260906/p8",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "a58d3d258bbda4389ec04b193ac3d4867877056f",
+          "title": "OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace (OpenAI)",
+          "url": "https://www.techmeme.com/260906/p8",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T20:25:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_e94e5679",
+      "title": "Authors say publishers want a cut of Anthropic’s payout, the NYT reports",
+      "url": "https://thenextweb.com/news/anthropic-settlement-authors-publishers-payout-split",
+      "primary_url": "https://thenextweb.com/news/anthropic-settlement-authors-publishers-payout-split",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "f411d5574952c3eec5e8d7d3bfd2fda8bfab40cb",
+          "title": "Authors say publishers want a cut of Anthropic’s payout, the NYT reports",
+          "url": "https://thenextweb.com/news/anthropic-settlement-authors-publishers-payout-split",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T20:20:06Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_613ce422",
@@ -1926,15 +1977,15 @@
       "primary_url": "https://github.com/pigeonlabsHQ/pigeon",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "76846b2f8d854bcfb5936bf671fb55c6f1d3e44b",
+          "id": "55dab66e7dfa6d5ff3018054e5fbdf35cdee57d3",
           "title": "Pigeon, a signed Pass for what a sub-agent may do",
           "url": "https://github.com/pigeonlabsHQ/pigeon",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T10:47:19Z"
         }
       ],
@@ -2508,116 +2559,6 @@
           "source": "TechRadar",
           "site_id": "techurls",
           "published_at": "2026-09-05T22:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_5fc3518f",
-      "title": "Get InstaHeadshots AI headshots for $60",
-      "url": "https://mashable.com/tech/sept-5-instaheadshots-ai-headshot-generator-premium-plan",
-      "primary_url": "https://mashable.com/tech/sept-5-instaheadshots-ai-headshot-generator-premium-plan",
-      "source_count": 1,
-      "source_names": [
-        "Mashable"
-      ],
-      "sources": [
-        {
-          "id": "a2078d5964f86240c926ae9bdf00bddc34ca4443",
-          "title": "Get InstaHeadshots AI headshots for $60",
-          "url": "https://mashable.com/tech/sept-5-instaheadshots-ai-headshot-generator-premium-plan",
-          "source": "Mashable",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_4f508ec9",
-      "title": "America's two largest school districts impose AI moratoriums",
-      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
-      "primary_url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "c46c4730621034b7751ac0cf57c7c030201f890e",
-          "title": "America's two largest school districts impose AI moratoriums",
-          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-05T21:43:22Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_70e4d724",
-      "title": "Danny Boyle confirms AI was used to generate animals like mice, and bring old photographs to life in his upcoming movie 'Ink'",
-      "url": "https://www.reddit.com/r/movies/comments/1w8df96/danny_boyle_confirms_ai_was_used_to_generate",
-      "primary_url": "https://www.reddit.com/r/movies/comments/1w8df96/danny_boyle_confirms_ai_was_used_to_generate",
-      "source_count": 1,
-      "source_names": [
-        "Reddit (热门)"
-      ],
-      "sources": [
-        {
-          "id": "46ffadb7cf62d279d994ddeaa7892e0b2362fd63",
-          "title": "Danny Boyle confirms AI was used to generate animals like mice, and bring old photographs to life in his upcoming movie 'Ink'",
-          "url": "https://www.reddit.com/r/movies/comments/1w8df96/danny_boyle_confirms_ai_was_used_to_generate",
-          "source": "Reddit (热门)",
-          "site_id": "iris",
-          "published_at": "2026-09-05T21:41:32Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_f1058f05",
-      "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
-      "url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue",
-      "primary_url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue",
-      "source_count": 1,
-      "source_names": [
-        "Engadget"
-      ],
-      "sources": [
-        {
-          "id": "c9dc885edebdcc035f88c2a0bd0a77bb524a2a52",
-          "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
-          "url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue",
-          "source": "Engadget",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T21:17:18Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_15c164fd",
-      "title": "How AI is breaking the British state",
-      "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-      "primary_url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "a00187d1fa1c3376864e6d90c5fc032e0fdf99db",
-          "title": "How AI is breaking the British state",
-          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T21:05:35Z"
         }
       ],
       "item_count": 1,
