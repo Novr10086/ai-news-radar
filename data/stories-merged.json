@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T22:20:28.769933Z",
+  "generated_at": "2026-09-06T23:19:20.937726Z",
   "window_hours": 24,
-  "total_stories": 108,
+  "total_stories": 110,
   "stories": [
     {
       "story_id": "story_2b36e6db",
@@ -10,24 +10,24 @@
       "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "source_count": 2,
       "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "OpenAI News"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "sources": [
+        {
+          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-06T08:00:00Z"
+        },
         {
           "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
           "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
           "url": "https://openai.com/index/research-acceleration-view-inside-openai",
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "site_id": "aihot",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
-        {
-          "id": "a577b95089ed60d5a56f735101c26fac59c59e92",
-          "title": "Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
           "published_at": "2026-09-06T08:00:00Z"
         }
       ],
@@ -77,6 +77,28 @@
       ],
       "item_count": 1,
       "score": 9920
+    },
+    {
+      "story_id": "story_6fa51ad6",
+      "title": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high. If you were using high reasoning efforts with Sol and were happy, I suggest you m...",
+      "url": "https://x.com/thsottiaux/status/2096688770523467947",
+      "primary_url": "https://x.com/thsottiaux/status/2096688770523467947",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux"
+      ],
+      "sources": [
+        {
+          "id": "12953d2f19928568ee9ee29b26abf5509c876ed0",
+          "title": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high. If you were using high reasoning efforts with Sol and were happy, I suggest you m...",
+          "url": "https://x.com/thsottiaux/status/2096688770523467947",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-06T19:55:32Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
     },
     {
       "story_id": "story_50a3225f",
@@ -189,6 +211,50 @@
       "score": 9820
     },
     {
+      "story_id": "story_f8db5992",
+      "title": "“Cheating and explaining the answer [to your child] are closer than you’d think.” Here’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked ab...",
+      "url": "https://x.com/petergyang/status/2096612718098911590",
+      "primary_url": "https://x.com/petergyang/status/2096612718098911590",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Peter Yang"
+      ],
+      "sources": [
+        {
+          "id": "e1492bcfcd86bc555a4bcb96edba42d08ef0e094",
+          "title": "“Cheating and explaining the answer [to your child] are closer than you’d think.” Here’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked ab...",
+          "url": "https://x.com/petergyang/status/2096612718098911590",
+          "source": "Follow Builders · X · Peter Yang",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-06T14:53:19Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
+      "story_id": "story_c31d145d",
+      "title": "One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast...",
+      "url": "https://x.com/steipete/status/2096400749869830325",
+      "primary_url": "https://x.com/steipete/status/2096400749869830325",
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Peter Steinberger"
+      ],
+      "sources": [
+        {
+          "id": "21b03dda2b352602fb753e56efdbdb63fca45b91",
+          "title": "One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast...",
+          "url": "https://x.com/steipete/status/2096400749869830325",
+          "source": "Follow Builders · X · Peter Steinberger",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-06T00:51:02Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9820
+    },
+    {
       "story_id": "story_ab165529",
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
@@ -257,28 +323,6 @@
           "source": "France24 English",
           "site_id": "opmlrss",
           "published_at": "2026-09-06T13:50:03Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_ecd3c9b2",
-      "title": "My Brief Summer Fling With Siri AI",
-      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai",
-      "primary_url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai",
-      "source_count": 1,
-      "source_names": [
-        "Wired"
-      ],
-      "sources": [
-        {
-          "id": "797b7a94dabb6fd602758b4e9ce6bc421f9ff643",
-          "title": "My Brief Summer Fling With Siri AI",
-          "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai",
-          "source": "Wired",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T10:30:00Z"
         }
       ],
       "item_count": 1,
@@ -887,68 +931,6 @@
       "score": 9720
     },
     {
-      "story_id": "story_12d8deac",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
-      "primary_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "3a026fdd4d90293ab69f0c5afc257d2b330c02c3",
-          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
-          "source": "TechCrunch",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-05T22:49:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c0eeb1f9",
-      "title": "OpenAI: We monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "0a941a1961d8acb99621a69a466de79a90802697",
-          "title": "We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9580
-    },
-    {
       "story_id": "story_bd3c3040",
       "title": "Running a personal AI agent on an old Android phone instead of a server",
       "url": "https://news.ycombinator.com/item?id=49517567",
@@ -1046,17 +1028,9 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-09-05T23:04:18.713000Z"
-        },
-        {
-          "id": "0093c1b64757a889a88bd1ac074ff0d2fb7d2297",
-          "title": "LLMs as a Cognitive Virus",
-          "url": "https://news.ycombinator.com/item?id=49580164",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T22:04:22.750000Z"
         }
       ],
-      "item_count": 12,
+      "item_count": 11,
       "score": 9570
     },
     {
@@ -1067,7 +1041,7 @@
       "source_count": 2,
       "source_names": [
         "openai.com",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1079,15 +1053,54 @@
           "published_at": "2026-09-06T18:33:46.745000Z"
         },
         {
-          "id": "074d96b5c7a75645e5d9c5adab02e940438eef4b",
+          "id": "ccf79e17c723cade588aed5a17db7cd1cb416cde",
           "title": "An Alien Mind",
           "url": "https://openai.com/index/an-alien-mind",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T16:27:05Z"
         }
       ],
       "item_count": 2,
+      "score": 9570
+    },
+    {
+      "story_id": "story_c0eeb1f9",
+      "title": "OpenAI: We monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "4fac2b44125836ca1e6e6107f95e4029241ac24f",
+          "title": "We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
+        }
+      ],
+      "item_count": 3,
       "score": 9570
     },
     {
@@ -1168,7 +1181,7 @@
       "source_count": 2,
       "source_names": [
         "www.ben-evans.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -1180,11 +1193,11 @@
           "published_at": "2026-09-06T14:22:15.057000Z"
         },
         {
-          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
+          "id": "76ba457e09973ac9f9d2633d5f022bb5fbe4f9a9",
           "title": "AI, Tools and Transformation",
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-06T02:12:46Z"
         }
       ],
@@ -1221,6 +1234,72 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_ff47e058",
+      "title": "OpenAI’s chief scientist says no lab should keep scaling at maximum speed",
+      "url": "https://thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute",
+      "primary_url": "https://thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "3ad72d49511eefd3504cb1be4af604db200a8715",
+          "title": "OpenAI’s chief scientist says no lab should keep scaling at maximum speed",
+          "url": "https://thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T22:14:05Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2106f9b7",
+      "title": "An AI hacking trick is now being used to split the word ‘funding’ in spam",
+      "url": "https://thenextweb.com/news/ascii-smuggling-phishing-microsoft-unicode-tag-characters",
+      "primary_url": "https://thenextweb.com/news/ascii-smuggling-phishing-microsoft-unicode-tag-characters",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "264bad282acdf63abe755b9986e6cf2fd65d5381",
+          "title": "An AI hacking trick is now being used to split the word ‘funding’ in spam",
+          "url": "https://thenextweb.com/news/ascii-smuggling-phishing-microsoft-unicode-tag-characters",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T21:54:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_d4e7f7ed",
+      "title": "Anthropic will reportedly list days before the US midterm elections",
+      "url": "https://thenextweb.com/news/anthropic-ipo-mid-october-midterms-15bn-credit-facility",
+      "primary_url": "https://thenextweb.com/news/anthropic-ipo-mid-october-midterms-15bn-credit-facility",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "37877a916f8158c2da5c527c469df55cdde6cfca",
+          "title": "Anthropic will reportedly list days before the US midterm elections",
+          "url": "https://thenextweb.com/news/anthropic-ipo-mid-october-midterms-15bn-credit-facility",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T21:42:16Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_fe269885",
@@ -2037,6 +2116,28 @@
       "score": 7
     },
     {
+      "story_id": "story_ecd3c9b2",
+      "title": "My Brief Summer Fling With Siri AI",
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai",
+      "primary_url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai",
+      "source_count": 1,
+      "source_names": [
+        "Wired"
+      ],
+      "sources": [
+        {
+          "id": "80f1529267ad4ef9684142be0a8ce8a38fa6a488",
+          "title": "My Brief Summer Fling With Siri AI",
+          "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai",
+          "source": "Wired",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T10:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_b2b87316",
       "title": "‘Resilience comes from designing for disconnection, not assuming more connectivity’: The future of battlefield AI systems lies in both coordination and local capability",
       "url": "https://www.techradar.com/pro/resilience-comes-from-designing-for-disconnection-not-assuming-more-connectivity-the-future-of-battlefield-ai-systems-lies-in-both-coordination-and-local-capability",
@@ -2493,72 +2594,6 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-06T00:00:15Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_20dc0b47",
-      "title": "大语言模型作为认知病毒",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "primary_url": "https://arxiv.org/abs/2609.03344",
-      "source_count": 1,
-      "source_names": [
-        "arxiv.org"
-      ],
-      "sources": [
-        {
-          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-          "title": "大语言模型作为认知病毒",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.965000Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_9a7632de",
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "primary_url": "https://github.com/okf-memory/okf-agent-memory",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "c062a2e88ba46358d824a63e526a5aa688ad9ae5",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "url": "https://github.com/okf-memory/okf-agent-memory",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-05T22:15:52Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_52da3a58",
-      "title": "This little robot window-cleaner is the best labor-saving device I've ever used, and it's going cheap at Amazon right now",
-      "url": "https://www.techradar.com/seasonal-sales/this-little-robot-window-cleaner-is-the-best-labor-saving-device-ive-ever-used-and-its-going-cheap-at-amazon-right-now",
-      "primary_url": "https://www.techradar.com/seasonal-sales/this-little-robot-window-cleaner-is-the-best-labor-saving-device-ive-ever-used-and-its-going-cheap-at-amazon-right-now",
-      "source_count": 1,
-      "source_names": [
-        "TechRadar"
-      ],
-      "sources": [
-        {
-          "id": "93f152c86047cefd58caea1bd517995a38e6723d",
-          "title": "This little robot window-cleaner is the best labor-saving device I've ever used, and it's going cheap at Amazon right now",
-          "url": "https://www.techradar.com/seasonal-sales/this-little-robot-window-cleaner-is-the-best-labor-saving-device-ive-ever-used-and-its-going-cheap-at-amazon-right-now",
-          "source": "TechRadar",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T22:15:00Z"
         }
       ],
       "item_count": 1,
