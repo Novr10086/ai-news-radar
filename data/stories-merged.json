@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T16:21:21.583039Z",
+  "generated_at": "2026-09-06T17:19:55.928314Z",
   "window_hours": 24,
-  "total_stories": 110,
+  "total_stories": 111,
   "stories": [
     {
       "story_id": "story_2b36e6db",
@@ -11,7 +11,7 @@
       "source_count": 2,
       "source_names": [
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "OpenAI News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -23,12 +23,12 @@
           "published_at": "2026-09-06T08:00:00Z"
         },
         {
-          "id": "a577b95089ed60d5a56f735101c26fac59c59e92",
+          "id": "16cd7c2c31702130f91ae681c5f0361456eb1505",
           "title": "Research acceleration: The view inside OpenAI",
           "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T08:00:00Z"
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-06T15:08:44Z"
         }
       ],
       "item_count": 2,
@@ -280,6 +280,28 @@
           "source": "澎湃新闻",
           "site_id": "opmlrss",
           "published_at": "2026-09-06T09:08:20Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_08d94691",
+      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+      "url": "https://openai.com/index/an-alien-mind",
+      "primary_url": "https://openai.com/index/an-alien-mind",
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "sources": [
+        {
+          "id": "e949dbc394fadc1382919e037bbef0420f2533a4",
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "OpenAI News",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-06T09:00:00Z"
         }
       ],
       "item_count": 1,
@@ -866,6 +888,50 @@
       "score": 9720
     },
     {
+      "story_id": "story_12d8deac",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "primary_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "3a026fdd4d90293ab69f0c5afc257d2b330c02c3",
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T22:49:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_aa68d795",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+      "primary_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "sources": [
+        {
+          "id": "ac8a8cca6278a1c9ca594393fd516caffcd893e3",
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+          "source": "TechCrunch",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T19:35:24Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_c49449af",
       "title": "Shoppers interact with Hong Kong’s first robot shopkeeper",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss",
@@ -888,26 +954,43 @@
       "score": 9720
     },
     {
-      "story_id": "story_565ce012",
-      "title": "算力出海是终局，token出海是愿景，模型出海是路径",
-      "url": "https://www.huxiu.com/article/4888866.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4888866.html?f=rss",
-      "source_count": 1,
+      "story_id": "story_2905b2c1",
+      "title": "我对人工智能的看法",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "source_count": 2,
       "source_names": [
-        "虎嗅"
+        "beza1e1.tuxen.de",
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
-          "id": "07c68c46bc7ff40309fa26b61f5878bb84b22817",
-          "title": "算力出海是终局，token出海是愿景，模型出海是路径",
-          "url": "https://www.huxiu.com/article/4888866.html?f=rss",
-          "source": "虎嗅",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-05T16:12:27Z"
+          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
+          "title": "我对人工智能的看法",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "beza1e1.tuxen.de",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T16:12:11.446000Z"
+        },
+        {
+          "id": "2702175e96021b1ab424f51a5850c37637c74000",
+          "title": "How I feel about AI",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T15:00:19Z"
+        },
+        {
+          "id": "2300ddc4e461dd778457ae57228687be3f672744",
+          "title": "I Feel about AI",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T15:00:19Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 3,
+      "score": 9570
     },
     {
       "story_id": "story_4435d37c",
@@ -917,7 +1000,7 @@
       "source_count": 2,
       "source_names": [
         "keepitfree.ai",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -929,11 +1012,11 @@
           "published_at": "2026-09-06T15:26:17.429000Z"
         },
         {
-          "id": "278cc6afca0b99a712745da288303508181ee01f",
+          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
           "title": "A/I shuts down – Stay human",
           "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T14:34:34Z"
         }
       ],
@@ -948,7 +1031,7 @@
       "source_count": 2,
       "source_names": [
         "www.ben-evans.com",
-        "Hacker News · 24h最热"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -960,11 +1043,11 @@
           "published_at": "2026-09-06T14:22:15.057000Z"
         },
         {
-          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
+          "id": "76ba457e09973ac9f9d2633d5f022bb5fbe4f9a9",
           "title": "AI, Tools and Transformation",
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-06T02:12:46Z"
         }
       ],
@@ -979,7 +1062,7 @@
       "source_count": 2,
       "source_names": [
         "openai.robocurve.org",
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
@@ -991,11 +1074,11 @@
           "published_at": "2026-09-06T04:56:10.649000Z"
         },
         {
-          "id": "2cb5943154d4f0ac1742ffdf7c5c7c5001a628eb",
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
           "title": "GPT-6 Astra on robot arms",
           "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-06T01:52:45Z"
         }
       ],
@@ -1010,7 +1093,7 @@
       "source_count": 2,
       "source_names": [
         "arxiv.org",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1022,11 +1105,11 @@
           "published_at": "2026-09-05T22:19:59.965000Z"
         },
         {
-          "id": "ba7f752a88a436339b1d58b6f63d691f5816e129",
+          "id": "99c4961efc5cdd3dafa4e1dd11aff6b0b36c2ea1",
           "title": "LLMs as a Cognitive Virus",
           "url": "https://arxiv.org/abs/2609.03344",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-05T20:02:35Z"
         }
       ],
@@ -1034,22 +1117,22 @@
       "score": 9570
     },
     {
-      "story_id": "story_2f3538db",
-      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-      "url": "https://juejin.cn/post/7681733440023183414",
-      "primary_url": "https://juejin.cn/post/7681733440023183414",
+      "story_id": "story_d64e79c9",
+      "title": "四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程",
+      "url": "https://juejin.cn/post/7681521114217791528",
+      "primary_url": "https://juejin.cn/post/7681521114217791528",
       "source_count": 1,
       "source_names": [
         "juejin"
       ],
       "sources": [
         {
-          "id": "27f5cc9b878c71be98b8608abd6ffc3d352ee6ca",
-          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-          "url": "https://juejin.cn/post/7681733440023183414",
+          "id": "a1bae92b333588afdc9bf97f00cd7a8528f6b22d",
+          "title": "四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程",
+          "url": "https://juejin.cn/post/7681521114217791528",
           "source": "juejin",
           "site_id": "newsnow",
-          "published_at": "2026-09-06T16:05:01.144000Z"
+          "published_at": "2026-09-06T17:03:58.350000Z"
         }
       ],
       "item_count": 1,
@@ -1065,6 +1148,14 @@
         "hackernews"
       ],
       "sources": [
+        {
+          "id": "64d5243b62263771a4447effedb8cd9b0d4ddf39",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49587217",
+          "source": "hackernews",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T16:45:45.254000Z"
+        },
         {
           "id": "d3f4bc54508035ec62867afe8ff87234da64b54a",
           "title": "I Feel about AI",
@@ -1130,7 +1221,73 @@
           "published_at": "2026-09-05T22:04:22.750000Z"
         }
       ],
-      "item_count": 8,
+      "item_count": 9,
+      "score": 7
+    },
+    {
+      "story_id": "story_a0e313be",
+      "title": "Space and Time: where AI agents meet verifiable onchain data",
+      "url": "https://thenextweb.com/news/space-and-time-ai-agents-onchain-data-proof-sql",
+      "primary_url": "https://thenextweb.com/news/space-and-time-ai-agents-onchain-data-proof-sql",
+      "source_count": 1,
+      "source_names": [
+        "The Next Web"
+      ],
+      "sources": [
+        {
+          "id": "2842cd5ed00da2ea6540f9e3d5f09325b20204d8",
+          "title": "Space and Time: where AI agents meet verifiable onchain data",
+          "url": "https://thenextweb.com/news/space-and-time-ai-agents-onchain-data-proof-sql",
+          "source": "The Next Web",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:07:55Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_2f3538db",
+      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+      "url": "https://juejin.cn/post/7681733440023183414",
+      "primary_url": "https://juejin.cn/post/7681733440023183414",
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "sources": [
+        {
+          "id": "27f5cc9b878c71be98b8608abd6ffc3d352ee6ca",
+          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "url": "https://juejin.cn/post/7681733440023183414",
+          "source": "juejin",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T16:05:01.144000Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_fb464dbd",
+      "title": "OpenAI, Microsoft face copyright lawsuit from local newspapers",
+      "url": "https://mashable.com/tech/openai-microsoft-face-another-publishing-lawsuit",
+      "primary_url": "https://mashable.com/tech/openai-microsoft-face-another-publishing-lawsuit",
+      "source_count": 1,
+      "source_names": [
+        "Mashable"
+      ],
+      "sources": [
+        {
+          "id": "7389b6e1a3035f6e7c2c03f4eac036a81260e704",
+          "title": "OpenAI, Microsoft face copyright lawsuit from local newspapers",
+          "url": "https://mashable.com/tech/openai-microsoft-face-another-publishing-lawsuit",
+          "source": "Mashable",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T15:37:52Z"
+        }
+      ],
+      "item_count": 1,
       "score": 7
     },
     {
@@ -1172,28 +1329,6 @@
           "source": "Android Police",
           "site_id": "techurls",
           "published_at": "2026-09-06T15:15:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_2905b2c1",
-      "title": "I Feel about AI",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "2300ddc4e461dd778457ae57228687be3f672744",
-          "title": "I Feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
         }
       ],
       "item_count": 1,
@@ -1536,15 +1671,15 @@
       "primary_url": "https://github.com/pigeonlabsHQ/pigeon",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "76846b2f8d854bcfb5936bf671fb55c6f1d3e44b",
+          "id": "55dab66e7dfa6d5ff3018054e5fbdf35cdee57d3",
           "title": "Pigeon, a signed Pass for what a sub-agent may do",
           "url": "https://github.com/pigeonlabsHQ/pigeon",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T10:47:19Z"
         }
       ],
@@ -2058,43 +2193,21 @@
       "score": 7
     },
     {
-      "story_id": "story_12d8deac",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
-      "primary_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "745212f1f662cdb85e843abd4042c40278a1d164",
-          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T22:49:55Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
       "story_id": "story_9a7632de",
       "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "primary_url": "https://github.com/okf-memory/okf-agent-memory",
       "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "7e41b1d11b7f65fe40fe9912fa6520bbe59c2d8f",
+          "id": "c062a2e88ba46358d824a63e526a5aa688ad9ae5",
           "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
           "url": "https://github.com/okf-memory/okf-agent-memory",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-05T22:15:52Z"
         }
       ],
@@ -2218,15 +2331,15 @@
       "primary_url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "c5c078869cf01859228a2a9ebb9ac9a74aaec9b6",
+          "id": "2059ab3cadc6a6872dc9edc9fe88f397196c0c54",
           "title": "How AI is breaking the British state",
           "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-05T21:05:35Z"
         }
       ],
@@ -2294,28 +2407,6 @@
           "source": "The Next Web",
           "site_id": "techurls",
           "published_at": "2026-09-05T19:49:28Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_aa68d795",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
-      "primary_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "sources": [
-        {
-          "id": "a8d6dfdc52c2abef26c8d0afe7b00cda39deea9f",
-          "title": "Hikers rescued after using Google Gemini for planning",
-          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
-          "source": "TechCrunch",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T19:35:24Z"
         }
       ],
       "item_count": 1,
@@ -2492,50 +2583,6 @@
           "source": "Android Police",
           "site_id": "techurls",
           "published_at": "2026-09-05T17:30:10Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_55ab4ebe",
-      "title": "Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)",
-      "url": "https://www.techmeme.com/260905/p9",
-      "primary_url": "https://www.techmeme.com/260905/p9",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "63b72a3c0feeb7ac0043d2ce296503c2ca5806bd",
-          "title": "Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)",
-          "url": "https://www.techmeme.com/260905/p9",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T16:45:02Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_e4e43711",
-      "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails",
-      "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-      "primary_url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-      "source_count": 1,
-      "source_names": [
-        "Business Insider"
-      ],
-      "sources": [
-        {
-          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
-          "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails",
-          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
-          "source": "Business Insider",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T16:09:59Z"
         }
       ],
       "item_count": 1,
