@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-09-06T23:19:20.937726Z",
+  "generated_at": "2026-09-07T00:22:14.238222Z",
   "window_hours": 24,
   "total_stories": 110,
   "stories": [
+    {
+      "story_id": "story_08d94691",
+      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+      "url": "https://openai.com/index/an-alien-mind",
+      "primary_url": "https://openai.com/index/an-alien-mind",
+      "source_count": 2,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com"
+      ],
+      "sources": [
+        {
+          "id": "f94f7b5e1736ec0dee7ec7e9760600d5018ad8f1",
+          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T09:00:00Z"
+        },
+        {
+          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
+          "title": "《外星人的思维》",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T18:33:46.745000Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 10070
+    },
     {
       "story_id": "story_2b36e6db",
       "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
@@ -10,18 +41,10 @@
       "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Hacker News"
       ],
       "sources": [
-        {
-          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
-          "title": "Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "OpenAI News",
-          "site_id": "official_ai",
-          "published_at": "2026-09-06T08:00:00Z"
-        },
         {
           "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
           "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
@@ -29,6 +52,14 @@
           "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "site_id": "aihot",
           "published_at": "2026-09-06T08:00:00Z"
+        },
+        {
+          "id": "b9d69e00d699bee0f5d6e9aacd8e71da8f4006a8",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T15:08:44Z"
         }
       ],
       "item_count": 2,
@@ -255,8 +286,104 @@
       "score": 9820
     },
     {
+      "story_id": "story_ae6c3dea",
+      "title": "Edge AI Daily 早报（9月7日）",
+      "url": "https://www.tmtpost.com/8130271.html",
+      "primary_url": "https://www.tmtpost.com/8130271.html",
+      "source_count": 1,
+      "source_names": [
+        "钛媒体 TMTPost"
+      ],
+      "sources": [
+        {
+          "id": "74aea3d653100729d4159da26742732cf81bcbb4",
+          "title": "Edge AI Daily 早报（9月7日）",
+          "url": "https://www.tmtpost.com/8130271.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T00:02:05Z"
+        },
+        {
+          "id": "14ef8cb88bfe3b5170499aed40b59285cedac41a",
+          "title": "Edge AI Daily 早报（9月6日）",
+          "url": "https://www.tmtpost.com/8129870.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-06T00:30:39Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9720
+    },
+    {
+      "story_id": "story_3bc4956d",
+      "title": "我什么停掉了投入半年的AI社交产品",
+      "url": "https://www.huxiu.com/article/4888985.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4888985.html?f=rss",
+      "source_count": 1,
+      "source_names": [
+        "虎嗅"
+      ],
+      "sources": [
+        {
+          "id": "69e6225890ecdf0a9f16e869f8860e84530e22b1",
+          "title": "我什么停掉了投入半年的AI社交产品",
+          "url": "https://www.huxiu.com/article/4888985.html?f=rss",
+          "source": "虎嗅",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-06T23:54:26Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_c6a48e7f",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "dd1798f1bb5949fc3609535aaa7b054245b6bc8e",
+          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+          "source": "The Verge",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-06T23:36:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
+      "story_id": "story_aa13ece5",
+      "title": "对话｜陈颂瑛谈AI：做“有灵魂的艺术家”，还是单纯的“指令输入员”",
+      "url": "https://m.thepaper.cn/detail/34019066",
+      "primary_url": "https://m.thepaper.cn/detail/34019066",
+      "source_count": 1,
+      "source_names": [
+        "澎湃新闻"
+      ],
+      "sources": [
+        {
+          "id": "4806a1219d584ac8ad7c53e9d48e2bed4868847b",
+          "title": "对话｜陈颂瑛谈AI：做“有灵魂的艺术家”，还是单纯的“指令输入员”",
+          "url": "https://m.thepaper.cn/detail/34019066",
+          "source": "澎湃新闻",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-06T23:20:25Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9720
+    },
+    {
       "story_id": "story_ab165529",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
       "primary_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
       "source_count": 1,
@@ -265,19 +392,19 @@
       ],
       "sources": [
         {
-          "id": "02d9dae0b31276f524df592808eebc41bbb93888",
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "id": "ddc24b0de5aecf1f66a3d0ed61d44382fe395e4b",
+          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
           "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
           "source": "TechCrunch",
           "site_id": "opmlrss",
           "published_at": "2026-09-06T20:47:37Z"
         },
         {
-          "id": "ddc24b0de5aecf1f66a3d0ed61d44382fe395e4b",
-          "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+          "id": "4a6c5d6a9f5c64a64621142812dc7e404403b6e4",
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
           "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
           "source": "TechCrunch",
-          "site_id": "opmlrss",
+          "site_id": "techurls",
           "published_at": "2026-09-06T20:47:37Z"
         }
       ],
@@ -843,92 +970,84 @@
       "score": 9720
     },
     {
-      "story_id": "story_7ba16d4c",
-      "title": "Edge AI Daily 早报（9月6日）",
-      "url": "https://www.tmtpost.com/8129870.html",
-      "primary_url": "https://www.tmtpost.com/8129870.html",
-      "source_count": 1,
+      "story_id": "story_c0eeb1f9",
+      "title": "OpenAI: We monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "source_count": 3,
       "source_names": [
-        "钛媒体 TMTPost"
+        "Hacker News · 24h最热",
+        "Hacker News",
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "14ef8cb88bfe3b5170499aed40b59285cedac41a",
-          "title": "Edge AI Daily 早报（9月6日）",
-          "url": "https://www.tmtpost.com/8129870.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T00:30:39Z"
+          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+          "title": "OpenAI: We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:37:55Z"
+        },
+        {
+          "id": "0a941a1961d8acb99621a69a466de79a90802697",
+          "title": "We monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
+          "published_at": "2026-09-06T16:37:55Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 3,
+      "score": 9580
     },
     {
-      "story_id": "story_e18d94f8",
-      "title": "AIGC长剧《后西游记》登上卫视，媒体：意义远不止于一次技术演示",
-      "url": "https://m.thepaper.cn/detail/34018577",
-      "primary_url": "https://m.thepaper.cn/detail/34018577",
-      "source_count": 1,
+      "story_id": "story_2905b2c1",
+      "title": "我对人工智能的看法",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "source_count": 3,
       "source_names": [
-        "澎湃新闻"
+        "beza1e1.tuxen.de",
+        "Hacker News · 24h最热",
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "c010241d66895b941ee0ad3c5c05a543b2858428",
-          "title": "AIGC长剧《后西游记》登上卫视，媒体：意义远不止于一次技术演示",
-          "url": "https://m.thepaper.cn/detail/34018577",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-05T23:50:30Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_caaa4f85",
-      "title": "亚太媒体高端论坛｜当AI跑得比全球治理更快，人类如何驾驭技术？",
-      "url": "https://m.thepaper.cn/detail/34016760",
-      "primary_url": "https://m.thepaper.cn/detail/34016760",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
+          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
+          "title": "我对人工智能的看法",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "beza1e1.tuxen.de",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T16:12:11.446000Z"
+        },
         {
-          "id": "6a710144b8f20553ae3a7c5fad4ee376c1314d8b",
-          "title": "亚太媒体高端论坛｜当AI跑得比全球治理更快，人类如何驾驭技术？",
-          "url": "https://m.thepaper.cn/detail/34016760",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-05T23:31:11Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_12cd5070",
-      "title": "对话｜七年“手搓”最佳动画片，杨宝文：《牛来》是意外，不担心AI",
-      "url": "https://m.thepaper.cn/detail/34015470",
-      "primary_url": "https://m.thepaper.cn/detail/34015470",
-      "source_count": 1,
-      "source_names": [
-        "澎湃新闻"
-      ],
-      "sources": [
+          "id": "2702175e96021b1ab424f51a5850c37637c74000",
+          "title": "How I feel about AI",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T15:00:19Z"
+        },
         {
-          "id": "ee9a6810ec590d3b4f805dfc27b9c9abf083e87e",
-          "title": "对话｜七年“手搓”最佳动画片，杨宝文：《牛来》是意外，不担心AI",
-          "url": "https://m.thepaper.cn/detail/34015470",
-          "source": "澎湃新闻",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-05T23:31:11Z"
+          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
+          "title": "I Feel about AI",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T15:00:19Z"
         }
       ],
-      "item_count": 1,
-      "score": 9720
+      "item_count": 3,
+      "score": 9580
     },
     {
       "story_id": "story_bd3c3040",
@@ -1004,142 +1123,9 @@
           "source": "hackernews",
           "site_id": "newsnow",
           "published_at": "2026-09-06T02:54:24.905000Z"
-        },
-        {
-          "id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
-          "title": "How AI is breaking the British state",
-          "url": "https://news.ycombinator.com/item?id=49580687",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T23:56:39.671000Z"
-        },
-        {
-          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49581240",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T23:56:39.671000Z"
-        },
-        {
-          "id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
-          "title": "America's two largest school districts impose AI moratoriums",
-          "url": "https://news.ycombinator.com/item?id=49580980",
-          "source": "hackernews",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T23:04:18.713000Z"
         }
       ],
-      "item_count": 11,
-      "score": 9570
-    },
-    {
-      "story_id": "story_08d94691",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-      "url": "https://openai.com/index/an-alien-mind",
-      "primary_url": "https://openai.com/index/an-alien-mind",
-      "source_count": 2,
-      "source_names": [
-        "openai.com",
-        "Hacker News (黑客新闻)"
-      ],
-      "sources": [
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
-        },
-        {
-          "id": "ccf79e17c723cade588aed5a17db7cd1cb416cde",
-          "title": "An Alien Mind",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
-          "published_at": "2026-09-06T16:27:05Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 9570
-    },
-    {
-      "story_id": "story_c0eeb1f9",
-      "title": "OpenAI: We monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News"
-      ],
-      "sources": [
-        {
-          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-          "title": "How we monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "4fac2b44125836ca1e6e6107f95e4029241ac24f",
-          "title": "We monitor internal coding agents for misalignment",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "item_count": 3,
-      "score": 9570
-    },
-    {
-      "story_id": "story_2905b2c1",
-      "title": "我对人工智能的看法",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "source_count": 2,
-      "source_names": [
-        "beza1e1.tuxen.de",
-        "Hacker News · 24h最热"
-      ],
-      "sources": [
-        {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
-        },
-        {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "How I feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        },
-        {
-          "id": "2300ddc4e461dd778457ae57228687be3f672744",
-          "title": "I Feel about AI",
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        }
-      ],
-      "item_count": 3,
+      "item_count": 8,
       "score": 9570
     },
     {
@@ -1181,7 +1167,7 @@
       "source_count": 2,
       "source_names": [
         "www.ben-evans.com",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "sources": [
         {
@@ -1193,11 +1179,11 @@
           "published_at": "2026-09-06T14:22:15.057000Z"
         },
         {
-          "id": "76ba457e09973ac9f9d2633d5f022bb5fbe4f9a9",
+          "id": "e6a117139ac9a62ac1e51219b4f29fc25f582df3",
           "title": "AI, Tools and Transformation",
           "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "site_id": "zeli",
           "published_at": "2026-09-06T02:12:46Z"
         }
       ],
@@ -1234,6 +1220,28 @@
       ],
       "item_count": 2,
       "score": 9570
+    },
+    {
+      "story_id": "story_0226969d",
+      "title": "Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy (Simon Foy/Financial Times)",
+      "url": "https://www.techmeme.com/260906/p9",
+      "primary_url": "https://www.techmeme.com/260906/p9",
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "sources": [
+        {
+          "id": "48fa5a5c1c6a66df55e91d7a7aa7807242b9b0e0",
+          "title": "Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy (Simon Foy/Financial Times)",
+          "url": "https://www.techmeme.com/260906/p9",
+          "source": "Techmeme",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T23:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
     },
     {
       "story_id": "story_ff47e058",
@@ -1374,15 +1382,15 @@
       "primary_url": "https://github.com/mmeyerlein/meclaw",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "93bb7d420560c6bc9cfa03f600f69e46f5f33ce5",
+          "id": "4f220ec7b59d404b5811927bfb782f55f21ebc9d",
           "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
           "url": "https://github.com/mmeyerlein/meclaw",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-06T20:07:16Z"
         }
       ],
@@ -2572,28 +2580,6 @@
           "source": "Slashdot",
           "site_id": "techurls",
           "published_at": "2026-09-06T01:34:00Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 7
-    },
-    {
-      "story_id": "story_3285a0d0",
-      "title": "As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals (Morgan Meaker/Bloomberg)",
-      "url": "https://www.techmeme.com/260905/p14",
-      "primary_url": "https://www.techmeme.com/260905/p14",
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "sources": [
-        {
-          "id": "b77933e0df7cf1543e5dbcadd9185c2d652e5d8e",
-          "title": "As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals (Morgan Meaker/Bloomberg)",
-          "url": "https://www.techmeme.com/260905/p14",
-          "source": "Techmeme",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T00:00:15Z"
         }
       ],
       "item_count": 1,
