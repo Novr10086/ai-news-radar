@@ -1,50 +1,28 @@
 {
-  "generated_at": "2026-09-07T00:22:14.238222Z",
+  "generated_at": "2026-09-07T01:19:56.900272Z",
   "window_hours": 24,
-  "total_stories": 110,
+  "total_stories": 113,
   "stories": [
-    {
-      "story_id": "story_08d94691",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-      "url": "https://openai.com/index/an-alien-mind",
-      "primary_url": "https://openai.com/index/an-alien-mind",
-      "source_count": 2,
-      "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "sources": [
-        {
-          "id": "f94f7b5e1736ec0dee7ec7e9760600d5018ad8f1",
-          "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
-        }
-      ],
-      "item_count": 2,
-      "score": 10070
-    },
     {
       "story_id": "story_2b36e6db",
       "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "OpenAI News",
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "Hacker News"
+        "openai.com"
       ],
       "sources": [
+        {
+          "id": "e711677302e79fe09b249f41566da77e02ec6e8d",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI News",
+          "site_id": "official_ai",
+          "published_at": "2026-09-06T08:00:00Z"
+        },
         {
           "id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
           "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
@@ -54,16 +32,60 @@
           "published_at": "2026-09-06T08:00:00Z"
         },
         {
-          "id": "b9d69e00d699bee0f5d6e9aacd8e71da8f4006a8",
-          "title": "Research acceleration: The view inside OpenAI",
+          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
+          "title": "研究加速：OpenAI内部视角",
           "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "Hacker News",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T15:08:44Z"
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T00:17:54.906000Z"
         }
       ],
-      "item_count": 2,
-      "score": 10070
+      "item_count": 3,
+      "score": 10080
+    },
+    {
+      "story_id": "story_336357ab",
+      "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
+      "url": "https://www.aibase.com/news/30851",
+      "primary_url": "https://www.aibase.com/news/30851",
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "sources": [
+        {
+          "id": "08211d91740c3dc8d3b27f4e720f29302ed01534",
+          "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
+          "url": "https://www.aibase.com/news/30851",
+          "source": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T01:04:37.969310Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
+    },
+    {
+      "story_id": "story_b741dac5",
+      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "sources": [
+        {
+          "id": "729838c26f16f5e3ce99956ad2b014addedd79e2",
+          "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+          "source": "公众号：数字生命卡兹克",
+          "site_id": "aihot",
+          "published_at": "2026-09-07T00:08:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 9920
     },
     {
       "story_id": "story_815672ed",
@@ -264,26 +286,26 @@
       "score": 9820
     },
     {
-      "story_id": "story_c31d145d",
-      "title": "One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast...",
-      "url": "https://x.com/steipete/status/2096400749869830325",
-      "primary_url": "https://x.com/steipete/status/2096400749869830325",
+      "story_id": "story_24ca3a28",
+      "title": "谁在捧红AI超创",
+      "url": "https://www.tmtpost.com/8129834.html",
+      "primary_url": "https://www.tmtpost.com/8129834.html",
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Peter Steinberger"
+        "钛媒体 TMTPost"
       ],
       "sources": [
         {
-          "id": "21b03dda2b352602fb753e56efdbdb63fca45b91",
-          "title": "One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast...",
-          "url": "https://x.com/steipete/status/2096400749869830325",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-06T00:51:02Z"
+          "id": "5378b381cc2741a7cc0886e39e89acf4d0007ade",
+          "title": "谁在捧红AI超创",
+          "url": "https://www.tmtpost.com/8129834.html",
+          "source": "钛媒体 TMTPost",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-07T00:58:30Z"
         }
       ],
       "item_count": 1,
-      "score": 9820
+      "score": 9720
     },
     {
       "story_id": "story_ae6c3dea",
@@ -302,17 +324,9 @@
           "source": "钛媒体 TMTPost",
           "site_id": "opmlrss",
           "published_at": "2026-09-07T00:02:05Z"
-        },
-        {
-          "id": "14ef8cb88bfe3b5170499aed40b59285cedac41a",
-          "title": "Edge AI Daily 早报（9月6日）",
-          "url": "https://www.tmtpost.com/8129870.html",
-          "source": "钛媒体 TMTPost",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T00:30:39Z"
         }
       ],
-      "item_count": 2,
+      "item_count": 1,
       "score": 9720
     },
     {
@@ -332,28 +346,6 @@
           "source": "虎嗅",
           "site_id": "opmlrss",
           "published_at": "2026-09-06T23:54:26Z"
-        }
-      ],
-      "item_count": 1,
-      "score": 9720
-    },
-    {
-      "story_id": "story_c6a48e7f",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source_count": 1,
-      "source_names": [
-        "The Verge"
-      ],
-      "sources": [
-        {
-          "id": "dd1798f1bb5949fc3609535aaa7b054245b6bc8e",
-          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-          "source": "The Verge",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-06T23:36:04Z"
         }
       ],
       "item_count": 1,
@@ -1129,6 +1121,37 @@
       "score": 9570
     },
     {
+      "story_id": "story_08d94691",
+      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
+      "url": "https://openai.com/index/an-alien-mind",
+      "primary_url": "https://openai.com/index/an-alien-mind",
+      "source_count": 2,
+      "source_names": [
+        "openai.com",
+        "Hacker News"
+      ],
+      "sources": [
+        {
+          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
+          "title": "《外星人的思维》",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "openai.com",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T18:33:46.745000Z"
+        },
+        {
+          "id": "074d96b5c7a75645e5d9c5adab02e940438eef4b",
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "Hacker News",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T16:27:05Z"
+        }
+      ],
+      "item_count": 2,
+      "score": 9570
+    },
+    {
       "story_id": "story_4435d37c",
       "title": "人工智能关机——保持人性",
       "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
@@ -1136,7 +1159,7 @@
       "source_count": 2,
       "source_names": [
         "keepitfree.ai",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
@@ -1148,11 +1171,11 @@
           "published_at": "2026-09-06T15:26:17.429000Z"
         },
         {
-          "id": "278cc6afca0b99a712745da288303508181ee01f",
+          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
           "title": "A/I shuts down – Stay human",
           "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T14:34:34Z"
         }
       ],
@@ -1222,6 +1245,28 @@
       "score": 9570
     },
     {
+      "story_id": "story_c6a48e7f",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source_count": 1,
+      "source_names": [
+        "The Verge"
+      ],
+      "sources": [
+        {
+          "id": "6b9631cc69bb14598508758714dd03d3f6a951e3",
+          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+          "source": "The Verge",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T23:36:04Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
       "story_id": "story_0226969d",
       "title": "Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy (Simon Foy/Financial Times)",
       "url": "https://www.techmeme.com/260906/p9",
@@ -1238,6 +1283,28 @@
           "source": "Techmeme",
           "site_id": "techurls",
           "published_at": "2026-09-06T23:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "score": 7
+    },
+    {
+      "story_id": "story_f595f661",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3 Scored 99.95% with Provider Adapter Harness",
+      "url": "https://arcprize.org/results/openai-gpt-6-astra",
+      "primary_url": "https://arcprize.org/results/openai-gpt-6-astra",
+      "source_count": 1,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "sources": [
+        {
+          "id": "0a9d8a808bb5361d54f249022d56772a91895c23",
+          "title": "OpenAI's GPT-6 Astra on ARC-AGI-3 Scored 99.95% with Provider Adapter Harness",
+          "url": "https://arcprize.org/results/openai-gpt-6-astra",
+          "source": "HN Algolia · AI 24h",
+          "site_id": "hackernews",
+          "published_at": "2026-09-06T22:55:10Z"
         }
       ],
       "item_count": 1,
@@ -1382,15 +1449,15 @@
       "primary_url": "https://github.com/mmeyerlein/meclaw",
       "source_count": 1,
       "source_names": [
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "sources": [
         {
-          "id": "4f220ec7b59d404b5811927bfb782f55f21ebc9d",
+          "id": "93bb7d420560c6bc9cfa03f600f69e46f5f33ce5",
           "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
           "url": "https://github.com/mmeyerlein/meclaw",
-          "source": "Hacker News",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "site_id": "iris",
           "published_at": "2026-09-06T20:07:16Z"
         }
       ],
@@ -2064,15 +2131,15 @@
       "primary_url": "https://github.com/pigeonlabsHQ/pigeon",
       "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News"
       ],
       "sources": [
         {
-          "id": "55dab66e7dfa6d5ff3018054e5fbdf35cdee57d3",
+          "id": "76846b2f8d854bcfb5936bf671fb55c6f1d3e44b",
           "title": "Pigeon, a signed Pass for what a sub-agent may do",
           "url": "https://github.com/pigeonlabsHQ/pigeon",
-          "source": "Hacker News (黑客新闻)",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "site_id": "techurls",
           "published_at": "2026-09-06T10:47:19Z"
         }
       ],
